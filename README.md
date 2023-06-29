@@ -6,9 +6,7 @@ Jumpedia is a universal bot, meaning that all jumps stored are static and are on
 A guide on how to use the bot can be found on the pastebin: https://pastebin.com/4CPm8PH2
 
 Features & bugfixes planned already (importance from top down):
-- Database jump adding feature via commands
 - "Missing" command
-- Support for multiple locations, founders, provers & tasers for single jump
 - Fix some remaining data issues and inconsistencies
 - Leaderboard
 - Way to give a list of jumps at once
