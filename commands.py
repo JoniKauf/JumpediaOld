@@ -281,11 +281,17 @@ def _ftp_to_line(ftp: tuple[Iterable[str], Iterable[str], Iterable[str]]):
             return "".join(map(str, lst))
         else:
             return ", ".join(map(str, lst[:-1])) + " & " + str(lst[-1])
-    
-    actions_ordered = "Found", "TASed", "Proven"
+        
+    ACTIONS_ORDERED = "Found", "TASed", "Proven"
+
+    ftp_no_empty = [person_type for person_type in ftp if person_type]
+
+    if all(person_type == ftp_no_empty[0] for person_type in ftp_no_empty):
+        return f"{join_special([person_type for i, person_type in enumerate(ACTIONS_ORDERED) if ftp[i]])} by {join_special(ftp_no_empty[0])}"
+
     parts = []
     
-    for i, action in enumerate(actions_ordered):
+    for i, action in enumerate(ACTIONS_ORDERED):
         if ftp[i]:
             parts.append(f"{action} by {join_special(ftp[i])}")
  
