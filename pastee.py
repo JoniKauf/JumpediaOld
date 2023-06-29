@@ -1,11 +1,16 @@
+"""
+A wrapper module for the pastee API. It is mainly used for the 'list' command.
+"""
+
+
 import requests
 import json
-import keys
+import secret
 import time
 
-KEY = keys.get("PASTEE_KEY")
+KEY = secret.get_key("PASTEE_KEY")
 
-def create(content: str, beforeLink: str):
+def create(content: str, beforeLink: str) -> str:
 
     headers = {
         'Content-Type': 'application/json',
@@ -13,7 +18,7 @@ def create(content: str, beforeLink: str):
     }
     
     data = {
-        'description': 'My test paste',
+        'description': 'A very cool table of Jumpedia information!',
         'sections': [
             {
                 'name': 'Jumpedia results:',
@@ -22,11 +27,9 @@ def create(content: str, beforeLink: str):
         ]
     }
     
-    t = time.time()
     response = requests.post('https://api.paste.ee/v1/pastes', data=json.dumps(data), headers=headers)
-    print("API request -> Elapsed time: {:.3f} seconds".format(time.time() - t))
 
     if response.status_code == 201:
         return f"{beforeLink}\n{response.json()['link']}"
     else:
-        return f"Couldn't access pastee API... (status_code: {response.status_code})"
+        return f"Couldn't access pastee API... (status_code: {response.status_code})\nTry again later!"

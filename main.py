@@ -1,8 +1,15 @@
-import os, keys, discord
-import commands
+"""
+The main module of the bot. This file is responsible for the bot's startup and
+on message response.
+"""
 
-TOKEN = keys.get("DISCORD_TOKEN")
-BOT_CHANNELS_CONTAIN = "jump-command", "jumpedia"
+
+import os, secret, discord, json
+import commands
+from discord import Message
+from io import TextIOWrapper
+
+TOKEN = secret.get_key("DISCORD_TOKEN")
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -14,50 +21,61 @@ except:
     os.system("kill 1")
 
 
-def ping(id):
+def ping(id: int | str) -> str:
     return "<@" + str(id) + ">"
 
 
 @client.event
 async def on_ready():
+    #await client.get_channel(469869606018744340).send("NottNiickk3#5320")
     print('Bot online as {0.user}'.format(client))
-    for guild in client.guilds:
-        for channel in guild.channels:
-            for container in BOT_CHANNELS_CONTAIN:
-                if container in channel.name.lower() and isinstance(channel, discord.TextChannel):
-                    if channel.permissions_for(guild.me).send_messages:
-                        await channel.send("**Jumpedia is back online!**")
+
+    # Write into every channel with at least command permissions
+    with open(commands.CHANNEL_TYPES_FILE) as f:
+        for str_channel_id, type in json.load(f).items():
+            channel = client.get_channel(int(str_channel_id))
+
+            if type > 0 and isinstance(channel, discord.TextChannel):
+                if channel.permissions_for(channel.guild.get_member(client.user.id)).send_messages:
+                    await channel.send("**Jumpedia is back online!**")
+
     await client.wait_until_ready()
 
 
 @client.event
-async def on_message(message):
-
-    async def dcPrint(text):
-        await message.channel.send(text)
+async def on_message(message: Message):
+    async def dcPrint(text=None, file_path=None):
+        if file_path:
+            with open(file_path, "rb") as f:
+                await message.channel.send(text, file=discord.File(f, filename=os.path.basename(file_path)))
+                
+        else:
+            await message.channel.send(text)
 
     # Define some 'constants'
     author = message.author
     username = str(author).split('#')[0]
     msg = str(message.content)
     channel = str(message.channel.name)
-    print(f'{username}: {msg} ({message.guild} -> {channel})')
+    print(f'{author.global_name}: {msg} ({message.guild} -> {channel})')
 
     # Don't react to own messages
     if author == str(client.user):
         return
 
     # Images and pins
-    if msg == '':
-        return
+    if not msg: return
 
     try:
         # Message handling
-        for container in BOT_CHANNELS_CONTAIN:
-            if container in channel:
-                answer = commands.run(msg, author)
-                if (answer):
-                    await dcPrint(answer)
+        answer = commands.run(message)
+        if not answer:
+            return
+        
+        if isinstance(answer, str):
+            await dcPrint(text=answer)
+        elif isinstance(answer, tuple):
+            await dcPrint(text=answer[0], file_path=answer[1])
 
     except Exception as e:
         out = f'An exception (internal bug) has occurred! Please DM {ping(679564566769827841)} if he is not on the server!\nCommand that caused the exception:```{msg}```'
@@ -67,7 +85,7 @@ async def on_message(message):
 
 
 try:
-    client.run(keys.get("DISCORD_TOKEN"))
+    client.run(secret.get_key("DISCORD_TOKEN"))
 #Bot Restarter
 except discord.errors.HTTPException:
     print("\n\n\nBLOCKED BY RATE LIMITS\nRESTARTING NOW\n\n\n")
