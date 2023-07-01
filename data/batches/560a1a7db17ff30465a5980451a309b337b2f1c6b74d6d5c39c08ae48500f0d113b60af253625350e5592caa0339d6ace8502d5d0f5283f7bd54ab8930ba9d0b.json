@@ -1,0 +1,32 @@
+{
+    "name": "Main Quickfix Arena Guard",
+    "hash": "560a1a7db17ff30465a5980451a309b337b2f1c6b74d6d5c39c08ae48500f0d113b60af253625350e5592caa0339d6ace8502d5d0f5283f7bd54ab8930ba9d0b",
+    "created_at": "2023-06-29 13:20:13 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "2023-06-29 13:24:21 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-06-29 13:20:13 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-06-29 13:22:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: arena guard   Location: ['Sand Kingdom']"
+        ],
+        [
+            "2023-06-29 13:23:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "arena guard": {
+            "name": "arena guard",
+            "location": [
+                "Sand Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

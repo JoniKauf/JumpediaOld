@@ -37,7 +37,8 @@ async def on_ready():
 
             if type > 0 and isinstance(channel, discord.TextChannel):
                 if channel.permissions_for(channel.guild.get_member(client.user.id)).send_messages:
-                    await channel.send("**Jumpedia is back online!**")
+                    pass
+                    #await channel.send("**Jumpedia is back online!**")
 
     await client.wait_until_ready()
 
@@ -67,8 +68,11 @@ async def on_message(message: Message):
     if not msg: return
 
     try:
+        # Debugging, only allow #jumpedia-spam channel
+        # if message.channel.id != 1063371102547607552: return
+        
         # Message handling
-        answer = commands.run(message)
+        answer = commands.run(message, client)
         if not answer:
             return
         

@@ -10,7 +10,7 @@ import time
 
 KEY = secret.get_key("PASTEE_KEY")
 
-def create(content: str, beforeLink: str) -> str:
+def create(content: str, beforeLink: str = None) -> str:
 
     headers = {
         'Content-Type': 'application/json',
@@ -30,6 +30,6 @@ def create(content: str, beforeLink: str) -> str:
     response = requests.post('https://api.paste.ee/v1/pastes', data=json.dumps(data), headers=headers)
 
     if response.status_code == 201:
-        return f"{beforeLink}\n{response.json()['link']}"
+        return f"{beforeLink if beforeLink else ''}\n{response.json()['link']}".strip()
     else:
         return f"Couldn't access pastee API... (status_code: {response.status_code})\nTry again later!"

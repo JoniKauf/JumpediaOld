@@ -1,0 +1,32 @@
+{
+    "name": "podoboo punishment quick fix",
+    "hash": "b8f9e3ac62f2472868076d91a1e72aace23075c5bc9d51b8284d2098bb7bc72ed4cfcac29d0e4b92024de20c592a04deb1073afef8c93f77879541243aac731c",
+    "created_at": "2023-07-01 02:39:14 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-07-01 02:46:30 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-01 02:39:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-07-01 02:45:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Podoboo Punishment   Links: ['https://youtu.be/KMdHolLLdTg']"
+        ],
+        [
+            "2023-07-01 02:46:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "podoboo punishment": {
+            "name": "Podoboo Punishment",
+            "links": [
+                "https://youtu.be/KMdHolLLdTg"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,211 @@
+{
+    "name": "Sync",
+    "hash": "0f590bffee0cd2d5fbf7eaa99b66e0fd271aa3f5f3a1c3c58376dde919d6ea64eae8551804171e7053a26f10eef967d5149249e9662fa49bb79d2d6c97ac8912",
+    "created_at": "2023-06-29 12:41:48 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-06-29 13:13:24 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-06-29 12:41:48 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-06-29 12:44:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: skyline"
+        ],
+        [
+            "2023-06-29 12:44:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: mini sky blocks"
+        ],
+        [
+            "2023-06-29 12:44:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: ruined vault"
+        ],
+        [
+            "2023-06-29 12:44:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: the great climb"
+        ],
+        [
+            "2023-06-29 12:44:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: aquaphobia"
+        ],
+        [
+            "2023-06-29 12:44:42 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: capless lava neglector"
+        ],
+        [
+            "2023-06-29 12:44:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: natural building"
+        ],
+        [
+            "2023-06-29 12:45:04 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: danger sign 7.0"
+        ],
+        [
+            "2023-06-29 12:45:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: lunar ascent"
+        ],
+        [
+            "2023-06-29 12:45:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: top step traverse"
+        ],
+        [
+            "2023-06-29 12:45:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: natural fountain"
+        ],
+        [
+            "2023-06-29 12:45:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: uprising goomba"
+        ],
+        [
+            "2023-06-29 12:47:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Egyptian Pole   Links: ['https://youtu.be/nSdMa0FWUjk']"
+        ],
+        [
+            "2023-06-29 12:47:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Animal Crossing   Links: ['https://youtu.be/DOqeyiae3C4']"
+        ],
+        [
+            "2023-06-29 12:48:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Top Step 3.0   Finder: ['JellyfishMario']   Prover: ['JellyfishMario']"
+        ],
+        [
+            "2023-06-29 12:51:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Mark's Lost   Location: ['Lost Kingdom']   Diff: Hell Tier   Finder: ['Jark']   Prover: [\"K'os\"]   Server: Database   Links: ['https://youtu.be/8FOPyCKUbWI']"
+        ],
+        [
+            "2023-06-29 12:53:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poison Perfection   Location: ['Lost Kingdom']   Diff: God Tier   Finder: ['Gone Gamer']   Prover: [\"K'os\"]   Server: Database   Links: ['https://youtu.be/8FOPyCKUbWI']"
+        ],
+        [
+            "2023-06-29 12:53:48 (UTC)",
+            "'JoniKauf' (679564566769827841) lets batch information be forgotten -> Operation: add   Name: true mark's lost"
+        ],
+        [
+            "2023-06-29 12:53:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Mark's Lost   Location: ['Lost Kingdom']   Diff: Hell Tier   Finder: ['Jark']   Prover: [\"K'os\"]   Server: Database   Links: ['https://youtu.be/8FOPyCKUbWI']"
+        ],
+        [
+            "2023-06-29 12:54:26 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: poison perfection"
+        ],
+        [
+            "2023-06-29 12:54:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poison Perfection   Location: ['Lost Kingdom']   Diff: God Tier   Finder: ['Gone Gamer']   Prover: [\"K'os\"]   Server: Database   Links: ['https://youtu.be/YZzzdppJYIk']"
+        ],
+        [
+            "2023-06-29 12:57:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Frosty Traveller   Location: ['Snow Kingdom']   Diff: God Tier   Finder: ['Eaglegamer']   Prover: ['Julius 06']   Server: Database   Extra: ['Only Full Landing is Allowed on this Jump!']   Links: ['https://youtu.be/MamcITJ-yic']"
+        ],
+        [
+            "2023-06-29 12:59:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Psychotic Pylon   Links: ['https://youtu.be/yD-VOYisuMA']"
+        ],
+        [
+            "2023-06-29 13:00:25 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: rem   Name: the great climb"
+        ],
+        [
+            "2023-06-29 13:00:30 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "egyptian pole": {
+            "name": "Egyptian Pole",
+            "links": [
+                "https://youtu.be/nSdMa0FWUjk"
+            ]
+        },
+        "animal crossing": {
+            "name": "Animal Crossing",
+            "links": [
+                "https://youtu.be/DOqeyiae3C4"
+            ]
+        },
+        "top step 3.0": {
+            "name": "Top Step 3.0",
+            "finder": [
+                "JellyfishMario"
+            ],
+            "prover": [
+                "JellyfishMario"
+            ]
+        },
+        "true mark's lost": {
+            "name": "True Mark's Lost",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "Hell Tier",
+            "finder": [
+                "Jark"
+            ],
+            "prover": [
+                "K'os"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/8FOPyCKUbWI"
+            ]
+        },
+        "poison perfection": {
+            "name": "Poison Perfection",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "God Tier",
+            "finder": [
+                "Gone Gamer"
+            ],
+            "prover": [
+                "K'os"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/YZzzdppJYIk"
+            ]
+        },
+        "vault frosty traveller": {
+            "name": "Vault Frosty Traveller",
+            "location": [
+                "Snow Kingdom"
+            ],
+            "diff": "God Tier",
+            "finder": [
+                "Eaglegamer"
+            ],
+            "prover": [
+                "Julius 06"
+            ],
+            "server": "Database",
+            "extra": [
+                "Only Full Landing is Allowed on this Jump!"
+            ],
+            "links": [
+                "https://youtu.be/MamcITJ-yic"
+            ]
+        },
+        "psychotic pylon": {
+            "name": "Psychotic Pylon",
+            "links": [
+                "https://youtu.be/yD-VOYisuMA"
+            ]
+        }
+    },
+    "rem": [
+        "skyline",
+        "mini sky blocks",
+        "ruined vault",
+        "aquaphobia",
+        "capless lava neglector",
+        "natural building",
+        "danger sign 7.0",
+        "lunar ascent",
+        "top step traverse",
+        "natural fountain",
+        "uprising goomba"
+    ]
+}

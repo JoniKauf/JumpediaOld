@@ -6,9 +6,7 @@ Jumpedia is a universal bot, meaning that all jumps stored are static and are on
 A guide on how to use the bot and how to set it up on your server can be found on the pastebin: https://pastebin.com/4CPm8PH2
 
 Features & bugfixes planned already (importance from top down):
-- "Missing" command
 - Fix some remaining data issues and inconsistencies
-- Leaderboard
 - Way to give a list of jumps at once
 - Slash commands
 - More I need to still think about

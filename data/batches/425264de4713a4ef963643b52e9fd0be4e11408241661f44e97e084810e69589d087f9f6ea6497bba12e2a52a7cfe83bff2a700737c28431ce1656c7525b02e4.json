@@ -1,0 +1,35 @@
+{
+    "name": "odyssey",
+    "hash": "425264de4713a4ef963643b52e9fd0be4e11408241661f44e97e084810e69589d087f9f6ea6497bba12e2a52a7cfe83bff2a700737c28431ce1656c7525b02e4",
+    "created_at": "2023-06-30 18:42:40 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-06-30 18:46:10 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-06-30 18:42:40 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-06-30 18:43:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Odyssey Overshoot   Location: ['Odyssey']   Extra: ['This jump is only allowed in kingdoms where the floor next to the Odyssey is completely flat!']"
+        ],
+        [
+            "2023-06-30 18:45:31 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "odyssey overshoot": {
+            "name": "Odyssey Overshoot",
+            "location": [
+                "Odyssey"
+            ],
+            "extra": [
+                "This jump is only allowed in kingdoms where the floor next to the Odyssey is completely flat!"
+            ]
+        }
+    },
+    "rem": []
+}

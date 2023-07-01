@@ -1,0 +1,86 @@
+{
+    "name": "Showcase Batch",
+    "hash": "e4f523a144162ffc31e6a978fd3f199ffd0b7fee2dd10c57c52c9595d8ed6118e07a71c6a7d86f5648ec45b807895d55b89741fd31801dcf62d9bf42ce1a453e",
+    "created_at": "2023-06-29 18:52:26 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "TBD",
+    "status": "nuked",
+    "log": [
+        [
+            "2023-06-29 18:52:26 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-06-29 18:58:50 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's additions -> Name: Very Cool Jump   Location: ['Mushroom Kingdom']   Diff: 7/10   Server: SMO Trickjumping Server   Links: ['https://google.com']"
+        ],
+        [
+            "2023-06-29 18:59:37 (UTC)",
+            "'JoniKauf' (679564566769827841) overwrites jump under batch's additions -> Name: Very Cool Jump   Location: ['Mushroom Kingdom']   Diff: 7/10   Finder: ['jonikauf', 'gummy']   Server: SMO Trickjumping Server   Links: ['https://google.com/']"
+        ],
+        [
+            "2023-06-29 19:02:24 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's edits -> Name: metro impossible   Diff: 7/10"
+        ],
+        [
+            "2023-06-29 19:03:34 (UTC)",
+            "'JoniKauf' (679564566769827841) overwrites jump under batch's edits -> Name: metro impossible"
+        ],
+        [
+            "2023-06-29 19:04:49 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's removals -> Name: hubfbhuref"
+        ],
+        [
+            "2023-06-29 19:06:48 (UTC)",
+            "'JoniKauf' (679564566769827841) lets batch information be forgotten -> Operation: rem   Name: hubfbhuref"
+        ],
+        [
+            "2023-06-29 19:07:45 (UTC)",
+            "'JoniKauf' (679564566769827841) sets status to 'finished'"
+        ],
+        [
+            "2023-06-29 19:08:51 (UTC)",
+            "'JoniKauf' (679564566769827841) sets status to 'unfinished'"
+        ],
+        [
+            "2023-06-29 19:09:00 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's removals -> Name: ujfeujhf"
+        ],
+        [
+            "2023-06-29 19:10:52 (UTC)",
+            "'JoniKauf' (679564566769827841) lets batch information be forgotten -> Operation: rem   Name: ujfeujhf"
+        ],
+        [
+            "2023-06-29 19:11:04 (UTC)",
+            "'JoniKauf' (679564566769827841) sets status to 'finished'"
+        ],
+        [
+            "2023-06-29 19:13:41 (UTC)",
+            "'Gummy' (503581251198779392) NUKES BATCH!!!"
+        ]
+    ],
+    "add": {
+        "very cool jump": {
+            "name": "Very Cool Jump",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "7/10",
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://google.com/"
+            ],
+            "finder": [
+                "jonikauf",
+                "gummy"
+            ]
+        }
+    },
+    "edit": {
+        "metro impossible": {
+            "name": "metro impossible",
+            "extra": []
+        }
+    },
+    "rem": []
+}
