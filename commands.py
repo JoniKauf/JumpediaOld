@@ -53,15 +53,15 @@ ATTRIBUTES_REQUIRED = ('name', 'location', 'diff', 'server', 'links')
 
 # Servers users can enter that mean the same thing (e.g input "main" -> "SMO Trickjump Server")
 USER_SERVERS = (("SMO Trickjumping Server", "Main Trickjumping Server", "Main Trickjump Server", "Main Server"),
-                ("Database", "The Trickjump Database", "Database Server", "DB"),
-                ("Extra Elite Server", "ees"),
-                ("Obscure Server", "os"),
-                ("2P Server", "2s", "2ps"),
-                ("Community Server",),
-                ("Collection Server",),
-                ("Yellow Dram Server", "yds", "ys", "ys"),
-                ("Sky Dram Server", "sds", "sd")
-                )
+                ("Database", "The Trickjump Database", "Database Server", "DB"))
+                #("Extra Elite Server", "ees"),
+                #("Obscure Server", "os"),
+                #("2P Server", "2s", "2ps"),
+                #("Community Server",),
+                #("Collection Server",),
+                #("Yellow Dram Server", "yds", "ys", "ys"),
+                #("Sky Dram Server", "sds", "sd")
+                
 
 
 # Special orders when sorting, instead of just sorting by name
