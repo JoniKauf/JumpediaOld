@@ -657,7 +657,7 @@ PROOF_SET = "Proof successfully set!"
  
 def give(args: tuple[str, ...], author: Member):
     # Remove all empty strings
-    args = tuple(filter(lambda x: x != "", ))
+    args = tuple(filter(lambda x: x != "", args))
 
     owned_file_path = _get_user_jump_data_path(author.id)
 
