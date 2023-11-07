@@ -2566,5 +2566,665 @@
     "true ship to ship": {
         "time_given": "2023-06-29 01:20:48 (UTC)",
         "proof": ""
+    },
+    "luminary gardens": {
+        "time_given": "2023-07-02 11:58:51 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "knucklotec's entrance": {
+        "time_given": "2023-07-02 12:02:00 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "metallic madness": {
+        "time_given": "2023-07-02 12:02:21 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "amphibian aversion": {
+        "time_given": "2023-07-02 12:02:32 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "toad's treehouse": {
+        "time_given": "2023-07-02 12:03:07 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "under construction": {
+        "time_given": "2023-07-02 12:03:18 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "battlefield bound": {
+        "time_given": "2023-07-02 12:04:45 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "shingle summit": {
+        "time_given": "2023-07-02 12:04:55 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "pond blocks": {
+        "time_given": "2023-07-02 12:05:12 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "hole in one": {
+        "time_given": "2023-07-02 12:05:36 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "soup bath": {
+        "time_given": "2023-07-02 12:05:46 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "galactic leap": {
+        "time_given": "2023-07-02 12:05:56 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "north pole": {
+        "time_given": "2023-07-02 12:06:02 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "rocky shell": {
+        "time_given": "2023-07-02 12:07:30 (UTC)",
+        "proof": ""
+    },
+    "peachy peg": {
+        "time_given": "2023-07-02 12:07:47 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "pillar to pillar 2.0": {
+        "time_given": "2023-07-02 12:08:03 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "gatekeeper": {
+        "time_given": "2023-07-02 12:08:12 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "royal intrusion": {
+        "time_given": "2023-07-02 12:08:23 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cutlery cove": {
+        "time_given": "2023-07-02 12:08:37 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "frozen peaks": {
+        "time_given": "2023-07-02 12:14:22 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "frogchamp": {
+        "time_given": "2023-07-02 12:14:37 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "shepherds shortcut": {
+        "time_given": "2023-07-02 12:14:57 (UTC)",
+        "proof": ""
+    },
+    "odyssey oddity": {
+        "time_given": "2023-07-02 12:15:26 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cavern of fears": {
+        "time_given": "2023-07-02 12:15:37 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "prickly piercer": {
+        "time_given": "2023-07-02 12:15:46 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "amiibo outskirts": {
+        "time_given": "2023-07-02 12:16:12 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "metal cap": {
+        "time_given": "2023-07-02 12:16:23 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "lower klepto vault assault": {
+        "time_given": "2023-07-02 12:16:35 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "floral fountain": {
+        "time_given": "2023-07-02 12:16:46 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "archaic ruins": {
+        "time_given": "2023-07-02 12:16:59 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "airvent acceleration": {
+        "time_given": "2023-07-02 12:17:12 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "goombavoid": {
+        "time_given": "2023-07-02 12:17:19 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "ailurophobia": {
+        "time_given": "2023-07-02 12:17:46 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "eagles lunch": {
+        "time_given": "2023-07-02 12:18:10 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "icicle gap": {
+        "time_given": "2023-07-02 12:18:19 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "groundless girders": {
+        "time_given": "2023-07-02 12:18:27 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cascade mard 2.0": {
+        "time_given": "2023-07-02 12:19:41 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "heatwave havoc": {
+        "time_given": "2023-07-02 12:20:33 (UTC)",
+        "proof": ""
+    },
+    "triassic trampoline": {
+        "time_given": "2023-07-02 12:20:47 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "reptile rendezvous": {
+        "time_given": "2023-07-02 12:20:56 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "icicle heist": {
+        "time_given": "2023-07-02 12:21:06 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cliff climber": {
+        "time_given": "2023-07-02 12:21:23 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cafe crusade": {
+        "time_given": "2023-07-02 12:21:32 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "lower sinking step": {
+        "time_given": "2023-07-02 12:21:40 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "arena crossing": {
+        "time_given": "2023-07-02 12:21:46 (UTC)",
+        "proof": ""
+    },
+    "stairway freefall": {
+        "time_given": "2023-07-02 12:21:56 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "wishing well": {
+        "time_given": "2023-07-02 12:22:05 (UTC)",
+        "proof": ""
+    },
+    "antique ashes": {
+        "time_given": "2023-07-02 12:22:54 (UTC)",
+        "proof": ""
+    },
+    "crystal climber": {
+        "time_given": "2023-07-02 12:23:05 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "frozen moon collector": {
+        "time_given": "2023-07-02 12:23:16 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cacti canyon": {
+        "time_given": "2023-07-02 12:23:27 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "reverse ailurophobia": {
+        "time_given": "2023-07-02 12:23:34 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "gourmet rise": {
+        "time_given": "2023-07-02 12:24:32 (UTC)",
+        "proof": ""
+    },
+    "jetstream jolt": {
+        "time_given": "2023-07-02 12:25:05 (UTC)",
+        "proof": ""
+    },
+    "skyscaler": {
+        "time_given": "2023-07-02 12:25:15 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "crumbling ruins": {
+        "time_given": "2023-07-02 12:25:22 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "babbling brook": {
+        "time_given": "2023-07-02 12:25:34 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "veggietales": {
+        "time_given": "2023-07-02 12:25:48 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "pegpoggies": {
+        "time_given": "2023-07-02 12:25:58 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "robotic forest": {
+        "time_given": "2023-07-02 12:26:08 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "shingle shift": {
+        "time_given": "2023-07-02 12:26:18 (UTC)",
+        "proof": ""
+    },
+    "billboard breaker": {
+        "time_given": "2023-07-02 12:26:28 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "permafrost procedure": {
+        "time_given": "2023-07-02 12:26:52 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "pharaohphobia": {
+        "time_given": "2023-07-02 12:27:35 (UTC)",
+        "proof": ""
+    },
+    "rocky ravine": {
+        "time_given": "2023-07-02 12:28:09 (UTC)",
+        "proof": ""
+    },
+    "mesozoic mount": {
+        "time_given": "2023-07-02 12:28:44 (UTC)",
+        "proof": ""
+    },
+    "floral flourish": {
+        "time_given": "2023-07-02 12:30:50 (UTC)",
+        "proof": ""
+    },
+    "uptown funk": {
+        "time_given": "2023-07-02 12:31:01 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "icicle iceland": {
+        "time_given": "2023-07-02 12:31:19 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "city skylines": {
+        "time_given": "2023-07-02 12:31:37 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "empire state escalate": {
+        "time_given": "2023-07-02 12:31:55 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cannon crossing": {
+        "time_given": "2023-07-02 12:32:11 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "flushed rush": {
+        "time_given": "2023-07-02 12:32:34 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "bonkaroni": {
+        "time_given": "2023-07-02 12:33:16 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "lantern lunge": {
+        "time_given": "2023-07-02 12:33:45 (UTC)",
+        "proof": ""
+    },
+    "coconut mall": {
+        "time_given": "2023-07-02 12:34:20 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "archaic ambition": {
+        "time_given": "2023-07-02 12:35:58 (UTC)",
+        "proof": ""
+    },
+    "cloudtop cruise": {
+        "time_given": "2023-07-02 12:36:10 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "glittering gold": {
+        "time_given": "2023-07-02 12:36:20 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "launching pad": {
+        "time_given": "2023-07-02 12:36:30 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "ricotta cliffs": {
+        "time_given": "2023-07-02 12:36:43 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "night sky": {
+        "time_given": "2023-07-02 12:37:26 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "electrodynamics": {
+        "time_given": "2023-07-02 12:37:32 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "moonicotti": {
+        "time_given": "2023-07-02 12:37:39 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "beetle block": {
+        "time_given": "2023-07-02 12:37:44 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "ancient debris": {
+        "time_given": "2023-07-02 12:37:53 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "vanish cap": {
+        "time_given": "2023-07-02 12:38:29 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "heartbreak hit": {
+        "time_given": "2023-07-02 12:39:16 (UTC)",
+        "proof": ""
+    },
+    "capitalism": {
+        "time_given": "2023-07-02 12:39:29 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "magma crossing": {
+        "time_given": "2023-07-02 12:39:34 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "lava bypass": {
+        "time_given": "2023-07-02 12:39:46 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "oasis uprise": {
+        "time_given": "2023-07-02 12:40:10 (UTC)",
+        "proof": ""
+    },
+    "sedimentary staff": {
+        "time_given": "2023-07-02 12:40:19 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "cloud overlook": {
+        "time_given": "2023-07-02 12:41:21 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "tourist disturber": {
+        "time_given": "2023-07-02 12:41:34 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "ancient step": {
+        "time_given": "2023-07-02 12:41:52 (UTC)",
+        "proof": ""
+    },
+    "avalanche": {
+        "time_given": "2023-07-02 12:42:01 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "industrial revolution": {
+        "time_given": "2023-07-02 12:42:21 (UTC)",
+        "proof": ""
+    },
+    "froggy domain": {
+        "time_given": "2023-07-02 12:42:59 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "car insurance": {
+        "time_given": "2023-07-02 12:43:13 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "celestial chest": {
+        "time_given": "2023-07-02 12:43:26 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "labyrinth legacy": {
+        "time_given": "2023-07-02 12:43:49 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "yellow roof hopper": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "pyrorail": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "forest threshold": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "cautious gardener": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "yellow poison": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "yellow lunch gap": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "yellow mosquito": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "icy melody": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "1p god": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "upper womantro impossible": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "chilled mushroom god": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "dumb metal": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "dumb lava bypass": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "blue sand": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "simple frozen peaks": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "simple pillar to pillar": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "simple roof hopper": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "athletic's god": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "street strider": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "cushion chasm": {
+        "time_given": "2023-07-02 12:44:40 (UTC)",
+        "proof": ""
+    },
+    "table dram": {
+        "time_given": "2023-07-02 12:45:27 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "among us": {
+        "time_given": "2023-07-02 12:45:37 (UTC)",
+        "proof": "https://www.youtube.com/watch?v=rEMu64X-d5o"
+    },
+    "prickly prayers": {
+        "time_given": "2023-07-02 12:47:28 (UTC)",
+        "proof": ""
+    },
+    "virtuous vines": {
+        "time_given": "2023-07-02 12:47:47 (UTC)",
+        "proof": ""
+    },
+    "speedway split": {
+        "time_given": "2023-07-02 12:47:53 (UTC)",
+        "proof": ""
+    },
+    "lower hurb jump": {
+        "time_given": "2023-07-02 12:48:00 (UTC)",
+        "proof": ""
+    },
+    "truer meter madness": {
+        "time_given": "2023-07-02 12:48:57 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652382428814790657?s=20"
+    },
+    "imaginary intersection": {
+        "time_given": "2023-07-02 12:49:34 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652644521640087553?s=20"
+    },
+    "true moonicotti": {
+        "time_given": "2023-07-02 12:49:45 (UTC)",
+        "proof": ""
+    },
+    "soup surge": {
+        "time_given": "2023-07-02 12:50:31 (UTC)",
+        "proof": ""
+    },
+    "lucky lunge": {
+        "time_given": "2023-07-02 12:51:08 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652397056894590976?s=20"
+    },
+    "castle catastrophe": {
+        "time_given": "2023-07-02 13:41:38 (UTC)",
+        "proof": ""
+    },
+    "riveting ribcage": {
+        "time_given": "2023-07-02 13:42:10 (UTC)",
+        "proof": ""
+    },
+    "podoboo punishment": {
+        "time_given": "2023-07-02 13:42:19 (UTC)",
+        "proof": ""
+    },
+    "propaganda bypass": {
+        "time_given": "2023-07-02 13:43:12 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652651899869626369?s=20"
+    },
+    "true fossil hopper": {
+        "time_given": "2023-07-02 13:43:28 (UTC)",
+        "proof": ""
+    },
+    "safari scan": {
+        "time_given": "2023-07-02 13:43:45 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652373424122253312?s=20"
+    },
+    "table turmoil": {
+        "time_given": "2023-07-02 13:44:01 (UTC)",
+        "proof": ""
+    },
+    "aquatic honors": {
+        "time_given": "2023-07-02 13:44:13 (UTC)",
+        "proof": ""
+    },
+    "snail attack!": {
+        "time_given": "2023-07-02 13:44:25 (UTC)",
+        "proof": ""
+    },
+    "acrobatic a.c": {
+        "time_given": "2023-07-02 13:45:06 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652653666011316224?s=20"
+    },
+    "mind break": {
+        "time_given": "2023-07-02 13:45:29 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652289829449928705?s=20"
+    },
+    "vault lakescope": {
+        "time_given": "2023-07-02 13:46:21 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1657712521128857600?s=20"
+    },
+    "true triassic triple": {
+        "time_given": "2023-07-02 13:46:55 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652291559046680576?s=20"
+    },
+    "vault ancient passageway": {
+        "time_given": "2023-07-02 13:47:20 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1671671765133852672?s=20"
+    },
+    "wj-less true shop lifter": {
+        "time_given": "2023-07-02 13:47:49 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1672698120558514181?s=20"
+    },
+    "reverse poison pass": {
+        "time_given": "2023-07-02 13:48:17 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1665165068018008064?s=20"
+    },
+    "vault city reacher": {
+        "time_given": "2023-07-02 13:49:14 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1657500514555428864?s=20"
+    },
+    "streetlight sailing": {
+        "time_given": "2023-07-02 13:49:44 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1657092589299060736?s=20"
+    },
+    "truest crate cross": {
+        "time_given": "2023-07-02 13:50:19 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1654935764407574528?s=20"
+    },
+    "water tower terror": {
+        "time_given": "2023-07-02 13:50:38 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652772801898749952?s=20"
+    },
+    "magma climb": {
+        "time_given": "2023-07-02 13:50:56 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652448435302461442?s=20"
+    },
+    "sandy moon collector": {
+        "time_given": "2023-07-02 13:51:16 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1652133379452858369?s=20"
+    },
+    "firebro steps": {
+        "time_given": "2023-07-02 13:51:30 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1649914416559968259?s=20"
+    },
+    "reverse aqua pillar": {
+        "time_given": "2023-07-02 13:51:42 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1649582018404171783?s=20"
+    },
+    "lava lagoon": {
+        "time_given": "2023-07-02 13:52:19 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1624785116936683520?s=20"
+    },
+    "palm paradise": {
+        "time_given": "2023-07-02 13:53:07 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1623067405059768322?s=20"
+    },
+    "fuzzy fiasco": {
+        "time_given": "2023-07-02 13:53:30 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1621675680735072256?s=20"
+    },
+    "resplendent rainfall": {
+        "time_given": "2023-07-02 13:55:16 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1572701685440712705?s=20"
+    },
+    "cavern falls": {
+        "time_given": "2023-07-02 13:56:16 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1562959574076108802?s=20"
+    },
+    "truest lake leap": {
+        "time_given": "2023-07-02 13:57:41 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1552044278406189056?s=20"
+    },
+    "reverse tree climber": {
+        "time_given": "2023-07-02 14:37:22 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1675513793621938176?s=20"
+    },
+    "colorful beans": {
+        "time_given": "2023-07-03 19:34:18 (UTC)",
+        "proof": "https://twitter.com/OverlordAlt/status/1675948937705066496?s=20"
     }
 }

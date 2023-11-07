@@ -630,5 +630,657 @@
     "true cloudy stairs": {
         "time_given": "2023-06-29 23:04:19 (UTC)",
         "proof": ""
+    },
+    "knucklotec's entrance": {
+        "time_given": "2023-07-03 15:48:10 (UTC)",
+        "proof": ""
+    },
+    "moontree": {
+        "time_given": "2023-07-03 15:51:53 (UTC)",
+        "proof": ""
+    },
+    "cutlery cove": {
+        "time_given": "2023-07-03 15:53:58 (UTC)",
+        "proof": ""
+    },
+    "dusty cliffside": {
+        "time_given": "2023-07-03 15:55:29 (UTC)",
+        "proof": ""
+    },
+    "shop lifter": {
+        "time_given": "2023-07-03 15:57:53 (UTC)",
+        "proof": ""
+    },
+    "prickly piercer": {
+        "time_given": "2023-07-03 15:59:29 (UTC)",
+        "proof": ""
+    },
+    "cage vault": {
+        "time_given": "2023-07-03 16:00:59 (UTC)",
+        "proof": ""
+    },
+    "captureless god": {
+        "time_given": "2023-07-03 16:01:37 (UTC)",
+        "proof": ""
+    },
+    "cliffside escape": {
+        "time_given": "2023-07-03 16:03:26 (UTC)",
+        "proof": ""
+    },
+    "ice voyage": {
+        "time_given": "2023-07-03 16:06:50 (UTC)",
+        "proof": ""
+    },
+    "archaic ruins": {
+        "time_given": "2023-07-03 16:27:37 (UTC)",
+        "proof": ""
+    },
+    "ailurophobia": {
+        "time_given": "2023-07-03 16:28:56 (UTC)",
+        "proof": ""
+    },
+    "sunny scarecrow": {
+        "time_given": "2023-07-03 16:31:50 (UTC)",
+        "proof": ""
+    },
+    "quicksand conquest": {
+        "time_given": "2023-07-03 16:33:17 (UTC)",
+        "proof": ""
+    },
+    "sandy sign": {
+        "time_given": "2023-07-03 16:35:39 (UTC)",
+        "proof": ""
+    },
+    "lower sinking step": {
+        "time_given": "2023-07-03 16:39:08 (UTC)",
+        "proof": ""
+    },
+    "cacti canyon": {
+        "time_given": "2023-07-03 16:57:35 (UTC)",
+        "proof": ""
+    },
+    "pillar to pillar": {
+        "time_given": "2023-07-03 17:01:02 (UTC)",
+        "proof": ""
+    },
+    "icicle heist": {
+        "time_given": "2023-07-03 17:05:22 (UTC)",
+        "proof": ""
+    },
+    "true 2d skip": {
+        "time_given": "2023-07-03 17:09:07 (UTC)",
+        "proof": ""
+    },
+    "antique ashes": {
+        "time_given": "2023-07-03 17:11:53 (UTC)",
+        "proof": ""
+    },
+    "statue arrival": {
+        "time_given": "2023-07-03 17:18:00 (UTC)",
+        "proof": ""
+    },
+    "stump crossing": {
+        "time_given": "2023-07-03 17:20:03 (UTC)",
+        "proof": ""
+    },
+    "cascade mard 2.0": {
+        "time_given": "2023-07-03 17:21:14 (UTC)",
+        "proof": ""
+    },
+    "bone narrow": {
+        "time_given": "2023-07-03 17:26:45 (UTC)",
+        "proof": ""
+    },
+    "triassic trampoline": {
+        "time_given": "2023-07-03 17:32:33 (UTC)",
+        "proof": ""
+    },
+    "ancient passageway": {
+        "time_given": "2023-07-04 17:31:43 (UTC)",
+        "proof": ""
+    },
+    "reptile rendezvous": {
+        "time_given": "2023-07-04 17:38:31 (UTC)",
+        "proof": ""
+    },
+    "broken boulders": {
+        "time_given": "2023-07-04 17:44:07 (UTC)",
+        "proof": ""
+    },
+    "mesozoic mount": {
+        "time_given": "2023-07-04 17:45:31 (UTC)",
+        "proof": ""
+    },
+    "ravaging vines": {
+        "time_given": "2023-07-04 17:51:08 (UTC)",
+        "proof": ""
+    },
+    "toad's treehouse": {
+        "time_given": "2023-07-04 17:55:23 (UTC)",
+        "proof": ""
+    },
+    "metal cap": {
+        "time_given": "2023-07-04 18:01:12 (UTC)",
+        "proof": ""
+    },
+    "floral fountain": {
+        "time_given": "2023-07-04 18:03:16 (UTC)",
+        "proof": ""
+    },
+    "toad interspace": {
+        "time_given": "2023-07-04 18:04:44 (UTC)",
+        "proof": ""
+    },
+    "mushroom tree vault assault": {
+        "time_given": "2023-07-04 18:05:57 (UTC)",
+        "proof": ""
+    },
+    "wishing well": {
+        "time_given": "2023-07-04 18:09:15 (UTC)",
+        "proof": ""
+    },
+    "silent stream": {
+        "time_given": "2023-07-04 18:11:08 (UTC)",
+        "proof": ""
+    },
+    "mushroom god": {
+        "time_given": "2023-07-04 18:12:56 (UTC)",
+        "proof": ""
+    },
+    "woods escape": {
+        "time_given": "2023-07-04 18:18:41 (UTC)",
+        "proof": ""
+    },
+    "amphibian aversion": {
+        "time_given": "2023-07-04 18:22:10 (UTC)",
+        "proof": ""
+    },
+    "pond blocks": {
+        "time_given": "2023-07-04 18:23:59 (UTC)",
+        "proof": ""
+    },
+    "frogchamp": {
+        "time_given": "2023-07-04 18:24:58 (UTC)",
+        "proof": ""
+    },
+    "true frogless": {
+        "time_given": "2023-07-04 18:26:47 (UTC)",
+        "proof": ""
+    },
+    "amiibo outskirts": {
+        "time_given": "2023-07-04 18:31:58 (UTC)",
+        "proof": ""
+    },
+    "peachy peg": {
+        "time_given": "2023-07-04 18:33:11 (UTC)",
+        "proof": ""
+    },
+    "true greyscale twist": {
+        "time_given": "2023-07-04 18:35:35 (UTC)",
+        "proof": ""
+    },
+    "true left side": {
+        "time_given": "2023-07-04 18:37:30 (UTC)",
+        "proof": ""
+    },
+    "ship to ship": {
+        "time_given": "2023-07-04 18:39:01 (UTC)",
+        "proof": ""
+    },
+    "ship to ship 2.0": {
+        "time_given": "2023-07-04 18:42:21 (UTC)",
+        "proof": ""
+    },
+    "froggy domain": {
+        "time_given": "2023-07-04 18:47:05 (UTC)",
+        "proof": ""
+    },
+    "lakescope": {
+        "time_given": "2023-07-04 18:53:00 (UTC)",
+        "proof": ""
+    },
+    "lake crosser": {
+        "time_given": "2023-07-04 18:57:12 (UTC)",
+        "proof": ""
+    },
+    "zipper enthusiast": {
+        "time_given": "2023-07-04 18:59:07 (UTC)",
+        "proof": ""
+    },
+    "zipline junction": {
+        "time_given": "2023-07-04 19:00:57 (UTC)",
+        "proof": ""
+    },
+    "true zipper ascent": {
+        "time_given": "2023-07-04 19:09:04 (UTC)",
+        "proof": ""
+    },
+    "swaying breeze": {
+        "time_given": "2023-07-04 19:10:10 (UTC)",
+        "proof": ""
+    },
+    "lake bruncheon": {
+        "time_given": "2023-07-04 19:13:52 (UTC)",
+        "proof": ""
+    },
+    "odyssey oddity": {
+        "time_given": "2023-07-04 19:16:48 (UTC)",
+        "proof": ""
+    },
+    "scarecrowless": {
+        "time_given": "2023-07-04 19:17:13 (UTC)",
+        "proof": ""
+    },
+    "luigi's ledge": {
+        "time_given": "2023-07-04 19:21:33 (UTC)",
+        "proof": ""
+    },
+    "zipper ascent": {
+        "time_given": "2023-07-04 19:33:40 (UTC)",
+        "proof": ""
+    },
+    "cloudy stairs": {
+        "time_given": "2023-07-04 19:36:37 (UTC)",
+        "proof": ""
+    },
+    "cloudtop cruise": {
+        "time_given": "2023-07-04 19:40:44 (UTC)",
+        "proof": ""
+    },
+    "cloud mard": {
+        "time_given": "2023-07-04 19:42:12 (UTC)",
+        "proof": ""
+    },
+    "cloud dram": {
+        "time_given": "2023-07-04 19:43:43 (UTC)",
+        "proof": ""
+    },
+    "flower flight": {
+        "time_given": "2023-07-04 19:45:26 (UTC)",
+        "proof": ""
+    },
+    "battlefield bound": {
+        "time_given": "2023-07-04 19:46:30 (UTC)",
+        "proof": ""
+    },
+    "cage vault 2.0": {
+        "time_given": "2023-07-04 19:46:52 (UTC)",
+        "proof": ""
+    },
+    "metallic cut": {
+        "time_given": "2023-07-04 19:49:37 (UTC)",
+        "proof": ""
+    },
+    "woodscope": {
+        "time_given": "2023-07-04 19:51:33 (UTC)",
+        "proof": ""
+    },
+    "shepherds shortcut": {
+        "time_given": "2023-07-04 19:53:34 (UTC)",
+        "proof": ""
+    },
+    "goombavoid": {
+        "time_given": "2023-07-04 19:55:19 (UTC)",
+        "proof": ""
+    },
+    "wooded mard": {
+        "time_given": "2023-07-04 19:58:59 (UTC)",
+        "proof": ""
+    },
+    "rocky shell": {
+        "time_given": "2023-07-05 16:32:46 (UTC)",
+        "proof": ""
+    },
+    "seaside mard 2.0": {
+        "time_given": "2023-07-05 16:33:56 (UTC)",
+        "proof": ""
+    },
+    "canyon climber": {
+        "time_given": "2023-07-05 16:36:58 (UTC)",
+        "proof": ""
+    },
+    "cliff climber": {
+        "time_given": "2023-07-05 16:53:01 (UTC)",
+        "proof": ""
+    },
+    "makes boiga": {
+        "time_given": "2023-07-06 21:32:48 (UTC)",
+        "proof": ""
+    },
+    "klepto's vault assault": {
+        "time_given": "2023-07-06 21:37:35 (UTC)",
+        "proof": ""
+    },
+    "lower klepto vault assault": {
+        "time_given": "2023-07-06 21:38:37 (UTC)",
+        "proof": ""
+    },
+    "klepto's gap": {
+        "time_given": "2023-07-06 21:51:49 (UTC)",
+        "proof": ""
+    },
+    "lava overpass": {
+        "time_given": "2023-07-06 21:54:35 (UTC)",
+        "proof": ""
+    },
+    "true cage triple": {
+        "time_given": "2023-07-06 21:56:27 (UTC)",
+        "proof": ""
+    },
+    "heatwave havoc": {
+        "time_given": "2023-07-06 21:59:59 (UTC)",
+        "proof": ""
+    },
+    "toad's trench": {
+        "time_given": "2023-07-06 22:02:43 (UTC)",
+        "proof": ""
+    },
+    "mountain scaler": {
+        "time_given": "2023-07-06 22:04:02 (UTC)",
+        "proof": ""
+    },
+    "tree ascent": {
+        "time_given": "2023-07-06 22:06:06 (UTC)",
+        "proof": ""
+    },
+    "trapeetle trespass": {
+        "time_given": "2023-07-06 22:13:36 (UTC)",
+        "proof": ""
+    },
+    "magles lost": {
+        "time_given": "2023-07-06 22:15:20 (UTC)",
+        "proof": ""
+    },
+    "lost gap": {
+        "time_given": "2023-07-06 22:29:29 (UTC)",
+        "proof": ""
+    },
+    "beetle block": {
+        "time_given": "2023-07-06 22:35:53 (UTC)",
+        "proof": ""
+    },
+    "winner's gambit": {
+        "time_given": "2023-07-07 00:24:34 (UTC)",
+        "proof": ""
+    },
+    "north pole": {
+        "time_given": "2023-07-07 00:26:42 (UTC)",
+        "proof": ""
+    },
+    "frozen peaks": {
+        "time_given": "2023-07-07 00:28:13 (UTC)",
+        "proof": ""
+    },
+    "antarctic assault": {
+        "time_given": "2023-07-07 00:30:03 (UTC)",
+        "proof": ""
+    },
+    "icicle gap": {
+        "time_given": "2023-07-07 00:32:17 (UTC)",
+        "proof": ""
+    },
+    "shiverburn": {
+        "time_given": "2023-07-07 00:35:19 (UTC)",
+        "proof": ""
+    },
+    "frosty traveller": {
+        "time_given": "2023-07-07 00:38:16 (UTC)",
+        "proof": ""
+    },
+    "frosty traveller 2.0": {
+        "time_given": "2023-07-07 00:42:38 (UTC)",
+        "proof": ""
+    },
+    "frozen moon collector": {
+        "time_given": "2023-07-07 00:44:20 (UTC)",
+        "proof": ""
+    },
+    "icicle iceland": {
+        "time_given": "2023-07-07 00:48:12 (UTC)",
+        "proof": ""
+    },
+    "glacial gust": {
+        "time_given": "2023-07-07 00:54:41 (UTC)",
+        "proof": ""
+    },
+    "metallic madness": {
+        "time_given": "2023-07-07 01:10:12 (UTC)",
+        "proof": ""
+    },
+    "mini construction skip": {
+        "time_given": "2023-07-07 01:11:33 (UTC)",
+        "proof": ""
+    },
+    "under construction": {
+        "time_given": "2023-07-07 01:12:44 (UTC)",
+        "proof": ""
+    },
+    "airvent acceleration": {
+        "time_given": "2023-07-07 01:14:13 (UTC)",
+        "proof": ""
+    },
+    "jaywalker": {
+        "time_given": "2023-07-07 01:15:40 (UTC)",
+        "proof": ""
+    },
+    "dimensional shift": {
+        "time_given": "2023-07-07 01:20:16 (UTC)",
+        "proof": ""
+    },
+    "groundless girders": {
+        "time_given": "2023-07-07 01:21:41 (UTC)",
+        "proof": ""
+    },
+    "nutty ascent": {
+        "time_given": "2023-07-09 19:01:31 (UTC)",
+        "proof": ""
+    },
+    "poison frs": {
+        "time_given": "2023-07-09 19:44:51 (UTC)",
+        "proof": ""
+    },
+    "podaboo domain": {
+        "time_given": "2023-07-10 16:01:35 (UTC)",
+        "proof": ""
+    },
+    "soup bath": {
+        "time_given": "2023-07-10 16:03:09 (UTC)",
+        "proof": ""
+    },
+    "pillar to pillar 2.0": {
+        "time_given": "2023-07-10 16:05:16 (UTC)",
+        "proof": ""
+    },
+    "eagles lunch": {
+        "time_given": "2023-07-10 16:07:05 (UTC)",
+        "proof": ""
+    },
+    "brownblox": {
+        "time_given": "2023-07-10 16:08:58 (UTC)",
+        "proof": ""
+    },
+    "gourmet rise": {
+        "time_given": "2023-07-10 16:12:11 (UTC)",
+        "proof": ""
+    },
+    "veggietales": {
+        "time_given": "2023-07-10 16:19:07 (UTC)",
+        "proof": ""
+    },
+    "veggie roll": {
+        "time_given": "2023-07-10 16:26:39 (UTC)",
+        "proof": ""
+    },
+    "pegpoggies": {
+        "time_given": "2023-07-10 16:27:42 (UTC)",
+        "proof": ""
+    },
+    "gordon dramsay": {
+        "time_given": "2023-07-10 16:34:28 (UTC)",
+        "proof": ""
+    },
+    "cooking cross": {
+        "time_given": "2023-07-10 16:39:16 (UTC)",
+        "proof": ""
+    },
+    "mini pan evader": {
+        "time_given": "2023-07-10 16:41:59 (UTC)",
+        "proof": ""
+    },
+    "spewart's stew": {
+        "time_given": "2023-07-10 16:45:33 (UTC)",
+        "proof": ""
+    },
+    "lunch mard": {
+        "time_given": "2023-07-10 16:52:34 (UTC)",
+        "proof": ""
+    },
+    "bonkaroni": {
+        "time_given": "2023-07-10 16:53:45 (UTC)",
+        "proof": ""
+    },
+    "true cooking cross": {
+        "time_given": "2023-07-10 17:05:31 (UTC)",
+        "proof": ""
+    },
+    "moon moon collector": {
+        "time_given": "2023-07-10 17:08:21 (UTC)",
+        "proof": ""
+    },
+    "cosmic canyon": {
+        "time_given": "2023-07-10 17:12:43 (UTC)",
+        "proof": ""
+    },
+    "galactic leap": {
+        "time_given": "2023-07-10 17:14:14 (UTC)",
+        "proof": ""
+    },
+    "zg leap": {
+        "time_given": "2023-07-10 17:17:11 (UTC)",
+        "proof": ""
+    },
+    "cavern of fears": {
+        "time_given": "2023-07-10 17:20:08 (UTC)",
+        "proof": ""
+    },
+    "wedding rising": {
+        "time_given": "2023-07-10 17:27:29 (UTC)",
+        "proof": ""
+    },
+    "table hopper": {
+        "time_given": "2023-07-10 17:28:28 (UTC)",
+        "proof": ""
+    },
+    "rooftop gardener": {
+        "time_given": "2023-07-12 02:28:19 (UTC)",
+        "proof": ""
+    },
+    "true treasure hunter": {
+        "time_given": "2023-07-13 03:55:56 (UTC)",
+        "proof": ""
+    },
+    "imaginary intersection": {
+        "time_given": "2023-07-17 02:27:46 (UTC)",
+        "proof": ""
+    },
+    "hurdle herder": {
+        "time_given": "2023-07-17 02:27:56 (UTC)",
+        "proof": ""
+    },
+    "burnstile": {
+        "time_given": "2023-07-17 23:27:42 (UTC)",
+        "proof": ""
+    },
+    "mummified beans": {
+        "time_given": "2023-07-17 23:27:49 (UTC)",
+        "proof": ""
+    },
+    "triassic triple": {
+        "time_given": "2023-07-17 23:27:53 (UTC)",
+        "proof": ""
+    },
+    "shingle summit": {
+        "time_given": "2023-07-18 19:29:32 (UTC)",
+        "proof": ""
+    },
+    "roof descent": {
+        "time_given": "2023-07-18 19:31:11 (UTC)",
+        "proof": ""
+    },
+    "bowser gap": {
+        "time_given": "2023-07-18 19:32:19 (UTC)",
+        "proof": ""
+    },
+    "gatekeeper": {
+        "time_given": "2023-07-18 19:33:42 (UTC)",
+        "proof": ""
+    },
+    "umbrella uprising": {
+        "time_given": "2023-07-18 19:34:41 (UTC)",
+        "proof": ""
+    },
+    "bowser mard": {
+        "time_given": "2023-07-18 19:36:16 (UTC)",
+        "proof": ""
+    },
+    "roof hopper": {
+        "time_given": "2023-07-18 19:37:33 (UTC)",
+        "proof": ""
+    },
+    "arena crossing": {
+        "time_given": "2023-07-18 19:39:27 (UTC)",
+        "proof": ""
+    },
+    "stairway freefall": {
+        "time_given": "2023-07-18 19:41:48 (UTC)",
+        "proof": ""
+    },
+    "spike vault assault": {
+        "time_given": "2023-07-18 19:44:23 (UTC)",
+        "proof": ""
+    },
+    "stair skipper": {
+        "time_given": "2023-07-18 19:45:46 (UTC)",
+        "proof": ""
+    },
+    "shingle shift": {
+        "time_given": "2023-07-19 00:18:16 (UTC)",
+        "proof": ""
+    },
+    "pokio ascent": {
+        "time_given": "2023-07-19 00:26:08 (UTC)",
+        "proof": ""
+    },
+    "true grassy gap": {
+        "time_given": "2023-07-19 03:47:16 (UTC)",
+        "proof": ""
+    },
+    "sand shroud": {
+        "time_given": "2023-07-20 01:54:34 (UTC)",
+        "proof": ""
+    },
+    "table turmoil": {
+        "time_given": "2023-07-21 00:45:09 (UTC)",
+        "proof": ""
+    },
+    "true lunch gap": {
+        "time_given": "2023-07-21 00:45:13 (UTC)",
+        "proof": ""
+    },
+    "icicle upbringing": {
+        "time_given": "2023-07-21 03:01:24 (UTC)",
+        "proof": ""
+    },
+    "truer crate cross": {
+        "time_given": "2023-07-21 23:42:45 (UTC)",
+        "proof": ""
+    },
+    "right side": {
+        "time_given": "2023-07-25 03:33:07 (UTC)",
+        "proof": ""
+    },
+    "wooded wall wrap": {
+        "time_given": "2023-07-26 02:57:34 (UTC)",
+        "proof": ""
     }
 }

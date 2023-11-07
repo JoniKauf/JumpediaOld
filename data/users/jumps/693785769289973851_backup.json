@@ -1,1 +1,150 @@
-{"airborne assault": {"time_given": "2023-06-10 01:27:46 (UTC)", "proof": ""}, "tree hugger": {"time_given": "2023-06-10 01:27:59 (UTC)", "proof": ""}, "tree hopper": {"time_given": "2023-06-10 01:28:05 (UTC)", "proof": ""}, "true tree hopper": {"time_given": "2023-06-10 01:28:16 (UTC)", "proof": ""}, "mummified beans": {"time_given": "2023-06-10 01:28:26 (UTC)", "proof": ""}, "true magma crossing": {"time_given": "2023-06-10 01:28:36 (UTC)", "proof": ""}, "i5": {"time_given": "2023-06-10 01:28:44 (UTC)", "proof": ""}, "sky hedge": {"time_given": "2023-06-10 01:29:10 (UTC)", "proof": ""}, "pyramid peril": {"time_given": "2023-06-10 01:30:02 (UTC)", "proof": ""}, "necrosis": {"time_given": "2023-06-10 01:30:14 (UTC)", "proof": ""}, "true grassy gap": {"time_given": "2023-06-10 01:30:33 (UTC)", "proof": ""}, "true treasure hunter": {"time_given": "2023-06-10 01:31:33 (UTC)", "proof": ""}, "neon night": {"time_given": "2023-06-10 01:33:43 (UTC)", "proof": ""}, "mushroom rise up": {"time_given": "2023-06-10 01:36:41 (UTC)", "proof": ""}, "roadblock rushdown": {"time_given": "2023-06-10 01:36:49 (UTC)", "proof": ""}, "red lantern": {"time_given": "2023-06-10 01:36:55 (UTC)", "proof": ""}, "losers gambit": {"time_given": "2023-06-10 01:37:05 (UTC)", "proof": ""}, "upper statue arrival": {"time_given": "2023-06-10 01:37:54 (UTC)", "proof": ""}, "firebro flash": {"time_given": "2023-06-10 01:38:05 (UTC)", "proof": ""}, "lunch sign": {"time_given": "2023-06-10 01:38:13 (UTC)", "proof": ""}, "dragon ascent": {"time_given": "2023-06-10 01:39:07 (UTC)", "proof": ""}, "lake leap": {"time_given": "2023-06-10 01:39:29 (UTC)", "proof": ""}, "stairway evader": {"time_given": "2023-06-10 01:39:53 (UTC)", "proof": ""}, "pegpog": {"time_given": "2023-06-10 01:40:17 (UTC)", "proof": ""}, "mummy massacre": {"time_given": "2023-06-10 01:40:46 (UTC)", "proof": ""}, "true lost gap": {"time_given": "2023-06-10 01:41:37 (UTC)", "proof": ""}, "torchlift": {"time_given": "2023-06-10 01:42:00 (UTC)", "proof": ""}, "canyon crossing": {"time_given": "2023-06-10 01:42:46 (UTC)", "proof": ""}, "speedway split": {"time_given": "2023-06-10 01:43:19 (UTC)", "proof": ""}, "toxic incision": {"time_given": "2023-06-10 01:44:08 (UTC)", "proof": ""}, "shining skylight": {"time_given": "2023-06-10 01:45:50 (UTC)", "proof": ""}, "true cadaver crossing": {"time_given": "2023-06-10 01:49:06 (UTC)", "proof": ""}, "construction evader": {"time_given": "2023-06-10 01:49:24 (UTC)", "proof": ""}, "true danger sign": {"time_given": "2023-06-12 02:28:11 (UTC)", "proof": ""}, "lakitu's ledge": {"time_given": "2023-06-14 00:02:07 (UTC)", "proof": ""}, "moon collector": {"time_given": "2023-06-28 16:21:57 (UTC)", "proof": ""}}
+{
+    "airborne assault": {
+        "time_given": "2023-06-10 01:27:46 (UTC)",
+        "proof": ""
+    },
+    "tree hugger": {
+        "time_given": "2023-06-10 01:27:59 (UTC)",
+        "proof": ""
+    },
+    "tree hopper": {
+        "time_given": "2023-06-10 01:28:05 (UTC)",
+        "proof": ""
+    },
+    "true tree hopper": {
+        "time_given": "2023-06-10 01:28:16 (UTC)",
+        "proof": ""
+    },
+    "mummified beans": {
+        "time_given": "2023-06-10 01:28:26 (UTC)",
+        "proof": ""
+    },
+    "true magma crossing": {
+        "time_given": "2023-06-10 01:28:36 (UTC)",
+        "proof": ""
+    },
+    "i5": {
+        "time_given": "2023-06-10 01:28:44 (UTC)",
+        "proof": ""
+    },
+    "sky hedge": {
+        "time_given": "2023-06-10 01:29:10 (UTC)",
+        "proof": ""
+    },
+    "pyramid peril": {
+        "time_given": "2023-06-10 01:30:02 (UTC)",
+        "proof": ""
+    },
+    "necrosis": {
+        "time_given": "2023-06-10 01:30:14 (UTC)",
+        "proof": ""
+    },
+    "true grassy gap": {
+        "time_given": "2023-06-10 01:30:33 (UTC)",
+        "proof": ""
+    },
+    "true treasure hunter": {
+        "time_given": "2023-06-10 01:31:33 (UTC)",
+        "proof": ""
+    },
+    "neon night": {
+        "time_given": "2023-06-10 01:33:43 (UTC)",
+        "proof": ""
+    },
+    "mushroom rise up": {
+        "time_given": "2023-06-10 01:36:41 (UTC)",
+        "proof": ""
+    },
+    "roadblock rushdown": {
+        "time_given": "2023-06-10 01:36:49 (UTC)",
+        "proof": ""
+    },
+    "red lantern": {
+        "time_given": "2023-06-10 01:36:55 (UTC)",
+        "proof": ""
+    },
+    "losers gambit": {
+        "time_given": "2023-06-10 01:37:05 (UTC)",
+        "proof": ""
+    },
+    "upper statue arrival": {
+        "time_given": "2023-06-10 01:37:54 (UTC)",
+        "proof": ""
+    },
+    "firebro flash": {
+        "time_given": "2023-06-10 01:38:05 (UTC)",
+        "proof": ""
+    },
+    "lunch sign": {
+        "time_given": "2023-06-10 01:38:13 (UTC)",
+        "proof": ""
+    },
+    "dragon ascent": {
+        "time_given": "2023-06-10 01:39:07 (UTC)",
+        "proof": ""
+    },
+    "lake leap": {
+        "time_given": "2023-06-10 01:39:29 (UTC)",
+        "proof": ""
+    },
+    "stairway evader": {
+        "time_given": "2023-06-10 01:39:53 (UTC)",
+        "proof": ""
+    },
+    "pegpog": {
+        "time_given": "2023-06-10 01:40:17 (UTC)",
+        "proof": ""
+    },
+    "mummy massacre": {
+        "time_given": "2023-06-10 01:40:46 (UTC)",
+        "proof": ""
+    },
+    "true lost gap": {
+        "time_given": "2023-06-10 01:41:37 (UTC)",
+        "proof": ""
+    },
+    "torchlift": {
+        "time_given": "2023-06-10 01:42:00 (UTC)",
+        "proof": ""
+    },
+    "canyon crossing": {
+        "time_given": "2023-06-10 01:42:46 (UTC)",
+        "proof": ""
+    },
+    "speedway split": {
+        "time_given": "2023-06-10 01:43:19 (UTC)",
+        "proof": ""
+    },
+    "toxic incision": {
+        "time_given": "2023-06-10 01:44:08 (UTC)",
+        "proof": ""
+    },
+    "shining skylight": {
+        "time_given": "2023-06-10 01:45:50 (UTC)",
+        "proof": ""
+    },
+    "true cadaver crossing": {
+        "time_given": "2023-06-10 01:49:06 (UTC)",
+        "proof": ""
+    },
+    "construction evader": {
+        "time_given": "2023-06-10 01:49:24 (UTC)",
+        "proof": ""
+    },
+    "true danger sign": {
+        "time_given": "2023-06-12 02:28:11 (UTC)",
+        "proof": ""
+    },
+    "lakitu's ledge": {
+        "time_given": "2023-06-14 00:02:07 (UTC)",
+        "proof": ""
+    },
+    "moon collector": {
+        "time_given": "2023-06-28 16:21:57 (UTC)",
+        "proof": ""
+    },
+    "truer lake leap": {
+        "time_given": "2023-07-03 17:18:03 (UTC)",
+        "proof": ""
+    }
+}

@@ -1,31 +1,31 @@
-# / IMPORTS \
-import shlex, json, time, sys, os, discord, hashlib, re, textwrap, datetime     # External
-import pastee, database, secret                                                 # Internal
+import datetime, hashlib, io, json, random, re, shlex, time, sys, os, textwrap, unicodedata
+import discord, Levenshtein
+import paste, database, secret
 
-# "From" imports
-from discord import Member, Message, TextChannel  
+from discord import Member, Message, Client, TextChannel  
 from database import Database, ElementStat
 from collections.abc import Iterable
 from typing import Callable
 from io import TextIOWrapper
 
+from icecream.icecream import ic
+
 # true rivals, rune factory frontier - autumn theme
-# TODO: implement typedyno data
 
 # / GLOBALS & CONSTANTS \
-
-# Load all jumps
-with open("data/jumps/jump_data.json") as f:
-    JUMP_DATA = json.load(f)
 
 # Newline for some f-strings
 NL = "\n"
 
-# Discord input
 PREFIX = '!'
+CLIENT: discord.Client = None
+
+MAX_DISCORD_MSG_LEN = 1900
+MAX_DISCORD_FILE_SIZE = 10_000_000
 
 MAX_JUMP_NAME_LENGTH = 100
-CHANNEL_TYPES_FILE = "data/channels/channel_types.json"
+MAX_BATCH_NAME = 50
+BATCH_HASH_LENGTH = 128
 
 # Attributes users can enter that mean the same thing (e.g. input "n" means "name")
 USER_ATTRIBUTES = (("name",     "n"),
@@ -61,7 +61,8 @@ USER_SERVERS = (("SMO Trickjumping Server", "Main Trickjumping Server", "Main Tr
                 #("Collection Server",),
                 #("Yellow Dram Server", "yds", "ys", "ys"),
                 #("Sky Dram Server", "sds", "sd")
-                
+
+        
 
 
 # Special orders when sorting, instead of just sorting by name
@@ -76,11 +77,10 @@ LOCATION_ORDER = ('Mushroom Kingdom', 'Cap Kingdom', 'Cascade Kingdom',
 
 TIER_ORDER = "Practice Tier", "Beginner", "Intermediate", "Advanced", "Expert", "Master", "Low Elite", "Mid Elite", "High Elite", "Insanity Elite", "God Tier", "Hell Tier", "Unproven"
 
-# 0/10, 0.5/10, 1/10, ... , 9.5/10, 10/10, Low Elite, ... , Hell Tier, Unproven
+# 0/10, 0.5/10, 1/10, ..., 9.5/10, 10/10, Low Elite, ... , Hell Tier, Unproven
 DIFF_ORDER = tuple([str(int(x / 2)) + "/10" if x % 2 == 0 else f"{x/2}/10" for x in range(0, 21)] + list(TIER_ORDER[6:]))
 
 # +------------------------+
-
 
 
 # / COMMANDS \
@@ -88,6 +88,20 @@ DIFF_ORDER = tuple([str(int(x / 2)) + "/10" if x % 2 == 0 else f"{x/2}/10" for x
 
 def _join_embed(iterable: Iterable[str]) -> str:
     return f"`{'`, `'.join(iterable)}`"
+
+IDU_DB_PATH = "data/users/idu_db.json"
+def _add_to_idu_db(author: Member) -> None:
+    # id-username-database
+    idu_db: dict[str, str] = _read_from_json_safely(IDU_DB_PATH)
+    idu_db[str(author.id)] = author.global_name
+    _write_to_json_safely(IDU_DB_PATH, idu_db)
+
+def _id_to_username(id: int | str) -> str:
+    id = str(id)
+    idu_db = _read_from_json_safely(IDU_DB_PATH)
+
+    return idu_db[id] if id in idu_db.keys() else id
+
 
 BACKUP_NAME_EXTENSION = "_backup"
 JSON_EXT = ".json"
@@ -139,14 +153,23 @@ BATCHES_DIR = "data/batches/"
 _get_batch_data_path = lambda batch_hash: f"{BATCHES_DIR}{batch_hash}.json"
 
 
-def _get_channel_type(channel_id: int | str) -> int:
+def _get_channelconf(channel_id: int | str) -> dict:
     """
-    Returns the channeltype of a channel via the channel's ``id``.
-
-    Channel types: 0 -> Normal, 1 -> Commands, 2 -> Moderation
+    Returns the channelconf of a channel via the ``channel_id``.
     """
-    return _read_from_json_safely(CHANNEL_TYPES_FILE).get(str(channel_id), 0)
+    try:
+        return _read_from_json_safely(f"data/channels/{str(channel_id)}.json")
+    except FileNotFoundError:
+        return {
+            "commands": "none",
+            "info": "long"
+        }
         
+
+async def _print_to_all_command_channels(msg: str) -> None:
+    for channel in CLIENT.get_all_channels():
+        if _get_channelconf(channel.id)['commands'] != "none":
+            await channel.send(msg)
 
 
 def _format_table(list_of_rows: Iterable[list[str | Iterable[str]]], title_row: list[str | Iterable[str]] = None, title_delim: str = ">", spaces_bef_delim: int = 2, spaces_aft_delim: int = 1, delim: str = '|', stringification: Callable = lambda iterable: " - ".join(iterable)) -> str:
@@ -248,7 +271,7 @@ def _diff_to_tier(diff: str) -> str:
 
 
 TIMEOUT: dict[int, dict[str, float]] = {}
-def _get_remaining_timeout_sec(command: str, timeout_sec: float, id: str | int) -> float:
+def _get_and_set_remaining_timeout_sec(command: str, timeout_sec: float, id: str | int) -> float:
     """
     Returns the amount of time remaining for the timeout of the command for the user to be over.
     If the timeout is over or was never set for that user, it will set set the timeout to the current time and return 0.0
@@ -289,7 +312,7 @@ def _is_time_for_daily_update(to_update) -> bool:
 
 # HELP COMMAND
 def help() -> str:
-    return "**To the help page:**\nhttps://pastebin.com/4CPm8PH2"
+    return "**To the help page:**\nhttps://github.com/JoniKauf2/Jumpedia/blob/main/README.md"
 
 
 def _ftp_to_line(ftp: tuple[Iterable[str], Iterable[str], Iterable[str]]):
@@ -345,12 +368,24 @@ def _jump_to_dcmsg(jump_data: ElementStat) -> str:
 
 
 # INFO COMMAND
-def info(jump_name: str) -> str:
-    jump = database.get_jump(jump_name)
-    if not jump:
+def info(jump_name: str, max_levenshtein_distance: int = 0) -> str:
+    if max_levenshtein_distance == 0:
+        closest_jump = database.get_jump(jump_name)
+    else:
+        best_dist = max_levenshtein_distance + 1
+        closest_jump = None
+
+        for comp_jump in database.DATABASE.keys():
+            dist = Levenshtein.distance(jump_name, comp_jump, score_cutoff=max_levenshtein_distance)
+
+            if dist < best_dist:
+                best_dist = dist
+                closest_jump = database._get_jump_fast(comp_jump)
+        
+    if not closest_jump:
         return "No jump found!"
 
-    return _jump_to_dcmsg(jump)
+    return _jump_to_dcmsg(closest_jump)
 
 
 # Turns a user input like "loc" instead of "location" into the one in the jump dict
@@ -369,8 +404,11 @@ def _in_user_attributes(user_attr: str) -> bool:
     return True
 
 # Turns a user value like "metro" into "metro kingdom"
-def _user_val_to_val(attr: str, user_val: str) -> str:
+def _user_val_to_val(attr: str, user_val: str, require_https: bool = True, allow_main_elite_diff_tier: bool = False) -> str:
     lower_user_val = user_val.lower()
+    
+    if allow_main_elite_diff_tier and attr in ('diff', 'tier') and lower_user_val in ('main', 'elite'):
+        return user_val
     
     match attr:
         # Ex: "metro" -> "Metro Kingdom"
@@ -380,6 +418,7 @@ def _user_val_to_val(attr: str, user_val: str) -> str:
                     return loc
             if lower_user_val in 'bowsers kingdom' or lower_user_val in 'bowser kingdom':
                 return "Bowser's Kingdom"
+            
         # Ex: "1" -> "1/10" or "low" -> "Low Elite"
         case "diff":
             # Numbers with /10
@@ -406,7 +445,7 @@ def _user_val_to_val(attr: str, user_val: str) -> str:
                         return server[0]
         
         case "links":
-            if lower_user_val.startswith("https://"):
+            if not require_https or lower_user_val.startswith("https://"):
                 return user_val
         
         case "name":
@@ -417,27 +456,44 @@ def _user_val_to_val(attr: str, user_val: str) -> str:
         case _:
             return user_val
 
-    raise ValueError(f"For the attribute `{attr}` the value `{user_val}` doesn't exist!")
+    raise ValueError(f"For the attribute `{attr}` the user value `{user_val}` doesn't exist!")
 
 # Filters the database by going through each jump and checking if the entry of the attr/key fits the value given
 # If the value of the jump's key fits, it stays, otherwise the jump will be thrown out
 def _filter_database(db: Database, attr: str, val: str) -> Database:
     if not _in_user_attributes(attr):
         raise ValueError("Key must be a valid ATTRIBUTE")
-
-    val = _user_val_to_val(attr, val).lower()
     
+    val = val.lower()
     filtered_db = {}
 
-    for jk, jv in db.items():
-        v = jv.get(attr, "")
+    for jump_name, jump_data in db.items():
+        attr_val = jump_data.get(attr, "")
 
-        if isinstance(v, str) and v.lower() == val:
-            filtered_db[jk] = jv
-        elif isinstance(v, list):
-            for e in v:
-                if e.lower() == val:
-                    filtered_db[jk] = jv
+        if isinstance(attr_val, str):
+            attr_val = attr_val.lower()
+            passes_filter = False
+            
+            if attr in ("name",):
+                if val in attr_val:
+                    passes_filter = True
+                
+            # Extra cases for tier/diff "main" or "elite"
+            elif attr in ('diff', 'tier') and val in ('main', 'elite'):
+                if val == 'main' and TIER_ORDER.index(jump_data['tier']) <= 5:
+                    passes_filter = True
+                elif val == 'elite' and TIER_ORDER.index(jump_data['tier']) > 5 and jump_data['tier'] != "Unproven":
+                    passes_filter = True
+
+            if passes_filter or attr_val == val:
+                filtered_db[jump_name] = jump_data
+                
+        elif isinstance(attr_val, list):
+            for attr_val_elem in attr_val:
+                attr_val_elem = attr_val_elem.lower()
+                
+                if attr_val_elem == val or (attr in ('finder', 'taser', 'prover', 'extra', 'links') and val in attr_val_elem):
+                    filtered_db[jump_name] = jump_data
                     break
                 
     return filtered_db
@@ -447,7 +503,7 @@ def _get_compare_val(jump: ElementStat, key: str) -> str | int:
     
     match key:
         case "location":
-            # Fix later to sort by more specific location better
+            # TODO: Fix later to sort by more specific location better
             # Currently only sorts by kingdom (index[0] of value)
             return LOCATION_ORDER.index(jump.get(key)[0])
         case "tier":
@@ -463,7 +519,7 @@ def _get_compare_val(jump: ElementStat, key: str) -> str | int:
 # Function & sub-functions reworked and finally fixed by NoWayJay#3800, HUGE thanks to him :)
 def _sort_database_by_keys(db: Database, keys: list[str]) -> Database:
     def get_compare_tuple(kv_pair: tuple[str, ElementStat]) -> tuple[str | int]:
-        return tuple(_get_compare_val(kv_pair[1], key) for key in keys)
+        return tuple(compare_val if isinstance(compare_val := _get_compare_val(kv_pair[1], key), int) else unicodedata.normalize("NFKC", compare_val.lower()) for key in keys)
     
     return {
         k: v
@@ -475,7 +531,7 @@ def _sort_database_by_keys(db: Database, keys: list[str]) -> Database:
 
 
 
-def list_(args: tuple[str, ...], author: Member, base_selected: Database = None) -> str:
+async def list_(args: tuple[str, ...], author: Member, base_selected: Database = None) -> str:
     attrs_shown = {'name'}
     show_further_attrs = True
     
@@ -499,14 +555,25 @@ def list_(args: tuple[str, ...], author: Member, base_selected: Database = None)
                 return "User doesn't have any jumps!"
             
             user_jumps: Database = _read_from_json_safely(user_data_path)
-            
+            outdated_jumps = []
+
             # Combines user data with other jump data and adds it to base_selected
             for name, user_jump_data in user_jumps.items():
                 if db_jump_data := database._get_jump_fast(name):
                     base_selected[name] = user_jump_data | db_jump_data
                 else:
-                    base_selected[name] = f'DELETED: {name.title()}'
-
+                    # Silently removes a jump from a user's account if it got removed
+                    outdated_jumps.append(name)
+                    continue
+            
+            if outdated_jumps:
+                if len(outdated_jumps) > 30:
+                    return "A safety mechanism has been triggered, because the limit of the amount of jumps a user holds, that aren't in Jumpedia's database anymore, has been exceeded. Those kind of jumps normally just get deleted automatically when using the `!list` command. This limit was set arbritrarily to protect users' data in case something goes horribly wrong. Please DM @jonikauf to resolve this and increase the limit, in case this isn't a bug!"
+                
+                for jump_name in outdated_jumps:
+                    user_jumps.pop(jump_name)
+                
+                _write_to_json_safely(_get_user_jump_data_path(user), user_jumps)
         else:
             return f"For the target please enter `all`, `mine` or a valid user-ID instead of `{args[1]}`"
 
@@ -516,11 +583,11 @@ def list_(args: tuple[str, ...], author: Member, base_selected: Database = None)
     # - attr (1)
     # - val (2)
     
-    DATA_VISUALIZERS = ("+", "-")
+    YIELDERS = ("+", "-")
     ONLY_SPLITTERS = ("and", "or")
     
     # Handle the "+" or "-" at the end (if it exists)
-    if args[-1] in DATA_VISUALIZERS:
+    if args[-1] in YIELDERS:
         if args[-1] == "+":
             attrs_shown.update(ATTRIBUTES)
         else:
@@ -578,7 +645,7 @@ def list_(args: tuple[str, ...], author: Member, base_selected: Database = None)
                     return f"{expected_instead_of('a valid user attribute')}\n\n__The following attributes exist:__\n" + "\n".join(f"`{attr[0]}`  **or**  `{'`  `'.join(attr[1:])}`" for attr in USER_ATTRIBUTES) 
             case 2:
                 try:
-                    only_area[i] = _user_val_to_val(only_area[i - 1], elem)
+                    only_area[i] = _user_val_to_val(only_area[i - 1], elem, require_https=False, allow_main_elite_diff_tier=True)
                 except ValueError:
                     return expected_instead_of(f"a valid user value for the attribute {only_area[i - 1]}")
                 
@@ -602,7 +669,7 @@ def list_(args: tuple[str, ...], author: Member, base_selected: Database = None)
         return "No jumps with that criteria were found!"
     
     elif amt_jumps > 500:
-        rem_timeout = _get_remaining_timeout_sec("list", 10, author)
+        rem_timeout = _get_and_set_remaining_timeout_sec("list", 10, author)
         
         if rem_timeout:
             return f"Please wait another {rem_timeout:.1f} seconds to use this command again! [Timeout for lists with > 500 jumps]"
@@ -626,11 +693,11 @@ def list_(args: tuple[str, ...], author: Member, base_selected: Database = None)
     for jump in selected_jumps.values():
         jump_data_list.append([jump.get(attr, "") for attr in attrs_shown_sorted])
     
-    return pastee.create(_format_table(jump_data_list, title_row=list(attr.upper().replace("_", " ") for attr in attrs_shown_sorted)), 
+    return paste.create(_format_table(jump_data_list, title_row=list(attr.upper().replace("_", " ") for attr in attrs_shown_sorted)), 
                          beforeLink=f"Found {amt_jumps} matching jump{'s' if amt_jumps > 1 else ''}!")
     
 
-def missing(args: tuple[str, ...], author: Member) -> str:
+async def missing(args: tuple[str, ...], author: Member) -> str:
     if len(args) == 1 or args[1] == 'mine':
         path = _get_user_jump_data_path(str(author.id))
     elif args[1].isdigit():
@@ -642,10 +709,11 @@ def missing(args: tuple[str, ...], author: Member) -> str:
 
     if not os.path.isfile(path):
         selected_jumps = {}
+        
     else:
         selected_jumps = _read_from_json_safely(path)
 
-    selected_jumps = {jump_name: jump_data for jump_name, jump_data in database.DATABASE.items() if jump_name not in selected_jumps.keys()}
+    selected_jumps = {jump_name: jump_data for jump_name, jump_data in database.DATABASE.items() if jump_name not in selected_jumps.keys() and jump_data['diff'] != "Unproven"}
     
     return list_(args, author, base_selected=selected_jumps)
 
@@ -668,12 +736,13 @@ def give(args: tuple[str, ...], author: Member):
         jump_name = args[1:]
         proof = ""
     
-    print(jump_name)
-    print(proof)
-    jump = database.get_jump(" ".join(jump_name).lower())
+    jump = database.get_jump(" ".join(jump_name))
 
     if not jump:
         return NO_SUCH_JUMP_EXISTS
+    
+    if jump['diff'] == "Unproven":
+        return "This jump is currently listed as unproven, so please wait until it gets proven/rated!"
     
     jump_name = jump.get("name").lower()
     ret_msg = ""
@@ -681,7 +750,7 @@ def give(args: tuple[str, ...], author: Member):
     if not os.path.isfile(owned_file_path):
         owned = {}
         ret_msg += textwrap.dedent(f"""
-            **New user verified!**
+            **New user signed up!**
             Thanks for using Jumpedia, {author.global_name}! :D
             
             """)
@@ -722,7 +791,9 @@ def del_(jump_name: str, author: Member) -> str:
 
 
 def proof(args: tuple[str, ...], author: Member):
-           
+
+    if len(args) == 1:
+        return "More arguments required!"
     owned_file_path = _get_user_jump_data_path(author.id)
     
     if not os.path.isfile(owned_file_path):
@@ -891,8 +962,6 @@ def donate() -> str:
     return "**To the donation page:**\nhttps://paypal.me/JumpediaBot"
 
 
-# TODO: missing command
-# TODO: This
 def typedyno(args: tuple[str, ...], author: Member) -> str:
     ACTIONS = "complement", "overwrite"
     AGREEMENTS = "i know this change is not reversible and that all jumps i am still missing compared to an old backup of typedyno will be complemented", "i know this change is not reversible and that all my current jumps will be replaced by an old backup of typedyno"
@@ -915,7 +984,7 @@ def typedyno(args: tuple[str, ...], author: Member) -> str:
     if author_id in transferred:
         return "You already got your data from typedyno, no turning back!"
 
-    if timeout := _get_remaining_timeout_sec("typedyno", 15, "global"):
+    if timeout := _get_and_set_remaining_timeout_sec("typedyno", 15, "global"):
         return f"To not absolutely shred the bot, this command has a slowmode for everybody together!\nAnother user just used this command, so please wait another {timeout:.1f} seconds!"
 
     with open("data/users/typedyno/data.json") as f:
@@ -937,45 +1006,92 @@ def typedyno(args: tuple[str, ...], author: Member) -> str:
 
 
 TOP100_LINK = ""
-def top100(client: discord.Client) -> str:
+async def top100() -> str:
     global TOP100_LINK
     if not _is_time_for_daily_update("top100"):
         return f"**Top 100**:\n{TOP100_LINK}"
     
-    users_scoring: list[list[str | int]] = []
+    DIFF_TO_POINTS = {
+        "0/10": 0.001,
+        "0.5/10": 0.004,
+        "1/10": 0.005,
+        "1.5/10": 0.006,
+        "2/10": 0.008,
+        "2.5/10": 0.011,
+        "3/10": 0.015,
+        "3.5/10": 0.020,
+        "4/10": 0.026,
+        "4.5/10": 0.035,
+        "5/10": 0.046,
+        "5.5/10": 0.061,
+        "6/10": 0.081,
+        "6.5/10": 0.107,
+        "7/10": 0.141,
+        "7.5/10": 0.187,
+        "8/10": 0.247,
+        "8.5/10": 0.327,
+        "9/10": 0.432,
+        "9.5/10": 0.571,
+        "10/10": 0.756,
+        "Low Elite": 1,
+        "Mid Elite": 2,
+        "High Elite": 4,
+        "Insanity Elite": 8,
+        "God Tier": 20,
+        "Hell Tier": 50
+    }
 
-    ORDERING = list(TIER_ORDER)
+    users_scoring: dict[str, int] = {}
+
+    ORDERING = list(TIER_ORDER[0:-1])   # Remove Unproven
     ORDERING.reverse()
-
-    for file_name in os.listdir(USER_JUMP_DATA_DIR):
-        if file_name.endswith(".json") and not file_name.endswith("backup.json"):
-            user_id = int(file_name.removesuffix('.json'))
-            username = client.get_user(user_id)
-
-            users_scoring.append([username if username else f"UNKNOWN ({str(user_id)})", *(0 for _ in range(len(ORDERING)))])
-
-            user_data: Database = _read_from_json_safely(_get_user_jump_data_path(user_id))
-            
-            for jump_name, user_jump_data in user_data.items():
-                if (jump_data := database._get_jump_fast(jump_name)) and user_jump_data['proof']:
-                    users_scoring[-1][1 + ORDERING.index(jump_data['tier'])] += 1
     
-    users_scoring.sort(key=lambda x: x[1:], reverse=True)
-    users_scoring = list(users_scoring[:100])
+    for file_name in os.listdir(USER_JUMP_DATA_DIR):
+        # Only takes json files that aren't the backup version and that are really just a number (so the id of the author) for more security
+        if file_name.endswith(".json") and not file_name.endswith(BACKUP_NAME_EXTENSION) and file_name.partition(".")[0].isdecimal():
+            user_id = int(file_name.removesuffix('.json'))
+            username = _id_to_username(user_id)
 
-    for scoring in users_scoring:
-        scoring.pop(1)
-        for i in range(len(scoring)):
-            scoring[i] = str(scoring[i])
+            users_scoring[username] = 0
+            
+            for jump_name in _read_from_json_safely(_get_user_jump_data_path(str(user_id))).keys():
+                jump_data = database._get_jump_fast(jump_name)
 
-    TOP100_LINK = pastee.create(_format_table(users_scoring, title_row=['NAME', *ORDERING[1:]])).strip()
-    return top100(client)
+                if not jump_data:
+                    continue
+                
+                users_scoring[username] += DIFF_TO_POINTS.get(jump_data['diff'], 0)
+    
+    top: list[tuple[str, float]] = sorted(users_scoring.items(), key=lambda elem: elem[1], reverse=True)
+    if len(top) > 100:
+        top = top[:100]
+
+    top_reformatted = []
+
+    for username, points in top:
+        top_reformatted.append([username, str(round(points, 3))])
+    
+    TOP100_LINK = paste.create(_format_table(top_reformatted, title_row=['NAME', 'POINTS'])).strip()
+    return await top100()
+
+
+def random_():
+    return info(random.choice(list(database.DATABASE.keys())))
+
 
                     
 
 # / MOD & ADMIN COMMANDS \
 
 NO_PERMISSION = "You don't have the permission to use this moderation command!"
+
+def _is_god_tier_rater(author: Member):
+    for gtr_role in secret.load()["GOD_TIER_RATER_ROLES"]:
+        for user_role in author.roles:
+            if user_role.id == gtr_role:
+                return True
+    
+    return _is_admin(author)
 
 # Checks if person is JUMPEDIA mod, not server mod
 def _is_mod(author: Member) -> bool:
@@ -987,14 +1103,15 @@ def _is_mod(author: Member) -> bool:
     return _is_admin(author)
 
 # Checks if person is JUMPEDIA admin, not server admin
-def _is_admin(author: Member) -> bool:
-    return author.id in secret.load()["BOT_ADMINS"]
+def _is_admin(author: Member | int) -> bool:
+    return (author.id if isinstance(author, Member) else author) in secret.load()["BOT_ADMINS"]
 
 
+def channelconf(args: tuple[str, ...], channel_id: int, author: Member) -> str:
 
-def channeltype(channel_id: int, author: Member, type: str) -> str:
     # User has to either be a verified jumpedia mod/admin or have admin perms on the server
-    
+    channel_id = str(channel_id)
+
     if _is_mod(author): 
         mod_perms = True
     elif author.guild_permissions.administrator:
@@ -1002,44 +1119,47 @@ def channeltype(channel_id: int, author: Member, type: str) -> str:
     else:
         return NO_PERMISSION
 
-    with open(CHANNEL_TYPES_FILE) as f:
-        data: dict[str, int] = json.load(f)
+    VALID_VALS = {
+        # No duplicates allowed!
+        # First one of each tuple is the non-user value, which goes into the json
+        "commands": (("none", "0"), ("normal", "1"), ("moderation", "mods", "mod", "2")),
+        "info": (("short", "fast", "0"), ("long", "slow", "1")),
+    }
 
-    type = type.lower()
+    confs: dict[str, int | str] = _get_channelconf(channel_id)
+    
+    if len(args) == 1: 
+        return "**This channel's configurations are:**\n" + "\n".join(f"__{k.title()}:__ {str(v).title()}" for k, v in confs.items())
+    
+    if args[1] not in VALID_VALS.keys():
+        return f"The channel configuration `{args[1]}` does not exist!"
+    
+    if len(args) == 2:
+        return f"The value of the channel configuration `{args[1]}` is set to `{confs[args[1]]}`!"
 
-    if type in ("n", "none", "normal", "0"): 
-        channel_type_id = 0
-    elif type in ("c", "cmd", "command", "commands", "1"): 
-        channel_type_id = 1
-    elif type in ("m", "mod", "moderation", "admin", "2"): 
-        if not mod_perms:
-            return "You aren't a verified Jumpedia Moderator, so you can only set the channel's type to `Normal` or `Commands`!"
-        
-        channel_type_id = 2
-        
-    else: return "That is not a valid type for a channel!"
-    
-    prev_channel_type = data.get(str(channel_id), None)
-    
-    data[str(channel_id)] = channel_type_id
-    
-    _write_to_json_safely(CHANNEL_TYPES_FILE, data)
-    
+    # 3 or more args, aka a configuration is tried to be re-set
 
-    if not prev_channel_type: operation = "set to"
-    elif prev_channel_type == channel_type_id: operation = "kept as"
-    else: operation = "changed to"
+    user_val = " ".join(args[2:])
     
-    
+    for possibility in VALID_VALS[args[1]]:
+        if user_val in possibility:
+            val = possibility[0]
+            break
+    else:
+        return f"The value `{user_val}` is not valid for the channel configuration `{args[1]}`!"
 
-    return f"This channel's type was {operation} `{('Normal', 'Commands', 'Moderation')[channel_type_id]}`!"
+    # Extra rules for specific configurations
+    if val == "moderation" and not mod_perms:
+        return "You aren't a verified Jumpedia Moderator, so you can only set the channel's type to `Normal` or `Commands`!"
 
+    confs[args[1]] = val
+
+    _write_to_json_safely(f"data/channels/{channel_id}.json", confs)
+
+    return f"The channel configuration `{args[1]}` was set to `{val}`!"
 
 
 Batch = dict[str, Database | str | list[str] | list[list[str]]]
-MAX_BATCH_NAME = 50
-BATCH_HASH_LENGTH = 128
-BATCH_STATUS_ORDER = 'unfinished', 'finished', 'implemented', 'nuked'
 
 def _get_batch_data_by_name_or_hash(name_or_hash: str) -> Batch | list[Batch]:
     """
@@ -1104,6 +1224,8 @@ def _get_batch_errors(batch_data: Batch) -> BatchErrors:
         'edit_not_exist': set(),
         'edit_in_add_too': set(),
         'edit_in_rem_too': set(),
+        'edit_name_exist': set(),
+        'edit_name_collides': set(),
         'add_exist': set()
     }
     
@@ -1121,19 +1243,33 @@ def _get_batch_errors(batch_data: Batch) -> BatchErrors:
         if not database._get_jump_fast(jump_name):
             errors['rem_not_exist'].add(jump_name)
 
+    collision_checked_future_names: dict[str, list[str]] = dict()
+
     # Check every jump to edit
-    for jump_name in batch_data['edit']:
+    for jump_name, jump_data in batch_data['edit'].items():
         # Error if jump doesn't exist
         if not database._get_jump_fast(jump_name):
             errors["edit_not_exist"].add(jump_name)
-        
         # Error if exists in 'add' db
         if jump_name in list_jump_names(batch_data['add']):
             errors['edit_in_add_too'].add(jump_name)
         # Error if exists in 'rem' db
         if jump_name in list_jump_names(batch_data['rem']):
             errors['edit_in_rem_too'].add(jump_name)
+        # Error if new jump name exists already
+        if database._get_jump_fast(future_name := jump_data.get('name', "").lower()) and future_name != jump_name:
+            errors["edit_name_exist"].add(f"{jump_name} -> {future_name}")
+
+        # Error if new jump name collides with other new jump name
+        collision_checked_future_names.setdefault(future_name, []).append(jump_name)
     
+    for future_name, list_colliding_jumps in collision_checked_future_names.items():
+        if len(list_colliding_jumps) > 1:
+            for jump_name in list_colliding_jumps:
+                errors["edit_name_collides"].add(f"{jump_name} -> {future_name}") 
+
+
+
     # Check every jump to add
     for jump_name in batch_data['add']:
         # Error if jump does exist (to edit a jump use edit, not remove + re-add)
@@ -1167,10 +1303,13 @@ def _batch_errors_to_str(errors: BatchErrors, batch_name: str) -> str:
                 append_error("The following jumps that were tried to be edited were also tried to be added at the same time!", f'!batch forget "{batch_name}" <"edit" to remove from edits/"add" to remove from adds> <jump-name>', jumps)
             case 'edit_in_rem_too':
                 append_error("The following jumps that were tried to be edited were also tried to be removed at the same time!", f'!batch forget "{batch_name}" <"edit" to remove from edits/"rem" to remove from removals> <jump-name>', jumps)
+            case 'edit_name_exist':
+                append_error("The following jumps whose name was tried to be edited would overwrite an already existing jump with the same name!", f'!batch forget "{batch_name}" edit <jump-name>', jumps)
+            case 'edit_name_collides':
+                append_error("The following jumps whose name was tried to be edited collide with other jump edits, that would change the name of the jump to the same as this one!", f'!batch forget "{batch_name}" edit <jump-name>', jumps)
             case 'add_exist':
                 append_error("The following jumps that were tried to be added already exist!", f'!batch forget "{batch_name}" add <jump-name>', jumps)
-            
-    return pastee.create('\n\n'.join(errors_str_list), beforeLink="A few errors that must be fixed first were found:")
+    return paste.create('\n\n'.join(errors_str_list), beforeLink="A few errors that must be fixed first were found:")
 
 
 def _batch_list() -> str:
@@ -1191,12 +1330,14 @@ def _batch_list() -> str:
             batches_data.append(batch_data)
     
     def sort_key(batch: list[str | list[str]]):
+        BATCH_STATUS_ORDER = 'unfinished', 'finished', 'implemented', 'nuked'
+        
         # batch[indexes] are referring to "GET_INFOS" indexes
         return (BATCH_STATUS_ORDER.index(batch[1]), batch[4], batch[2], batch[0])
         
     if len(batches_data) > 0:
         batches_data.sort(key=lambda batch: sort_key(batch))
-        return pastee.create(_format_table(batches_data, title_row=[info.upper().replace("_", " ") for info in GET_INFOS]), beforeLink="List of batches:")
+        return paste.create(_format_table(batches_data, title_row=[info.upper().replace("_", " ") for info in GET_INFOS]), beforeLink="List of batches:")
     else:
         return "There are no batches to list!"
 
@@ -1259,13 +1400,19 @@ def _batch_status(batch_data: Batch, args: tuple[str, ...], author: Member) -> s
             
 def _batch_add_or_edit(batch_data: Batch, args: tuple[str, ...], author: Member, add_else_edit: bool = True) -> str:
     
-    TO_CHANGE_NAME = "To change a jump's name itself, just remove and add it with a new name in the same batch!"
-    TO_EDIT_REQUIRED = "To edit a jump, both the name and at least one attribute to change must be contained!"
+    TO_EDIT_REQUIRED = "To edit a jump, both the name and at least one attribute + value pair to change must be contained!"
     
+    if len(args) < 1:
+        return "Please specify the jump name and the jump info afterwards!"
+    
+    jump_name = args[0]
     last_attr = None
     jump_data: ElementStat = {}
     
-    for arg in args:
+    if add_else_edit:
+        jump_data['name'] = jump_name
+        
+    for arg in args[1:]:
         # 'name:I5' -> one value
         # or
         # 'finder:JoniKauf MadeForMario' -> multiple values
@@ -1277,16 +1424,13 @@ def _batch_add_or_edit(batch_data: Batch, args: tuple[str, ...], author: Member,
             # If no attr is specified, ".partition" will only return the value but in the attr variable
             val = attr
             
-            if not last_attr:
-                last_attr = 'name'
-                jump_data[last_attr] = val
-                continue
-                
+            if last_attr is None:
+                return f"You didn't specify the attribute before `{val}`! Maybe you forgot to put `name:` or a different attribute before it?"
             if last_attr not in ATTRIBUTES_LISTABLE:
                 return f'The attribute `{last_attr}` cannot contain multiple values!\nMaybe you forgot to put "quotation marks" around it?'
             
             try:
-                val = _user_val_to_val(last_attr, val.lower()) if last_attr != 'location' else val
+                val = _user_val_to_val(last_attr, val) if last_attr != 'location' else val
             except ValueError as inv_attr_or_val:
                 return str(inv_attr_or_val)
             
@@ -1297,11 +1441,11 @@ def _batch_add_or_edit(batch_data: Batch, args: tuple[str, ...], author: Member,
                 attr = _user_attr_to_attr(attr.lower())
                 
                 if attr in jump_data.keys():
-                    return f'A value for the attribute `{attr}` was specified more than once!\n{TO_CHANGE_NAME if not add_else_edit and attr == "name" else ""}'
+                    return f'A value for the attribute `{attr}` was specified more than once!'
                 
                 if attr == 'tier':
                     return f"Don't specify the attribute `{attr}`, it will automatically be calculated!"
-                    
+                
                 val = _user_val_to_val(attr, val)
                 last_attr = attr
             except ValueError as inv_attr_or_val:
@@ -1319,7 +1463,7 @@ def _batch_add_or_edit(batch_data: Batch, args: tuple[str, ...], author: Member,
     else:
         for attr in ATTRIBUTES_REQUIRED:
             if attr in jump_data.keys() and not jump_data[attr]:
-                return f"{TO_EDIT_REQUIRED}\nYou can also not remove required jump information ({_join_embed(ATTRIBUTES_REQUIRED)})!"
+                return f"{TO_EDIT_REQUIRED}\nYou cannot remove required jump information ({_join_embed(ATTRIBUTES_REQUIRED)})!"
             
             
     # If a jump gets added, it needs all ATTRIBUTES_REQUIRED
@@ -1327,27 +1471,24 @@ def _batch_add_or_edit(batch_data: Batch, args: tuple[str, ...], author: Member,
     if add_else_edit:
         missing = []
         
-        for attr in ATTRIBUTES_REQUIRED:
+        for attr in ATTRIBUTES_REQUIRED[1:]:
             if attr not in jump_data.keys():
                 missing.append(attr)
-                
+        
         if missing:
             return f'The required attributes `{"`, `".join(missing)}` are missing!'
     else:
-        if 'name' not in jump_data.keys() or len(jump_data.keys()) < 2:
-            return f"{TO_EDIT_REQUIRED}\n{TO_CHANGE_NAME}"
+        if len(jump_data.keys()) < 1:
+            return f"{TO_EDIT_REQUIRED}"
 
-    if 'tier' in jump_data:
+    if 'diff' in jump_data:
         jump_data['tier'] = _diff_to_tier(jump_data['diff'])
     
     db = batch_data['add' if add_else_edit else 'edit']
-    overwrite = False
-    jump_name = jump_data['name'].lower()
     
-    if jump_name in db.keys():
-        overwrite = True
+    overwrite = True if jump_name.lower() in db.keys() else False
         
-    db[jump_name] = jump_data
+    db[jump_name.lower()] = jump_data
     
     _append_log(batch_data, f"{_str_author(author)} {'overwrites' if overwrite else 'adds'} jump under batch's {'additions' if add_else_edit else 'edits'} -> {'   '.join(attr.title() + ': ' + str(jump_data.get(attr, '')) for attr in ATTRIBUTES if jump_data.get(attr, ''))}")
     _write_to_json_safely(_get_batch_data_path(batch_data['hash']), batch_data)
@@ -1364,6 +1505,9 @@ def _batch_rem(batch_data: Batch, jump_name: str, author: Member) -> str:
         if jump_name.startswith(s):
             jump_name = jump_name.removeprefix(s)
             break
+    
+    if not jump_name:
+        return "Please specify the jump you want to remove!"
             
     removals = batch_data['rem']
     
@@ -1416,22 +1560,25 @@ def _batch_forget(batch_data: Batch, args: tuple[str, ...], author: Member) -> s
 
 
 def _batch_log(batch_data: Batch):
-    return pastee.create(_format_table(batch_data['log'], ['Time', 'Info']), beforeLink=f"Logs found:")
+    return paste.create(_format_table(batch_data['log'], ['Time', 'Info']), beforeLink=f"Logs found:")
 
 
-def _batch_download(batch_data: Batch) -> tuple | str:
+async def _batch_download(batch_data: Batch, message: Message) -> None:
     file_path = _get_batch_data_path(batch_data['hash'])
     
     with open(file_path) as f:
         text = f.read()
         
         if len(text) > 14_000_000:
-            return pastee.create(text, beforeLink="**File size too big, data sent via pastee:**")
-        
-    return ("**Requested batch data:**", file_path)
+            return paste.create(text, beforeLink="**File size too big, data sent via paste:**")
+    
+    with open(file_path) as f:
+        await message.channel.send("**Requested batch data:**", file=discord.File(f, os.path.basename(file_path)))
         
 
-def _batch_approve(batch_data: Batch, author: Member) -> str:
+async def _batch_approve(batch_data: Batch, message: Message) -> str:
+    author = message.author
+
     if not _is_admin(author):
         return "You must be a Jumpedia Admin to be able to approve a batch!"
     
@@ -1451,16 +1598,28 @@ def _batch_approve(batch_data: Batch, author: Member) -> str:
     
     # Remove jumps
     for jump_name in batch_data['rem']:
-        db.pop(jump_name)
+        db.pop(jump_name, None)
     
     # Edit jumps
     for jump_name, jump_data in batch_data['edit'].items():
+        # If a name to edit is given, copy over the jump data to new name & pop old jump name
+        if 'name' in jump_data.keys():
+            # If the name's case simply got changed
+            if jump_name == jump_data['name'].lower():
+                db[jump_name]['name'] = jump_data['name']
+            else:
+                new_name = jump_data['name']
+                new_name_l = new_name.lower()
+
+                db[new_name_l] = database._get_jump_fast(jump_name)
+                db.pop(jump_name)
+                jump_name = new_name_l
+
         for attr, val in jump_data.items():
-            if attr != 'name':
-                if not val:
-                    db[jump_name].pop(attr, "")
-                else:
-                    db[jump_name][attr] = val
+            if not val:
+                db[jump_name].pop(attr, "")
+            else:
+                db[jump_name][attr] = val
     
     # Add jumps
     db |= batch_data['add']
@@ -1473,12 +1632,14 @@ def _batch_approve(batch_data: Batch, author: Member) -> str:
     batch_data['implemented_at'] = _time_to_str()
     
     _write_to_json_safely(_get_batch_data_path(batch_data['hash']), batch_data)
-    return "**The batch was successfully approved!**\nThe changes are now implemented and no further changes to the batch can be made!"
+
+    await message.channel.send("# The batch was successfully approved!\nThe changes are now implemented and no further changes to the batch can be made!")
+    await genlists(message)
 
 
 def _batch_info(batch_data: Batch) -> str:
     
-    def database_to_str(title: str, db: list[str | Iterable[str]] | Database) -> str:
+    def database_to_str(title: str, db: list[str | Iterable[str]] | Database, exclude_name: bool = True) -> str:
         INDENT = "   "
         LISTER1 = "- "
         LISTER2 = "> "
@@ -1489,7 +1650,7 @@ def _batch_info(batch_data: Batch) -> str:
         
         jump_texts = []
         for name, infos in db.items():
-            jump_texts.append(f"\n{INDENT * 2}{LISTER2}".join([off_name['name'] if (off_name := database._get_jump_fast(name)) else f"{name}*" + ":", *(f"{attr.title()}: {str(info)}" for attr, info in infos.items() if attr != 'name')]))
+            jump_texts.append(f"\n{INDENT * 2}{LISTER2}".join([off_name['name'] if (off_name := database._get_jump_fast(name)) else f"{name}*" + ":", *(f"{attr.title()}: {str(info)}" for attr, info in infos.items() if not exclude_name or attr != 'name')]))
         
         return f"\n{INDENT}{LISTER1}".join([f"{title}:", *jump_texts]) if jump_texts else NONE
             
@@ -1497,13 +1658,13 @@ def _batch_info(batch_data: Batch) -> str:
     texts = [
         "\n".join(f"{info.capitalize().replace('_', ' ')}: {batch_data.get(info, 'Not specified')}" for info in SINGLE_LINE_INFOS),
         database_to_str("Additions", batch_data['add']),
-        database_to_str("Edits", batch_data['edit']),
+        database_to_str("Edits", batch_data['edit'], exclude_name=False),
         database_to_str("Removals", batch_data['rem']),
         database_to_str("Logs", batch_data['log']),
         "* next to a jump's name means that the jump is currently not Jumpedia's Database.\nThis means that it simply wasn't added yet (the batch has to still be implemented)\nor that the jump was removed."
     ]
     
-    return pastee.create("\n\n".join(texts), beforeLink="Info found:")
+    return paste.create("\n\n".join(texts), beforeLink="Info found:")
     
 
 def _batch_nuke(batch_data: Batch, author: Member) -> str:
@@ -1512,19 +1673,19 @@ def _batch_nuke(batch_data: Batch, author: Member) -> str:
     
     _append_log(batch_data, f"{_str_author(author)} NUKES BATCH!!!")
     batch_data['status'] = 'nuked'
+    batch_data['implemented_at'] = 'Never'
 
     _write_to_json_safely(_get_batch_data_path(batch_data['hash']), batch_data)
     return "The batch was successfully ***NUKED***! :exploding_head:"
 
 
-# TODO: Non-changing operations on implemented batches via hash
-def batch(channel_id: int, args: tuple[str, ...], message: Message) -> str:
-    operation = args[1].lower() if args[1].lower() != 'del' else 'rem'
+async def batch(channel_id: int, args: tuple[str, ...], message: Message) -> str:
+    operation = args[1].lower()
     author = message.author
 
     if not _is_mod(author):
         return "You aren't authorized to use this command!"
-    elif _get_channel_type(channel_id) < 2:
+    elif _get_channelconf(channel_id)["commands"] != "moderation":
         return "Channel must be of type `Moderation`!"
     
     # Operations that require no specification of a batch
@@ -1559,7 +1720,10 @@ def batch(channel_id: int, args: tuple[str, ...], message: Message) -> str:
     # Operations that don't alter the batch's info
     match operation:
         case 'log': return _batch_log(batch_data)
-        case 'download': return _batch_download(batch_data)
+        case 'download': 
+            await _batch_download(batch_data, message)
+            return
+        
         case 'info': return _batch_info(batch_data)
     
     if _is_locked(batch_data):
@@ -1568,7 +1732,7 @@ def batch(channel_id: int, args: tuple[str, ...], message: Message) -> str:
     # Operations that change any batch info (including the status)
     match operation:
         case 'status': return _batch_status(batch_data, args, author)
-        case 'approve': return _batch_approve(batch_data, author)
+        case 'approve': return await _batch_approve(batch_data, message)
         case 'nuke': return _batch_nuke(batch_data, author)
     
     if not _is_editable(batch_data):
@@ -1578,58 +1742,184 @@ def batch(channel_id: int, args: tuple[str, ...], message: Message) -> str:
     match operation:
         case 'add': return _batch_add_or_edit(batch_data, args, author, add_else_edit=True)
         case 'edit': return _batch_add_or_edit(batch_data, args, author, add_else_edit=False)
-        case 'rem': return _batch_rem(batch_data, rest, author)
+        case 'rem' | 'del': return _batch_rem(batch_data, rest, author)
         case 'forget': return _batch_forget(batch_data, args, author)
         #case 'json': pass
         #case 'undo': pass
-    
+
     return f"The batch command `{operation}` does not exist!"
         
 
 
-def genlist(server_user_val: str, author: Member):
+async def genlists(message: Message) -> None:
+    author = message.author
+
     if not _is_admin(author):
         return "You must be a Jumpedia Admin to be able to use this command!"
     
+    LIST_INFOS = {
+        "Database": {
+            'channel_id': 692793306996015145,
+            'key': lambda jump_data: jump_data['server'] == "Database" and jump_data['diff'] != "Unproven"
+        },
+        "SMO Trickjumping Server": {
+            'channel_id': 692792665082691695,
+            'key': lambda jump_data: jump_data['server'] == "SMO Trickjumping Server" and jump_data['diff'] != "Unproven"
+        },
+        "Unproven": {
+            'channel_id': 692800140070748279,
+            'key': lambda jump_data: jump_data['diff'] == "Unproven" 
+        }
+    }
+
+    await message.channel.send("**Generating new lists in the Trickjump Database!**\n*This might take a minute...*")
+
     try:
-        server = _user_val_to_val('server', server_user_val)
-    except ValueError:
-        return "Please enter a valid server user attribute!"
-    
-    server_jumps = [{attr: jump_data[attr] for attr in('name', 'location', 'diff')} for jump_data in database.DATABASE.values() if jump_data['server'] == server] 
-    text_list = []
+        # Iterate over each list
+        for lst_name, lst_infos in LIST_INFOS.items():
+            valid_jumps: dict[str, list] = {}
 
-    for loc in LOCATION_ORDER:
-        curr_loc = []
-        for jump in server_jumps:
-            if jump['location'][0] == loc:
-                curr_loc.append(jump)
+            if not CLIENT.get_channel(lst_infos['channel_id']):
+                await message.channel.send(f"The channel for `{lst_name}` is invalid! (Channel ID: `{str(lst_infos['channel_id'])}`)")
+                continue
+
+            # Get all jumps that fit the "key" -> all jumps that belong into the list
+            for jump_data in database.DATABASE.values():
+                if lst_infos['key'](jump_data) == True:
+                    valid_jumps.setdefault(jump_data['location'][0], []).append(jump_data)
+            
+            all_msgs_in_list = [f"# {lst_name} List {datetime.datetime.now().strftime('%d/%m/%Y')}\n"]
+
+            # Go through every kingdom entry in the valid_jumps dict
+            for loc in LOCATION_ORDER:
+
+                # If there is at least one jump in the kingdom, then it will list that kingdom
+                if loc in valid_jumps.keys():
+
+                    # Sort jumps in the specific kingdom by their difficulty, then by name
+                    loc_sorted_jumps = sorted(valid_jumps[loc], key=lambda jump_data: (DIFF_ORDER.index(jump_data['diff']), jump_data['name'].lower()))
+                    
+                    S = "'s"
+                    single_msg = [f"### {loc.title().replace(S.upper(), S)}\n"]
+                    single_msg_len = len(single_msg)
+
+                    for jump_data in loc_sorted_jumps:
+                        jump_text = f"{jump_data['name']} | {jump_data['diff']}\n"
+
+                        if single_msg_len + len(jump_text) <= MAX_DISCORD_MSG_LEN:
+                            single_msg.append(jump_text)
+                            single_msg_len += len(jump_text)
+                        else:
+                            all_msgs_in_list.append(single_msg)
+                            single_msg = []
+                            single_msg_len = 0
+
+                    if single_msg:
+                        all_msgs_in_list.append(single_msg)
+
+            # After all messages were generated, send them out
+            for msg in all_msgs_in_list:
+                await CLIENT.get_channel(lst_infos['channel_id']).send("".join(msg))
+            
+            # Send confirmation for the specifc list
+            await message.channel.send(f"The list in <#{str(lst_infos['channel_id'])}> was successfully updated!")
         
-        if curr_loc:
-            curr_loc.sort(key=lambda jump: DIFF_ORDER.index(jump['diff']))
-            curr_loc = [f"{jump['name']} | {jump['diff']}" for jump in curr_loc]
-            curr_loc.insert(0, f"__**{loc}**__:")
-            text_list.append("\n".join(curr_loc))
+        # Send confirmation that all lists were sent properly
+        await message.channel.send("**All lists in the Trickjump Database were successfully updated!**")
     
-    return pastee.create("\n\n".join(text_list), beforeLink=f"**{server} list:**")
+    except Exception as e:
+        await message.channel.send("An error occurred while trying to generate the lists for the Trickjump Database!")
 
+
+
+async def _backup_recursive(info_channel: TextChannel, backup_channel: TextChannel, dir_name: str):
+
+    for file_name in os.listdir(dir_name):
+        file_path = os.path.join(dir_name, file_name)
+
+        # Recursively go into deeper directories
+        if os.path.isdir(file_path):
+            
+            # Ignore any folders that start with "." or "__" in their name
+            if os.path.basename(file_path).startswith((".", "__")):
+                continue
+
+            await _backup_recursive(info_channel, backup_channel, file_path)
+        else:
+            # Ignores backup files
+            # if os.path.splitext(os.path.basename(file_path))[0].endswith(BACKUP_NAME_EXTENSION):
+            #     continue
+
+            with open(file_path, encoding='utf-8') as f:
+                file_content = f.read()
+
+            # If file size is bigger than MAX_FILE_SIZE (10MB), it will split it into multiple files
+            if len(file_content) < MAX_DISCORD_FILE_SIZE:
+                content_split = [file_content]
+            else:
+                content_split = re.findall('.{1,' + str(MAX_DISCORD_FILE_SIZE) + '}', file_content)
+                
+            file_path = file_path.replace(".\\", "", 1).replace("\\", "_DIR_")
+            try:
+                for i, part in enumerate(content_split):
+                    await backup_channel.send(None, file=discord.File(io.StringIO(part), file_path if len(content_split) == 1 else f"{file_path} [Part {i + 1}]"))
+            except:
+                await backup_channel.send(f"An error occurred while trying to send the send the contents of the file `{file_path}`!")
+
+
+async def backup_setup(author: Member, info_channel: TextChannel, backup_channel_id: TextChannel = 1155457840874532944):
+    if not _is_admin(author):
+        return "You must be a Jumpedia Admin to be able to use this command!"
     
+    backup_channel = CLIENT.get_channel(backup_channel_id)
+    
+    await info_channel.send("**The backup process has been started!**")
+    await backup_channel.send(f"# Jumpedia Backup {datetime.datetime.now().strftime('%d/%m/%Y')}")
+    await _backup_recursive(info_channel, backup_channel, ".")
+
+    return "**The backup process is finished!**"
+
+# TODO
+def subrate(args: tuple[str, ...], author: Member) -> str:
+    if not _is_god_tier_rater(author):
+        return "You must be a god tier rater or Jumpedia Admin to use this command!"
+    
+    _get_god_tier_rating_path = lambda : "data/users/god_tier_raters/"
 
 
-def run(message: Message, client: discord.Client) -> str:
+async def _daily_updates(message: Message) -> None:
+    """Checks and if needed runs all daily updates, like backups..."""
+    
+    if _is_time_for_daily_update('backup'):
+        await backup_setup(message.channel)
+
+
+async def run(message: Message, client: Client, development_mode: bool = False) -> str:
+    global CLIENT
+    CLIENT = client
+
+    response: str | None = None
+
     # From https://op.europa.eu/en/web/eu-vocabularies/formex/physical-specifications/character-encoding/quotation-marks
     QUOT_MARKS_TO_REPL = "“”«»“”„‟"
     SINGLE_QUOT_MARKS_TO_REPL = "‘’‚‛‹›"
 
     input = message.content
+    input_l = input.lower()
 
     for quot_mark in QUOT_MARKS_TO_REPL: input = input.replace(quot_mark, '"')
     for s_quot_mark in SINGLE_QUOT_MARKS_TO_REPL: input = input.replace(s_quot_mark, "'")
 
-    input_l = input.lower()
+    channel_id = message.channel.id
+    author = message.author
+
+    _add_to_idu_db(author)
+    
+    prefix = True if input_l.startswith(PREFIX) else False
+
     # Ignore if just prefix or not even prefix
-    if not input_l.startswith(PREFIX) or len(input) == len(PREFIX):
-        return None
+    if (not prefix or len(input) == len(PREFIX)) and _get_channelconf(channel_id)['info'] != "short":
+        return
 
     try:
         args = tuple(shlex.split(input))  # Split string into arguments (shell-like)
@@ -1637,114 +1927,52 @@ def run(message: Message, client: discord.Client) -> str:
         
         rest_l = " ".join(args[1:]).lower()
         cmd = args[0][len(PREFIX):].lower()
-        
-        channel_id = message.channel.id
-        author = message.author
     except:
+        if not prefix:
+            return
         return "Put arguments with special characters like `\'` or `SPACE` into `\"quotation marks\"` or alternatively put a `\\` behind every special character\nExample: `\"Bowser's Kingdom\"` or `Bowser\\'s\\ Kingdom`"
     
-    # !channeltype is usable everywhere
-    if cmd == "channeltype":
-        return channeltype(channel_id, author, rest_l)
-    
-    cmd = 'del' if cmd == 'rem' else cmd
-    
-    # All other commands must have channeltype > 0 (commands or moderation)
-    if _get_channel_type(channel_id):
+    # If the channel has short info on, it will allow the execution of the info command without prefix
+    if not prefix:
+        # TODO: In next update, allow to setup levenshtein distance themselves
+        if _get_channelconf(channel_id)['commands'] != "none" and database._get_jump_fast(jump_name := " ".join(args_l)):
+            response = info(jump_name)
+        else:
+            return
+
+
+    # channelconf is usable everywhere
+    if cmd == "channelconf":
+        response = channelconf(args_l, channel_id, author)
+
+    # All other commands must be in a channel that allows commands
+    #
+    # If a function returns a simple text response at the very end of its execution, 
+    # "response" gets returned, while other messages or ones that contain more than just
+    # text can be sent while the function executes with message.channel.send()
+    if not response and _get_channelconf(channel_id)['commands'] != "none":
         match cmd:
-            case 'help': return help()
-            case 'info': return info(rest_l)
-            case 'list': return list_(args_l, author)
-            case 'missing': return missing(args, author)
-            case 'give': return give(args, author)  
-            case 'del': return del_(rest_l, author)
-            case 'proof': return proof(args, author)
-            case 'rate': return rate(args_l, author)
-            case 'ratings': return ratings(rest_l)
-            case 'donate': return donate() 
-            case 'typedyno': return typedyno(args_l, author)
-            case 'batch': return batch(channel_id, args, message)
-            case 'genlist': return genlist(rest_l, author) 
-            #case 'top100': return top100(client)
-            case _: return "That command doesn't exist! Enter `!help` if you need assistance!"
-            
-            
-            
-"""
-def _cut_string_if_too_long(string: str, max_length: int, regex: str) -> str:
-    if len(string) > max_length:
-        string = string[:max_length]
-        match = re.search(regex, string[::-1])
+            case 'help': response = help()
+            case 'info': response = info(rest_l, 3)
+            case 'list': response = await list_(args_l, author)
+            case 'missing': response = await missing(args, author)
+            case 'give': response = give(args, author)  
+            case 'del' | 'rem': response = del_(rest_l, author)
+            case 'proof': response = proof(args, author)
+            case 'rate': response = rate(args_l, author)
+            case 'ratings': response = ratings(rest_l)
+            case 'donate': response = donate() 
+            case 'typedyno': response = typedyno(args_l, author)
+            case 'batch': response = await batch(channel_id, args, message)
+            case 'genlist' | 'genlists': response = await genlists(message) 
+            case 'top100': response = await top100()
+            case 'random': response = random_()
+            case 'backup': response = await backup_setup(author, message.channel)
+            #case 'subrate': response = subrate(args_l, author)
+            case _: response = "That command doesn't exist! Enter `!help` if you need assistance!"
 
-        if match:
-            string = string[:len(string) - match.start() - len(match[-1])] + "\n..."
-
-    return string
+    if response:
+        await message.channel.send(response)
     
-def _batch_json(batch_name: str, message: Message, args: tuple[str, ...]) -> str:
-    if args[0] in 'overwrite':
-        overwrite_jump_data = True
-    elif args[0] in 'append':
-        overwrite_jump_data = False
-    
-    attachments = message.attachments
-    batch_updates: list[Batch] = []
-
-    for attachment in attachments:
-        if attachment.filename.endswith('.json'):
-            try:
-                response = requests.get(attachment.url)
-                data = response.json()
-                batch_updates.append(data)
-            except requests.exceptions.JSONDecodeError:
-                pass    # Don't add to list
-
-    if not batch_updates:
-        return "No valid `.json` files were attached to the message!"
-    
-    with open(_get_batch_file_path(batch_name)) as f:
-        batch: Batch = json.load(f)
-    
-    not_updated: list[str] = []
-    updated: list[ElementStat] = []
-    try:
-        # jsons -> add, del, edit -> database -> jump
-        for file in batch_updates:
-            for batch_key, database in file.items():
-                if batch_key not in VALID_BATCH_KEYS:
-                    not_updated.append(f"`{batch_key}` is not a valid json operation (only {', '.join(VALID_BATCH_KEYS)} allowed)!")
-                    continue
-
-                for jump_name, jump_data in database.items():
-                    batch_jump_data = batch.setdefault(batch_key, {}).setdefault(jump_name.lower(), {})
-
-                    if overwrite_jump_data: 
-                        batch_jump_data = jump_data
-                    else: 
-                        batch_jump_data.update(jump_data)
-
-                    updated.append(jump_data)
-    except NameError | AttributeError | TypeError | KeyError as e:
-        return f"The `.json` provided was malformed! The specificed error is:\n```{str(e)}```"
-
-    if len(updated) == 0:
-        return "Nothing was updated, probably because the jsons didn't contain any (new) data!"
-    
-    # List appending, then converting to string is faster than string appending
-    updated_str_as_list = []
-    
-    for jump_data in updated:
-        updated_str_as_list.append(f"- {jump_data['name']}")
-        
-        for attr, val in jump_data.items():
-            updated_str_as_list.append(f"\t- {attr}: {val}")
-
-    updated_str = _cut_string_if_too_long("\n".join(updated_str_as_list), 800, r'\n(?!\t)')
-    not_updated = _cut_string_if_too_long("\n".join(not_updated), 800, r'\n')
-
-    return f"**The batch was updated with the contents of the json file(s)**!\n \
-        For any jumps that already existed in the same operation, the data was {'overwritten' if overwrite_jump_data else 'appended'}!\n\n \
-        {f'__Following things were updated:__{NL}{updated_str}{NL * 2}' if updated_str else ''} \
-        {f'__Following things could not be updated:__{NL}{not_updated}{NL * 2}' if not_updated else ''}\n\n \
-        If anything went wrong, __**IMMEDIATELY**__ use the `!batch undo` command to revert all changes!"
-"""     
+    if not development_mode:
+        await _daily_updates(message)
