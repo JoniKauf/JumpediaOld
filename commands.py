@@ -93,7 +93,7 @@ IDU_DB_PATH = "data/users/idu_db.json"
 def _add_to_idu_db(author: Member) -> None:
     # id-username-database
     idu_db: dict[str, str] = _read_from_json_safely(IDU_DB_PATH)
-    idu_db[str(author.id)] = author.global_name
+    idu_db[str(author.id)] = author.global_name if author.global_name else author.name
     _write_to_json_safely(IDU_DB_PATH, idu_db)
 
 def _id_to_username(id: int | str) -> str:
@@ -1063,8 +1063,6 @@ async def top100() -> str:
                 users_scoring[username] += DIFF_TO_POINTS.get(jump_data['diff'], 0)
 
     top: list[tuple[str, float]] = sorted(users_scoring.items(), key=lambda elem: elem[1], reverse=True)
-    for guy in top:
-        print(guy)
     if len(top) > 100:
         top = top[:100]
 
@@ -1889,11 +1887,11 @@ def subrate(args: tuple[str, ...], author: Member) -> str:
     _get_god_tier_rating_path = lambda : "data/users/god_tier_raters/"
 
 
-async def _daily_updates(message: Message) -> None:
+async def _daily_updates(author: Member, message: Message) -> None:
     """Checks and if needed runs all daily updates, like backups..."""
     
     if _is_time_for_daily_update('backup'):
-        await backup_setup(message.channel)
+        await backup_setup(author, message.channel)
 
 
 async def run(message: Message, client: Client, development_mode: bool = False) -> str:
@@ -1916,9 +1914,9 @@ async def run(message: Message, client: Client, development_mode: bool = False) 
     author = message.author
 
     _add_to_idu_db(author)
-    
-    prefix = True if input_l.startswith(PREFIX) else False
 
+    prefix = True if input_l.startswith(PREFIX) else False
+    
     # Ignore if just prefix or not even prefix
     if (not prefix or len(input) == len(PREFIX)) and _get_channelconf(channel_id)['info'] != "short":
         return
@@ -1933,7 +1931,7 @@ async def run(message: Message, client: Client, development_mode: bool = False) 
         if not prefix:
             return
         return "Put arguments with special characters like `\'` or `SPACE` into `\"quotation marks\"` or alternatively put a `\\` behind every special character\nExample: `\"Bowser's Kingdom\"` or `Bowser\\'s\\ Kingdom`"
-    
+
     # If the channel has short info on, it will allow the execution of the info command without prefix
     if not prefix:
         # TODO: In next update, allow to setup levenshtein distance themselves
@@ -1941,7 +1939,6 @@ async def run(message: Message, client: Client, development_mode: bool = False) 
             response = info(jump_name)
         else:
             return
-
 
     # channelconf is usable everywhere
     if cmd == "channelconf":
@@ -1977,4 +1974,4 @@ async def run(message: Message, client: Client, development_mode: bool = False) 
         await message.channel.send(response)
     
     if not development_mode:
-        await _daily_updates(message)
+        await _daily_updates(author, message)

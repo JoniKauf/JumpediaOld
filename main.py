@@ -33,6 +33,7 @@ async def first_command(interaction: discord.Interaction):
 
 @client.event
 async def on_ready():
+
     await tree.sync()
 
     await client.wait_until_ready()
