@@ -1,0 +1,49 @@
+{
+    "name": "t",
+    "hash": "0298bd879aa37c49492c009c76c73fd9be7eb0a0ab0dd93cc4d8075d6043da9ca87454cebaf70283b07befff7dd5b382b3c934a5a3fca5a854ba12499d96eb1f",
+    "created_at": "2023-08-02 13:42:07 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-02 13:43:07 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-02 13:42:07 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-02 13:42:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Mini PegPog   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-08-02 13:42:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault True Lunch Mard   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-08-02 13:42:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Honeymoon   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-08-02 13:43:02 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true mini pegpog": {
+            "name": "True Mini PegPog",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "vault true lunch mard": {
+            "name": "Vault True Lunch Mard",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "honeymoon": {
+            "name": "Honeymoon",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

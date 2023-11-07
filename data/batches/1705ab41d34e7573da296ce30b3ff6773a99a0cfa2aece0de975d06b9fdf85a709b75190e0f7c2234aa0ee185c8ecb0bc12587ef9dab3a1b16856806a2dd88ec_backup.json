@@ -1,0 +1,37 @@
+{
+    "name": "t",
+    "hash": "1705ab41d34e7573da296ce30b3ff6773a99a0cfa2aece0de975d06b9fdf85a709b75190e0f7c2234aa0ee185c8ecb0bc12587ef9dab3a1b16856806a2dd88ec",
+    "created_at": "2023-10-24 12:27:33 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-24 12:28:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-24 12:27:33 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-24 12:28:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bouncyfool   Diff: 8.5/10   Tier: Master   Prover: ['Ben.smo']   Links: ['https://youtu.be/EQp15KHt9aI']"
+        ],
+        [
+            "2023-10-24 12:28:16 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "bouncyfool": {
+            "name": "Bouncyfool",
+            "diff": "8.5/10",
+            "prover": [
+                "Ben.smo"
+            ],
+            "links": [
+                "https://youtu.be/EQp15KHt9aI"
+            ],
+            "tier": "Master"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,37 @@
+{
+    "name": "sand",
+    "hash": "9b41b449efb61bc82073985824decff98b94b85fe7c9c0829ad13521be0b9e37d0660c51ee416755fd9f723a0c80bf8cf553d7b2f58f9fe01c27dbb8a259220c",
+    "created_at": "2023-07-11 11:45:09 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-11 11:47:06 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-11 11:45:09 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-11 11:46:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sandy Uprise   Diff: God Tier   Tier: God Tier   Prover: ['newname']   Links: ['https://youtu.be/V7JEyba72L0']"
+        ],
+        [
+            "2023-07-11 11:46:59 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sandy uprise": {
+            "name": "Sandy Uprise",
+            "diff": "God Tier",
+            "prover": [
+                "newname"
+            ],
+            "links": [
+                "https://youtu.be/V7JEyba72L0"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,47 @@
+{
+    "name": "glomp",
+    "hash": "f609942e5e22fc9593f1395eecb97262068655d6b5cce7d3fc7892998d188050e85156a1de360a15f61d3a4edf0e1b6f4f5d23cde4e27ec31b1fa8db40f74fb7",
+    "created_at": "2023-08-01 22:51:21 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-01 22:51:51 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-01 22:51:21 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-01 22:51:25 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Mozzarella Stick   Location: ['Luncheon Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Vault']   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://www.youtube.com/watch?v=ao7k1o62qSc']"
+        ],
+        [
+            "2023-08-01 22:51:49 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "mozzarella stick": {
+            "name": "Mozzarella Stick",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "High Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=ao7k1o62qSc"
+            ],
+            "tier": "High Elite"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

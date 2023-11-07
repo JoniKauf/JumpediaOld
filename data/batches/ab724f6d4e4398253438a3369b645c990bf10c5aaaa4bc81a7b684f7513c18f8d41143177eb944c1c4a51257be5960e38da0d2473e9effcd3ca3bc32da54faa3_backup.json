@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "ab724f6d4e4398253438a3369b645c990bf10c5aaaa4bc81a7b684f7513c18f8d41143177eb944c1c4a51257be5960e38da0d2473e9effcd3ca3bc32da54faa3",
+    "created_at": "2023-07-18 23:32:48 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-18 23:33:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-18 23:32:48 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-18 23:33:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: TT-Less Golden Grip   Prover: ['Ninjapugs']"
+        ],
+        [
+            "2023-07-18 23:33:15 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "tt-less golden grip": {
+            "name": "TT-Less Golden Grip",
+            "prover": [
+                "Ninjapugs"
+            ]
+        }
+    },
+    "rem": []
+}

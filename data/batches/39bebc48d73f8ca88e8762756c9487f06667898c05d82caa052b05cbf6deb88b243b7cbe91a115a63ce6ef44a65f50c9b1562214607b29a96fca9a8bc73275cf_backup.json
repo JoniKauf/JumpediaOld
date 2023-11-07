@@ -1,0 +1,32 @@
+{
+    "name": "a",
+    "hash": "39bebc48d73f8ca88e8762756c9487f06667898c05d82caa052b05cbf6deb88b243b7cbe91a115a63ce6ef44a65f50c9b1562214607b29a96fca9a8bc73275cf",
+    "created_at": "2023-09-01 19:14:45 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-01 19:15:29 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-01 19:14:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-01 19:15:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Jaxi Friends   Finder: ['Lunaire']"
+        ],
+        [
+            "2023-09-01 19:15:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "jaxi friends": {
+            "name": "Jaxi Friends",
+            "finder": [
+                "Lunaire"
+            ]
+        }
+    },
+    "rem": []
+}

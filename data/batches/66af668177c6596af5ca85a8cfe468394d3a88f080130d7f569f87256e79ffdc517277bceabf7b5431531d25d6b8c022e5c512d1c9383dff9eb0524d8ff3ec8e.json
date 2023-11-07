@@ -1,0 +1,32 @@
+{
+    "name": "meteor",
+    "hash": "66af668177c6596af5ca85a8cfe468394d3a88f080130d7f569f87256e79ffdc517277bceabf7b5431531d25d6b8c022e5c512d1c9383dff9eb0524d8ff3ec8e",
+    "created_at": "2023-07-10 09:47:29 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-10 09:48:00 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-10 09:47:29 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-10 09:47:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Meteor Blade   Finder: ['Enlvie']"
+        ],
+        [
+            "2023-07-10 09:47:52 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "meteor blade": {
+            "name": "Meteor Blade",
+            "finder": [
+                "Enlvie"
+            ]
+        }
+    },
+    "rem": []
+}

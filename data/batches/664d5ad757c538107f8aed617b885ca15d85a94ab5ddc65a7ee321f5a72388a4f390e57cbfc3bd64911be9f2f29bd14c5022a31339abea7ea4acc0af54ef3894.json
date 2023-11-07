@@ -1,0 +1,32 @@
+{
+    "name": "b",
+    "hash": "664d5ad757c538107f8aed617b885ca15d85a94ab5ddc65a7ee321f5a72388a4f390e57cbfc3bd64911be9f2f29bd14c5022a31339abea7ea4acc0af54ef3894",
+    "created_at": "2023-10-17 11:07:27 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-17 11:08:37 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-17 11:07:27 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-17 11:08:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lunch Gap   Extra: [\"You're allowed to use a triple throw here!\"]"
+        ],
+        [
+            "2023-10-17 11:08:32 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lunch gap": {
+            "name": "Lunch Gap",
+            "extra": [
+                "You're allowed to use a triple throw here!"
+            ]
+        }
+    },
+    "rem": []
+}

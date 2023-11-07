@@ -1,0 +1,35 @@
+{
+    "name": "mermaid",
+    "hash": "96e648d7e4d11ef7f2e4932dd4a3ff564839a45c8590b723e2a139b3451e42e4be13a261909aa7a1e80f2a1104a33a7072d7e28d34e7279c1d91d8143653ddb8",
+    "created_at": "2023-07-03 05:38:24 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-03 05:39:56 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-03 05:38:24 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-03 05:39:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Musical Mermaid   Finder: ['Cyber']   Prover: ['Cyber']"
+        ],
+        [
+            "2023-07-03 05:39:49 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "musical mermaid": {
+            "name": "Musical Mermaid",
+            "finder": [
+                "Cyber"
+            ],
+            "prover": [
+                "Cyber"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,31 @@
+{
+    "name": "a",
+    "hash": "f757c90869ae19c030d046ef7d168218ec5579359cd2220b5534c1bc9247f250c1afdb0fab2ec5ed618dccbaf0ffa2baa7534536cb9b1da57b3dedf593a7d374",
+    "created_at": "2023-09-30 21:26:22 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-30 21:26:44 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-30 21:26:22 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-30 21:26:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Backyard Beans   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-09-30 21:26:39 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true backyard beans": {
+            "name": "True Backyard Beans",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

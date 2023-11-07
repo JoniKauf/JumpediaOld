@@ -1,0 +1,188 @@
+{
+    "name": "ZG",
+    "hash": "a52bd0954d4ef501e7b5e6b392715ea6f05c178ec1bf9db0df2b4c44562d1be058bbd55181926a17451263e8de4a8ec066d89b697f5c1fbb60904a9e2a0893ea",
+    "created_at": "2023-08-26 20:13:31 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-08-26 20:36:11 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 20:13:31 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-08-26 20:14:35 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Interstellar Indication   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:15:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cavern of Fears   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:16:10 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Kenophobia   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:16:29 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dimensional Divide   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:17:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Galactic Gorge   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:19:21 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: ZG Leap   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:20:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cosmic Canyon   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:22:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Moon Moon Collector   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:26:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dark Corner   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:26:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Galactic Leap   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:27:07 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Celestial Chest   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:27:38 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cosmic Corner   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:27:51 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Dark Corner   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:28:15 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lunar Leap   Type: ['triple', 'zg']"
+        ],
+        [
+            "2023-08-26 20:28:37 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Fruity Gap   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:30:36 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: fruity gap"
+        ],
+        [
+            "2023-08-26 20:31:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Fruity Gap   Type: ['longjump', 'zg']"
+        ],
+        [
+            "2023-08-26 20:35:29 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "interstellar indication": {
+            "name": "Interstellar Indication",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "cavern of fears": {
+            "name": "Cavern of Fears",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "kenophobia": {
+            "name": "Kenophobia",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "dimensional divide": {
+            "name": "Dimensional Divide",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "galactic gorge": {
+            "name": "Galactic Gorge",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "zg leap": {
+            "name": "ZG Leap",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "cosmic canyon": {
+            "name": "Cosmic Canyon",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "moon moon collector": {
+            "name": "Moon Moon Collector",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "dark corner": {
+            "name": "Dark Corner",
+            "type": [
+                "vault",
+                "zg"
+            ]
+        },
+        "galactic leap": {
+            "name": "Galactic Leap",
+            "type": [
+                "vault",
+                "zg"
+            ]
+        },
+        "celestial chest": {
+            "name": "Celestial Chest",
+            "type": [
+                "vault",
+                "zg"
+            ]
+        },
+        "cosmic corner": {
+            "name": "Cosmic Corner",
+            "type": [
+                "vault",
+                "zg"
+            ]
+        },
+        "lunar leap": {
+            "name": "Lunar Leap",
+            "type": [
+                "triple",
+                "zg"
+            ]
+        },
+        "fruity gap": {
+            "name": "Fruity Gap",
+            "type": [
+                "longjump",
+                "zg"
+            ]
+        }
+    },
+    "rem": []
+}

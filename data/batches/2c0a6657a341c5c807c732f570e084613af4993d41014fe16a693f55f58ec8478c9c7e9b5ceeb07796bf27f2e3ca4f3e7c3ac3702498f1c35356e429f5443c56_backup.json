@@ -1,0 +1,32 @@
+{
+    "name": "se",
+    "hash": "2c0a6657a341c5c807c732f570e084613af4993d41014fe16a693f55f58ec8478c9c7e9b5ceeb07796bf27f2e3ca4f3e7c3ac3702498f1c35356e429f5443c56",
+    "created_at": "2023-08-02 13:03:04 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-02 13:04:17 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-02 13:03:04 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-02 13:03:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: twisted spike driver"
+        ],
+        [
+            "2023-08-02 13:03:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: gratuitous sequence"
+        ],
+        [
+            "2023-08-02 13:04:11 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "twisted spike driver",
+        "gratuitous sequence"
+    ]
+}

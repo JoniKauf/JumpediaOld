@@ -1,0 +1,270 @@
+{
+    "name": "e",
+    "hash": "6b6a0af08d217a91ed7fa7c929ecbc17ec3af264f53b22a8d599b57b4e128c2eab2f73f7cdfa67795c70aa58da186c80126c9e44bc28c4f01d7fe472a655891e",
+    "created_at": "2023-09-04 20:00:45 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-04 20:12:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-04 20:00:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-04 20:03:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pipe's Pole   Location: ['Seaside Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Triple']   Finder: ['Arctic']   Prover: ['Connor91']   Server: Database   Links: ['https://youtu.be/P4ymUyhR_G8?si=m--0v4Pf8Tn6waMC']"
+        ],
+        [
+            "2023-09-04 20:04:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Garbage Collector   Location: ['Metro Kingdom']   Diff: 2/10   Tier: Beginner   Type: ['Vault']   Finder: ['Walmart Fan']   Prover: ['Walmart Fan']   Server: Database   Links: ['https://youtu.be/6d0R-OyT4jA?si=xsiGc_JAsCaI53I2']"
+        ],
+        [
+            "2023-09-04 20:05:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Lefter Cheesy Adventure   Location: ['Luncheon Kingdom']   Diff: God Tier   Tier: God Tier   Type: ['Vault']   Prover: ['Julius 06']   Server: Database   Links: ['https://youtu.be/AJKpCHryteY?si=FDvX8M9oLuZBDTPj']"
+        ],
+        [
+            "2023-09-04 20:06:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Snowman to Snowman   Location: ['Mushroom Kingdom']   Diff: 4/10   Tier: Intermediate   Type: ['Entity Bounce']   Finder: ['Hose_10']   Prover: ['Hose_10']   Server: Database   Links: ['https://youtu.be/QHegOs6fwsE?si=6pmhQTEPmBWgEZGi']"
+        ],
+        [
+            "2023-09-04 20:07:19 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Aquatic Evacuation   Location: ['Wooded Kingdom']   Diff: 4/10   Tier: Intermediate   Type: ['Cap Return Jump']   Finder: ['bts boi']   Prover: ['btw boi']   Server: Database   Links: ['https://youtu.be/5KOIT0CH0A4?si=5-wuq58sp41gUZMU']"
+        ],
+        [
+            "2023-09-04 20:08:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Ident Moment 4.0   Location: ['Sand Kingdom']   Diff: 9.5/10   Tier: Master   Type: ['Vault']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/dAOQ7KkHqls?si=WjUu1hGTBZHbsv6_']"
+        ],
+        [
+            "2023-09-04 20:09:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Rooftop Actually Roundabout   Location: ['Luncheon Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Triple']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/awjQ1HxPQP0?si=_LjdNt7ctcpWAS78']"
+        ],
+        [
+            "2023-09-04 20:10:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Apple Scale   Location: ['Luncheon Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Vertical', 'cap return jump']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/8_0gupFVP4o?si=kWrgFbH1DinAcK5a']"
+        ],
+        [
+            "2023-09-04 20:11:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Ident Moment 5.0   Location: ['Mushroom Kingdom']   Diff: 9/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/ITkh0N-2Bf8?si=qMC3miAvJ8qWJYoR']"
+        ],
+        [
+            "2023-09-04 20:12:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Ident Moment 7.0   Location: ['Lost Kingdom']   Diff: 9/10   Tier: Master   Type: ['Vault']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/nVlxRigZ5To?si=leWSgmA85YGA7H0N']"
+        ],
+        [
+            "2023-09-04 20:12:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "pipe's pole": {
+            "name": "Pipe's Pole",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Arctic"
+            ],
+            "prover": [
+                "Connor91"
+            ],
+            "links": [
+                "https://youtu.be/P4ymUyhR_G8?si=m--0v4Pf8Tn6waMC"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "garbage collector": {
+            "name": "Garbage Collector",
+            "diff": "2/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Walmart Fan"
+            ],
+            "prover": [
+                "Walmart Fan"
+            ],
+            "links": [
+                "https://youtu.be/6d0R-OyT4jA?si=xsiGc_JAsCaI53I2"
+            ],
+            "tier": "Beginner"
+        },
+        "lefter cheesy adventure": {
+            "name": "Lefter Cheesy Adventure",
+            "diff": "God Tier",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "prover": [
+                "Julius 06"
+            ],
+            "links": [
+                "https://youtu.be/AJKpCHryteY?si=FDvX8M9oLuZBDTPj"
+            ],
+            "tier": "God Tier"
+        },
+        "snowman to snowman": {
+            "name": "Snowman to Snowman",
+            "diff": "4/10",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Hose_10"
+            ],
+            "prover": [
+                "Hose_10"
+            ],
+            "links": [
+                "https://youtu.be/QHegOs6fwsE?si=6pmhQTEPmBWgEZGi"
+            ],
+            "tier": "Intermediate"
+        },
+        "aquatic evacuation": {
+            "name": "Aquatic Evacuation",
+            "diff": "4/10",
+            "server": "Database",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "type": [
+                "Cap Return Jump"
+            ],
+            "finder": [
+                "bts boi"
+            ],
+            "prover": [
+                "btw boi"
+            ],
+            "links": [
+                "https://youtu.be/5KOIT0CH0A4?si=5-wuq58sp41gUZMU"
+            ],
+            "tier": "Intermediate"
+        },
+        "ident moment 4.0": {
+            "name": "Ident Moment 4.0",
+            "diff": "9.5/10",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/dAOQ7KkHqls?si=WjUu1hGTBZHbsv6_"
+            ],
+            "tier": "Master"
+        },
+        "rooftop actually roundabout": {
+            "name": "Rooftop Actually Roundabout",
+            "diff": "8.5/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/awjQ1HxPQP0?si=_LjdNt7ctcpWAS78"
+            ],
+            "tier": "Master"
+        },
+        "apple scale": {
+            "name": "Apple Scale",
+            "diff": "8.5/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Vertical",
+                "cap return jump"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/8_0gupFVP4o?si=kWrgFbH1DinAcK5a"
+            ],
+            "tier": "Master"
+        },
+        "ident moment 5.0": {
+            "name": "Ident Moment 5.0",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/ITkh0N-2Bf8?si=qMC3miAvJ8qWJYoR"
+            ],
+            "tier": "Master"
+        },
+        "ident moment 7.0": {
+            "name": "Ident Moment 7.0",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/nVlxRigZ5To?si=leWSgmA85YGA7H0N"
+            ],
+            "tier": "Master"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

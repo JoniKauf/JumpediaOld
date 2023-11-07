@@ -1,0 +1,47 @@
+{
+    "name": "c",
+    "hash": "0ab1fadec8c619a7f8e112fc886aab3d317812c0830e9a4d1d9df85844fdb9468dc64383be0543521bfe3a570446fca8d942982e94e98d8d7ebed52c97fa3e32",
+    "created_at": "2023-08-14 11:29:11 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-14 11:30:02 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-14 11:29:11 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-14 11:29:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: caveman\\'s chest"
+        ],
+        [
+            "2023-08-14 11:29:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Caveman's Chest   Location: ['Sand Kingdom']   Diff: 9/10   Tier: Master   Type: ['Vault']   Server: Database   Links: ['https://www.youtube.com/watch?v=JkVXsbWmhKk']"
+        ],
+        [
+            "2023-08-14 11:29:56 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "caveman's chest": {
+            "name": "Caveman's Chest",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "9/10",
+            "type": [
+                "Vault"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=JkVXsbWmhKk"
+            ],
+            "tier": "Master"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "caveman\\'s chest"
+    ]
+}

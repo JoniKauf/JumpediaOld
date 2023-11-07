@@ -1,0 +1,288 @@
+{
+    "name": "e",
+    "hash": "ce818f5d615df874e7b860543c2c458c4f1f44f461a64779bc9def1ca4bf93aea6af7aa5e4293d4432c588455b68413add1412de92f7fdfe42a407b06cb72100",
+    "created_at": "2023-10-03 07:22:03 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-03 07:30:49 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-03 07:22:03 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-03 07:22:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: haha jonathan you are banging my daughter"
+        ],
+        [
+            "2023-10-03 07:22:26 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: longjump mushroom mard"
+        ],
+        [
+            "2023-10-03 07:22:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: slow seaside mard"
+        ],
+        [
+            "2023-10-03 07:23:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Cheesy Chomp   Location: ['Luncheon Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Vault']   Finder: ['Qazzy']   Prover: ['Qazzy']   Server: Database   Links: ['https://www.youtube.com/watch?v=6m10B2HMrzc']"
+        ],
+        [
+            "2023-10-03 07:24:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Longjump Mushroom Dram   Location: ['Mushroom Kingdom']   Diff: 10/10   Tier: Master   Type: ['Longjump']   Server: Database   Links: ['https://youtu.be/6UBeuokC_go']"
+        ],
+        [
+            "2023-10-03 07:24:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Slow Seaside Dram   Location: ['Seaside Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Slow Triple']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/p-_MAmM_0Y4']"
+        ],
+        [
+            "2023-10-03 07:26:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Shingle Reach   Diff: Mid Elite   Tier: Mid Elite   Extra: ['Bonking on the far right part is allowed!']"
+        ],
+        [
+            "2023-10-03 07:27:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Dirty Vertical   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-10-03 07:27:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Billboard Vault Assault   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:27:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Upper Womantro Impossible   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:27:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Blue Sand   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:27:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vine Vault Assault   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:28:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Pole Panic   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:28:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Dumb Sheepy Boi   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:28:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Little Sheepy Dive   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:28:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Peter Piper Pizza   Diff: 8.5/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:28:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Explosive Longjump   Diff: 8.5/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:29:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cliff Climber 2.0   Diff: 8.5/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:29:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Ruins Rising   Diff: 8.5/10   Tier: Master"
+        ],
+        [
+            "2023-10-03 07:29:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Cascade Mard 2.0   Diff: 8/10   Tier: Expert"
+        ],
+        [
+            "2023-10-03 07:29:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Shivering Sheesh   Diff: 8/10   Tier: Expert"
+        ],
+        [
+            "2023-10-03 07:29:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Shingle Leap   Diff: 8/10   Tier: Expert"
+        ],
+        [
+            "2023-10-03 07:30:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Chicken Nugget   Diff: 7/10   Tier: Expert"
+        ],
+        [
+            "2023-10-03 07:30:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Village Parcours   Diff: 6.5/10   Tier: Advanced"
+        ],
+        [
+            "2023-10-03 07:30:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Cascade Mard 3.0   Diff: 6/10   Tier: Advanced"
+        ],
+        [
+            "2023-10-03 07:30:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Toady Cliffs   Diff: 5/10   Tier: Intermediate"
+        ],
+        [
+            "2023-10-03 07:30:45 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "cheesy chomp": {
+            "name": "Cheesy Chomp",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "6.5/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Qazzy"
+            ],
+            "prover": [
+                "Qazzy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=6m10B2HMrzc"
+            ],
+            "tier": "Advanced"
+        },
+        "longjump mushroom dram": {
+            "name": "Longjump Mushroom Dram",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "10/10",
+            "type": [
+                "Longjump"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/6UBeuokC_go"
+            ],
+            "tier": "Master"
+        },
+        "slow seaside dram": {
+            "name": "Slow Seaside Dram",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Slow Triple"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/p-_MAmM_0Y4"
+            ],
+            "tier": "Low Elite"
+        }
+    },
+    "edit": {
+        "shingle reach": {
+            "name": "Shingle Reach",
+            "diff": "Mid Elite",
+            "extra": [
+                "Bonking on the far right part is allowed!"
+            ],
+            "tier": "Mid Elite"
+        },
+        "dirty vertical": {
+            "name": "Dirty Vertical",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "true billboard vault assault": {
+            "name": "True Billboard Vault Assault",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "upper womantro impossible": {
+            "name": "Upper Womantro Impossible",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "blue sand": {
+            "name": "Blue Sand",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "vine vault assault": {
+            "name": "Vine Vault Assault",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "pole panic": {
+            "name": "Pole Panic",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "dumb sheepy boi": {
+            "name": "Dumb Sheepy Boi",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "little sheepy dive": {
+            "name": "Little Sheepy Dive",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "peter piper pizza": {
+            "name": "Peter Piper Pizza",
+            "diff": "8.5/10",
+            "tier": "Master"
+        },
+        "explosive longjump": {
+            "name": "Explosive Longjump",
+            "diff": "8.5/10",
+            "tier": "Master"
+        },
+        "cliff climber 2.0": {
+            "name": "Cliff Climber 2.0",
+            "diff": "8.5/10",
+            "tier": "Master"
+        },
+        "overshoot ruins rising": {
+            "name": "Overshoot Ruins Rising",
+            "diff": "8.5/10",
+            "tier": "Master"
+        },
+        "true cascade mard 2.0": {
+            "name": "True Cascade Mard 2.0",
+            "diff": "8/10",
+            "tier": "Expert"
+        },
+        "shivering sheesh": {
+            "name": "Shivering Sheesh",
+            "diff": "8/10",
+            "tier": "Expert"
+        },
+        "true shingle leap": {
+            "name": "True Shingle Leap",
+            "diff": "8/10",
+            "tier": "Expert"
+        },
+        "chicken nugget": {
+            "name": "Chicken Nugget",
+            "diff": "7/10",
+            "tier": "Expert"
+        },
+        "village parcours": {
+            "name": "Village Parcours",
+            "diff": "6.5/10",
+            "tier": "Advanced"
+        },
+        "true cascade mard 3.0": {
+            "name": "True Cascade Mard 3.0",
+            "diff": "6/10",
+            "tier": "Advanced"
+        },
+        "toady cliffs": {
+            "name": "Toady Cliffs",
+            "diff": "5/10",
+            "tier": "Intermediate"
+        }
+    },
+    "rem": [
+        "haha jonathan you are banging my daughter",
+        "longjump mushroom mard",
+        "slow seaside mard"
+    ]
+}

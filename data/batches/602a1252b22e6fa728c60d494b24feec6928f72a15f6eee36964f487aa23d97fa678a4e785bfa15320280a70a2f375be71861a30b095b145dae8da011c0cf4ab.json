@@ -1,0 +1,208 @@
+{
+    "name": "glomp",
+    "hash": "602a1252b22e6fa728c60d494b24feec6928f72a15f6eee36964f487aa23d97fa678a4e785bfa15320280a70a2f375be71861a30b095b145dae8da011c0cf4ab",
+    "created_at": "2023-08-01 22:59:55 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-01 23:06:21 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-01 22:59:55 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-01 23:00:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: snail\\'s fountain"
+        ],
+        [
+            "2023-08-01 23:00:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Snail's Fountain   Location: ['Mushroom Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Entity Bounce', 'you must get white landing particles for it to count, water particles do not count!']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://www.youtube.com/watch?v=0Ekbm7VfunM']"
+        ],
+        [
+            "2023-08-01 23:00:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: koopa\\'s beachrunning "
+        ],
+        [
+            "2023-08-01 23:00:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Koopa's Beachrunning   Location: ['Mushroom Kingdom']   Diff: 9/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://www.youtube.com/watch?v=w-xDfkI8v_o']"
+        ],
+        [
+            "2023-08-01 23:00:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: klepto\\'s domain"
+        ],
+        [
+            "2023-08-01 23:01:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Klepto's Domain   Location: ['Lost Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Vault']   Prover: ['JellyfishMario']   Server: Database   Links: ['https://www.youtube.com/watch?v=9dftMELh9V8']"
+        ],
+        [
+            "2023-08-01 23:02:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: haaland haaland, he\\'s a blue just like his dad"
+        ],
+        [
+            "2023-08-01 23:02:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Haaland Haaland, he's a blue just like his dad   Location: ['Mushroom Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Entity Bounce', 'spinless', 'ct-less']   Finder: ['Julius']   Prover: [\"K\\\\'os\"]   Server: Database   Links: ['https://www.youtube.com/watch?v=X1rxJfJz3wo']"
+        ],
+        [
+            "2023-08-01 23:02:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: now he\\'s at the etihad, ha ha ha haaland, hey!"
+        ],
+        [
+            "2023-08-01 23:02:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Now he's at the Etihad, Ha Ha Ha Haaland, Hey!   Location: ['Mushroom Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Longjump', 'simple tech']   Finder: ['Jark']   Prover: [\"K\\\\'os\"]   Server: Database   Links: ['https://www.youtube.com/watch?v=pz6_KoZsecU']"
+        ],
+        [
+            "2023-08-01 23:02:47 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: he is here to win the champion\\'s league, ha ha ha haaland, hey!"
+        ],
+        [
+            "2023-08-01 23:02:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: He is here to win the Champion's League, Ha Ha Ha Haaland, Hey!   Location: ['Mushroom Kingdom']   Diff: 0/10   Tier: Practice Tier   Type: ['Slide-Off', 'spinless', 'ct-less']   Server: Database   Links: ['https://www.youtube.com/watch?v=CWbC542bhRs']"
+        ],
+        [
+            "2023-08-01 23:05:04 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: rem   Name: koopa\\'s beachrunning "
+        ],
+        [
+            "2023-08-01 23:06:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: koopa\\'s beachrunning"
+        ],
+        [
+            "2023-08-01 23:06:18 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "snail's fountain": {
+            "name": "Snail's Fountain",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Entity Bounce",
+                "you must get white landing particles for it to count, water particles do not count!"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=0Ekbm7VfunM"
+            ],
+            "tier": "Low Elite"
+        },
+        "koopa's beachrunning": {
+            "name": "Koopa's Beachrunning",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "9/10",
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=w-xDfkI8v_o"
+            ],
+            "tier": "Master"
+        },
+        "klepto's domain": {
+            "name": "Klepto's Domain",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "type": [
+                "Vault"
+            ],
+            "prover": [
+                "JellyfishMario"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=9dftMELh9V8"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "haaland haaland, he's a blue just like his dad": {
+            "name": "Haaland Haaland, he's a blue just like his dad",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "type": [
+                "Entity Bounce",
+                "spinless",
+                "ct-less"
+            ],
+            "finder": [
+                "Julius"
+            ],
+            "prover": [
+                "K\\'os"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=X1rxJfJz3wo"
+            ],
+            "tier": "Mid Elite"
+        },
+        "now he's at the etihad, ha ha ha haaland, hey!": {
+            "name": "Now he's at the Etihad, Ha Ha Ha Haaland, Hey!",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "8.5/10",
+            "type": [
+                "Longjump",
+                "simple tech"
+            ],
+            "finder": [
+                "Jark"
+            ],
+            "prover": [
+                "K\\'os"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=pz6_KoZsecU"
+            ],
+            "tier": "Master"
+        },
+        "he is here to win the champion's league, ha ha ha haaland, hey!": {
+            "name": "He is here to win the Champion's League, Ha Ha Ha Haaland, Hey!",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "0/10",
+            "type": [
+                "Slide-Off",
+                "spinless",
+                "ct-less"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=CWbC542bhRs"
+            ],
+            "tier": "Practice Tier"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "snail\\'s fountain",
+        "klepto\\'s domain",
+        "haaland haaland, he\\'s a blue just like his dad",
+        "now he\\'s at the etihad, ha ha ha haaland, hey!",
+        "he is here to win the champion\\'s league, ha ha ha haaland, hey!",
+        "koopa\\'s beachrunning"
+    ]
+}

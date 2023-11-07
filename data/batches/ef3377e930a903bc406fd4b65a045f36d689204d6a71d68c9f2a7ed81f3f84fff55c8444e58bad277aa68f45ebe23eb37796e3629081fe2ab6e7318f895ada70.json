@@ -1,0 +1,55 @@
+{
+    "name": "y",
+    "hash": "ef3377e930a903bc406fd4b65a045f36d689204d6a71d68c9f2a7ed81f3f84fff55c8444e58bad277aa68f45ebe23eb37796e3629081fe2ab6e7318f895ada70",
+    "created_at": "2023-08-28 20:28:29 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-28 20:31:33 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 20:28:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-28 20:29:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Double Yoshi Exploshi   Finder: ['Speedy']   Prover: ['Speedy']"
+        ],
+        [
+            "2023-08-28 20:30:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Breaks Boiga   Finder: ['Speedy']"
+        ],
+        [
+            "2023-08-28 20:31:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Woashi's Exploshi   Prover: ['Speedy']"
+        ],
+        [
+            "2023-08-28 20:31:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "double yoshi exploshi": {
+            "name": "Double Yoshi Exploshi",
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ]
+        },
+        "breaks boiga": {
+            "name": "Breaks Boiga",
+            "finder": [
+                "Speedy"
+            ]
+        },
+        "woashi's exploshi": {
+            "name": "Woashi's Exploshi",
+            "prover": [
+                "Speedy"
+            ]
+        }
+    },
+    "rem": []
+}

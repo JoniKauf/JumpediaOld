@@ -1,0 +1,32 @@
+{
+    "name": "aggron",
+    "hash": "8148b43f75e3500244a038d2032600ff0e852fbf3aaafe1e36c52112c0304ce5643f666d7e3d1a214768d2ad2e70f350e806520012ce7d4f54eadbd320037338",
+    "created_at": "2023-09-24 10:13:27 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-24 10:17:19 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-24 10:13:27 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-24 10:13:38 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Fountain Fumble   Finder: ['AwesomeAggron']"
+        ],
+        [
+            "2023-09-24 10:13:47 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "fountain fumble": {
+            "name": "Fountain Fumble",
+            "finder": [
+                "AwesomeAggron"
+            ]
+        }
+    },
+    "rem": []
+}

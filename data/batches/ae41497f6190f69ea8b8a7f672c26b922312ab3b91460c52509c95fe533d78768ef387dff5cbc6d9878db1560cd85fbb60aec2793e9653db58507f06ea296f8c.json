@@ -1,0 +1,58 @@
+{
+    "name": "a",
+    "hash": "ae41497f6190f69ea8b8a7f672c26b922312ab3b91460c52509c95fe533d78768ef387dff5cbc6d9878db1560cd85fbb60aec2793e9653db58507f06ea296f8c",
+    "created_at": "2023-09-20 20:53:21 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "TBD",
+    "status": "nuked",
+    "log": [
+        [
+            "2023-09-20 20:53:21 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-09-20 20:53:31 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's additions -> Name: A   Location: ['Sand Kingdom']   Diff: 4/10   Tier: Intermediate   Finder: ['Ninjapugs']   Prover: ['Ninjapugs']   Server: Database   Links: ['https://www.youtube.com/watch?v=zzfS26AJJO4']"
+        ],
+        [
+            "2023-09-20 20:53:37 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's removals -> Name: "
+        ],
+        [
+            "2023-09-20 20:54:26 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's removals -> Name: jfjrfju"
+        ],
+        [
+            "2023-09-20 20:54:40 (UTC)",
+            "'JoniKauf' (679564566769827841) lets batch information be forgotten -> Operation: rem   Name: jfjrfju"
+        ],
+        [
+            "2023-09-20 20:55:07 (UTC)",
+            "'JoniKauf' (679564566769827841) NUKES BATCH!!!"
+        ]
+    ],
+    "add": {
+        "a": {
+            "name": "A",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "4/10",
+            "finder": [
+                "Ninjapugs"
+            ],
+            "prover": [
+                "Ninjapugs"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=zzfS26AJJO4"
+            ],
+            "tier": "Intermediate"
+        }
+    },
+    "edit": {},
+    "rem": [
+        ""
+    ]
+}

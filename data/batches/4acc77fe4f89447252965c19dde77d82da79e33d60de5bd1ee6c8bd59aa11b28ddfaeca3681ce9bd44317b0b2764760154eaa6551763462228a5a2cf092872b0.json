@@ -1,0 +1,33 @@
+{
+    "name": "g",
+    "hash": "4acc77fe4f89447252965c19dde77d82da79e33d60de5bd1ee6c8bd59aa11b28ddfaeca3681ce9bd44317b0b2764760154eaa6551763462228a5a2cf092872b0",
+    "created_at": "2023-08-26 20:40:35 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-08-26 20:41:23 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 20:40:35 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-08-26 20:41:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dark Side Impossible   Type: ['vault', 'zg']"
+        ],
+        [
+            "2023-08-26 20:41:18 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "dark side impossible": {
+            "name": "Dark Side Impossible",
+            "type": [
+                "vault",
+                "zg"
+            ]
+        }
+    },
+    "rem": []
+}

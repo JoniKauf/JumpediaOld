@@ -1,0 +1,32 @@
+{
+    "name": "w",
+    "hash": "ba0e6356fd44cb18746a762ddd0fde8c40cf88f451e096a031999aa92ff8bc3c5c3f7adf0072f23cada358194e775cefc2cf2e42f844a66801c467187c13c3a0",
+    "created_at": "2023-10-22 14:16:54 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-22 14:18:51 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-22 14:16:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-22 14:18:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: true neighbourhood impasse   Finder: ['Eaglegamer']"
+        ],
+        [
+            "2023-10-22 14:18:48 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true neighbourhood impasse": {
+            "name": "true neighbourhood impasse",
+            "finder": [
+                "Eaglegamer"
+            ]
+        }
+    },
+    "rem": []
+}

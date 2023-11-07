@@ -1,0 +1,32 @@
+{
+    "name": "y",
+    "hash": "64a72735671ba981453dea61cee33f79f5a4c33361bb1746103ebce2d602ca6643812e3d475838ccfff881a74923355ba7882afee7b5b5a03c0f370f238f2d0f",
+    "created_at": "2023-07-16 21:51:00 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-16 21:51:27 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-16 21:51:00 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-16 21:51:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Poison Pass   Type: ['Vault']"
+        ],
+        [
+            "2023-07-16 21:51:24 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "truer poison pass": {
+            "name": "Truer Poison Pass",
+            "type": [
+                "Vault"
+            ]
+        }
+    },
+    "rem": []
+}

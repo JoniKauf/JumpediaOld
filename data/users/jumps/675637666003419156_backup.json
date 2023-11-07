@@ -1,0 +1,1454 @@
+{
+    "cascade beans": {
+        "time_given": "2023-08-07 03:02:31 (UTC)",
+        "proof": ""
+    },
+    "roof descent": {
+        "time_given": "2023-08-07 03:02:31 (UTC)",
+        "proof": ""
+    },
+    "nugget": {
+        "time_given": "2023-08-07 03:02:31 (UTC)",
+        "proof": ""
+    },
+    "airborne assault": {
+        "time_given": "2023-08-07 03:08:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345165928971948032?s=20"
+    },
+    "black magic": {
+        "time_given": "2023-08-07 03:08:46 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460826351573692416?s=20"
+    },
+    "cage craziness": {
+        "time_given": "2023-08-07 03:09:10 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1457931609357701121?s=20"
+    },
+    "cannon leap": {
+        "time_given": "2023-08-07 03:09:30 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1267676579183771648?s=20"
+    },
+    "canyon crossing": {
+        "time_given": "2023-08-07 03:09:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1258782084480430081?s=20"
+    },
+    "cryo plunge": {
+        "time_given": "2023-08-07 03:10:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345228460692684800?s=20"
+    },
+    "dragon ascent": {
+        "time_given": "2023-08-07 03:10:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1235675116266082304?s=20"
+    },
+    "great wall of lunch": {
+        "time_given": "2023-08-07 03:11:34 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1203616139680419840?s=20"
+    },
+    "island return": {
+        "time_given": "2023-08-07 03:12:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1292889363756355585?s=20"
+    },
+    "lake leap": {
+        "time_given": "2023-08-07 03:12:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1231383552312242176?s=20"
+    },
+    "lava launch 2.0": {
+        "time_given": "2023-08-07 03:12:58 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546034733817049088?s=20"
+    },
+    "losers gambit": {
+        "time_given": "2023-08-07 03:13:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460828130470350848?s=20"
+    },
+    "luncheon legend": {
+        "time_given": "2023-08-07 03:15:23 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1228679272006443008?s=20"
+    },
+    "makes bacho": {
+        "time_given": "2023-08-07 03:15:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1272730170764320768?s=20"
+    },
+    "neon night": {
+        "time_given": "2023-08-07 03:16:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460843797814730753?s=20"
+    },
+    "overgrown overture": {
+        "time_given": "2023-08-07 03:16:30 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1346296114857664512?s=20"
+    },
+    "pegpog": {
+        "time_given": "2023-08-07 03:16:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1292865842527391745?s=20"
+    },
+    "queso catastrophe": {
+        "time_given": "2023-08-07 03:17:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442536506694852623?s=20"
+    },
+    "satan's sign": {
+        "time_given": "2023-08-07 03:18:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366564861644181509?s=20"
+    },
+    "shining skylight": {
+        "time_given": "2023-08-07 03:18:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1312054857516212224?s=20"
+    },
+    "sky hedge": {
+        "time_given": "2023-08-07 03:19:06 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1237216320845836288?s=20"
+    },
+    "stairway evader": {
+        "time_given": "2023-08-07 03:20:43 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1232391445119549440?s=20"
+    },
+    "statue stepup": {
+        "time_given": "2023-08-07 03:24:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1258360338468093958?s=20"
+    },
+    "stone strider": {
+        "time_given": "2023-08-07 03:24:22 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1275103201415454725?s=20"
+    },
+    "swaying oasis": {
+        "time_given": "2023-08-07 03:24:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1224718785589829632?s=20"
+    },
+    "toad traversal": {
+        "time_given": "2023-08-07 03:25:59 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345184173871431685?s=20"
+    },
+    "torchlift": {
+        "time_given": "2023-08-07 03:26:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1276964220555284480?s=20"
+    },
+    "toxic incision": {
+        "time_given": "2023-08-07 03:27:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1201569003782758401?s=20"
+    },
+    "treacherous torch": {
+        "time_given": "2023-08-07 03:28:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345169822208823297?s=20"
+    },
+    "tree hopper": {
+        "time_given": "2023-08-07 03:28:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1197596446393921542?s=20"
+    },
+    "tree hugger": {
+        "time_given": "2023-08-07 03:29:49 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546031498565804032?s=20"
+    },
+    "treetop tumble": {
+        "time_given": "2023-08-07 03:30:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1312142158204342272?s=20"
+    },
+    "true gothic suburbia": {
+        "time_given": "2023-08-07 03:30:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345446336510922753?s=20"
+    },
+    "true lost gap": {
+        "time_given": "2023-08-07 03:31:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1230147401366683648?s=20"
+    },
+    "vertigo view 2.0": {
+        "time_given": "2023-08-07 03:31:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546020638808125440?s=20"
+    },
+    "wall whacker": {
+        "time_given": "2023-08-07 03:32:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1307835818157858817?s=20"
+    },
+    "cage cross": {
+        "time_given": "2023-08-07 03:33:17 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1284570696958369792?s=20"
+    },
+    "chuck crossing": {
+        "time_given": "2023-08-07 03:33:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1292921794110746624?s=20"
+    },
+    "construction evader": {
+        "time_given": "2023-08-07 03:33:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1294992334229139458?s=20"
+    },
+    "diamond dancer": {
+        "time_given": "2023-08-07 03:34:08 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460847009577926658?s=20"
+    },
+    "dimensional divide": {
+        "time_given": "2023-08-07 03:34:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460883656952586243?s=20"
+    },
+    "garden heights": {
+        "time_given": "2023-08-07 03:34:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1187433854765658112?s=20"
+    },
+    "grassy gap": {
+        "time_given": "2023-08-07 03:35:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1273878691932590087?s=20"
+    },
+    "great canal of lunch": {
+        "time_given": "2023-08-07 03:35:31 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1286259471333773313?s=20"
+    },
+    "hurdle herder": {
+        "time_given": "2023-08-07 03:35:48 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460830096072196096?s=20"
+    },
+    "icicle freefall": {
+        "time_given": "2023-08-07 03:36:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345479062886653952?s=20"
+    },
+    "interstellar indication": {
+        "time_given": "2023-08-07 03:37:49 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1367011590373974016?s=20"
+    },
+    "jizo jaunt": {
+        "time_given": "2023-08-07 03:38:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546028940535291904?s=20"
+    },
+    "lake visitor": {
+        "time_given": "2023-08-07 03:39:06 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460833041996140546?s=20"
+    },
+    "lakitu's ledge": {
+        "time_given": "2023-08-07 03:39:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1276924916005142529?s=20"
+    },
+    "lethal launch": {
+        "time_given": "2023-08-07 03:40:02 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1285286076899180544?s=19"
+    },
+    "lettuce leap": {
+        "time_given": "2023-08-07 03:40:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546054610938343425?s=20"
+    },
+    "luminous lights": {
+        "time_given": "2023-08-07 03:43:00 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1288700707034390529?s=20"
+    },
+    "magmagical venture": {
+        "time_given": "2023-08-07 03:44:10 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1275097499301109760?s=20"
+    },
+    "misty riches": {
+        "time_given": "2023-08-07 03:44:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442541819619733505?s=20"
+    },
+    "moon collector": {
+        "time_given": "2023-08-07 03:45:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1293593758810771456?s=20"
+    },
+    "mummy masochist": {
+        "time_given": "2023-08-07 03:46:34 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1284368285933481986?s=20"
+    },
+    "mummy massacre": {
+        "time_given": "2023-08-07 03:46:46 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1283940367633575937?s=20"
+    },
+    "mushroom rise up": {
+        "time_given": "2023-08-07 03:47:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345484153345564673?s=20"
+    },
+    "necrosis": {
+        "time_given": "2023-08-07 03:47:32 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445113087493763080?s=20"
+    },
+    "paragoomba uprising": {
+        "time_given": "2023-08-07 03:47:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460827619432140801?s=20"
+    },
+    "purple pleasure": {
+        "time_given": "2023-08-07 03:48:08 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546050250116280320?s=20"
+    },
+    "red lantern": {
+        "time_given": "2023-08-07 03:48:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366933979526361091?s=20"
+    },
+    "roadblock rushdown": {
+        "time_given": "2023-08-07 03:49:07 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345197062602670081?s=20"
+    },
+    "rooftop ascent": {
+        "time_given": "2023-08-07 03:49:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1289138642342916096?s=20"
+    },
+    "rooftop gardener": {
+        "time_given": "2023-08-07 03:49:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1315183555379564546?s=20"
+    },
+    "ruins crossing": {
+        "time_given": "2023-08-07 03:50:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1284963334656151552?s=19"
+    },
+    "rusty railing": {
+        "time_given": "2023-08-07 03:51:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366578438761455617?s=20"
+    },
+    "shroomscope": {
+        "time_given": "2023-08-07 03:51:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1276202214910906368?s=20"
+    },
+    "silver snow": {
+        "time_given": "2023-08-07 03:51:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1313234509492445184?s=20"
+    },
+    "top hat": {
+        "time_given": "2023-08-07 03:52:41 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1272748448970752001?s=20"
+    },
+    "true arena crossing": {
+        "time_given": "2023-08-07 03:53:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1276627392006512640?s=20"
+    },
+    "true cadaver crossing": {
+        "time_given": "2023-08-07 03:53:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1294954684424151044?s=20"
+    },
+    "true cannon leap": {
+        "time_given": "2023-08-07 03:53:48 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1311903996932571136?s=20"
+    },
+    "true cloudy stairs": {
+        "time_given": "2023-08-07 03:54:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1312305705597038592?s=20"
+    },
+    "true danger sign": {
+        "time_given": "2023-08-07 03:54:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1273294249509875712?s=20"
+    },
+    "true flower power": {
+        "time_given": "2023-08-07 03:55:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345287726308835333?s=20"
+    },
+    "true lake leap": {
+        "time_given": "2023-08-07 03:55:32 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1286704578126163969?s=20"
+    },
+    "true shop smasher": {
+        "time_given": "2023-08-07 03:56:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442394635427409920?s=20"
+    },
+    "true treasure hunter": {
+        "time_given": "2023-08-07 03:56:30 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1283820685702262786?s=20"
+    },
+    "true vault cascade mard": {
+        "time_given": "2023-08-07 03:56:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1276625428937994240?s=20"
+    },
+    "truer lake leap": {
+        "time_given": "2023-08-07 03:57:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445797329441738753?s=20"
+    },
+    "truest scarecrowless": {
+        "time_given": "2023-08-07 03:58:00 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1273256837110919170?s=20"
+    },
+    "upper statue arrival": {
+        "time_given": "2023-08-07 03:58:22 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460829325268185089?s=20"
+    },
+    "vault galactic gorge": {
+        "time_given": "2023-08-07 03:59:39 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1443169731574255617?s=20"
+    },
+    "vault table hopper": {
+        "time_given": "2023-08-07 04:00:39 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1281746969975652352?s=20"
+    },
+    "vine venture": {
+        "time_given": "2023-08-07 04:00:56 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460838839287640068?s=20"
+    },
+    "wiggler vault assault": {
+        "time_given": "2023-08-07 04:01:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1292736673378254848?s=20"
+    },
+    "advertisement accident": {
+        "time_given": "2023-08-07 06:17:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1605273698654883844?s=20"
+    },
+    "arena guard": {
+        "time_given": "2023-08-07 06:18:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442679856039280641?s=20"
+    },
+    "blue burns": {
+        "time_given": "2023-08-07 06:19:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460844599899930626?s=20"
+    },
+    "burial grounds": {
+        "time_given": "2023-08-07 06:19:40 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1294951231077588993?s=20"
+    },
+    "burning bonker": {
+        "time_given": "2023-08-07 06:20:08 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1605276075759923201?s=20"
+    },
+    "burnstile": {
+        "time_given": "2023-08-07 06:20:57 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1285335815090921472?s=20"
+    },
+    "cascade lake crosser": {
+        "time_given": "2023-08-07 06:22:13 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1287629166641176579?s=20"
+    },
+    "charged core": {
+        "time_given": "2023-08-07 06:22:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1464858675554623490?s=20"
+    },
+    "cosmic corner": {
+        "time_given": "2023-08-07 06:23:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1443117588507021319?s=20"
+    },
+    "desert gap": {
+        "time_given": "2023-08-07 06:24:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1456411917384257557?s=20"
+    },
+    "downtown divine": {
+        "time_given": "2023-08-07 06:24:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1559617771524145153?s=20"
+    },
+    "eel evader": {
+        "time_given": "2023-08-07 06:25:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445822560617132033?s=20"
+    },
+    "eternal evening": {
+        "time_given": "2023-08-07 06:26:06 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460838048678121479?s=20"
+    },
+    "firebro flash": {
+        "time_given": "2023-08-07 06:27:16 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1303814737633751040?s=20"
+    },
+    "fossil fall": {
+        "time_given": "2023-08-07 06:27:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1285686123176566784?s=20"
+    },
+    "frozen lake crosser": {
+        "time_given": "2023-08-07 06:28:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1295003981312167936?s=20"
+    },
+    "goomba gateway": {
+        "time_given": "2023-08-07 06:33:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1368535039026282500?s=20"
+    },
+    "hedge hopper": {
+        "time_given": "2023-08-07 06:33:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1333271254191595520?s=20"
+    },
+    "kenophobia": {
+        "time_given": "2023-08-07 06:34:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1462439634214944768?s=20"
+    },
+    "lunar frost": {
+        "time_given": "2023-08-07 06:34:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1559762926252109824?s=20"
+    },
+    "lunch sign": {
+        "time_given": "2023-08-07 06:35:08 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1329651504874094593?s=20"
+    },
+    "maggrons lost": {
+        "time_given": "2023-08-07 06:36:07 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445420310442889218?s=20"
+    },
+    "mummified beans": {
+        "time_given": "2023-08-07 06:37:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1292900569451905024?s=20"
+    },
+    "natural construction": {
+        "time_given": "2023-08-07 06:37:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446315228044488707?s=20"
+    },
+    "poisonous plunge": {
+        "time_given": "2023-08-07 06:38:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1285174839125344259?s=20"
+    },
+    "pyramid peril": {
+        "time_given": "2023-08-07 06:38:58 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446172358750838785?s=20"
+    },
+    "right side": {
+        "time_given": "2023-08-07 06:39:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1288375823813099520?s=20"
+    },
+    "robotic vault assault": {
+        "time_given": "2023-08-07 06:42:10 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1367025365860851712?s=20"
+    },
+    "sand shroud": {
+        "time_given": "2023-08-07 06:42:41 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1298310480889409536?s=20"
+    },
+    "snowy scarecrow": {
+        "time_given": "2023-08-07 06:43:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345566229281472512?s=20"
+    },
+    "sombrero seeker": {
+        "time_given": "2023-08-07 06:43:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1464866141700984834?s=20"
+    },
+    "space jam": {
+        "time_given": "2023-08-07 06:43:57 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1597287145353654275?s=20"
+    },
+    "spike driver": {
+        "time_given": "2023-08-07 06:44:34 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1344547375335972865?s=20"
+    },
+    "triassic triple": {
+        "time_given": "2023-08-07 06:45:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1296233194455314432?s=20"
+    },
+    "true forest threshold": {
+        "time_given": "2023-08-07 06:47:19 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445812348782997508?s=20"
+    },
+    "true grassy gap": {
+        "time_given": "2023-08-07 06:47:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1312813568484548608?s=20"
+    },
+    "true metro mard": {
+        "time_given": "2023-08-07 06:50:16 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1287280240356597760?s=20"
+    },
+    "true rolling stones": {
+        "time_given": "2023-08-07 06:50:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1312427782207467520?s=20"
+    },
+    "true tree hopper": {
+        "time_given": "2023-08-07 06:51:14 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445775928030732292?s=20"
+    },
+    "truer crate cross": {
+        "time_given": "2023-08-07 06:52:31 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442554526297300993?s=20"
+    },
+    "upper pegpog": {
+        "time_given": "2023-08-07 06:52:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1369577389185851393?s=20"
+    },
+    "vault arena guard": {
+        "time_given": "2023-08-07 06:53:14 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1559269244054884352?s=20"
+    },
+    "vault galactic gorge 2.0": {
+        "time_given": "2023-08-07 06:54:46 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1272544734381146113?s=20"
+    },
+    "amiibo animosity": {
+        "time_given": "2023-08-07 06:57:31 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1351549717478457344?s=20"
+    },
+    "bowser dram": {
+        "time_given": "2023-08-07 06:58:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1455731604530155523?s=20"
+    },
+    "breezy beans": {
+        "time_given": "2023-08-07 06:59:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1325217503505649664?s=20"
+    },
+    "bullet bypass": {
+        "time_given": "2023-08-07 07:00:05 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345132344387141632?s=20"
+    },
+    "dromophobia": {
+        "time_given": "2023-08-07 07:00:20 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446174079032061954?s=20"
+    },
+    "flying gardener": {
+        "time_given": "2023-08-07 07:01:17 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1479738755338563586?s=20"
+    },
+    "i5": {
+        "time_given": "2023-08-07 07:02:43 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1379424751836274690?s=20"
+    },
+    "ice field": {
+        "time_given": "2023-08-07 07:03:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345890887025324033?s=20"
+    },
+    "icicle upbringing": {
+        "time_given": "2023-08-07 07:03:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345932864362221570?s=20"
+    },
+    "jizo's domain": {
+        "time_given": "2023-08-07 07:04:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1492437365259784196?s=20"
+    },
+    "ladies' lunch": {
+        "time_given": "2023-08-07 07:05:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446507939645194244?s=20"
+    },
+    "lunaire pipe": {
+        "time_given": "2023-08-07 07:06:41 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1379443755304976386?s=20"
+    },
+    "magmato masquerade": {
+        "time_given": "2023-08-07 07:07:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1309791203332820994?s=20"
+    },
+    "reverse cage cross": {
+        "time_given": "2023-08-07 07:10:55 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1456494063553634305?s=20"
+    },
+    "rock smasher": {
+        "time_given": "2023-08-07 07:11:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446852943928430592?s=20"
+    },
+    "slippery slope": {
+        "time_given": "2023-08-07 07:12:31 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345677129044746244?s=20"
+    },
+    "stairway downfall": {
+        "time_given": "2023-08-07 07:13:07 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1372270127262048256?s=20"
+    },
+    "tidefool": {
+        "time_given": "2023-08-07 07:13:49 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1367677005269852163?s=20"
+    },
+    "true lunch gap": {
+        "time_given": "2023-08-07 07:14:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1349978661886148608?s=20"
+    },
+    "true magma crossing": {
+        "time_given": "2023-08-07 07:14:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1346845964993138688?s=20"
+    },
+    "truer tree hopper": {
+        "time_given": "2023-08-07 07:15:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445592723046629383?s=20"
+    },
+    "truest cascade mard": {
+        "time_given": "2023-08-07 07:16:40 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1463889914420809733?s=20"
+    },
+    "vault toxic traverse": {
+        "time_given": "2023-08-07 07:17:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1459825935000084482?s=20"
+    },
+    "vault veggie roll": {
+        "time_given": "2023-08-07 07:18:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1334703557778362368?s=19"
+    },
+    "volcanic volition": {
+        "time_given": "2023-08-07 07:19:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1347015704675958787?s=20"
+    },
+    "dusty dive": {
+        "time_given": "2023-08-07 08:19:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1605267661893795840?s=20"
+    },
+    "dragonborn": {
+        "time_given": "2023-08-07 08:20:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1546044699026132992?s=20"
+    },
+    "street strider": {
+        "time_given": "2023-08-07 08:20:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1545997126340988929?s=20"
+    },
+    "treetip": {
+        "time_given": "2023-08-07 08:20:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1545992749433831424?s=20"
+    },
+    "floral finding": {
+        "time_given": "2023-08-07 08:21:02 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1545990460417617920?s=20"
+    },
+    "girder climber": {
+        "time_given": "2023-08-07 08:22:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1515195078846791686?s=20"
+    },
+    "vault roof hopper": {
+        "time_given": "2023-08-07 08:22:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1492567447005659136?s=20"
+    },
+    "upper burnstile": {
+        "time_given": "2023-08-07 08:22:55 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1491099849403494400?s=20"
+    },
+    "1p god": {
+        "time_given": "2023-08-07 08:23:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1487450692109279235?s=20"
+    },
+    "pillar leap": {
+        "time_given": "2023-08-07 08:23:24 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1485621876864864256?s=20"
+    },
+    "moon cave vertical": {
+        "time_given": "2023-08-07 08:23:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1485070423007981568?s=20"
+    },
+    "bowser bruncheon": {
+        "time_given": "2023-08-07 08:23:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484872458247172097?s=20"
+    },
+    "dk skip": {
+        "time_given": "2023-08-07 08:25:14 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484869001121447937?s=20"
+    },
+    "spinless perilous pendulums": {
+        "time_given": "2023-08-07 08:25:56 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484862564659990530?s=20"
+    },
+    "perilous pendulums": {
+        "time_given": "2023-08-07 08:26:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484862564659990530?s=20"
+    },
+    "klepto's gauntlet": {
+        "time_given": "2023-08-07 08:26:59 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484832745582829570?s=20"
+    },
+    "slow dram": {
+        "time_given": "2023-08-07 08:27:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484827218593271810?s=20"
+    },
+    "longjump lunch gap": {
+        "time_given": "2023-08-07 08:27:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484707117344845826?s=20"
+    },
+    "dimensional input spam": {
+        "time_given": "2023-08-07 08:27:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484537715894853636?s=20"
+    },
+    "true poison neglector": {
+        "time_given": "2023-08-07 08:27:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484689795565584386?s=20"
+    },
+    "cringe": {
+        "time_given": "2023-08-07 08:28:13 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484321977070329858?s=20"
+    },
+    "1p stretching vertical": {
+        "time_given": "2023-08-07 08:30:02 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484192223608520704?s=20"
+    },
+    "girder crosser": {
+        "time_given": "2023-08-07 08:30:13 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1483878080766644225?s=20"
+    },
+    "bouncy scarecrow": {
+        "time_given": "2023-08-07 08:30:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1483875411452858368?s=20"
+    },
+    "vault amiibo stomper": {
+        "time_given": "2023-08-07 08:31:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1483077010125590531?s=20"
+    },
+    "amiibo stomper": {
+        "time_given": "2023-08-07 08:31:17 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1483077010125590531?s=20"
+    },
+    "pillar fumble": {
+        "time_given": "2023-08-07 08:31:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482734079883702272?s=20"
+    },
+    "dumb metal": {
+        "time_given": "2023-08-07 08:31:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482733216838520833?s=20"
+    },
+    "upper womantro impossible": {
+        "time_given": "2023-08-07 08:32:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482652481234501633?s=20"
+    },
+    "blue sand": {
+        "time_given": "2023-08-07 08:32:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482390740432932864?s=20"
+    },
+    "simple frozen peaks": {
+        "time_given": "2023-08-07 08:32:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482388484207697921?s=20"
+    },
+    "frozen peaks": {
+        "time_given": "2023-08-07 08:32:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482388484207697921?s=20"
+    },
+    "chilled mushroom god": {
+        "time_given": "2023-08-07 08:32:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482384024928542723?s=20"
+    },
+    "simple pillar to pillar": {
+        "time_given": "2023-08-07 08:33:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482378315587416066?s=20"
+    },
+    "pillar to pillar": {
+        "time_given": "2023-08-07 08:33:14 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482378315587416066?s=20"
+    },
+    "longjump god": {
+        "time_given": "2023-08-07 08:33:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482302514770825219?s=20"
+    },
+    "dumb lava bypass": {
+        "time_given": "2023-08-07 08:33:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482369379975462912?s=20"
+    },
+    "spinless hazard hopper": {
+        "time_given": "2023-08-07 08:34:00 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482294619702382595?s=20"
+    },
+    "hazard hopper": {
+        "time_given": "2023-08-07 08:34:05 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1482294619702382595?s=20"
+    },
+    "toxic tumble": {
+        "time_given": "2023-08-07 08:35:14 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1480059516012040193?s=20"
+    },
+    "true festival dram": {
+        "time_given": "2023-08-07 08:36:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1478175392829632512?s=20"
+    },
+    "poison pass": {
+        "time_given": "2023-08-07 08:37:31 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1477239092219822081?s=20"
+    },
+    "abandoned contraption": {
+        "time_given": "2023-08-07 08:37:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1477132352895664130?s=20"
+    },
+    "terminal lung cancer": {
+        "time_given": "2023-08-07 08:38:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476829963277897729?s=20"
+    },
+    "true unidentified dying object": {
+        "time_given": "2023-08-07 08:39:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476792902902685697?s=20"
+    },
+    "upper ruins crossing": {
+        "time_given": "2023-08-07 08:39:24 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476430998976237573?s=20"
+    },
+    "shiveria descent": {
+        "time_given": "2023-08-07 08:39:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476739578744639495?s=20"
+    },
+    "spewart's stew": {
+        "time_given": "2023-08-07 08:39:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476430244890382336?s=20"
+    },
+    "poisonous concussion": {
+        "time_given": "2023-08-07 08:40:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476428719799496704?s=20"
+    },
+    "frozen descent": {
+        "time_given": "2023-08-07 08:40:17 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476427229584584704?s=20"
+    },
+    "backwards buffet": {
+        "time_given": "2023-08-07 08:40:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476426435837321218?s=20"
+    },
+    "bomb buster": {
+        "time_given": "2023-08-07 08:40:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476425808746987527?s=20"
+    },
+    "metallic descent 2.0": {
+        "time_given": "2023-08-07 08:40:48 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476424862537170944?s=20"
+    },
+    "wooded legodudeguyman": {
+        "time_given": "2023-08-07 08:41:05 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476424170300870661?s=20"
+    },
+    "uprooted!": {
+        "time_given": "2023-08-07 08:41:39 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476423438214385667?s=20"
+    },
+    "thunderstruck cityside": {
+        "time_given": "2023-08-07 08:41:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476422121001603072?s=20"
+    },
+    "twinkling twilight": {
+        "time_given": "2023-08-07 08:42:05 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476420786281795588?s=20"
+    },
+    "poisonous traverse": {
+        "time_given": "2023-08-07 08:42:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476416943968059397?s=20"
+    },
+    "mini pan evader": {
+        "time_given": "2023-08-07 08:42:30 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476415626079920128?s=20"
+    },
+    "true octo leap": {
+        "time_given": "2023-08-07 08:42:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476415088663744513?s=20"
+    },
+    "luncheon god": {
+        "time_given": "2023-08-07 08:43:23 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476412945860993025?s=20"
+    },
+    "blinding lights": {
+        "time_given": "2023-08-07 08:43:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476410468784754688?s=20"
+    },
+    "springside": {
+        "time_given": "2023-08-07 08:44:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476405073609564165?s=20"
+    },
+    "ice voyage": {
+        "time_given": "2023-08-07 08:44:13 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476401040010268674?s=20"
+    },
+    "moontree": {
+        "time_given": "2023-08-07 08:44:24 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476398230891995138?s=20"
+    },
+    "snow bruncheon": {
+        "time_given": "2023-08-07 08:44:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476397333210230788?s=20"
+    },
+    "ravaging vines": {
+        "time_given": "2023-08-07 08:44:57 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476396215935795200?s=20"
+    },
+    "podaboo domain": {
+        "time_given": "2023-08-07 08:46:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476395101534363650?s=20"
+    },
+    "earthview": {
+        "time_given": "2023-08-07 08:46:57 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476390223651106817?s=20"
+    },
+    "dragon's dungeon": {
+        "time_given": "2023-08-07 08:47:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474030226887692291?s=20"
+    },
+    "antarctic assault": {
+        "time_given": "2023-08-07 08:48:06 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474028967405309955?s=20"
+    },
+    "garden escape": {
+        "time_given": "2023-08-07 08:48:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474028004011438083?s=20"
+    },
+    "maze entry": {
+        "time_given": "2023-08-07 08:48:24 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474026921562230789?s=20"
+    },
+    "luminous lamode": {
+        "time_given": "2023-08-07 08:50:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474024948347797504?s=20"
+    },
+    "moon moon collector": {
+        "time_given": "2023-08-07 08:51:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474023789105086464?s=20"
+    },
+    "courtyard beans": {
+        "time_given": "2023-08-07 08:51:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474020628915109892?s=20"
+    },
+    "lake bruncheon": {
+        "time_given": "2023-08-07 08:51:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474019021255163907?s=20"
+    },
+    "banana collector": {
+        "time_given": "2023-08-07 08:51:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474018215223169024?s=20"
+    },
+    "streetlight sweeper": {
+        "time_given": "2023-08-07 08:53:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1464861277725945860?s=20"
+    },
+    "little vaulty boi": {
+        "time_given": "2023-08-07 08:55:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1464603929463832578?s=20"
+    },
+    "true cascade scarecrowless": {
+        "time_given": "2023-08-07 08:56:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1464544281037656073?s=20"
+    },
+    "truest table hopper": {
+        "time_given": "2023-08-07 08:56:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1462438853621387265?s=20"
+    },
+    "conical depression": {
+        "time_given": "2023-08-07 08:57:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460844938971648003?s=20"
+    },
+    "true glydon't": {
+        "time_given": "2023-08-07 08:57:23 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460830833107820544?s=20"
+    },
+    "glydon't": {
+        "time_given": "2023-08-07 08:57:41 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460830833107820544?s=20"
+    },
+    "courtyard crusade": {
+        "time_given": "2023-08-07 08:58:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460828496117174276?s=20"
+    },
+    "beetle behemoth": {
+        "time_given": "2023-08-07 08:58:15 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460827160961114112?s=20"
+    },
+    "soggy beans": {
+        "time_given": "2023-08-07 08:58:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460825958932377600?s=20"
+    },
+    "hydrant hell": {
+        "time_given": "2023-08-07 08:58:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1460815111489089538?s=20"
+    },
+    "double upwarp god": {
+        "time_given": "2023-08-07 08:58:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1459818076900237322?s=20"
+    },
+    "forest flip": {
+        "time_given": "2023-08-07 08:59:25 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1459416624079900672?s=20"
+    },
+    "reverse thalassophobia": {
+        "time_given": "2023-08-07 08:59:58 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1457934727462092804?s=20"
+    },
+    "personalised unboxing": {
+        "time_given": "2023-08-07 09:00:34 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1457242262778253315?s=20"
+    },
+    "lower left side": {
+        "time_given": "2023-08-07 09:01:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1457089015895642112?s=20"
+    },
+    "pillar pauline": {
+        "time_given": "2023-08-07 09:08:08 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1456840373376995332?s=20"
+    },
+    "truest left side": {
+        "time_given": "2023-08-07 09:13:44 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1454646494032584724?s=20"
+    },
+    "headlight hop": {
+        "time_given": "2023-08-07 09:15:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446501181690310661?s=20"
+    },
+    "rock hatcher": {
+        "time_given": "2023-08-07 09:15:40 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446453910193934341?s=20"
+    },
+    "donk descent": {
+        "time_given": "2023-08-07 09:15:53 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1446177471599022084?s=20"
+    },
+    "wispy wonders": {
+        "time_given": "2023-08-07 09:16:07 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1445805888363634696?s=20"
+    },
+    "gushen beans": {
+        "time_given": "2023-08-07 09:16:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1443143096506585089?s=20"
+    },
+    "true darker dram": {
+        "time_given": "2023-08-07 09:16:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1443120152208310280?s=20"
+    },
+    "box fight": {
+        "time_given": "2023-08-07 09:16:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1443066186044821512?s=20"
+    },
+    "veggie table": {
+        "time_given": "2023-08-07 09:17:23 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442656610539610112?s=20"
+    },
+    "broadway climb": {
+        "time_given": "2023-08-07 09:17:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442548482766557187?s=20"
+    },
+    "celestial chest": {
+        "time_given": "2023-08-07 09:18:00 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442540411134693379?s=20"
+    },
+    "flower moon collector": {
+        "time_given": "2023-08-07 09:18:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1442537819906273281?s=20"
+    },
+    "global mard": {
+        "time_given": "2023-08-07 09:20:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1407008091892117505?s=20"
+    },
+    "podoboo pegs": {
+        "time_given": "2023-08-07 09:20:55 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1407007771124400140?s=20"
+    },
+    "prehistoric pole": {
+        "time_given": "2023-08-07 09:21:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1406636871946444806?s=20"
+    },
+    "triassic woods": {
+        "time_given": "2023-08-07 09:22:00 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1406631048721489922?s=20"
+    },
+    "burrbo bridge bypass": {
+        "time_given": "2023-08-07 09:22:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1406626297808244739?s=20"
+    },
+    "2d skipper": {
+        "time_given": "2023-08-07 09:22:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1406617343174713349?s=20"
+    },
+    "truer danger sign": {
+        "time_given": "2023-08-07 09:23:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1379086701256052741?s=20"
+    },
+    "fortnite": {
+        "time_given": "2023-08-07 09:24:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1378301866056974347?s=20"
+    },
+    "reverse lava bypass": {
+        "time_given": "2023-08-07 09:25:16 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1376254935109562368?s=20"
+    },
+    "poisonous lantern": {
+        "time_given": "2023-08-07 09:25:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1375082184634155010?s=20"
+    },
+    "true veggie roll": {
+        "time_given": "2023-08-07 09:25:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1371562890625355780?s=20"
+    },
+    "cloud overlook": {
+        "time_given": "2023-08-07 09:30:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1406722447697580032?s=20"
+    },
+    "rail glider": {
+        "time_given": "2023-08-07 09:34:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1371030258565058561?s=20"
+    },
+    "3rd coin": {
+        "time_given": "2023-08-07 09:36:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1380135376975634434?s=20"
+    },
+    "true vault seaside mard": {
+        "time_given": "2023-08-07 09:37:20 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1369240152162193408?s=20"
+    },
+    "toad's path": {
+        "time_given": "2023-08-07 09:38:24 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1367045481654747139?s=20"
+    },
+    "pillar power": {
+        "time_given": "2023-08-07 09:38:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366939221387223040?s=20"
+    },
+    "fog wall wrap": {
+        "time_given": "2023-08-07 09:38:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366927520055005184?s=20"
+    },
+    "lake lift": {
+        "time_given": "2023-08-07 09:38:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366765271537512457?s=20"
+    },
+    "neighbourhood crossing": {
+        "time_given": "2023-08-07 09:39:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366763302534062082?s=20"
+    },
+    "true electric toe": {
+        "time_given": "2023-08-07 09:39:22 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366673122754134018?s=20"
+    },
+    "oasis outlook": {
+        "time_given": "2023-08-07 09:39:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366571776319188994?s=20"
+    },
+    "spiraling blocks": {
+        "time_given": "2023-08-07 09:39:43 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366511522143375361?s=20"
+    },
+    "amiibo lunch": {
+        "time_given": "2023-08-07 09:39:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366494948854390786?s=20"
+    },
+    "ridge rise": {
+        "time_given": "2023-08-07 09:40:02 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366493409242845186?s=20"
+    },
+    "yellow pond crossing": {
+        "time_given": "2023-08-07 09:40:14 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1366488340921483265?s=20"
+    },
+    "simple yellow dram god": {
+        "time_given": "2023-08-07 09:41:11 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1353488306256797696?s=20"
+    },
+    "yellow dram god": {
+        "time_given": "2023-08-07 09:41:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1353488306256797696?s=20"
+    },
+    "simple pepper evader": {
+        "time_given": "2023-08-07 09:41:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1353483123342807040?s=20"
+    },
+    "pepper evader": {
+        "time_given": "2023-08-07 09:41:32 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1353483123342807040?s=20"
+    },
+    "lunch gap": {
+        "time_given": "2023-08-07 09:42:10 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1351589549785288705?s=20"
+    },
+    "true toxic incision": {
+        "time_given": "2023-08-07 09:42:24 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1350740455240003589?s=20"
+    },
+    "truer cadaver crossing": {
+        "time_given": "2023-08-07 09:42:38 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1349992718936670209?s=20"
+    },
+    "true pan evader": {
+        "time_given": "2023-08-07 09:43:05 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1347845602931953664?s=20"
+    },
+    "frozen townside": {
+        "time_given": "2023-08-07 09:43:23 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1346292615893770240?s=20"
+    },
+    "wooded mard": {
+        "time_given": "2023-08-07 09:44:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345588110332026881?s=20"
+    },
+    "shrubland gardens": {
+        "time_given": "2023-08-07 09:44:35 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345494499875667969?s=20"
+    },
+    "flowery freefall": {
+        "time_given": "2023-08-07 09:44:48 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345465291505954818?s=20"
+    },
+    "sundried shallows": {
+        "time_given": "2023-08-07 09:45:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345280236141776896?s=20"
+    },
+    "gumbo gap": {
+        "time_given": "2023-08-07 09:45:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345270776123936768?s=20"
+    },
+    "luncheon moon collector": {
+        "time_given": "2023-08-07 09:45:41 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345214068907380738?s=20"
+    },
+    "mushroom lake crosser": {
+        "time_given": "2023-08-07 09:45:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345212890488291329?s=20"
+    },
+    "radical railway": {
+        "time_given": "2023-08-07 09:46:00 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345187960073850880?s=20"
+    },
+    "fossil god": {
+        "time_given": "2023-08-07 09:46:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345182556820361216?s=20"
+    },
+    "cardboard outskirts": {
+        "time_given": "2023-08-07 09:46:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345181085915705344?s=20"
+    },
+    "true flying adventure": {
+        "time_given": "2023-08-07 09:47:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1345164845369360384?s=20"
+    },
+    "sandy arena crosser": {
+        "time_given": "2023-08-07 09:47:17 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1344861430009380864?s=20"
+    },
+    "rooftop rendezvous": {
+        "time_given": "2023-08-07 09:55:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1484205723294654466?s=20"
+    },
+    "1p true stretching vertical": {
+        "time_given": "2023-08-07 09:57:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1481684449775341576?s=20"
+    },
+    "fat upwarp required": {
+        "time_given": "2023-08-07 09:58:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1480940259689091077?s=20"
+    },
+    "sandy sign": {
+        "time_given": "2023-08-07 10:02:18 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476408621298712579?s=20"
+    },
+    "nutty ascent": {
+        "time_given": "2023-08-07 10:02:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1476407516674203655?s=20"
+    },
+    "candlelit conveyor": {
+        "time_given": "2023-08-07 10:03:34 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1474022152282140672?s=20"
+    },
+    "iron ramp impossible": {
+        "time_given": "2023-08-07 10:04:57 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1466869420882599944?s=20"
+    },
+    "mummy throw": {
+        "time_given": "2023-08-07 10:16:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1455726679041581059?s=20"
+    },
+    "virtuous vines": {
+        "time_given": "2023-08-08 03:34:34 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1688754960203481093?s=20"
+    },
+    "speedway split": {
+        "time_given": "2023-08-08 03:34:45 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1688755202038677505?s=20"
+    },
+    "lower hurb jump": {
+        "time_given": "2023-08-08 03:34:56 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1688755479869304832?s=20"
+    },
+    "shingle warp": {
+        "time_given": "2023-08-08 05:37:55 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1343775318427934720?s=20"
+    },
+    "fossil fly": {
+        "time_given": "2023-08-08 05:38:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1343627861438070784?s=20"
+    },
+    "fossil climber": {
+        "time_given": "2023-08-08 05:38:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1343209686724534273?s=20"
+    },
+    "real luncheon": {
+        "time_given": "2023-08-08 05:40:04 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1342629485984641024?s=20"
+    },
+    "yellow poison": {
+        "time_given": "2023-08-08 05:41:32 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1341897569669062659?s=20"
+    },
+    "true pole cancel vector": {
+        "time_given": "2023-08-08 05:42:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1341564480958812162?s=20"
+    },
+    "true icicle shower": {
+        "time_given": "2023-08-08 06:33:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1334383483695689730?s=20"
+    },
+    "imaginary intersection": {
+        "time_given": "2023-08-18 10:48:36 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1692488580458053774?s=20"
+    },
+    "true moonicotti": {
+        "time_given": "2023-08-18 17:16:50 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1692586152476488070?s=20"
+    },
+    "soup surge": {
+        "time_given": "2023-08-19 07:08:26 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1692794044114747736?s=20"
+    },
+    "lucky lunge": {
+        "time_given": "2023-08-19 07:32:43 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1692801560961777906?s=20"
+    },
+    "castle catastrophe": {
+        "time_given": "2023-08-19 07:46:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1692804425864392985?s=20"
+    },
+    "riveting ribcage": {
+        "time_given": "2023-08-22 15:16:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1694005594263564417?s=20"
+    },
+    "truer meter madness": {
+        "time_given": "2023-08-22 16:12:13 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1694019304310878648?s=20"
+    },
+    "sandy table dram": {
+        "time_given": "2023-08-24 15:43:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1694733806849433743?s=20"
+    },
+    "true tree vault assault": {
+        "time_given": "2023-08-24 17:11:27 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1694759227070562474?s=20"
+    },
+    "egyptian pole": {
+        "time_given": "2023-08-25 10:21:21 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1695018347933626616?s=20"
+    },
+    "bonking tops": {
+        "time_given": "2023-09-09 06:54:28 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700402205797601657?s=20"
+    },
+    "truer cascade dram": {
+        "time_given": "2023-09-09 07:18:37 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700404952253022530?s=20"
+    },
+    "seedshell": {
+        "time_given": "2023-09-09 07:20:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700408605328187827?s=20"
+    },
+    "reverse true cheese cut": {
+        "time_given": "2023-09-09 15:19:41 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700529311638556715?s=20"
+    },
+    "mini metallic descent": {
+        "time_given": "2023-09-09 15:31:42 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700532304366727474?s=20"
+    },
+    "lefter bottom step": {
+        "time_given": "2023-09-09 15:38:33 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700533973045436829?s=20"
+    },
+    "ultra silly gamer lost triple": {
+        "time_given": "2023-09-09 15:53:13 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700537588552282607?s=20"
+    },
+    "true fencing flyer": {
+        "time_given": "2023-09-09 16:00:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700539487120474499?s=20"
+    },
+    "true cheesy climb": {
+        "time_given": "2023-09-09 16:09:01 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700541650098143543?s=20"
+    },
+    "canine cruiser": {
+        "time_given": "2023-09-09 16:13:09 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700542735365947895?s=20"
+    },
+    "shard sidestep": {
+        "time_given": "2023-09-09 16:16:29 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700543554987364822?s=20"
+    },
+    "verdant valley": {
+        "time_given": "2023-09-09 16:18:58 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700544232224944488?s=20"
+    },
+    "tower triumph": {
+        "time_given": "2023-09-09 16:22:03 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1700545023572640078?s=20"
+    },
+    "true tilted towers": {
+        "time_given": "2023-09-11 12:50:16 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701216357323518267?s=20"
+    },
+    "taxi beans": {
+        "time_given": "2023-09-11 13:19:51 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701223795833585975?s=20"
+    },
+    "shinglestalk": {
+        "time_given": "2023-09-11 14:21:12 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701235846102339723?s=20"
+    },
+    "ladies' breakfast": {
+        "time_given": "2023-09-11 14:56:47 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701248270914203894?s=20"
+    },
+    "heated headache": {
+        "time_given": "2023-09-11 14:59:19 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701248985179295874?s=20"
+    },
+    "true prehistoric pole": {
+        "time_given": "2023-09-11 15:15:08 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701252925652365345?s=20"
+    },
+    "vegetable cross": {
+        "time_given": "2023-09-11 16:37:52 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701273768314937651?s=20"
+    },
+    "granite growth": {
+        "time_given": "2023-09-11 16:49:05 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701276478292504674?s=20"
+    },
+    "cheddar champion": {
+        "time_given": "2023-09-11 17:06:54 (UTC)",
+        "proof": "https://twitter.com/MadeForMario/status/1701281045298159738?s=20"
+    }
+}

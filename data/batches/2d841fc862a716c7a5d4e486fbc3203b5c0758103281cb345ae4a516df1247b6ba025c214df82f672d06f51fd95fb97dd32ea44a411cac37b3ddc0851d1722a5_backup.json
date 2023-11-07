@@ -1,0 +1,27 @@
+{
+    "name": "w",
+    "hash": "2d841fc862a716c7a5d4e486fbc3203b5c0758103281cb345ae4a516df1247b6ba025c214df82f672d06f51fd95fb97dd32ea44a411cac37b3ddc0851d1722a5",
+    "created_at": "2023-09-05 16:28:31 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-05 16:30:09 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-05 16:28:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-05 16:29:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's removals -> Name: petrified paleolith 2.0"
+        ],
+        [
+            "2023-09-05 16:30:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "petrified paleolith 2.0"
+    ]
+}

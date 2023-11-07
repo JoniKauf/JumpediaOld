@@ -1,0 +1,32 @@
+{
+    "name": "b",
+    "hash": "77f420e46b21c1d25de2f050b63588dc89dc7bb74aeff4f6642108c572ed2e47667465ecdb03c1a1d25b5e5a7a16a0d1b01be6e093aab4bbffa60e393df6a431",
+    "created_at": "2023-11-05 21:45:01 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-05 21:45:26 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 21:45:01 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-05 21:45:15 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: roof rising   Finder: ['rashed']"
+        ],
+        [
+            "2023-11-05 21:45:22 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "roof rising": {
+            "name": "roof rising",
+            "finder": [
+                "rashed"
+            ]
+        }
+    },
+    "rem": []
+}

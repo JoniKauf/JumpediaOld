@@ -1,0 +1,32 @@
+{
+    "name": "sna",
+    "hash": "e6be41fcbdb61aa77550460ffa29065a14607dc65995065a0e6e9146b518b20d8c7b7deac5d904375abcdcf9595b8b1babb69a361807ab20a004c8d626bca781",
+    "created_at": "2023-08-03 17:13:49 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-03 17:14:26 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-03 17:13:49 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-03 17:14:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Mini Snail Attack!   Prover: ['Soupafi']"
+        ],
+        [
+            "2023-08-03 17:14:16 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "mini snail attack!": {
+            "name": "Mini Snail Attack!",
+            "prover": [
+                "Soupafi"
+            ]
+        }
+    },
+    "rem": []
+}

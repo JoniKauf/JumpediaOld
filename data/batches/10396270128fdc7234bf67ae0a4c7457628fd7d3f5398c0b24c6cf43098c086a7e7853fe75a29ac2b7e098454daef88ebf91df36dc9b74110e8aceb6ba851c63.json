@@ -1,0 +1,43 @@
+{
+    "name": "z",
+    "hash": "10396270128fdc7234bf67ae0a4c7457628fd7d3f5398c0b24c6cf43098c086a7e7853fe75a29ac2b7e098454daef88ebf91df36dc9b74110e8aceb6ba851c63",
+    "created_at": "2023-08-26 23:24:54 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-26 23:27:23 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 23:24:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-26 23:25:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Icicle Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 23:27:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Triassic Trampoline   Type: ['Longjump', 'entity bounce']"
+        ],
+        [
+            "2023-08-26 23:27:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "icicle gap": {
+            "name": "Icicle Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "triassic trampoline": {
+            "name": "Triassic Trampoline",
+            "type": [
+                "Longjump",
+                "entity bounce"
+            ]
+        }
+    },
+    "rem": []
+}

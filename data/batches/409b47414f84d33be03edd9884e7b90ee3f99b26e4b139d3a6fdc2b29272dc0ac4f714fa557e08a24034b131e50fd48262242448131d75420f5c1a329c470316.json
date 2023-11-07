@@ -1,0 +1,32 @@
+{
+    "name": "j",
+    "hash": "409b47414f84d33be03edd9884e7b90ee3f99b26e4b139d3a6fdc2b29272dc0ac4f714fa557e08a24034b131e50fd48262242448131d75420f5c1a329c470316",
+    "created_at": "2023-07-20 21:45:09 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-20 21:45:32 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-20 21:45:09 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-20 21:45:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Towertop Turnaround   Links: ['https://youtu.be/40_mThIhFjU']"
+        ],
+        [
+            "2023-07-20 21:45:27 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "towertop turnaround": {
+            "name": "Towertop Turnaround",
+            "links": [
+                "https://youtu.be/40_mThIhFjU"
+            ]
+        }
+    },
+    "rem": []
+}

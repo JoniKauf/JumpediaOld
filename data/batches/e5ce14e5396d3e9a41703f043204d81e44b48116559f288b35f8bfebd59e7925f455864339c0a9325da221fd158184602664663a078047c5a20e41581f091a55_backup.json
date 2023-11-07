@@ -1,0 +1,32 @@
+{
+    "name": "q",
+    "hash": "e5ce14e5396d3e9a41703f043204d81e44b48116559f288b35f8bfebd59e7925f455864339c0a9325da221fd158184602664663a078047c5a20e41581f091a55",
+    "created_at": "2023-07-21 21:37:55 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-21 21:38:15 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-21 21:37:55 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-21 21:38:04 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Pepper Evader   Links: ['https://www.youtube.com/watch?v=qknS-_C2fvw']"
+        ],
+        [
+            "2023-07-21 21:38:10 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "pepper evader": {
+            "name": "Pepper Evader",
+            "links": [
+                "https://www.youtube.com/watch?v=qknS-_C2fvw"
+            ]
+        }
+    },
+    "rem": []
+}

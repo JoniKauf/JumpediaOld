@@ -1,0 +1,50 @@
+{
+    "name": "y",
+    "hash": "603eede71ae18fef8d776eaa642a7edad2579fd4e9ab518b0f7fe9125f237f2f1cf975f75e6f39edad49190468b45a2d4fa1ec9428fdc26e5516a61d312b6d6b",
+    "created_at": "2023-08-28 10:22:55 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-28 10:24:57 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 10:22:55 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-28 10:23:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cons Kicker   Finder: ['wyt00bxred']"
+        ],
+        [
+            "2023-08-28 10:23:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Flowery Decoration   Prover: ['wyt00bxred']"
+        ],
+        [
+            "2023-08-28 10:24:40 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: cons kicker"
+        ],
+        [
+            "2023-08-28 10:24:44 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cone Kicker   Finder: ['wyt00bxred']"
+        ],
+        [
+            "2023-08-28 10:24:51 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "flowery decoration": {
+            "name": "Flowery Decoration",
+            "prover": [
+                "wyt00bxred"
+            ]
+        },
+        "cone kicker": {
+            "name": "Cone Kicker",
+            "finder": [
+                "wyt00bxred"
+            ]
+        }
+    },
+    "rem": []
+}

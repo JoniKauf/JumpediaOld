@@ -1,0 +1,37 @@
+{
+    "name": "cosmic",
+    "hash": "524d4f20b1e9adafd43c1d5bd61922a1f1cb52cb78874bf753e323bd80c7ef8c2f429da217e6d03ff7423c093f4117e1dc00e0d96b18fa0ab5d446129c8e46db",
+    "created_at": "2023-07-23 19:11:50 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-23 19:13:25 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-23 19:11:50 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-23 19:12:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cosmic Collision   Diff: God Tier   Tier: God Tier   Prover: ['Enlvie']   Links: ['https://youtu.be/JvjEpYvhlws']"
+        ],
+        [
+            "2023-07-23 19:13:18 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "cosmic collision": {
+            "name": "Cosmic Collision",
+            "diff": "God Tier",
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/JvjEpYvhlws"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

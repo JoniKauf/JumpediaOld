@@ -1,0 +1,2404 @@
+{
+    "name": "Zamn",
+    "hash": "600795008da3cabd86592570b111472b979a1dbad3605ad03b69e7921a6cacd1c47a9f22a7059f575492133962c573c41dd6bc8266f4fd2cf93f66afdba59221",
+    "created_at": "2023-08-28 00:01:30 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-28 02:21:38 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 00:01:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-28 00:05:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Backflip Burden   Location: [\"Bowser's Kingdom\", 'Ruined']   Diff: Low Elite   Tier: Low Elite   Type: ['Backflip']   Server: Database   Links: ['https://youtu.be/sPvjSa0tLI8?si=dq_wuhXpt42su8ww']"
+        ],
+        [
+            "2023-08-28 00:06:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Windy Annoyance   Location: [\"Bowser's Kingdom\", 'Cascade']   Diff: 10/10   Tier: Master   Type: ['Vault']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/VUJxpua6qHo?si=QFO2IVHFi66Az7NQ']"
+        ],
+        [
+            "2023-08-28 00:08:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Overshoot Windy Climb   Location: [\"Bowser's Kingdom\", 'Cascade']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Finder: ['Mackansmat']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/Bk0qxeMhZWA?si=5hDUq3pI_qghQNFA']"
+        ],
+        [
+            "2023-08-28 00:09:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Platform Peak   Location: [\"Bowser's Kingdom\", 'Lost']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Vault']   Finder: ['Autumn']   Prover: ['Autumn']   Server: Database   Links: ['https://youtu.be/VaL0lmL2PPs?si=g85Y1eaKJS2nw84p']"
+        ],
+        [
+            "2023-08-28 00:10:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Hatrickjump   Location: [\"Bowser's Kingdom\", 'Metro']   Diff: 4/10   Tier: Intermediate   Type: ['Triple']   Finder: ['Bev200o']   Prover: ['Bev200o']   Server: Database   Links: ['https://youtube.com/shorts/OjbqNCyZO3A?si=hQQwC-apszTtv4Fb']"
+        ],
+        [
+            "2023-08-28 00:12:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Truest Cacti Leap   Location: [\"Bowser's Kingdom\", 'Sand']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Zox']   Server: Database   Links: ['https://youtu.be/1998g1DgHZA?si=OYdcM_OggNf8C936']"
+        ],
+        [
+            "2023-08-28 00:13:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: High Flying Flower   Location: [\"Bowser's Kingdom\", 'Lake']   Diff: 8/10   Tier: Expert   Type: ['Entity Bounce']   Finder: ['Constructable']   Prover: ['Constructable']   Server: Database   Links: ['https://youtu.be/GlRBxyjg-iM?si=HktPCiZC5hr9vE7E']"
+        ],
+        [
+            "2023-08-28 00:15:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Fountain Flick   Location: [\"Bowser's Kingdom\", 'Mushroom']   Diff: High Elite   Tier: High Elite   Type: ['Triple']   Finder: ['Kayo']   Prover: ['Kayo']   Server: Database   Links: ['https://youtu.be/u-8nDMqC1jk?si=tbDUBBur6lsPik1f']"
+        ],
+        [
+            "2023-08-28 00:16:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Lunar Cliffside   Location: ['Seaside Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['Helpless_Rowlet']   Prover: ['Mackansmat']   Server: Database   Links: ['https://youtu.be/ZNSgg7p5xuA?si=VvoN2R6pTuKOWQQi']"
+        ],
+        [
+            "2023-08-28 00:18:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Ceiling Scraper   Location: ['Cascade Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['2P Vertical']   Prover: ['Gorganim']   Server: Database   Links: ['https://youtu.be/Os7kAxrQpeg?si=4atRocDfGwUt45M0']"
+        ],
+        [
+            "2023-08-28 00:22:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Fly Me To The Moon   Location: ['Moon Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Entity Bounce', 'zg']   Finder: ['Grey']   Prover: ['Grey']   Server: Database   Links: ['https://youtu.be/2SM4qK8ylns?si=IDsgRu-XL3sTIp3x']"
+        ],
+        [
+            "2023-08-28 00:25:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Cheddar Stretch   Location: ['Luncheon Kingdom']   Diff: God Tier   Tier: God Tier   Type: ['Longjump']   Finder: ['Intral', 'kyoku']   Prover: ['Kyoku']   Server: Database   Links: ['https://youtu.be/Rff0W-ZWJJ0?si=APWgl7ymkZhH-SQf']"
+        ],
+        [
+            "2023-08-28 00:29:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Spiky Roof Hopper   Location: [\"Bowser's Kingdom\"]   Diff: 10/10   Tier: Master   Type: ['Yellow Dram']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/99pYY4iftwc?si=FIwisPmTO1NPMSjj']"
+        ],
+        [
+            "2023-08-28 00:30:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Bouncy Mushroom Mard   Location: ['Mushroom Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Zox']   Server: Database   Links: ['https://youtu.be/G1BI5kB3B_A?si=0ZGNR7cpb7x6cRnM']"
+        ],
+        [
+            "2023-08-28 00:31:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: 2P Vault Triple Hopper   Location: ['Moon Kingdom']   Diff: 8/10   Tier: Expert   Type: ['2P Vault']   Server: Database   Extra: ['Doing this jump with TT storage is allowed as well!']   Links: ['https://youtu.be/n-KzNoADSZ4?si=1wF_DV1zGsU_G5ni']"
+        ],
+        [
+            "2023-08-28 00:32:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Vault Sandy Pound   Location: ['Sand Kingdom']   Diff: 10/10   Tier: Master   Type: ['Vault']   Finder: ['IdentXd']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/HdSzAjLspRg?si=hM_HHOxbY2RlphZ_']"
+        ],
+        [
+            "2023-08-28 00:33:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Cloudy Nuts   Location: ['Cloud Kingdom']   Diff: 9/10   Tier: Master   Type: ['Vault']   Finder: ['CorDar']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/A4mZQ9IqXsg?si=Xph5UDn8boJd42Iz']"
+        ],
+        [
+            "2023-08-28 00:34:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True High Flying Flower   Location: ['Lake Kingdom']   Diff: 9/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['Construcable']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/Fw2-E3SBpIk?si=kuPyBHK_Q8_a6jXx']"
+        ],
+        [
+            "2023-08-28 00:35:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Morning Wood   Location: ['Wooded Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Triple']   Finder: ['Ninjapugs']   Prover: ['Ninjapugs']   Server: Database   Links: ['https://youtu.be/ofiZt5_A_mg?si=QxF54mUGKc6UBJq-']"
+        ],
+        [
+            "2023-08-28 00:36:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Tenacious Tables   Location: ['Metro Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Triple']   Finder: ['CToad7']   Prover: ['CToad7']   Server: Database   Links: ['https://youtu.be/lvNdGjDfz_U?si=b0Cg5rQIR9IVeKYn']"
+        ],
+        [
+            "2023-08-28 00:37:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Luncheon Launch   Location: ['Luncheon Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Entity Bounce']   Finder: ['CToad7']   Prover: ['CToad7']   Server: Database   Links: ['https://youtu.be/v3RbH2nT7Zw?si=byL5OQYjPQgpGSNo']"
+        ],
+        [
+            "2023-08-28 00:38:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Flowery Decoration   Location: ['Sand Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['WayTOObxred']   Server: Database   Links: ['https://youtu.be/nuhnRbn1lf8?si=ZhbnQhGghDoHlkuJ']"
+        ],
+        [
+            "2023-08-28 00:39:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Lethal Launch   Location: ['Lost Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Triple']   Finder: ['WinterSMO']   Prover: ['WinterSMO']   Server: Database   Links: ['https://youtu.be/KCtwU3MLGlo?si=hLevHDd6ZE6QSj5m']"
+        ],
+        [
+            "2023-08-28 00:41:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Homingless Cliffside   Location: ['Sand Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Spinless']   Finder: ['Nevu']   Prover: ['Nevu']   Server: Database   Links: ['https://youtu.be/wqiY2ESklyM?si=wDcuJKbSCoph_p-K']"
+        ],
+        [
+            "2023-08-28 00:42:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Reverse Prickly Bubble   Location: ['Sand Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Vault']   Finder: ['CToad7']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/JDFVuMrmh-o?si=Qm5em3eWeAZvhATs']"
+        ],
+        [
+            "2023-08-28 00:43:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Gloomy Glide   Location: ['Cap Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Longjump']   Finder: ['CorDar']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/4DzDjR9uN1o?si=ieDXHpGIdSOrBOLw']"
+        ],
+        [
+            "2023-08-28 00:44:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Mayor Migrant   Location: ['Metro Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Entity Bounce']   Finder: ['TheAmazingRaptor']   Prover: ['TheAmazingRaptor']   Server: Database   Links: ['https://youtu.be/mBe2evb1GcA?si=z_USxS6Y0UhmJ_yI']"
+        ],
+        [
+            "2023-08-28 00:45:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Meter Toll   Location: ['Metro Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Sequence']   Finder: ['TheAmazingRaptor']   Prover: ['TheAmazingRaptor']   Server: Database   Links: ['https://youtu.be/SG8qxvS4fA8?si=kiieFN1RyooIZw9c']"
+        ],
+        [
+            "2023-08-28 00:46:53 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pedestrian Drop   Location: ['Metro Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/nY5oUaOsvkU?si=vDhEjJiBqpAvdmkG']"
+        ],
+        [
+            "2023-08-28 00:48:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Boundaries Hell 2.0   Location: ['Sand Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Sequence']   Finder: ['Ryan64']   Prover: ['WayTOObxred']   Server: Database   Links: ['https://youtu.be/2fJ35AWS8O4?si=X-aRm5vj62elYu3d']"
+        ],
+        [
+            "2023-08-28 00:49:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Peachy Pyramid   Location: ['Sand Kingdom']   Diff: 9/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/BRVJsf5ymy8?si=D3d-gasVVifpnsxN']"
+        ],
+        [
+            "2023-08-28 00:54:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Reverse Toad Traversal   Location: ['Mushroom Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/7krCIslJhwA?si=QU9eJLYpIjiJ-Qmp']"
+        ],
+        [
+            "2023-08-28 00:55:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Hose Bounce   Location: ['Seaside Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Entity Bounce']   Finder: ['Hose_10']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/q1M32H3ErlI?si=RQVTCen2SGElFlSV']"
+        ],
+        [
+            "2023-08-28 00:56:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Woman-Made Marvel   Location: ['Metro Kingdom']   Diff: 9/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/79sUBprQjOs?si=uGbm_vKJ8xV6EysX']"
+        ],
+        [
+            "2023-08-28 00:57:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pipe Nightmare   Location: ['Lake Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Backflip']   Finder: ['Pato_0Z']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/EI--oDE8ajw?si=O1VBUI_ho7p-wZ0B']"
+        ],
+        [
+            "2023-08-28 00:58:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Ur-Mom   Location: ['Cascade Kingdom']   Diff: 6/10   Tier: Advanced   Type: ['Vault']   Finder: ['s8ck']   Prover: ['s8ck']   Server: Database   Links: ['https://youtu.be/37GNu1t3m9o?si=aHiED_IomozSeSEm']"
+        ],
+        [
+            "2023-08-28 00:59:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Is That Cartilage Climb?   Location: ['Cascade Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Entity Bouncr']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/L9XNHjNOOgU?si=488k4Tgiy_vE3L_G']"
+        ],
+        [
+            "2023-08-28 01:00:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Rocking Bonk   Location: ['Cap Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/kPui_A2tHrs?si=3UbiPt95tl9QWUEl']"
+        ],
+        [
+            "2023-08-28 01:01:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Hammered   Location: ['Moon Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/DlsFKrVdkJQ?si=-XSuDGZT01UtnmOe']"
+        ],
+        [
+            "2023-08-28 01:02:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Quicksand Conquest   Location: ['Sand Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Finder: ['IdentXd']   Prover: ['Kerfuffle']   Server: Database   Links: ['https://youtu.be/6BMz28V8c1A?si=inb_TdcD0V2aWdVr']"
+        ],
+        [
+            "2023-08-28 01:03:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Populated Poles   Location: ['Metro Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Yellow Dram']   Finder: ['Kerfuffle']   Prover: ['Kerfuffle']   Server: Database   Links: ['https://youtu.be/YtXuObt1890?si=QMwdkqEv62ypDPps']"
+        ],
+        [
+            "2023-08-28 01:04:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Rooftop Wrongdoings   Location: ['Metro Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Vault']   Finder: ['Fishy']   Prover: ['Kerfuffle']   Server: Database   Links: ['https://youtu.be/JKI_JOYCe50?si=6WhelUP2WL5dpM_r']"
+        ],
+        [
+            "2023-08-28 01:05:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Reverse Lisbon Landing   Location: ['Metro Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Vault']   Finder: ['Fishy']   Prover: ['Kerfuffle']   Server: Database   Links: ['https://youtu.be/dTD_Jw2xP9Y?si=Q6TamKikehe8kyv8']"
+        ],
+        [
+            "2023-08-28 01:06:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Wooded Divine   Location: ['Wooded Kingdom']   Diff: 1/10   Tier: Beginner   Type: ['Vault']   Server: Database   Links: ['https://youtu.be/hM6rIvzuKf0?si=iS90Zr4wZcyqWlpP']"
+        ],
+        [
+            "2023-08-28 01:07:15 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Cook's Nightmare   Location: ['Luncheon Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/Am8iu9jzitQ?si=eBDX-qpPAvsZQKaI']"
+        ],
+        [
+            "2023-08-28 01:08:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Fork Freefall   Location: ['Luncheon Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/ZD_yVzSFPKM?si=OgRxWsSfzXKujk7g']"
+        ],
+        [
+            "2023-08-28 01:10:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Luminous Comduction   Location: ['Metro Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Triple']   Finder: ['Mango']   Prover: ['Mango']   Server: Database   Links: ['https://youtu.be/Vjg9p9v24Ts?si=RzzyZWIyTGRBglCF']"
+        ],
+        [
+            "2023-08-28 01:11:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Salt Bae   Location: ['Luncheon Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/fSceBzYjjYA?si=fKbMhiDfIo0RbS8j']"
+        ],
+        [
+            "2023-08-28 01:12:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Upper Sand Evader   Location: ['Sand Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Finder: ['Comstrucable']   Prover: ['Construcable']   Server: Database   Links: ['https://youtu.be/1QBDOWkiA2o?si=InBZ5IdJhaDfOSW4']"
+        ],
+        [
+            "2023-08-28 01:13:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Golden Gate Bridge   Location: [\"Bowser's Kingdom\"]   Diff: Mid Elite   Tier: Mid Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/vqNsRmvRgwE?si=XKiYTA-4TmWWJg8m']"
+        ],
+        [
+            "2023-08-28 01:16:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Mountain Top   Location: ['Luncheon Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bouncr']   Finder: ['Soupafi']   Prover: ['CorDar']   Server: Database   Extra: ['Particles must be on the platform. If particles are below it does not count!']   Links: ['https://youtu.be/L3YKTfkNpWk?si=MmClvYFSCm6cfqtI']"
+        ],
+        [
+            "2023-08-28 01:17:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: EB Lady Evader   Location: ['Lake Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/MzPvJVmt_xE?si=BV-EQUtBrhcb1G9X']"
+        ],
+        [
+            "2023-08-28 01:18:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Workplace Accident   Location: ['Moon Kingdom']   Diff: God Tier   Tier: God Tier   Type: ['Vault', 'zg']   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/FR1Alob5llU?si=rkNU2jNIB7QWrJfd']"
+        ],
+        [
+            "2023-08-28 01:19:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Vault Reverse Pond Crossing   Location: ['Cap Kingdom']   Diff: 9/10   Tier: Master   Type: ['Vault']   Server: Database   Links: ['https://youtu.be/I8od3btaz7o?si=uKY_eUHceKtLfx7U']"
+        ],
+        [
+            "2023-08-28 01:20:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Reverse Pond Crossing 2.0   Location: ['Cap Kingdom']   Diff: 9.5/10   Tier: Master   Type: ['Triple']   Finder: ['Construcable']   Prover: ['Construcable']   Server: Database   Links: ['https://youtu.be/7x0p8P2YDH4?si=Pajylh7lE_Yi6r_l']"
+        ],
+        [
+            "2023-08-28 01:21:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Shipscope   Location: ['Cap Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Capture']   Finder: ['Construcable']   Prover: ['Construcable']   Server: Database   Links: ['https://youtu.be/FEGwRT4dL9s?si=W4GgeANptjOHaXT5']"
+        ],
+        [
+            "2023-08-28 01:22:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Leaderbonk   Location: [\"Bowser's Kingdom\"]   Diff: 9.5/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/b539rv9wwsg?si=QPkp22dKuJK4nvey']"
+        ],
+        [
+            "2023-08-28 01:23:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Sugar Rush Ride   Location: ['Luncheon Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Finder: ['Marci']   Prover: ['Marci']   Server: Database   Links: ['https://youtu.be/KCLeWXbBUNo?si=raoT6U0IdUyzWXGB']"
+        ],
+        [
+            "2023-08-28 01:24:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Boowomp   Location: ['Metro Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Capless']   Server: Database   Links: ['https://youtu.be/iK3VtOhJHW4?si=icZ4EpyZWcaQ_-WS']"
+        ],
+        [
+            "2023-08-28 01:25:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Ledge to Ledge   Location: ['Darker Side']   Diff: 7/10   Tier: Expert   Type: ['Ledge Grab', 'final diveless']   Finder: ['Louka']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/p0c67hhvtFM?si=JMJVrJmjqFov0WwX']"
+        ],
+        [
+            "2023-08-28 01:26:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Right Musician   Location: ['Darker Side']   Diff: 8.5/10   Tier: Master   Type: ['Ledge Grab']   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/JC0RH40zyWA?si=LgaDBNtAGr7SR9jx']"
+        ],
+        [
+            "2023-08-28 01:28:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Left Musician   Location: ['Darker Side']   Diff: 10/10   Tier: Master   Type: ['Ledge Grap']   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/Ca-yhWwO0BI?si=9mymI1e109HWaGrU']"
+        ],
+        [
+            "2023-08-28 01:29:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Middle Musician   Location: ['Darker Side']   Diff: Low Elite   Tier: Low Elite   Type: ['Ledge Grab']   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/6S53KeqnIUc?si=xkgqnPyDTDxJGH2W']"
+        ],
+        [
+            "2023-08-28 01:30:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pauline Hitter   Location: ['Darker Side']   Diff: 7.5/10   Tier: Expert   Type: ['Ledge Grap']   Finder: ['Louka']   Prover: ['Louka']   Server: Database   Links: ['https://youtu.be/oGO6SSV5ETM?si=Rgyu9NJPEQkBy_rE']"
+        ],
+        [
+            "2023-08-28 01:31:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Darker Mard   Location: ['Darker Side']   Diff: Low Elite   Tier: Low Elite   Type: ['Longjump']   Finder: ['Louka']   Prover: ['Louka']   Server: Database   Links: ['https://youtu.be/HjRtF_gXEnw?si=-or4CdebTpM9Vm6t']"
+        ],
+        [
+            "2023-08-28 01:32:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Darker Mard   Location: ['Darker Side']   Diff: High Elite   Tier: High Elite   Type: ['Longjump', 'zg']   Finder: ['Louka']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/-cFoofk4mvY?si=7tL8cm-2RrrwF34O']"
+        ],
+        [
+            "2023-08-28 01:33:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Insanity 10.0   Location: ['Darker Side']   Diff: 0/10   Tier: Practice Tier   Type: ['Roll', 'zg']   Server: Database   Links: ['https://youtu.be/Lgv9kE17jhY?si=tzql1YMXTv3uzEIa']"
+        ],
+        [
+            "2023-08-28 01:34:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Speaker Bonk   Location: ['Darker Side']   Diff: 0/10   Tier: Practice Tier   Type: ['Bonk', 'zg']   Server: Database   Links: ['https://youtu.be/XFiOixCYXkA?si=cchvaY2-sE9F1OWK']"
+        ],
+        [
+            "2023-08-28 01:35:48 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True 1P Reverse Bonk   Location: ['Darker Side']   Diff: 0/10   Tier: Practice Tier   Type: ['1P Reverse Bonk', 'zg']   Server: Database   Links: ['https://youtu.be/4QSFOwgOZYk?si=kzHEbHdPr0WnPKWp']"
+        ],
+        [
+            "2023-08-28 01:37:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Orango   Location: ['Darker Side']   Diff: 0/10   Tier: Practice Tier   Type: ['Backflip', 'spinless', 'cb-less', 'diveless', 'zg']   Server: Database   Links: ['https://youtu.be/nUT6LkP4WOY?si=t5cobSSIy0Tt6CLy']"
+        ],
+        [
+            "2023-08-28 01:38:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Cloudtop Boundaries   Location: ['Cloud Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Prover: ['WayTOObxred']   Server: Database   Extra: ['Only counts if Mario stays at the same position after groundpound/his feet are straight!']   Links: ['https://youtu.be/zIJ56pAkjB8?si=ldS3g7swBeNz__Nv']"
+        ],
+        [
+            "2023-08-28 01:39:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pedestrian Fall   Location: ['Metro Kingdom']   Diff: 4/10   Tier: Intermediate   Type: ['Entity Bounce']   Finder: ['Nevu']   Prover: ['Nevu']   Server: Database   Links: ['https://youtu.be/z8sktc6TwLE?si=toKK9aLSHSgHQ8Rb']"
+        ],
+        [
+            "2023-08-28 01:40:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Womanard   Location: ['Mushroom Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/IqlBnPCe3Co?si=nVHZXh9Ty4WL6oXO']"
+        ],
+        [
+            "2023-08-28 01:41:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Gayte   Location: ['Sand Kingdom']   Diff: 6/10   Tier: Advanced   Type: ['Vertical', 'single jump', 'cb-less']   Server: Database   Links: ['https://youtu.be/oC9NJHpV0D4?si=WA4K24FGWQCpWamm']"
+        ],
+        [
+            "2023-08-28 01:42:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Chess Impasse   Location: ['Metro Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Vault']   Prover: ['Zombolotl']   Server: Database   Links: ['https://youtu.be/f51S_1iM0eU?si=1dDXqq-E3AMIoYP3']"
+        ],
+        [
+            "2023-08-28 01:43:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Hammer Escape   Location: ['Moon Kingdom']   Diff: God Tier   Tier: God Tier   Type: ['Vault']   Finder: ['Rashed']   Prover: ['Rashed']   Server: Database   Links: ['https://youtu.be/5r1pYYoYCbA?si=EtWGUr5xCyLdjBye']"
+        ],
+        [
+            "2023-08-28 01:44:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Peter Piper Pizza   Location: ['Wooded Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault', 'spinless']   Finder: ['CToad7']   Prover: ['BK5']   Server: Database   Links: ['https://youtu.be/rjSrsSY1mbM?si=LJ883_ys41h_kYy0']"
+        ],
+        [
+            "2023-08-28 01:45:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Igneous Impact   Location: ['Darker Side']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['CToad7']   Prover: ['CToad7']   Server: Database   Links: ['https://youtu.be/AyiKbcRuJow?si=9DhLMEtqxFHiDqqA']"
+        ],
+        [
+            "2023-08-28 01:46:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: When He Roof On My Top   Location: ['Metro Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Vault']   Finder: ['Zombolotl']   Prover: ['Zombolotl']   Server: Database   Links: ['https://youtu.be/sFrTKXy_o7M?si=3bnvt96ZT5Zzz0K-']"
+        ],
+        [
+            "2023-08-28 01:47:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Sitting Spark   Location: ['Metro Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Vault']   Finder: ['Zombolotl']   Prover: ['Zombolotl']   Server: Database   Links: ['https://youtu.be/pjbfKehxxvg?si=sXI1bEXK1V9u6Wc2']"
+        ],
+        [
+            "2023-08-28 01:48:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Canyontop Course   Location: ['Seaside Kingdom']   Diff: 1/10   Tier: Beginner   Type: ['Vault']   Finder: ['SupaJay3']   Prover: ['SupaJay3']   Server: Database   Links: ['https://youtu.be/cLzxgDG92cg?si=NwJ_R0HE151NL6W3']"
+        ],
+        [
+            "2023-08-28 01:49:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Crazy Toad 2.0   Location: ['Mushroom Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Entity Bounce']   Finder: ['CToad7']   Prover: ['CToad7']   Server: Database   Links: ['https://youtu.be/jyoebJmFEqI?si=rEsryOg_t-HI-jQc']"
+        ],
+        [
+            "2023-08-28 01:50:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Bridge Bonk   Location: ['Cascade Kingdom']   Diff: 9/10   Tier: Master   Type: ['Triple']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/A6Ow2-nbO9M?si=_v1RxpWv-iZqwk_j']"
+        ],
+        [
+            "2023-08-28 01:51:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Truer Lost Gap   Location: ['Lost Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Triple']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/Kw0ql2V2gAM?si=77ayZS32scLMB8VZ']"
+        ],
+        [
+            "2023-08-28 01:52:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Take a Seat   Location: ['Metro Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Vault']   Finder: ['Zombolotl']   Prover: ['Zombolotl']   Server: Database   Links: ['https://youtu.be/d3jASNG9_RE?si=prZs2QsOKqzsop-S']"
+        ],
+        [
+            "2023-08-28 01:53:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: This Forkin Turnip   Location: ['Luncheon Kingdom']   Diff: 6/10   Tier: Advanced   Type: ['Entity Bounce']   Finder: ['Totando']   Prover: ['Totando']   Server: Database   Links: ['https://youtu.be/Xm8Qtjwc2Q4?si=S1Jv9PM7LADdN94J']"
+        ],
+        [
+            "2023-08-28 01:54:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Pepper Plummet   Location: ['Luncheon Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Vault']   Finder: ['Totando']   Prover: ['Totando']   Server: Database   Links: ['https://youtu.be/Pn2-yAcGiyg?si=JRjYyXaRiL8vQm5U']"
+        ],
+        [
+            "2023-08-28 01:55:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pepper Plummet   Location: ['Luncheon Kingdom']   Diff: 0.5/10   Tier: Beginner   Type: ['Triple']   Finder: ['Totando']   Prover: ['Totando']   Server: Database   Links: ['https://youtu.be/A3lJ3gW-n-Q?si=ggtGg5YVHyBjeSSg']"
+        ],
+        [
+            "2023-08-28 01:56:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Sizzling Surge   Location: ['Luncheon Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Triple']   Finder: ['Totando']   Prover: ['Totando']   Server: Database   Links: ['https://youtu.be/gn0D8jg3sHY?si=nsDlsPSAVz5UCSbo']"
+        ],
+        [
+            "2023-08-28 01:56:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Cloudy Residue   Location: ['Cascade Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Triple']   Finder: ['Totando']   Prover: ['CorDar']   Server: Database   Links: ['https://youtu.be/eJ2vyT0PpQI?si=hw9L-gPZ0-3JF3Rq']"
+        ],
+        [
+            "2023-08-28 01:58:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Soup Loves Rocks   Location: ['Lost Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Triple']   Finder: ['Soupafi']   Prover: ['Kyoku']   Server: Database   Links: ['https://youtu.be/uCSgDmNIU4s?si=PJg_kdgBLya1vi11']"
+        ],
+        [
+            "2023-08-28 01:59:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Man Hitter 2.0   Location: ['Metro Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Server: Database   Links: ['https://youtu.be/6XnP5Ex1SOs?si=8ymxhYMphd9rzRD9']"
+        ],
+        [
+            "2023-08-28 01:59:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Nightlight   Location: ['Cap Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Triple']   Server: Database   Links: ['https://youtu.be/Y1Od3hV5rYE?si=4qApAkrlLGXSKlHt']"
+        ],
+        [
+            "2023-08-28 02:00:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Fencing Fall   Location: ['Mushroom Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Vault']   Server: Database   Links: ['https://youtu.be/oZD6j7-Ou5k?si=aocqTpg0BAH2NNtU']"
+        ],
+        [
+            "2023-08-28 02:02:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: WONDERHOY   Location: ['Sand Kingdom']   Diff: 6/10   Tier: Advanced   Type: ['Entity Bounce', 'vertical', 'cb-less']   Finder: ['Construcable']   Prover: ['Construcable']   Server: Database   Links: ['https://youtu.be/eeFueq7dnck?si=3nNF0vM2N4mjl-fa']"
+        ],
+        [
+            "2023-08-28 02:02:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: True Jaywalker   Location: ['Metro Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Triple']   Server: Database   Links: ['https://youtu.be/SWTBdOXuXQY?si=pr_XfeeDKDqzfAsm']"
+        ],
+        [
+            "2023-08-28 02:03:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Capless Scavenger   Location: ['Cascade Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Capless']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/lj0Y7liw2Kc?si=dwU10C9cbeDvoNv1']"
+        ],
+        [
+            "2023-08-28 02:17:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: add   Name: igneous impact"
+        ],
+        [
+            "2023-08-28 02:19:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Igneous Impact 2.0   Location: ['Darker Side']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['CToad7']   Prover: ['CToad7']   Server: Database   Links: ['https://youtu.be/AyiKbcRuJow?si=9DhLMEtqxFHiDqqA']"
+        ],
+        [
+            "2023-08-28 02:20:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Pipe Nightmare 2.0   Location: ['Lake Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Backflip']   Finder: ['Pato_0Z']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/EI--oDE8ajw?si=GKbdDtuNOq8w3iqg']"
+        ],
+        [
+            "2023-08-28 02:21:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: add   Name: pipe nightmare"
+        ],
+        [
+            "2023-08-28 02:21:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "backflip burden": {
+            "name": "Backflip Burden",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Ruined"
+            ],
+            "type": [
+                "Backflip"
+            ],
+            "links": [
+                "https://youtu.be/sPvjSa0tLI8?si=dq_wuhXpt42su8ww"
+            ],
+            "tier": "Low Elite"
+        },
+        "windy annoyance": {
+            "name": "Windy Annoyance",
+            "diff": "10/10",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Cascade"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/VUJxpua6qHo?si=QFO2IVHFi66Az7NQ"
+            ],
+            "tier": "Master"
+        },
+        "overshoot windy climb": {
+            "name": "Overshoot Windy Climb",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Cascade"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Mackansmat"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/Bk0qxeMhZWA?si=5hDUq3pI_qghQNFA"
+            ],
+            "tier": "Mid Elite"
+        },
+        "platform peak": {
+            "name": "Platform Peak",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Lost"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Autumn"
+            ],
+            "prover": [
+                "Autumn"
+            ],
+            "links": [
+                "https://youtu.be/VaL0lmL2PPs?si=g85Y1eaKJS2nw84p"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "hatrickjump": {
+            "name": "Hatrickjump",
+            "diff": "4/10",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Metro"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Bev200o"
+            ],
+            "prover": [
+                "Bev200o"
+            ],
+            "links": [
+                "https://youtube.com/shorts/OjbqNCyZO3A?si=hQQwC-apszTtv4Fb"
+            ],
+            "tier": "Intermediate"
+        },
+        "truest cacti leap": {
+            "name": "Truest Cacti Leap",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Sand"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Zox"
+            ],
+            "links": [
+                "https://youtu.be/1998g1DgHZA?si=OYdcM_OggNf8C936"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "high flying flower": {
+            "name": "High Flying Flower",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Lake"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Constructable"
+            ],
+            "prover": [
+                "Constructable"
+            ],
+            "links": [
+                "https://youtu.be/GlRBxyjg-iM?si=HktPCiZC5hr9vE7E"
+            ],
+            "tier": "Expert"
+        },
+        "fountain flick": {
+            "name": "Fountain Flick",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom",
+                "Mushroom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Kayo"
+            ],
+            "prover": [
+                "Kayo"
+            ],
+            "links": [
+                "https://youtu.be/u-8nDMqC1jk?si=tbDUBBur6lsPik1f"
+            ],
+            "tier": "High Elite"
+        },
+        "lunar cliffside": {
+            "name": "Lunar Cliffside",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Helpless_Rowlet"
+            ],
+            "prover": [
+                "Mackansmat"
+            ],
+            "links": [
+                "https://youtu.be/ZNSgg7p5xuA?si=VvoN2R6pTuKOWQQi"
+            ],
+            "tier": "Low Elite"
+        },
+        "ceiling scraper": {
+            "name": "Ceiling Scraper",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "2P Vertical"
+            ],
+            "prover": [
+                "Gorganim"
+            ],
+            "links": [
+                "https://youtu.be/Os7kAxrQpeg?si=4atRocDfGwUt45M0"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "fly me to the moon": {
+            "name": "Fly Me To The Moon",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce",
+                "zg"
+            ],
+            "finder": [
+                "Grey"
+            ],
+            "prover": [
+                "Grey"
+            ],
+            "links": [
+                "https://youtu.be/2SM4qK8ylns?si=IDsgRu-XL3sTIp3x"
+            ],
+            "tier": "Expert"
+        },
+        "cheddar stretch": {
+            "name": "Cheddar Stretch",
+            "diff": "God Tier",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Longjump"
+            ],
+            "finder": [
+                "Intral",
+                "kyoku"
+            ],
+            "prover": [
+                "Kyoku"
+            ],
+            "links": [
+                "https://youtu.be/Rff0W-ZWJJ0?si=APWgl7ymkZhH-SQf"
+            ],
+            "tier": "God Tier"
+        },
+        "spiky roof hopper": {
+            "name": "Spiky Roof Hopper",
+            "diff": "10/10",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "type": [
+                "Yellow Dram"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/99pYY4iftwc?si=FIwisPmTO1NPMSjj"
+            ],
+            "tier": "Master"
+        },
+        "bouncy mushroom mard": {
+            "name": "Bouncy Mushroom Mard",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Zox"
+            ],
+            "links": [
+                "https://youtu.be/G1BI5kB3B_A?si=0ZGNR7cpb7x6cRnM"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "2p vault triple hopper": {
+            "name": "2P Vault Triple Hopper",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "type": [
+                "2P Vault"
+            ],
+            "links": [
+                "https://youtu.be/n-KzNoADSZ4?si=1wF_DV1zGsU_G5ni"
+            ],
+            "extra": [
+                "Doing this jump with TT storage is allowed as well!"
+            ],
+            "tier": "Expert"
+        },
+        "vault sandy pound": {
+            "name": "Vault Sandy Pound",
+            "diff": "10/10",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/HdSzAjLspRg?si=hM_HHOxbY2RlphZ_"
+            ],
+            "tier": "Master"
+        },
+        "cloudy nuts": {
+            "name": "Cloudy Nuts",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Cloud Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "CorDar"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/A4mZQ9IqXsg?si=Xph5UDn8boJd42Iz"
+            ],
+            "tier": "Master"
+        },
+        "true high flying flower": {
+            "name": "True High Flying Flower",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Construcable"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/Fw2-E3SBpIk?si=kuPyBHK_Q8_a6jXx"
+            ],
+            "tier": "Master"
+        },
+        "morning wood": {
+            "name": "Morning Wood",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Ninjapugs"
+            ],
+            "prover": [
+                "Ninjapugs"
+            ],
+            "links": [
+                "https://youtu.be/ofiZt5_A_mg?si=QxF54mUGKc6UBJq-"
+            ],
+            "tier": "Low Elite"
+        },
+        "true tenacious tables": {
+            "name": "True Tenacious Tables",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "CToad7"
+            ],
+            "links": [
+                "https://youtu.be/lvNdGjDfz_U?si=b0Cg5rQIR9IVeKYn"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "luncheon launch": {
+            "name": "Luncheon Launch",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "CToad7"
+            ],
+            "links": [
+                "https://youtu.be/v3RbH2nT7Zw?si=byL5OQYjPQgpGSNo"
+            ],
+            "tier": "Expert"
+        },
+        "flowery decoration": {
+            "name": "Flowery Decoration",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "WayTOObxred"
+            ],
+            "links": [
+                "https://youtu.be/nuhnRbn1lf8?si=ZhbnQhGghDoHlkuJ"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "true lethal launch": {
+            "name": "True Lethal Launch",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "WinterSMO"
+            ],
+            "prover": [
+                "WinterSMO"
+            ],
+            "links": [
+                "https://youtu.be/KCtwU3MLGlo?si=hLevHDd6ZE6QSj5m"
+            ],
+            "tier": "Mid Elite"
+        },
+        "homingless cliffside": {
+            "name": "Homingless Cliffside",
+            "diff": "6.5/10",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Spinless"
+            ],
+            "finder": [
+                "Nevu"
+            ],
+            "prover": [
+                "Nevu"
+            ],
+            "links": [
+                "https://youtu.be/wqiY2ESklyM?si=wDcuJKbSCoph_p-K"
+            ],
+            "tier": "Advanced"
+        },
+        "reverse prickly bubble": {
+            "name": "Reverse Prickly Bubble",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/JDFVuMrmh-o?si=Qm5em3eWeAZvhATs"
+            ],
+            "tier": "High Elite"
+        },
+        "gloomy glide": {
+            "name": "Gloomy Glide",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "type": [
+                "Longjump"
+            ],
+            "finder": [
+                "CorDar"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/4DzDjR9uN1o?si=ieDXHpGIdSOrBOLw"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "mayor migrant": {
+            "name": "Mayor Migrant",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "TheAmazingRaptor"
+            ],
+            "prover": [
+                "TheAmazingRaptor"
+            ],
+            "links": [
+                "https://youtu.be/mBe2evb1GcA?si=z_USxS6Y0UhmJ_yI"
+            ],
+            "tier": "Expert"
+        },
+        "meter toll": {
+            "name": "Meter Toll",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Sequence"
+            ],
+            "finder": [
+                "TheAmazingRaptor"
+            ],
+            "prover": [
+                "TheAmazingRaptor"
+            ],
+            "links": [
+                "https://youtu.be/SG8qxvS4fA8?si=kiieFN1RyooIZw9c"
+            ],
+            "tier": "Low Elite"
+        },
+        "pedestrian drop": {
+            "name": "Pedestrian Drop",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/nY5oUaOsvkU?si=vDhEjJiBqpAvdmkG"
+            ],
+            "tier": "Mid Elite"
+        },
+        "boundaries hell 2.0": {
+            "name": "Boundaries Hell 2.0",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Sequence"
+            ],
+            "finder": [
+                "Ryan64"
+            ],
+            "prover": [
+                "WayTOObxred"
+            ],
+            "links": [
+                "https://youtu.be/2fJ35AWS8O4?si=X-aRm5vj62elYu3d"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "peachy pyramid": {
+            "name": "Peachy Pyramid",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/BRVJsf5ymy8?si=D3d-gasVVifpnsxN"
+            ],
+            "tier": "Master"
+        },
+        "reverse toad traversal": {
+            "name": "Reverse Toad Traversal",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/7krCIslJhwA?si=QU9eJLYpIjiJ-Qmp"
+            ],
+            "tier": "Low Elite"
+        },
+        "hose bounce": {
+            "name": "Hose Bounce",
+            "diff": "6.5/10",
+            "server": "Database",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Hose_10"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/q1M32H3ErlI?si=RQVTCen2SGElFlSV"
+            ],
+            "tier": "Advanced"
+        },
+        "woman-made marvel": {
+            "name": "Woman-Made Marvel",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/79sUBprQjOs?si=uGbm_vKJ8xV6EysX"
+            ],
+            "tier": "Master"
+        },
+        "ur-mom": {
+            "name": "Ur-Mom",
+            "diff": "6/10",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "s8ck"
+            ],
+            "prover": [
+                "s8ck"
+            ],
+            "links": [
+                "https://youtu.be/37GNu1t3m9o?si=aHiED_IomozSeSEm"
+            ],
+            "tier": "Advanced"
+        },
+        "is that cartilage climb?": {
+            "name": "Is That Cartilage Climb?",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "Entity Bouncr"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/L9XNHjNOOgU?si=488k4Tgiy_vE3L_G"
+            ],
+            "tier": "Low Elite"
+        },
+        "rocking bonk": {
+            "name": "Rocking Bonk",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/kPui_A2tHrs?si=3UbiPt95tl9QWUEl"
+            ],
+            "tier": "High Elite"
+        },
+        "hammered": {
+            "name": "Hammered",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/DlsFKrVdkJQ?si=-XSuDGZT01UtnmOe"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "true quicksand conquest": {
+            "name": "True Quicksand Conquest",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "Kerfuffle"
+            ],
+            "links": [
+                "https://youtu.be/6BMz28V8c1A?si=inb_TdcD0V2aWdVr"
+            ],
+            "tier": "Mid Elite"
+        },
+        "populated poles": {
+            "name": "Populated Poles",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Yellow Dram"
+            ],
+            "finder": [
+                "Kerfuffle"
+            ],
+            "prover": [
+                "Kerfuffle"
+            ],
+            "links": [
+                "https://youtu.be/YtXuObt1890?si=QMwdkqEv62ypDPps"
+            ],
+            "tier": "Low Elite"
+        },
+        "rooftop wrongdoings": {
+            "name": "Rooftop Wrongdoings",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Fishy"
+            ],
+            "prover": [
+                "Kerfuffle"
+            ],
+            "links": [
+                "https://youtu.be/JKI_JOYCe50?si=6WhelUP2WL5dpM_r"
+            ],
+            "tier": "High Elite"
+        },
+        "reverse lisbon landing": {
+            "name": "Reverse Lisbon Landing",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Fishy"
+            ],
+            "prover": [
+                "Kerfuffle"
+            ],
+            "links": [
+                "https://youtu.be/dTD_Jw2xP9Y?si=Q6TamKikehe8kyv8"
+            ],
+            "tier": "High Elite"
+        },
+        "wooded divine": {
+            "name": "Wooded Divine",
+            "diff": "1/10",
+            "server": "Database",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "links": [
+                "https://youtu.be/hM6rIvzuKf0?si=iS90Zr4wZcyqWlpP"
+            ],
+            "tier": "Beginner"
+        },
+        "cook's nightmare": {
+            "name": "Cook's Nightmare",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/Am8iu9jzitQ?si=eBDX-qpPAvsZQKaI"
+            ],
+            "tier": "High Elite"
+        },
+        "fork freefall": {
+            "name": "Fork Freefall",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/ZD_yVzSFPKM?si=OgRxWsSfzXKujk7g"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "luminous comduction": {
+            "name": "Luminous Comduction",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Mango"
+            ],
+            "prover": [
+                "Mango"
+            ],
+            "links": [
+                "https://youtu.be/Vjg9p9v24Ts?si=RzzyZWIyTGRBglCF"
+            ],
+            "tier": "Low Elite"
+        },
+        "salt bae": {
+            "name": "Salt Bae",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/fSceBzYjjYA?si=fKbMhiDfIo0RbS8j"
+            ],
+            "tier": "High Elite"
+        },
+        "upper sand evader": {
+            "name": "Upper Sand Evader",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Comstrucable"
+            ],
+            "prover": [
+                "Construcable"
+            ],
+            "links": [
+                "https://youtu.be/1QBDOWkiA2o?si=InBZ5IdJhaDfOSW4"
+            ],
+            "tier": "Mid Elite"
+        },
+        "golden gate bridge": {
+            "name": "Golden Gate Bridge",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/vqNsRmvRgwE?si=XKiYTA-4TmWWJg8m"
+            ],
+            "tier": "Mid Elite"
+        },
+        "mountain top": {
+            "name": "Mountain Top",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Entity Bouncr"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/L3YKTfkNpWk?si=MmClvYFSCm6cfqtI"
+            ],
+            "extra": [
+                "Particles must be on the platform. If particles are below it does not count!"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "eb lady evader": {
+            "name": "EB Lady Evader",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/MzPvJVmt_xE?si=BV-EQUtBrhcb1G9X"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "workplace accident": {
+            "name": "Workplace Accident",
+            "diff": "God Tier",
+            "server": "Database",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "type": [
+                "Vault",
+                "zg"
+            ],
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/FR1Alob5llU?si=rkNU2jNIB7QWrJfd"
+            ],
+            "tier": "God Tier"
+        },
+        "vault reverse pond crossing": {
+            "name": "Vault Reverse Pond Crossing",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "links": [
+                "https://youtu.be/I8od3btaz7o?si=uKY_eUHceKtLfx7U"
+            ],
+            "tier": "Master"
+        },
+        "reverse pond crossing 2.0": {
+            "name": "Reverse Pond Crossing 2.0",
+            "diff": "9.5/10",
+            "server": "Database",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Construcable"
+            ],
+            "prover": [
+                "Construcable"
+            ],
+            "links": [
+                "https://youtu.be/7x0p8P2YDH4?si=Pajylh7lE_Yi6r_l"
+            ],
+            "tier": "Master"
+        },
+        "shipscope": {
+            "name": "Shipscope",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "type": [
+                "Capture"
+            ],
+            "finder": [
+                "Construcable"
+            ],
+            "prover": [
+                "Construcable"
+            ],
+            "links": [
+                "https://youtu.be/FEGwRT4dL9s?si=W4GgeANptjOHaXT5"
+            ],
+            "tier": "Expert"
+        },
+        "leaderbonk": {
+            "name": "Leaderbonk",
+            "diff": "9.5/10",
+            "server": "Database",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/b539rv9wwsg?si=QPkp22dKuJK4nvey"
+            ],
+            "tier": "Master"
+        },
+        "sugar rush ride": {
+            "name": "Sugar Rush Ride",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Marci"
+            ],
+            "prover": [
+                "Marci"
+            ],
+            "links": [
+                "https://youtu.be/KCLeWXbBUNo?si=raoT6U0IdUyzWXGB"
+            ],
+            "tier": "Mid Elite"
+        },
+        "boowomp": {
+            "name": "Boowomp",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Capless"
+            ],
+            "links": [
+                "https://youtu.be/iK3VtOhJHW4?si=icZ4EpyZWcaQ_-WS"
+            ],
+            "tier": "Mid Elite"
+        },
+        "ledge to ledge": {
+            "name": "Ledge to Ledge",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Ledge Grab",
+                "final diveless"
+            ],
+            "finder": [
+                "Louka"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/p0c67hhvtFM?si=JMJVrJmjqFov0WwX"
+            ],
+            "tier": "Expert"
+        },
+        "right musician": {
+            "name": "Right Musician",
+            "diff": "8.5/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Ledge Grab"
+            ],
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/JC0RH40zyWA?si=LgaDBNtAGr7SR9jx"
+            ],
+            "tier": "Master"
+        },
+        "left musician": {
+            "name": "Left Musician",
+            "diff": "10/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Ledge Grap"
+            ],
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/Ca-yhWwO0BI?si=9mymI1e109HWaGrU"
+            ],
+            "tier": "Master"
+        },
+        "middle musician": {
+            "name": "Middle Musician",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Ledge Grab"
+            ],
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/6S53KeqnIUc?si=xkgqnPyDTDxJGH2W"
+            ],
+            "tier": "Low Elite"
+        },
+        "pauline hitter": {
+            "name": "Pauline Hitter",
+            "diff": "7.5/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Ledge Grap"
+            ],
+            "finder": [
+                "Louka"
+            ],
+            "prover": [
+                "Louka"
+            ],
+            "links": [
+                "https://youtu.be/oGO6SSV5ETM?si=Rgyu9NJPEQkBy_rE"
+            ],
+            "tier": "Expert"
+        },
+        "darker mard": {
+            "name": "Darker Mard",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Longjump"
+            ],
+            "finder": [
+                "Louka"
+            ],
+            "prover": [
+                "Louka"
+            ],
+            "links": [
+                "https://youtu.be/HjRtF_gXEnw?si=-or4CdebTpM9Vm6t"
+            ],
+            "tier": "Low Elite"
+        },
+        "true darker mard": {
+            "name": "True Darker Mard",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Longjump",
+                "zg"
+            ],
+            "finder": [
+                "Louka"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/-cFoofk4mvY?si=7tL8cm-2RrrwF34O"
+            ],
+            "tier": "High Elite"
+        },
+        "insanity 10.0": {
+            "name": "Insanity 10.0",
+            "diff": "0/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Roll",
+                "zg"
+            ],
+            "links": [
+                "https://youtu.be/Lgv9kE17jhY?si=tzql1YMXTv3uzEIa"
+            ],
+            "tier": "Practice Tier"
+        },
+        "speaker bonk": {
+            "name": "Speaker Bonk",
+            "diff": "0/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Bonk",
+                "zg"
+            ],
+            "links": [
+                "https://youtu.be/XFiOixCYXkA?si=cchvaY2-sE9F1OWK"
+            ],
+            "tier": "Practice Tier"
+        },
+        "true 1p reverse bonk": {
+            "name": "True 1P Reverse Bonk",
+            "diff": "0/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "1P Reverse Bonk",
+                "zg"
+            ],
+            "links": [
+                "https://youtu.be/4QSFOwgOZYk?si=kzHEbHdPr0WnPKWp"
+            ],
+            "tier": "Practice Tier"
+        },
+        "orango": {
+            "name": "Orango",
+            "diff": "0/10",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Backflip",
+                "spinless",
+                "cb-less",
+                "diveless",
+                "zg"
+            ],
+            "links": [
+                "https://youtu.be/nUT6LkP4WOY?si=t5cobSSIy0Tt6CLy"
+            ],
+            "tier": "Practice Tier"
+        },
+        "cloudtop boundaries": {
+            "name": "Cloudtop Boundaries",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Cloud Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "prover": [
+                "WayTOObxred"
+            ],
+            "links": [
+                "https://youtu.be/zIJ56pAkjB8?si=ldS3g7swBeNz__Nv"
+            ],
+            "extra": [
+                "Only counts if Mario stays at the same position after groundpound/his feet are straight!"
+            ],
+            "tier": "Low Elite"
+        },
+        "pedestrian fall": {
+            "name": "Pedestrian Fall",
+            "diff": "4/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Nevu"
+            ],
+            "prover": [
+                "Nevu"
+            ],
+            "links": [
+                "https://youtu.be/z8sktc6TwLE?si=toKK9aLSHSgHQ8Rb"
+            ],
+            "tier": "Intermediate"
+        },
+        "womanard": {
+            "name": "Womanard",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/IqlBnPCe3Co?si=nVHZXh9Ty4WL6oXO"
+            ],
+            "tier": "Mid Elite"
+        },
+        "gayte": {
+            "name": "Gayte",
+            "diff": "6/10",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Vertical",
+                "single jump",
+                "cb-less"
+            ],
+            "links": [
+                "https://youtu.be/oC9NJHpV0D4?si=WA4K24FGWQCpWamm"
+            ],
+            "tier": "Advanced"
+        },
+        "chess impasse": {
+            "name": "Chess Impasse",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "prover": [
+                "Zombolotl"
+            ],
+            "links": [
+                "https://youtu.be/f51S_1iM0eU?si=1dDXqq-E3AMIoYP3"
+            ],
+            "tier": "Expert"
+        },
+        "true hammer escape": {
+            "name": "True Hammer Escape",
+            "diff": "God Tier",
+            "server": "Database",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Rashed"
+            ],
+            "prover": [
+                "Rashed"
+            ],
+            "links": [
+                "https://youtu.be/5r1pYYoYCbA?si=EtWGUr5xCyLdjBye"
+            ],
+            "tier": "God Tier"
+        },
+        "peter piper pizza": {
+            "name": "Peter Piper Pizza",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "type": [
+                "Vault",
+                "spinless"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "BK5"
+            ],
+            "links": [
+                "https://youtu.be/rjSrsSY1mbM?si=LJ883_ys41h_kYy0"
+            ],
+            "tier": "Low Elite"
+        },
+        "when he roof on my top": {
+            "name": "When He Roof On My Top",
+            "diff": "8/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Zombolotl"
+            ],
+            "prover": [
+                "Zombolotl"
+            ],
+            "links": [
+                "https://youtu.be/sFrTKXy_o7M?si=3bnvt96ZT5Zzz0K-"
+            ],
+            "tier": "Expert"
+        },
+        "sitting spark": {
+            "name": "Sitting Spark",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Zombolotl"
+            ],
+            "prover": [
+                "Zombolotl"
+            ],
+            "links": [
+                "https://youtu.be/pjbfKehxxvg?si=sXI1bEXK1V9u6Wc2"
+            ],
+            "tier": "Expert"
+        },
+        "canyontop course": {
+            "name": "Canyontop Course",
+            "diff": "1/10",
+            "server": "Database",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "SupaJay3"
+            ],
+            "prover": [
+                "SupaJay3"
+            ],
+            "links": [
+                "https://youtu.be/cLzxgDG92cg?si=NwJ_R0HE151NL6W3"
+            ],
+            "tier": "Beginner"
+        },
+        "crazy toad 2.0": {
+            "name": "Crazy Toad 2.0",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "CToad7"
+            ],
+            "links": [
+                "https://youtu.be/jyoebJmFEqI?si=rEsryOg_t-HI-jQc"
+            ],
+            "tier": "High Elite"
+        },
+        "bridge bonk": {
+            "name": "Bridge Bonk",
+            "diff": "9/10",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/A6Ow2-nbO9M?si=_v1RxpWv-iZqwk_j"
+            ],
+            "tier": "Master"
+        },
+        "truer lost gap": {
+            "name": "Truer Lost Gap",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/Kw0ql2V2gAM?si=77ayZS32scLMB8VZ"
+            ],
+            "tier": "High Elite"
+        },
+        "take a seat": {
+            "name": "Take a Seat",
+            "diff": "6.5/10",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Zombolotl"
+            ],
+            "prover": [
+                "Zombolotl"
+            ],
+            "links": [
+                "https://youtu.be/d3jASNG9_RE?si=prZs2QsOKqzsop-S"
+            ],
+            "tier": "Advanced"
+        },
+        "this forkin turnip": {
+            "name": "This Forkin Turnip",
+            "diff": "6/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Totando"
+            ],
+            "prover": [
+                "Totando"
+            ],
+            "links": [
+                "https://youtu.be/Xm8Qtjwc2Q4?si=S1Jv9PM7LADdN94J"
+            ],
+            "tier": "Advanced"
+        },
+        "true pepper plummet": {
+            "name": "True Pepper Plummet",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Totando"
+            ],
+            "prover": [
+                "Totando"
+            ],
+            "links": [
+                "https://youtu.be/Pn2-yAcGiyg?si=JRjYyXaRiL8vQm5U"
+            ],
+            "tier": "Expert"
+        },
+        "pepper plummet": {
+            "name": "Pepper Plummet",
+            "diff": "0.5/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Totando"
+            ],
+            "prover": [
+                "Totando"
+            ],
+            "links": [
+                "https://youtu.be/A3lJ3gW-n-Q?si=ggtGg5YVHyBjeSSg"
+            ],
+            "tier": "Beginner"
+        },
+        "sizzling surge": {
+            "name": "Sizzling Surge",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Totando"
+            ],
+            "prover": [
+                "Totando"
+            ],
+            "links": [
+                "https://youtu.be/gn0D8jg3sHY?si=nsDlsPSAVz5UCSbo"
+            ],
+            "tier": "Expert"
+        },
+        "cloudy residue": {
+            "name": "Cloudy Residue",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Totando"
+            ],
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/eJ2vyT0PpQI?si=hw9L-gPZ0-3JF3Rq"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "true soup loves rocks": {
+            "name": "True Soup Loves Rocks",
+            "diff": "Insanity Elite",
+            "server": "Database",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Kyoku"
+            ],
+            "links": [
+                "https://youtu.be/uCSgDmNIU4s?si=PJg_kdgBLya1vi11"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "man hitter 2.0": {
+            "name": "Man Hitter 2.0",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "links": [
+                "https://youtu.be/6XnP5Ex1SOs?si=8ymxhYMphd9rzRD9"
+            ],
+            "tier": "Low Elite"
+        },
+        "nightlight": {
+            "name": "Nightlight",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "links": [
+                "https://youtu.be/Y1Od3hV5rYE?si=4qApAkrlLGXSKlHt"
+            ],
+            "tier": "Mid Elite"
+        },
+        "fencing fall": {
+            "name": "Fencing Fall",
+            "diff": "8.5/10",
+            "server": "Database",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "links": [
+                "https://youtu.be/oZD6j7-Ou5k?si=aocqTpg0BAH2NNtU"
+            ],
+            "tier": "Master"
+        },
+        "wonderhoy": {
+            "name": "WONDERHOY",
+            "diff": "6/10",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Entity Bounce",
+                "vertical",
+                "cb-less"
+            ],
+            "finder": [
+                "Construcable"
+            ],
+            "prover": [
+                "Construcable"
+            ],
+            "links": [
+                "https://youtu.be/eeFueq7dnck?si=3nNF0vM2N4mjl-fa"
+            ],
+            "tier": "Advanced"
+        },
+        "true jaywalker": {
+            "name": "True Jaywalker",
+            "diff": "Mid Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "links": [
+                "https://youtu.be/SWTBdOXuXQY?si=pr_XfeeDKDqzfAsm"
+            ],
+            "tier": "Mid Elite"
+        },
+        "capless scavenger": {
+            "name": "Capless Scavenger",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "Capless"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/lj0Y7liw2Kc?si=dwU10C9cbeDvoNv1"
+            ],
+            "tier": "Expert"
+        },
+        "igneous impact 2.0": {
+            "name": "Igneous Impact 2.0",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Darker Side"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "CToad7"
+            ],
+            "links": [
+                "https://youtu.be/AyiKbcRuJow?si=9DhLMEtqxFHiDqqA"
+            ],
+            "tier": "Low Elite"
+        },
+        "pipe nightmare 2.0": {
+            "name": "Pipe Nightmare 2.0",
+            "diff": "7/10",
+            "server": "Database",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "type": [
+                "Backflip"
+            ],
+            "finder": [
+                "Pato_0Z"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "links": [
+                "https://youtu.be/EI--oDE8ajw?si=GKbdDtuNOq8w3iqg"
+            ],
+            "tier": "Expert"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

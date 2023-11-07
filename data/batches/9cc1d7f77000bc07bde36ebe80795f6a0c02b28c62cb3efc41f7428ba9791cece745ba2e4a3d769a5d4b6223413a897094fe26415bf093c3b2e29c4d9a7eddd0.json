@@ -1,0 +1,32 @@
+{
+    "name": "mind",
+    "hash": "9cc1d7f77000bc07bde36ebe80795f6a0c02b28c62cb3efc41f7428ba9791cece745ba2e4a3d769a5d4b6223413a897094fe26415bf093c3b2e29c4d9a7eddd0",
+    "created_at": "2023-07-09 09:12:23 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-09 09:13:28 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-09 09:12:23 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-09 09:13:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Conical Mind   Extra: ['You are allowed to do MCCT 2nd to make it easier!']"
+        ],
+        [
+            "2023-07-09 09:13:22 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "conical mind": {
+            "name": "Conical Mind",
+            "extra": [
+                "You are allowed to do MCCT 2nd to make it easier!"
+            ]
+        }
+    },
+    "rem": []
+}

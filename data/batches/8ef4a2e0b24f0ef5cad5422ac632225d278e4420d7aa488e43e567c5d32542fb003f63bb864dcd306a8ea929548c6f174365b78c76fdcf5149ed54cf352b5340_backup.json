@@ -1,0 +1,32 @@
+{
+    "name": "DeanMarr",
+    "hash": "8ef4a2e0b24f0ef5cad5422ac632225d278e4420d7aa488e43e567c5d32542fb003f63bb864dcd306a8ea929548c6f174365b78c76fdcf5149ed54cf352b5340",
+    "created_at": "2023-10-28 22:15:35 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-28 22:16:00 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-28 22:15:35 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-28 22:15:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Lake God   Finder: ['DeanMarr']"
+        ],
+        [
+            "2023-10-28 22:15:54 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "vault lake god": {
+            "name": "Vault Lake God",
+            "finder": [
+                "DeanMarr"
+            ]
+        }
+    },
+    "rem": []
+}

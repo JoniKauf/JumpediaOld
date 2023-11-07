@@ -1,0 +1,48 @@
+{
+    "name": "z",
+    "hash": "960230ca3ef8b07b0f65bb780a127cf75599fcddb6a31328461b7ff2616445ed8e60181c84bedffc75015b246978a7f308e203ce1457aa7e333abeff56ff4c54",
+    "created_at": "2023-08-15 22:36:22 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-15 22:37:33 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-15 22:36:22 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-15 22:36:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Donk Crossing   Finder: ['IdentXd']   Prover: ['IdentXd']"
+        ],
+        [
+            "2023-08-15 22:37:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Everyone Needs A Hug   Finder: ['IdentXd']   Prover: ['IdentXd']"
+        ],
+        [
+            "2023-08-15 22:37:27 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "donk crossing": {
+            "name": "Donk Crossing",
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ]
+        },
+        "everyone needs a hug": {
+            "name": "Everyone Needs A Hug",
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "h",
+    "hash": "a83cb170ef014745f20aac5364a8138576ed27ba5b716ce899365f4b39ba821572f3161e7e890f2dc90735f9fbf38cbeadf785ff6e223892741362f799fd5908",
+    "created_at": "2023-09-01 17:56:06 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-01 17:56:53 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-01 17:56:06 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-01 17:56:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Basalt Bypass   Extra: ['How to get Out of Bounds: https://www.youtube.com/watch?v=czggfH3ArRs']"
+        ],
+        [
+            "2023-09-01 17:56:50 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "basalt bypass": {
+            "name": "Basalt Bypass",
+            "extra": [
+                "How to get Out of Bounds: https://www.youtube.com/watch?v=czggfH3ArRs"
+            ]
+        }
+    },
+    "rem": []
+}

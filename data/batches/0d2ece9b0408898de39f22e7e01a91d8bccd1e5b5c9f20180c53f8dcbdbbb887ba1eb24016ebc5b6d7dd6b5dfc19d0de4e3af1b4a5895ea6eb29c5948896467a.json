@@ -1,0 +1,27 @@
+{
+    "name": "pilar",
+    "hash": "0d2ece9b0408898de39f22e7e01a91d8bccd1e5b5c9f20180c53f8dcbdbbb887ba1eb24016ebc5b6d7dd6b5dfc19d0de4e3af1b4a5895ea6eb29c5948896467a",
+    "created_at": "2023-07-04 15:44:21 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-04 15:45:07 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-04 15:44:21 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-04 15:44:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: pillar climber"
+        ],
+        [
+            "2023-07-04 15:45:02 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "pillar climber"
+    ]
+}

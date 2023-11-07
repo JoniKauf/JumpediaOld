@@ -1,0 +1,30 @@
+{
+    "name": "o",
+    "hash": "b117be7e22ac546dd7768208075c05edc79ec6c68c668b39c32fc860b1568eb31081cce7002e8e7b1bca08c252ef7d9e3f3a49957909f7bf2f927e5b9956b569",
+    "created_at": "2023-09-11 01:21:25 (UTC)",
+    "created_by": "'katie / marble' (643986253997408257)",
+    "implemented_at": "2023-09-11 02:56:17 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-11 01:21:25 (UTC)",
+            "'katie / marble' (643986253997408257) creates batch"
+        ],
+        [
+            "2023-09-11 01:22:28 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: overshoot zg leap   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-11 01:23:02 (UTC)",
+            "'katie / marble' (643986253997408257) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot zg leap": {
+            "name": "overshoot zg leap",
+            "server": "SMO Trickjumping Server"
+        }
+    },
+    "rem": []
+}

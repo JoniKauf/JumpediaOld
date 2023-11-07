@@ -1,0 +1,37 @@
+{
+    "name": "r",
+    "hash": "85664e138155f19e3a20d998757777d51dbf6808f7b042a17fb32d4e2a2c113ecd321c5fcf45be2e4351bf887834836704fb9491315a3a1807dea0265b0e7416",
+    "created_at": "2023-07-16 21:49:36 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-16 21:50:22 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-16 21:49:36 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-16 21:49:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Reverse Crate Cross   Diff: God Tier   Tier: God Tier   Prover: ['Belle']   Links: ['https://youtu.be/QM3yT2YYSso']"
+        ],
+        [
+            "2023-07-16 21:50:15 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "reverse crate cross": {
+            "name": "Reverse Crate Cross",
+            "diff": "God Tier",
+            "prover": [
+                "Belle"
+            ],
+            "links": [
+                "https://youtu.be/QM3yT2YYSso"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

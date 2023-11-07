@@ -1,0 +1,53 @@
+{
+    "name": "wahoo",
+    "hash": "dc051546250e8aa4c2b748408f93e34384a54cdcea3ff45ac46509f52c926f1c04ae445c9900a81baf79be97813267e95844c98a5b06e4e8e3a828346aa140b1",
+    "created_at": "2023-08-28 14:31:00 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-28 14:31:50 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 14:31:00 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-28 14:31:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Truer Ethnic Conduction   Location: ['Sand Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Triple']   Finder: ['IdentXd']   Prover: ['IdentXd']   Server: Database   Links: ['https://youtu.be/IZw1k-E6I28?si=1mWY5_HAx1aESsFS']"
+        ],
+        [
+            "2023-08-28 14:31:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: truer ethnic construction"
+        ],
+        [
+            "2023-08-28 14:31:44 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "truer ethnic conduction": {
+            "name": "Truer Ethnic Conduction",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ],
+            "links": [
+                "https://youtu.be/IZw1k-E6I28?si=1mWY5_HAx1aESsFS"
+            ],
+            "tier": "High Elite"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "truer ethnic construction"
+    ]
+}

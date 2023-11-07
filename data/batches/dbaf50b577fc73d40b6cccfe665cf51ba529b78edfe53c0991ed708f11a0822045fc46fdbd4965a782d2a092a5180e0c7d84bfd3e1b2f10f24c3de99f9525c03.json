@@ -1,0 +1,67 @@
+{
+    "name": "z",
+    "hash": "dbaf50b577fc73d40b6cccfe665cf51ba529b78edfe53c0991ed708f11a0822045fc46fdbd4965a782d2a092a5180e0c7d84bfd3e1b2f10f24c3de99f9525c03",
+    "created_at": "2023-10-01 22:58:57 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-01 23:18:37 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-01 22:58:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-01 23:01:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truer Sand Gap   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-10-01 23:03:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Attack on Pokio   Diff: Hell Tier   Tier: Hell Tier"
+        ],
+        [
+            "2023-10-01 23:04:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lisbon Landing   Diff: Hell Tier   Tier: Hell Tier"
+        ],
+        [
+            "2023-10-01 23:04:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sandy Uprise   Diff: Hell Tier   Tier: Hell Tier"
+        ],
+        [
+            "2023-10-01 23:04:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Steel Storm   Diff: Hell Tier   Tier: Hell Tier"
+        ],
+        [
+            "2023-10-01 23:18:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "truer sand gap": {
+            "name": "Truer Sand Gap",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        },
+        "attack on pokio": {
+            "name": "Attack on Pokio",
+            "diff": "Hell Tier",
+            "tier": "Hell Tier"
+        },
+        "lisbon landing": {
+            "name": "Lisbon Landing",
+            "diff": "Hell Tier",
+            "tier": "Hell Tier"
+        },
+        "sandy uprise": {
+            "name": "Sandy Uprise",
+            "diff": "Hell Tier",
+            "tier": "Hell Tier"
+        },
+        "steel storm": {
+            "name": "Steel Storm",
+            "diff": "Hell Tier",
+            "tier": "Hell Tier"
+        }
+    },
+    "rem": []
+}

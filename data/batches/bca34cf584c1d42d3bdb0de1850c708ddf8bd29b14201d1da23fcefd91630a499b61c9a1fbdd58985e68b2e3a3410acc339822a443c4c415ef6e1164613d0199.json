@@ -1,0 +1,30 @@
+{
+    "name": "wod",
+    "hash": "bca34cf584c1d42d3bdb0de1850c708ddf8bd29b14201d1da23fcefd91630a499b61c9a1fbdd58985e68b2e3a3410acc339822a443c4c415ef6e1164613d0199",
+    "created_at": "2023-07-04 15:42:40 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-04 15:43:19 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-04 15:42:40 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-04 15:43:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Wooded Legodudeguyman"
+        ],
+        [
+            "2023-07-04 15:43:11 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "wooded legodudeguyman": {
+            "name": "Wooded Legodudeguyman",
+            "extra": []
+        }
+    },
+    "rem": []
+}

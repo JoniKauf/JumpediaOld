@@ -1,0 +1,38 @@
+{
+    "name": "b",
+    "hash": "cc92507239e7108e773dc9e3f7e3349fa46ea230e1280d3b33e00956cdaeacee9079c2d38ec2ee90f2644372a618ca3f078660b9ce408ac6ed228c5bbcd4dbc0",
+    "created_at": "2023-07-20 21:40:04 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-20 21:41:15 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-20 21:40:04 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-20 21:40:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Attack On Pokio   Server: Database"
+        ],
+        [
+            "2023-07-20 21:40:58 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: attack on pokio"
+        ],
+        [
+            "2023-07-20 21:41:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Attack On Pokio   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-07-20 21:41:11 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "attack on pokio": {
+            "name": "Attack On Pokio",
+            "server": "SMO Trickjumping Server"
+        }
+    },
+    "rem": []
+}

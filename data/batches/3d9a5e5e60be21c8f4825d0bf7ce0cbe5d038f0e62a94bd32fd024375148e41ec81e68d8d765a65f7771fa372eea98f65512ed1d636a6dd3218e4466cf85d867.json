@@ -1,0 +1,21 @@
+{
+    "name": "test123",
+    "hash": "3d9a5e5e60be21c8f4825d0bf7ce0cbe5d038f0e62a94bd32fd024375148e41ec81e68d8d765a65f7771fa372eea98f65512ed1d636a6dd3218e4466cf85d867",
+    "created_at": "2023-11-05 16:55:13 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "TBD",
+    "status": "nuked",
+    "log": [
+        [
+            "2023-11-05 16:55:13 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-11-05 16:59:22 (UTC)",
+            "'Emi' (420299882704797696) NUKES BATCH!!!"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": []
+}

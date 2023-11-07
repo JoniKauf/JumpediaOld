@@ -1,0 +1,35 @@
+{
+    "name": "a",
+    "hash": "11de1c4523f8f818be849319751c01a4bad45f210acd1c825a45f9a5f7160f33b95cfe5ab0bc4f7b95015f9e06eeb2431127a5533c2adb5769e1d7fad6ed14e0",
+    "created_at": "2023-10-24 10:38:41 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-24 10:40:00 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-24 10:38:41 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-24 10:39:45 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lake Visitor   Finder: ['AwesomeAggron']   Prover: ['']"
+        ],
+        [
+            "2023-10-24 10:39:56 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lake visitor": {
+            "name": "Lake Visitor",
+            "finder": [
+                "AwesomeAggron"
+            ],
+            "prover": [
+                ""
+            ]
+        }
+    },
+    "rem": []
+}

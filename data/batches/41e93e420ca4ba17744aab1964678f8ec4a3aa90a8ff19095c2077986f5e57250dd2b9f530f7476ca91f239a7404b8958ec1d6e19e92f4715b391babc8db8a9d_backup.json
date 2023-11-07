@@ -1,0 +1,74 @@
+{
+    "name": "hose",
+    "hash": "41e93e420ca4ba17744aab1964678f8ec4a3aa90a8ff19095c2077986f5e57250dd2b9f530f7476ca91f239a7404b8958ec1d6e19e92f4715b391babc8db8a9d",
+    "created_at": "2023-11-05 21:15:35 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-05 21:26:29 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 21:15:35 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-05 21:16:20 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: woods escape   Finder: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:17:46 (UTC)",
+            "'Hose_10' (698224473782091887) overwrites jump under batch's edits -> Name: woods escape   Prover: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:20:25 (UTC)",
+            "'Hose_10' (698224473782091887) adds jump under batch's edits -> Name: true flower power   Finder: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:21:12 (UTC)",
+            "'Hose_10' (698224473782091887) adds jump under batch's edits -> Name: lunch mard   Prover: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:21:47 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: lunch mars   Prover: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:22:35 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: lunch mars"
+        ],
+        [
+            "2023-11-05 21:25:19 (UTC)",
+            "'Hose_10' (698224473782091887) adds jump under batch's edits -> Name: seaside bruncheon   Prover: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:25:55 (UTC)",
+            "'Hose_10' (698224473782091887) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "woods escape": {
+            "name": "woods escape",
+            "prover": [
+                "Ethan2428"
+            ]
+        },
+        "true flower power": {
+            "name": "true flower power",
+            "finder": [
+                "Ethan2428"
+            ]
+        },
+        "lunch mard": {
+            "name": "lunch mard",
+            "prover": [
+                "Ethan2428"
+            ]
+        },
+        "seaside bruncheon": {
+            "name": "seaside bruncheon",
+            "prover": [
+                "Ethan2428"
+            ]
+        }
+    },
+    "rem": []
+}

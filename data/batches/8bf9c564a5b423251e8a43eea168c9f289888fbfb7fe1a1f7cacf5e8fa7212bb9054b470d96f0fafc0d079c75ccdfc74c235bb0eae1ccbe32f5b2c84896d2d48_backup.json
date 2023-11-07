@@ -1,0 +1,32 @@
+{
+    "name": "a",
+    "hash": "8bf9c564a5b423251e8a43eea168c9f289888fbfb7fe1a1f7cacf5e8fa7212bb9054b470d96f0fafc0d079c75ccdfc74c235bb0eae1ccbe32f5b2c84896d2d48",
+    "created_at": "2023-10-13 21:03:07 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-13 21:03:58 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-13 21:03:07 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-13 21:03:39 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lake Leap   Prover: ['TigerGold59']"
+        ],
+        [
+            "2023-10-13 21:03:53 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lake leap": {
+            "name": "Lake Leap",
+            "prover": [
+                "TigerGold59"
+            ]
+        }
+    },
+    "rem": []
+}

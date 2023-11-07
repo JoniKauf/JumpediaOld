@@ -1,0 +1,27 @@
+{
+    "name": "t",
+    "hash": "2e0acfee40c87f89f8c4f4507ab0c8241d33ffc79d831138444987eb4ec5fb5743de8541c14a2cd088a7f9eb23c319792615be982cc3f00cf5ba3bc1a6d747fc",
+    "created_at": "2023-07-26 00:58:10 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-26 00:58:36 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-26 00:58:10 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-26 00:58:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: true space invaders"
+        ],
+        [
+            "2023-07-26 00:58:31 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "true space invaders"
+    ]
+}

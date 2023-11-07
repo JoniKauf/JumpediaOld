@@ -1,0 +1,96 @@
+{
+    "name": "sinkhole",
+    "hash": "f9b823a5246691b6d88bf7f3fb3f3df0b7b6e41c5a2c7a4c2c2b4f383a637ba368f429d9711107ec3c4f27d58951684c2500073b29c6fd85eaed041982706328",
+    "created_at": "2023-08-26 09:04:34 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-26 09:14:26 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 09:04:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-26 09:05:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: sinkhole bottoms   Type: ['Longjump, Spinless CB-Less']"
+        ],
+        [
+            "2023-08-26 09:06:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truest Sand Gap   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:08:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truester Sand Gap   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:09:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truestest Sand Gap   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:10:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Truestest Sand Gap   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:11:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truestester Sand Gap   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:12:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sand Gap 2.0   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:13:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sinkhole Bottoms 2.0   Type: ['Longjump, Spinless, CB-Less']"
+        ],
+        [
+            "2023-08-26 09:14:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sinkhole bottoms": {
+            "name": "sinkhole bottoms",
+            "type": [
+                "Longjump, Spinless CB-Less"
+            ]
+        },
+        "truest sand gap": {
+            "name": "Truest Sand Gap",
+            "type": [
+                "Longjump, Spinless, CB-Less"
+            ]
+        },
+        "truester sand gap": {
+            "name": "Truester Sand Gap",
+            "type": [
+                "Longjump, Spinless, CB-Less"
+            ]
+        },
+        "truestest sand gap": {
+            "name": "Truestest Sand Gap",
+            "type": [
+                "Longjump, Spinless, CB-Less"
+            ]
+        },
+        "truestester sand gap": {
+            "name": "Truestester Sand Gap",
+            "type": [
+                "Longjump, Spinless, CB-Less"
+            ]
+        },
+        "sand gap 2.0": {
+            "name": "Sand Gap 2.0",
+            "type": [
+                "Longjump, Spinless, CB-Less"
+            ]
+        },
+        "sinkhole bottoms 2.0": {
+            "name": "Sinkhole Bottoms 2.0",
+            "type": [
+                "Longjump, Spinless, CB-Less"
+            ]
+        }
+    },
+    "rem": []
+}

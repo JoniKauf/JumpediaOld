@@ -1,0 +1,61 @@
+{
+    "name": "wed",
+    "hash": "20aceb8526e6f239e0b25d8846e638991ddfdc89c5bb4cfa1813b167107a4f8564583c175a262bcaa03b39ce5e9c02058fd6a4374ca0f57bb8934354498f33b2",
+    "created_at": "2023-07-21 19:53:42 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-21 19:56:19 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-21 19:53:42 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-21 19:53:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: true wedding downfall"
+        ],
+        [
+            "2023-07-21 19:55:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Wedding Downfall   Location: ['Moon Kingdom']   Diff: 8/10   Tier: Expert   Finder: ['IdentXd']   Prover: ['Gummy']   Server: Database   Extra: ['Jump Type: Vault']   Links: ['https://youtu.be/dhoLI07rXbk']"
+        ],
+        [
+            "2023-07-21 19:55:57 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: add   Name: true wedding downfall"
+        ],
+        [
+            "2023-07-21 19:56:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Wedding Longfall   Location: ['Moon Kingdom']   Diff: 8/10   Tier: Expert   Finder: ['IdentXd']   Prover: ['Gummy']   Server: Database   Extra: ['Jump Type: Vault']   Links: ['https://youtu.be/dhoLI07rXbk']"
+        ],
+        [
+            "2023-07-21 19:56:13 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "true wedding longfall": {
+            "name": "True Wedding Longfall",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "8/10",
+            "extra": [
+                "Jump Type: Vault"
+            ],
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/dhoLI07rXbk"
+            ],
+            "tier": "Expert"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "true wedding downfall"
+    ]
+}

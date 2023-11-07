@@ -1,0 +1,32 @@
+{
+    "name": "he",
+    "hash": "73b0694166bbf49744992d88b861bb9301073d4be3f682c9d3a8de66371d4458461add74fb3914dbbb730ef7e06bcdc604fbb9957c980681eb1eeb99a068262c",
+    "created_at": "2023-07-12 21:22:18 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-12 21:22:52 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-12 21:22:18 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-12 21:22:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sand Heights   Links: ['https://www.youtube.com/watch?v=IFchZlok7pA']"
+        ],
+        [
+            "2023-07-12 21:22:48 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sand heights": {
+            "name": "Sand Heights",
+            "links": [
+                "https://www.youtube.com/watch?v=IFchZlok7pA"
+            ]
+        }
+    },
+    "rem": []
+}

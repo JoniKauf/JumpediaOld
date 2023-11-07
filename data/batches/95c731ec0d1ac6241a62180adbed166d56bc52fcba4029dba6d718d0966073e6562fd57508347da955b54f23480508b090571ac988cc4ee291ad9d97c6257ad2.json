@@ -1,0 +1,27 @@
+{
+    "name": "vrh",
+    "hash": "95c731ec0d1ac6241a62180adbed166d56bc52fcba4029dba6d718d0966073e6562fd57508347da955b54f23480508b090571ac988cc4ee291ad9d97c6257ad2",
+    "created_at": "2023-07-07 19:08:39 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-07 19:09:06 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-07 19:08:39 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-07 19:08:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: vrh full landing"
+        ],
+        [
+            "2023-07-07 19:08:59 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "vrh full landing"
+    ]
+}

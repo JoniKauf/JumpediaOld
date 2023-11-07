@@ -8,7 +8,7 @@ import json
 import secret
 import time
 
-KEY = secret.get_key("PASTEE_KEY")
+KEY = secret.get_key("PASTE_KEY")
 
 def create(content: str, beforeLink: str = None) -> str:
 

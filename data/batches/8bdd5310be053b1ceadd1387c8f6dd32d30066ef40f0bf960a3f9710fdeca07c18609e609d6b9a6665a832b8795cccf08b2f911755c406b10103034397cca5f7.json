@@ -1,0 +1,30 @@
+{
+    "name": "l",
+    "hash": "8bdd5310be053b1ceadd1387c8f6dd32d30066ef40f0bf960a3f9710fdeca07c18609e609d6b9a6665a832b8795cccf08b2f911755c406b10103034397cca5f7",
+    "created_at": "2023-09-08 20:06:35 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-08 20:07:46 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-08 20:06:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-08 20:07:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Neighbourhood Impasse   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-08 20:07:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true neighbourhood impasse": {
+            "name": "True Neighbourhood Impasse",
+            "server": "SMO Trickjumping Server"
+        }
+    },
+    "rem": []
+}

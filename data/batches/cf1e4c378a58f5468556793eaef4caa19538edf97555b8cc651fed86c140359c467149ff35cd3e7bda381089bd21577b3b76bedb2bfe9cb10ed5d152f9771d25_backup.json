@@ -1,0 +1,49 @@
+{
+    "name": "sand Skip",
+    "hash": "cf1e4c378a58f5468556793eaef4caa19538edf97555b8cc651fed86c140359c467149ff35cd3e7bda381089bd21577b3b76bedb2bfe9cb10ed5d152f9771d25",
+    "created_at": "2023-08-06 23:48:10 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-06 23:52:21 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-06 23:48:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-06 23:49:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sandy Skip   Links: ['https://www.youtube.com/watch?v=giiQioY2u7U&pp=ygUddHJpY2tqdW1wIGRhdGFiYXNlIHNhbmR5IHNraXA%3D']"
+        ],
+        [
+            "2023-08-06 23:50:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: overshoot galactic momentum   Finder: ['enlvie']   Prover: ['enlvie']"
+        ],
+        [
+            "2023-08-06 23:50:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: overshoot galactic momentum   Finder: ['Enlvie']   Prover: ['Enlvie']"
+        ],
+        [
+            "2023-08-06 23:52:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sandy skip": {
+            "name": "Sandy Skip",
+            "links": [
+                "https://www.youtube.com/watch?v=giiQioY2u7U&pp=ygUddHJpY2tqdW1wIGRhdGFiYXNlIHNhbmR5IHNraXA%3D"
+            ]
+        },
+        "overshoot galactic momentum": {
+            "name": "overshoot galactic momentum",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "w",
+    "hash": "efce61b22003067556cb814580dc970695a8a98cc9c0ec9a67852df047108bac1a02cc59ac8afa65c7e9c9f3eda385b5b0413df28528111bfd6b5a30e857bb4d",
+    "created_at": "2023-09-18 06:00:12 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-18 06:00:43 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-18 06:00:12 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-18 06:00:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Windy Climb   Location: ['Cascade Kingdom']"
+        ],
+        [
+            "2023-09-18 06:00:32 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot windy climb": {
+            "name": "Overshoot Windy Climb",
+            "location": [
+                "Cascade Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,37 @@
+{
+    "name": "t",
+    "hash": "52b717bb16395d6729fd5eea7219b9b3caaa7b6e1343e4845c1bf2ee045cdb3d40271888479c4cca5e48fcc527b8d596eaab8b699bf8208a339fdcc03d605f0c",
+    "created_at": "2023-11-05 20:58:56 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-11-05 20:59:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 20:58:56 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-11-05 20:59:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truest Underground Passageway   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['Gummy']   Links: ['https://youtu.be/u7wr8wzbS90']"
+        ],
+        [
+            "2023-11-05 20:59:42 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "truest underground passageway": {
+            "name": "Truest Underground Passageway",
+            "diff": "Insanity Elite",
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/u7wr8wzbS90"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

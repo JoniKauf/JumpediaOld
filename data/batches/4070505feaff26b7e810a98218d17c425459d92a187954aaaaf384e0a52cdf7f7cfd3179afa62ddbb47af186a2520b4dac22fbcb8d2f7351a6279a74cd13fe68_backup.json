@@ -1,0 +1,32 @@
+{
+    "name": "bubbl",
+    "hash": "4070505feaff26b7e810a98218d17c425459d92a187954aaaaf384e0a52cdf7f7cfd3179afa62ddbb47af186a2520b4dac22fbcb8d2f7351a6279a74cd13fe68",
+    "created_at": "2023-07-11 07:33:45 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-11 07:34:11 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-11 07:33:45 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-11 07:33:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Icy Bubbles   Links: ['https://youtu.be/ZI4PrITqf8I']"
+        ],
+        [
+            "2023-07-11 07:34:04 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "icy bubbles": {
+            "name": "Icy Bubbles",
+            "links": [
+                "https://youtu.be/ZI4PrITqf8I"
+            ]
+        }
+    },
+    "rem": []
+}

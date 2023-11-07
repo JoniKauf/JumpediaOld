@@ -1,0 +1,71 @@
+{
+    "name": "u",
+    "hash": "77a82e3066e77a8ff20aedfcde6e044fdbca878e2198ae71f3f56e61eb0b8afaa2b50900b804ad6f793bc3f29a03a2b6dead950210dda88ca1bffa6b232649d3",
+    "created_at": "2023-08-27 16:18:47 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-27 16:20:31 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-27 16:18:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-27 16:19:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Blonck   Finder: ['Doonguin']   Prover: ['Doonguin']"
+        ],
+        [
+            "2023-08-27 16:19:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dirty Metal   Finder: ['Doonguin']   Prover: ['Doonguin']"
+        ],
+        [
+            "2023-08-27 16:19:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Tanky Beans   Finder: ['Doonguin']   Prover: ['Doonguin']"
+        ],
+        [
+            "2023-08-27 16:20:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Explosive Wall Wrap   Prover: ['Doonguin']"
+        ],
+        [
+            "2023-08-27 16:20:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "blonck": {
+            "name": "Blonck",
+            "finder": [
+                "Doonguin"
+            ],
+            "prover": [
+                "Doonguin"
+            ]
+        },
+        "dirty metal": {
+            "name": "Dirty Metal",
+            "finder": [
+                "Doonguin"
+            ],
+            "prover": [
+                "Doonguin"
+            ]
+        },
+        "tanky beans": {
+            "name": "Tanky Beans",
+            "finder": [
+                "Doonguin"
+            ],
+            "prover": [
+                "Doonguin"
+            ]
+        },
+        "explosive wall wrap": {
+            "name": "Explosive Wall Wrap",
+            "prover": [
+                "Doonguin"
+            ]
+        }
+    },
+    "rem": []
+}

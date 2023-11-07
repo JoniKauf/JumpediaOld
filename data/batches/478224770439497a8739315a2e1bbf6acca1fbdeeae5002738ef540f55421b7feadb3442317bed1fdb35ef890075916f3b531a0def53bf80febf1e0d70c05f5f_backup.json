@@ -1,0 +1,37 @@
+{
+    "name": "c",
+    "hash": "478224770439497a8739315a2e1bbf6acca1fbdeeae5002738ef540f55421b7feadb3442317bed1fdb35ef890075916f3b531a0def53bf80febf1e0d70c05f5f",
+    "created_at": "2023-10-23 20:54:17 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-23 20:55:09 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-23 20:54:17 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-23 20:54:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Colorful Vault Assault   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['Jario']   Links: ['https://youtu.be/NkE7lsNnw8Y']"
+        ],
+        [
+            "2023-10-23 20:55:04 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "colorful vault assault": {
+            "name": "Colorful Vault Assault",
+            "diff": "Insanity Elite",
+            "prover": [
+                "Jario"
+            ],
+            "links": [
+                "https://youtu.be/NkE7lsNnw8Y"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,27 @@
+{
+    "name": "f",
+    "hash": "12765da0bcf1639bca91df5dcbc90e5db2ec0dfec4068e06523fdf52af3136ac34299247b7dd26651d09c660db40cabc81ea7ff4ce437769637fcee46358debc",
+    "created_at": "2023-07-31 17:54:58 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-31 17:55:29 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-31 17:54:58 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-31 17:55:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: stair skipper 2.0"
+        ],
+        [
+            "2023-07-31 17:55:27 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "stair skipper 2.0"
+    ]
+}

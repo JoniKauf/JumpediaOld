@@ -1,0 +1,44 @@
+{
+    "name": "e",
+    "hash": "4cf812691cf1c4c308ec58ea50c669f5799edaaab864423e57bbc6b633ba31121fbd2ff024ffb5c203dd95d9b69720160fae9703276586685cc74560b7fbb7c0",
+    "created_at": "2023-09-22 15:50:09 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-22 15:50:26 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-22 15:50:09 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-22 15:50:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Tempestuous Terrorization   Location: ['Cascade Kingdom']   Diff: Unproven   Tier: Unproven   Type: ['Vault']   Finder: ['CToad7']   Server: Database   Links: ['https://youtu.be/2EJdRLpFjmk']"
+        ],
+        [
+            "2023-09-22 15:50:21 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "tempestuous terrorization": {
+            "name": "Tempestuous Terrorization",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "Unproven",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/2EJdRLpFjmk"
+            ],
+            "tier": "Unproven"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

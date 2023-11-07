@@ -1,0 +1,52 @@
+{
+    "name": "f",
+    "hash": "4bde958385fc4c64aa2cbdd3ab17ded191739da7e30966b75133e58660d53509de379737c5fdf6134c393282bd7a0ca9ebdd37dc2f2e3aa2bc3083ae34e36568",
+    "created_at": "2023-09-20 13:13:46 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-20 13:14:27 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-20 13:13:46 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-20 13:13:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Smurf Cat   Type: ['SSD']"
+        ],
+        [
+            "2023-09-20 13:14:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: palm to Palm   Type: ['SSD']"
+        ],
+        [
+            "2023-09-20 13:14:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Block to Block 2.0   Type: ['SSD']"
+        ],
+        [
+            "2023-09-20 13:14:22 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "smurf cat": {
+            "name": "Smurf Cat",
+            "type": [
+                "SSD"
+            ]
+        },
+        "palm to palm": {
+            "name": "palm to Palm",
+            "type": [
+                "SSD"
+            ]
+        },
+        "block to block 2.0": {
+            "name": "Block to Block 2.0",
+            "type": [
+                "SSD"
+            ]
+        }
+    },
+    "rem": []
+}

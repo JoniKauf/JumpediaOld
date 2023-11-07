@@ -1,0 +1,37 @@
+{
+    "name": "m",
+    "hash": "7096dd159a72cb448760cdd70e27da9049d03e3ab4e1fd63ad450f3155c80727aeeb6384a7e42c11ee5a887a49a44b9717671324345a6dc84cf5134639cf86a4",
+    "created_at": "2023-09-28 15:44:46 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-28 15:45:21 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-28 15:44:46 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-28 15:45:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Reverse VTSL   Diff: God Tier   Tier: God Tier   Prover: ['Gummy']   Links: ['https://youtu.be/-sm234zAeyA']"
+        ],
+        [
+            "2023-09-28 15:45:15 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "reverse vtsl": {
+            "name": "Reverse VTSL",
+            "diff": "God Tier",
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/-sm234zAeyA"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

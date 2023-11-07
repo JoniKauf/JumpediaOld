@@ -1,0 +1,32 @@
+{
+    "name": "sea",
+    "hash": "b1d9f0b45a68a1b35c308efbe9e5d4f7199e70e7dd4be0aa9ba000c72eb98088e29477bdf8bb5f2447ef5c592af9631a49006501dadd8fcbe2245e6a71bd4165",
+    "created_at": "2023-07-07 19:06:54 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-07 19:08:14 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-07 19:06:54 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-07 19:07:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: beachside lake"
+        ],
+        [
+            "2023-07-07 19:07:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: twister balance"
+        ],
+        [
+            "2023-07-07 19:08:10 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "beachside lake",
+        "twister balance"
+    ]
+}

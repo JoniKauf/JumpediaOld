@@ -1,0 +1,33 @@
+{
+    "name": "z",
+    "hash": "468737a54b711208adadf851b421bea7a8128c72c44ac2d756c86272a9e1ef85a7e0e661dd45fafd689d1d64f37478080602497b8dc94a8f427e3eeceb3e8c75",
+    "created_at": "2023-09-08 23:31:36 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-08 23:32:06 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-08 23:31:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-08 23:31:55 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Canine Cruiser   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-08 23:32:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "canine cruiser": {
+            "name": "Canine Cruiser",
+            "type": [
+                "Vault"
+            ],
+            "server": "SMO Trickjumping Server"
+        }
+    },
+    "rem": []
+}

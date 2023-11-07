@@ -1,0 +1,37 @@
+{
+    "name": "guh",
+    "hash": "e502bf367ba7e5a6303f481b7b459a4c392cd0a88595e1279fa65288b28b0c1ad9aa106d8fc92ab34ce4edfbe2e1f349a594f55d1c4b78793617229835e103dd",
+    "created_at": "2023-11-02 16:31:26 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-11-02 16:31:48 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-02 16:31:26 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-11-02 16:31:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Alternative Escape   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['Gummy']   Links: ['https://youtu.be/gcnjugjDy8Q']"
+        ],
+        [
+            "2023-11-02 16:31:45 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "alternative escape": {
+            "name": "Alternative Escape",
+            "diff": "Insanity Elite",
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/gcnjugjDy8Q"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,163 @@
+{
+    "name": "god",
+    "hash": "a42fb83ff7d335e189d3c2653f09d2157c274f1089acb2eb6e2102d351c4ed563ac9f6ddfcef6d6892fc060e6a4f94aed29080e5f6ceaf868f266c71fdf79eba",
+    "created_at": "2023-07-03 18:00:54 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-03 18:14:32 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-03 18:00:54 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-03 18:01:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: musical mermaid"
+        ],
+        [
+            "2023-07-03 18:01:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Fogchamp   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-07-03 18:02:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Lunch Sign   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-07-03 18:02:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Spewart's Stairway   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-07-03 18:02:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lefterer Cholesterol Crossing   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-07-03 18:03:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Mark's Lost   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-07-03 18:03:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Incheon Crossing   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:03:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Chucking Cheddar   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:03:40 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Metallic Descent   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:03:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poltergeist Pounce   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:04:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Flowery Fountain   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:04:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Construction Catwalk   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:04:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Pillar Panic   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:04:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Seaside Mard   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:04:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Landing Pad   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 18:04:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Poisonous Plunge   Diff: God Tier   Tier: God Tier"
+        ],
+        [
+            "2023-07-03 18:14:25 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "fogchamp": {
+            "name": "Fogchamp",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        },
+        "true lunch sign": {
+            "name": "True Lunch Sign",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        },
+        "spewart's stairway": {
+            "name": "Spewart's Stairway",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        },
+        "lefterer cholesterol crossing": {
+            "name": "Lefterer Cholesterol Crossing",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        },
+        "true mark's lost": {
+            "name": "True Mark's Lost",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        },
+        "incheon crossing": {
+            "name": "Incheon Crossing",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "chucking cheddar": {
+            "name": "Chucking Cheddar",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "true metallic descent": {
+            "name": "True Metallic Descent",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "poltergeist pounce": {
+            "name": "Poltergeist Pounce",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "flowery fountain": {
+            "name": "Flowery Fountain",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "construction catwalk": {
+            "name": "Construction Catwalk",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "true pillar panic": {
+            "name": "True Pillar Panic",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "true seaside mard": {
+            "name": "True Seaside Mard",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "landing pad": {
+            "name": "Landing Pad",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "true poisonous plunge": {
+            "name": "True Poisonous Plunge",
+            "diff": "God Tier",
+            "tier": "God Tier"
+        }
+    },
+    "rem": [
+        "musical mermaid"
+    ]
+}

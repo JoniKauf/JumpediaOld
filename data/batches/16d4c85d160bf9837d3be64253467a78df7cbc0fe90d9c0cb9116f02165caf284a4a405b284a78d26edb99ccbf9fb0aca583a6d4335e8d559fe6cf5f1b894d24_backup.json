@@ -1,0 +1,37 @@
+{
+    "name": "d",
+    "hash": "16d4c85d160bf9837d3be64253467a78df7cbc0fe90d9c0cb9116f02165caf284a4a405b284a78d26edb99ccbf9fb0aca583a6d4335e8d559fe6cf5f1b894d24",
+    "created_at": "2023-07-27 14:02:38 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-27 14:04:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-27 14:02:38 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-27 14:03:04 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Reverse Yellow Pegs   Diff: 9/10   Tier: Master   Prover: ['Gummy']   Links: ['https://youtu.be/9e9BPqxjKOY']"
+        ],
+        [
+            "2023-07-27 14:04:37 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "reverse yellow pegs": {
+            "name": "Reverse Yellow Pegs",
+            "diff": "9/10",
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/9e9BPqxjKOY"
+            ],
+            "tier": "Master"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "dragon",
+    "hash": "cde0cd766f5d23cfb0551ebaa20dd2e42f17dfa34387cc668d32350eb8b46546b9b8e6b638770006e3f432631f231a2b389efcdf298969db0c01a6880948f5e2",
+    "created_at": "2023-11-05 16:25:09 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-05 16:26:54 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 16:25:09 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-05 16:25:47 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: cliff bonker   Finder: ['Dragon']   Prover: ['Dragon']"
+        ],
+        [
+            "2023-11-05 16:26:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: bin beans   Finder: ['Dragon']"
+        ],
+        [
+            "2023-11-05 16:26:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: true mini construction skip   Prover: ['Dragon']"
+        ],
+        [
+            "2023-11-05 16:26:50 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "cliff bonker": {
+            "name": "cliff bonker",
+            "finder": [
+                "Dragon"
+            ],
+            "prover": [
+                "Dragon"
+            ]
+        },
+        "bin beans": {
+            "name": "bin beans",
+            "finder": [
+                "Dragon"
+            ]
+        },
+        "true mini construction skip": {
+            "name": "true mini construction skip",
+            "prover": [
+                "Dragon"
+            ]
+        }
+    },
+    "rem": []
+}

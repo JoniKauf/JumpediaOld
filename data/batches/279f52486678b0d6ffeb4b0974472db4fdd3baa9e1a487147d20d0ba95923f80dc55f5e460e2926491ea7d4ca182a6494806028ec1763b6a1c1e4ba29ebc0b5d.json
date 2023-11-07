@@ -1,0 +1,1610 @@
+{
+    "name": "goop",
+    "hash": "279f52486678b0d6ffeb4b0974472db4fdd3baa9e1a487147d20d0ba95923f80dc55f5e460e2926491ea7d4ca182a6494806028ec1763b6a1c1e4ba29ebc0b5d",
+    "created_at": "2023-10-10 07:47:46 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-10 07:53:57 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-10 07:47:46 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-10 07:47:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Rocky Odyssey   Location: ['Seaside Kingdom']   Diff: 8/10   Tier: Expert   Type: ['SSD']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/4p_KPnRrRT8']"
+        ],
+        [
+            "2023-10-10 07:48:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Rocky Odyssey   Location: ['Seaside Kingdom']   Diff: 9/10   Tier: Master   Type: ['SSD']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/pD0GpdLGfog']"
+        ],
+        [
+            "2023-10-10 07:48:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Soupy Beans   Location: ['Luncheon Kingdom']   Diff: 5/10   Tier: Intermediate   Type: ['Vault', 'spinless']   Finder: ['Clash_Gamer']   Prover: ['Clash_Gamer']   Server: Database   Links: ['https://youtu.be/dCs4LVue5EM']"
+        ],
+        [
+            "2023-10-10 07:48:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Toxic Pole Beans   Location: ['Lost Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Triple jump']   Finder: ['high_smo']   Prover: ['high_smo']   Server: Database   Links: ['https://youtu.be/-2nnQ4q9Lts']"
+        ],
+        [
+            "2023-10-10 07:48:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Tanky Beans   Location: ['Wooded Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Triple']   Finder: ['Doonguin']   Prover: ['Sg197']   Server: Database   Links: ['https://youtu.be/fPuIm5IArm0']"
+        ],
+        [
+            "2023-10-10 07:48:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Sinky Bonk   Location: ['Sand Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Triple']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/-aim_rc4Q2o']"
+        ],
+        [
+            "2023-10-10 07:48:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Reverse Sandy Arena Crosser   Location: ['Sand Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Vault']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/78H7MLoJOGs']"
+        ],
+        [
+            "2023-10-10 07:48:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Torch Returns   Location: ['Luncheon Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Cap Return Jump']   Server: Database   Links: ['https://youtu.be/0QMqtT6yQEA']"
+        ],
+        [
+            "2023-10-10 07:48:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Reverse Torch Trickery   Location: ['Luncheon Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Backflip']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/5lNyhfIf0dw']"
+        ],
+        [
+            "2023-10-10 07:48:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Gourmet Rise   Location: ['Luncheon Kingdom']   Diff: God Tier   Tier: God Tier   Type: ['Triple']   Finder: ['construcable']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/8kZhBURMYYc']"
+        ],
+        [
+            "2023-10-10 07:48:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Luigi's Construction Skip   Location: ['Metro Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Entity Bounce']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/bWfuUwzH-Qc']"
+        ],
+        [
+            "2023-10-10 07:48:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: proseka is literally my favorite game wtf   Location: ['Cap Kingdom']   Diff: 10/10   Tier: Master   Type: ['Triple']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/69sAlMCxGa8']"
+        ],
+        [
+            "2023-10-10 07:48:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Parking Parcours   Location: ['Metro Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Backflip']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/7EV8FBHo7yQ']"
+        ],
+        [
+            "2023-10-10 07:49:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Sky-High Sundae   Location: ['Luncheon Kingdom']   Diff: 2/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/P0hSl3Dzcjk']"
+        ],
+        [
+            "2023-10-10 07:49:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Bk-lava Beans   Location: ['Lost Kingdom']   Diff: 3.5/10   Tier: Intermediate   Type: ['Vault']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/uyy0yLvIby4']"
+        ],
+        [
+            "2023-10-10 07:49:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Cheese Land   Location: ['Luncheon Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Triple', 'cb-less']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/A4uXjnV3sVU']"
+        ],
+        [
+            "2023-10-10 07:49:19 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: PLEASE HELP I'M NOT JOKING   Location: ['Mushroom Kingdom']   Diff: 2/10   Tier: Beginner   Type: ['Entity Bounce']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/UwBxltgWOng']"
+        ],
+        [
+            "2023-10-10 07:49:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Tanuki Tunes   Location: ['Mushroom Kingdom']   Diff: 3.5/10   Tier: Intermediate   Type: ['Entity Bounce']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/U7WOKAPml9w']"
+        ],
+        [
+            "2023-10-10 07:49:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Nvm We Chillin   Location: ['Mushroom Kingdom']   Diff: 2.5/10   Tier: Beginner   Type: ['Entity Bounce']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Extra: ['You must collect the furthest right coin!']   Links: ['https://youtu.be/pybNLXvtlcg']"
+        ],
+        [
+            "2023-10-10 07:49:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Sped Hates Rocks   Location: ['Mushroom Kingdom']   Diff: 7/10   Tier: Expert   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/lTYkPwjCoM4']"
+        ],
+        [
+            "2023-10-10 07:49:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: the mafufer   Location: ['Lake Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Extra: ['The goad is to shake the bush!']   Links: ['https://youtu.be/Nt9hAuJD460']"
+        ],
+        [
+            "2023-10-10 07:49:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Romance Dawn   Location: ['Wooded Kingdom']   Diff: 5/10   Tier: Intermediate   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/5NaVy4WVt5I']"
+        ],
+        [
+            "2023-10-10 07:49:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Orange Town   Location: ['Wooded Kingdom']   Diff: 3/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/-7SkoZ9udb0']"
+        ],
+        [
+            "2023-10-10 07:49:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Ruined Amiibo   Location: ['Ruined Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Triple']   Finder: ['totol']   Prover: ['totol']   Server: Database   Links: ['https://youtu.be/fCx2qFulyyk']"
+        ],
+        [
+            "2023-10-10 07:50:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Syrup Village   Location: ['Cascade Kingdom']   Diff: 2.5/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/tOZ8leVcpjo']"
+        ],
+        [
+            "2023-10-10 07:50:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Arlong Park   Location: ['Cascade Kingdom']   Diff: 3.5/10   Tier: Intermediate   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/eWLL5n7bIcA']"
+        ],
+        [
+            "2023-10-10 07:50:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Loguetown   Location: ['Cascade Kingdom']   Diff: 4/10   Tier: Intermediate   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/0grL6FvN-hc']"
+        ],
+        [
+            "2023-10-10 07:50:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Reverse Mountain   Location: ['Cascade Kingdom']   Diff: 2.5/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/XeIBrg3JPnU']"
+        ],
+        [
+            "2023-10-10 07:50:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Whisky Peak   Location: ['Metro Kingdom']   Diff: 3/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/no03nfV7jbQ']"
+        ],
+        [
+            "2023-10-10 07:50:26 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Flower Dram   Location: ['Mushroom Kingdom']   Diff: 7.5/10   Tier: Expert   Type: ['Triple']   Server: Database   Links: ['https://youtu.be/c1hn87HmQmg']"
+        ],
+        [
+            "2023-10-10 07:50:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Wehhh   Location: ['Luncheon Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Walljump']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/yWVorFb6YT0']"
+        ],
+        [
+            "2023-10-10 07:50:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Hedemo Ne-Yo   Location: ['Snow Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Vault']   Finder: ['construcable']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/Psv-R0f4SzM']"
+        ],
+        [
+            "2023-10-10 07:50:40 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Peaches (slowed)   Location: ['Mushroom Kingdom']   Diff: 6/10   Tier: Advanced   Type: ['Triple']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/RcdTpHMNbEE']"
+        ],
+        [
+            "2023-10-10 07:50:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Mummy Masochist   Location: ['Ruined Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Vault']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/9220mS5XJgM']"
+        ],
+        [
+            "2023-10-10 07:50:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Icy Pillar   Location: ['Sand Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Vault']   Finder: ['Dragon']   Prover: ['Bk5']   Server: Database   Links: ['https://youtu.be/K6KdRpaWHsc']"
+        ],
+        [
+            "2023-10-10 07:50:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Pepto Pain   Location: ['Luncheon Kingdom']   Diff: 4/10   Tier: Intermediate   Type: ['Vault']   Finder: ['OrangeCardinal']   Server: Database   Links: ['https://youtu.be/4t4XTjzIAv8']"
+        ],
+        [
+            "2023-10-10 07:51:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Frosty Freefall   Location: ['Sand Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Triple']   Finder: ['Mackansmat']   Prover: ['Mackansmat']   Server: Database   Links: ['https://youtu.be/wR72VK2gkAo']"
+        ],
+        [
+            "2023-10-10 07:51:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: B   Location: ['Seaside Kingdom']   Diff: 2/10   Tier: Beginner   Type: ['SSD']   Finder: ['Lewin']   Prover: ['Lewin']   Server: Database   Links: ['https://youtu.be/O6h_I-0gDF8']"
+        ],
+        [
+            "2023-10-10 07:51:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Metro Amiibo   Location: ['Metro Kingdom']   Diff: 8/10   Tier: Expert   Type: ['SSD']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/bIVWF3KcyOw']"
+        ],
+        [
+            "2023-10-10 07:51:16 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Drum Island   Location: ['Metro Kingdom']   Diff: 3/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/BbplJiwDo50']"
+        ],
+        [
+            "2023-10-10 07:51:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Alabasta   Location: [\"Bowser's Kingdom\"]   Diff: 2/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/B-LLRnEhgBE']"
+        ],
+        [
+            "2023-10-10 07:51:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Jaya   Location: [\"Bowser's Kingdom\"]   Diff: 2.5/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/AGoY590qTpU']"
+        ],
+        [
+            "2023-10-10 07:51:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Skypiea   Location: [\"Bowser's Kingdom\"]   Diff: 3/10   Tier: Beginner   Type: ['SSD']   Finder: ['Speedy']   Prover: ['Speedy']   Server: Database   Links: ['https://youtu.be/NoiIRWCH30Y']"
+        ],
+        [
+            "2023-10-10 07:51:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Cascade Longfall   Location: ['Cascade Kingdom']   Diff: 6/10   Tier: Advanced   Type: ['Triple']   Finder: ['Lewin']   Prover: ['Lewin']   Server: Database   Links: ['https://youtu.be/ccpwIZISSug']"
+        ],
+        [
+            "2023-10-10 07:51:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Cascade Longfall   Location: ['Cascade Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Triple']   Finder: ['Lewin']   Prover: ['Lewin']   Server: Database   Links: ['https://youtu.be/EtIfZuyJWsI']"
+        ],
+        [
+            "2023-10-10 07:51:42 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Truer Cascade Longfall   Location: ['Cascade Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Triple']   Finder: ['Lewin']   Prover: ['Lewin']   Server: Database   Links: ['https://youtu.be/ZC3Heongx2g']"
+        ],
+        [
+            "2023-10-10 07:51:48 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Sami Du Salami   Location: ['Cascade Kingdom']   Diff: 5/10   Tier: Intermediate   Type: ['Vault']   Finder: ['Lewin']   Prover: ['Lewin']   Server: Database   Links: ['https://youtu.be/OOFtIlPLB2k']"
+        ],
+        [
+            "2023-10-10 07:51:53 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Torch Bypass   Location: [\"Bowser's Kingdom\"]   Diff: Low Elite   Tier: Low Elite   Type: ['SSD']   Finder: ['Eyp777']   Prover: ['Eyp777']   Server: Database   Links: ['https://youtu.be/pN66ByIdK-E']"
+        ],
+        [
+            "2023-10-10 07:51:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Sherm Boundaries   Location: ['Wooded Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Triple']   Finder: ['OrangeCardinal']   Prover: ['OrangeCardinal']   Server: Database   Links: ['https://youtu.be/QptnZL1o3VU']"
+        ],
+        [
+            "2023-10-10 07:52:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Celestial Spawn   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Teleport']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/b7wmoSEFrBY']"
+        ],
+        [
+            "2023-10-10 07:52:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Flower Dance   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['construcable']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/6Wq9w0PtU9Y']"
+        ],
+        [
+            "2023-10-10 07:52:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Papercut   Location: ['Moon Kingdom']   Diff: 10/10   Tier: Master   Type: ['Triple']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/KsX0-SvAUaY']"
+        ],
+        [
+            "2023-10-10 07:52:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Not Quite Lakescope   Location: ['Lake Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Uncapture']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/0hiFRCQkVQM']"
+        ],
+        [
+            "2023-10-10 07:52:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Reverse Pillar Tumble   Location: ['Lake Kingdom']   Diff: 9/10   Tier: Master   Type: ['Vault']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/2RVmDaMDzZY']"
+        ],
+        [
+            "2023-10-10 07:52:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Cashy Pillar   Location: ['Lake Kingdom']   Diff: 8/10   Tier: Expert   Type: ['Vault']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/W-QdVvnlYYM']"
+        ],
+        [
+            "2023-10-10 07:52:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: VFlower   Location: ['Lake Kingdom']   Diff: 9/10   Tier: Master   Type: ['Vault']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/rLmXvjESaRc']"
+        ],
+        [
+            "2023-10-10 07:52:47 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Simple Flora   Location: ['Lake Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Entity Bounce', 'simple tech']   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/ghCttIilplk']"
+        ],
+        [
+            "2023-10-10 07:52:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Globe Mard   Location: ['Seaside Kingdom']   Diff: 8.5/10   Tier: Master   Type: ['Double Jump']   Finder: ['Niklas0527']   Prover: ['Niklas0527']   Server: Database   Links: ['https://youtu.be/2DRKraeDZyA']"
+        ],
+        [
+            "2023-10-10 07:52:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True A   Location: ['Sand Kingdom']   Diff: 10/10   Tier: Master   Type: ['SSD']   Finder: ['Ben.smo']   Prover: ['Ben.smo']   Server: Database   Links: ['https://youtu.be/gKk6sCrUM6A']"
+        ],
+        [
+            "2023-10-10 07:53:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Crate Madness   Location: ['Cap Kingdom']   Diff: God Tier   Tier: God Tier   Type: ['Triple']   Finder: ['modnob']   Prover: ['modnob']   Server: Database   Links: ['https://youtu.be/bYY3z8y-HEI']"
+        ],
+        [
+            "2023-10-10 07:53:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Toad's Triumph   Location: [\"Bowser's Kingdom\"]   Diff: 7/10   Tier: Expert   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Soupafi']   Server: Database   Links: ['https://youtu.be/fMmJT3fxafk']"
+        ],
+        [
+            "2023-10-10 07:53:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Bernadette   Location: ['Cap Kingdom']   Diff: 7/10   Tier: Expert   Type: ['Yellow Dram']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/DTIrJ_Y3uak']"
+        ],
+        [
+            "2023-10-10 07:53:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Haven my beloved   Location: ['Lost Kingdom']   Diff: Unproven   Tier: Unproven   Type: ['Vault']   Finder: ['construcable']   Server: Database   Links: ['https://youtu.be/QK3qHnPJ1QY']"
+        ],
+        [
+            "2023-10-10 07:53:22 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Drunk-Dazed   Location: ['Moon Kingdom']   Diff: Unproven   Tier: Unproven   Type: ['Teleport']   Finder: ['Gummy']   Server: Database   Links: ['https://youtu.be/h-hFKenf4UM']"
+        ],
+        [
+            "2023-10-10 07:53:50 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "rocky odyssey": {
+            "name": "Rocky Odyssey",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "8/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/4p_KPnRrRT8"
+            ],
+            "tier": "Expert"
+        },
+        "true rocky odyssey": {
+            "name": "True Rocky Odyssey",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "9/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/pD0GpdLGfog"
+            ],
+            "tier": "Master"
+        },
+        "soupy beans": {
+            "name": "Soupy Beans",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "5/10",
+            "type": [
+                "Vault",
+                "spinless"
+            ],
+            "finder": [
+                "Clash_Gamer"
+            ],
+            "prover": [
+                "Clash_Gamer"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/dCs4LVue5EM"
+            ],
+            "tier": "Intermediate"
+        },
+        "toxic pole beans": {
+            "name": "Toxic Pole Beans",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Triple jump"
+            ],
+            "finder": [
+                "high_smo"
+            ],
+            "prover": [
+                "high_smo"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/-2nnQ4q9Lts"
+            ],
+            "tier": "Low Elite"
+        },
+        "true tanky beans": {
+            "name": "True Tanky Beans",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Doonguin"
+            ],
+            "prover": [
+                "Sg197"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/fPuIm5IArm0"
+            ],
+            "tier": "Low Elite"
+        },
+        "sinky bonk": {
+            "name": "Sinky Bonk",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "6.5/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/-aim_rc4Q2o"
+            ],
+            "tier": "Advanced"
+        },
+        "reverse sandy arena crosser": {
+            "name": "Reverse Sandy Arena Crosser",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/78H7MLoJOGs"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "torch returns": {
+            "name": "Torch Returns",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "type": [
+                "Cap Return Jump"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/0QMqtT6yQEA"
+            ],
+            "tier": "Mid Elite"
+        },
+        "reverse torch trickery": {
+            "name": "Reverse Torch Trickery",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Backflip"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/5lNyhfIf0dw"
+            ],
+            "tier": "Low Elite"
+        },
+        "true gourmet rise": {
+            "name": "True Gourmet Rise",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "God Tier",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/8kZhBURMYYc"
+            ],
+            "tier": "God Tier"
+        },
+        "luigi's construction skip": {
+            "name": "Luigi's Construction Skip",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "8.5/10",
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/bWfuUwzH-Qc"
+            ],
+            "tier": "Master"
+        },
+        "proseka is literally my favorite game wtf": {
+            "name": "proseka is literally my favorite game wtf",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "diff": "10/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/69sAlMCxGa8"
+            ],
+            "tier": "Master"
+        },
+        "parking parcours": {
+            "name": "Parking Parcours",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Backflip"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/7EV8FBHo7yQ"
+            ],
+            "tier": "Expert"
+        },
+        "sky-high sundae": {
+            "name": "Sky-High Sundae",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "2/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/P0hSl3Dzcjk"
+            ],
+            "tier": "Beginner"
+        },
+        "bk-lava beans": {
+            "name": "Bk-lava Beans",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "3.5/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/uyy0yLvIby4"
+            ],
+            "tier": "Intermediate"
+        },
+        "cheese land": {
+            "name": "Cheese Land",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Triple",
+                "cb-less"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/A4uXjnV3sVU"
+            ],
+            "tier": "Expert"
+        },
+        "please help i'm not joking": {
+            "name": "PLEASE HELP I'M NOT JOKING",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "2/10",
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/UwBxltgWOng"
+            ],
+            "tier": "Beginner"
+        },
+        "tanuki tunes": {
+            "name": "Tanuki Tunes",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "3.5/10",
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/U7WOKAPml9w"
+            ],
+            "tier": "Intermediate"
+        },
+        "nvm we chillin": {
+            "name": "Nvm We Chillin",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "2.5/10",
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "extra": [
+                "You must collect the furthest right coin!"
+            ],
+            "links": [
+                "https://youtu.be/pybNLXvtlcg"
+            ],
+            "tier": "Beginner"
+        },
+        "sped hates rocks": {
+            "name": "Sped Hates Rocks",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/lTYkPwjCoM4"
+            ],
+            "tier": "Expert"
+        },
+        "the mafufer": {
+            "name": "the mafufer",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "extra": [
+                "The goad is to shake the bush!"
+            ],
+            "links": [
+                "https://youtu.be/Nt9hAuJD460"
+            ],
+            "tier": "Low Elite"
+        },
+        "romance dawn": {
+            "name": "Romance Dawn",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "diff": "5/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/5NaVy4WVt5I"
+            ],
+            "tier": "Intermediate"
+        },
+        "orange town": {
+            "name": "Orange Town",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "diff": "3/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/-7SkoZ9udb0"
+            ],
+            "tier": "Beginner"
+        },
+        "ruined amiibo": {
+            "name": "Ruined Amiibo",
+            "location": [
+                "Ruined Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "totol"
+            ],
+            "prover": [
+                "totol"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/fCx2qFulyyk"
+            ],
+            "tier": "Expert"
+        },
+        "syrup village": {
+            "name": "Syrup Village",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "2.5/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/tOZ8leVcpjo"
+            ],
+            "tier": "Beginner"
+        },
+        "arlong park": {
+            "name": "Arlong Park",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "3.5/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/eWLL5n7bIcA"
+            ],
+            "tier": "Intermediate"
+        },
+        "loguetown": {
+            "name": "Loguetown",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "4/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/0grL6FvN-hc"
+            ],
+            "tier": "Intermediate"
+        },
+        "reverse mountain": {
+            "name": "Reverse Mountain",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "2.5/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/XeIBrg3JPnU"
+            ],
+            "tier": "Beginner"
+        },
+        "whisky peak": {
+            "name": "Whisky Peak",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "3/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/no03nfV7jbQ"
+            ],
+            "tier": "Beginner"
+        },
+        "flower dram": {
+            "name": "Flower Dram",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "7.5/10",
+            "type": [
+                "Triple"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/c1hn87HmQmg"
+            ],
+            "tier": "Expert"
+        },
+        "wehhh": {
+            "name": "Wehhh",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Walljump"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/yWVorFb6YT0"
+            ],
+            "tier": "Expert"
+        },
+        "hedemo ne-yo": {
+            "name": "Hedemo Ne-Yo",
+            "location": [
+                "Snow Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/Psv-R0f4SzM"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "peaches (slowed)": {
+            "name": "Peaches (slowed)",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "6/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/RcdTpHMNbEE"
+            ],
+            "tier": "Advanced"
+        },
+        "true mummy masochist": {
+            "name": "True Mummy Masochist",
+            "location": [
+                "Ruined Kingdom"
+            ],
+            "diff": "High Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/9220mS5XJgM"
+            ],
+            "tier": "High Elite"
+        },
+        "icy pillar": {
+            "name": "Icy Pillar",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Dragon"
+            ],
+            "prover": [
+                "Bk5"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/K6KdRpaWHsc"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "pepto pain": {
+            "name": "Pepto Pain",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "4/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "OrangeCardinal"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/4t4XTjzIAv8"
+            ],
+            "tier": "Intermediate"
+        },
+        "frosty freefall": {
+            "name": "Frosty Freefall",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Mackansmat"
+            ],
+            "prover": [
+                "Mackansmat"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/wR72VK2gkAo"
+            ],
+            "tier": "Mid Elite"
+        },
+        "b": {
+            "name": "B",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "2/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Lewin"
+            ],
+            "prover": [
+                "Lewin"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/O6h_I-0gDF8"
+            ],
+            "tier": "Beginner"
+        },
+        "metro amiibo": {
+            "name": "Metro Amiibo",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "8/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/bIVWF3KcyOw"
+            ],
+            "tier": "Expert"
+        },
+        "drum island": {
+            "name": "Drum Island",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "3/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/BbplJiwDo50"
+            ],
+            "tier": "Beginner"
+        },
+        "alabasta": {
+            "name": "Alabasta",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "diff": "2/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/B-LLRnEhgBE"
+            ],
+            "tier": "Beginner"
+        },
+        "jaya": {
+            "name": "Jaya",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "diff": "2.5/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/AGoY590qTpU"
+            ],
+            "tier": "Beginner"
+        },
+        "skypiea": {
+            "name": "Skypiea",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "diff": "3/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/NoiIRWCH30Y"
+            ],
+            "tier": "Beginner"
+        },
+        "cascade longfall": {
+            "name": "Cascade Longfall",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "6/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Lewin"
+            ],
+            "prover": [
+                "Lewin"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/ccpwIZISSug"
+            ],
+            "tier": "Advanced"
+        },
+        "true cascade longfall": {
+            "name": "True Cascade Longfall",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "6.5/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Lewin"
+            ],
+            "prover": [
+                "Lewin"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/EtIfZuyJWsI"
+            ],
+            "tier": "Advanced"
+        },
+        "truer cascade longfall": {
+            "name": "Truer Cascade Longfall",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "8.5/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Lewin"
+            ],
+            "prover": [
+                "Lewin"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/ZC3Heongx2g"
+            ],
+            "tier": "Master"
+        },
+        "sami du salami": {
+            "name": "Sami Du Salami",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "diff": "5/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Lewin"
+            ],
+            "prover": [
+                "Lewin"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/OOFtIlPLB2k"
+            ],
+            "tier": "Intermediate"
+        },
+        "torch bypass": {
+            "name": "Torch Bypass",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Eyp777"
+            ],
+            "prover": [
+                "Eyp777"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/pN66ByIdK-E"
+            ],
+            "tier": "Low Elite"
+        },
+        "sherm boundaries": {
+            "name": "Sherm Boundaries",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "diff": "8.5/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "OrangeCardinal"
+            ],
+            "prover": [
+                "OrangeCardinal"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/QptnZL1o3VU"
+            ],
+            "tier": "Master"
+        },
+        "celestial spawn": {
+            "name": "Celestial Spawn",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Teleport"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/b7wmoSEFrBY"
+            ],
+            "tier": "Low Elite"
+        },
+        "flower dance": {
+            "name": "Flower Dance",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/6Wq9w0PtU9Y"
+            ],
+            "tier": "Low Elite"
+        },
+        "papercut": {
+            "name": "Papercut",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "10/10",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/KsX0-SvAUaY"
+            ],
+            "tier": "Master"
+        },
+        "not quite lakescope": {
+            "name": "Not Quite Lakescope",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "8/10",
+            "type": [
+                "Uncapture"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/0hiFRCQkVQM"
+            ],
+            "tier": "Expert"
+        },
+        "reverse pillar tumble": {
+            "name": "Reverse Pillar Tumble",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "9/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/2RVmDaMDzZY"
+            ],
+            "tier": "Master"
+        },
+        "cashy pillar": {
+            "name": "Cashy Pillar",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "8/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/W-QdVvnlYYM"
+            ],
+            "tier": "Expert"
+        },
+        "vflower": {
+            "name": "VFlower",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "9/10",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/rLmXvjESaRc"
+            ],
+            "tier": "Master"
+        },
+        "simple flora": {
+            "name": "Simple Flora",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Entity Bounce",
+                "simple tech"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/ghCttIilplk"
+            ],
+            "tier": "Expert"
+        },
+        "true globe mard": {
+            "name": "True Globe Mard",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "8.5/10",
+            "type": [
+                "Double Jump"
+            ],
+            "finder": [
+                "Niklas0527"
+            ],
+            "prover": [
+                "Niklas0527"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/2DRKraeDZyA"
+            ],
+            "tier": "Master"
+        },
+        "true a": {
+            "name": "True A",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "10/10",
+            "type": [
+                "SSD"
+            ],
+            "finder": [
+                "Ben.smo"
+            ],
+            "prover": [
+                "Ben.smo"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/gKk6sCrUM6A"
+            ],
+            "tier": "Master"
+        },
+        "crate madness": {
+            "name": "Crate Madness",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "diff": "God Tier",
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "modnob"
+            ],
+            "prover": [
+                "modnob"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/bYY3z8y-HEI"
+            ],
+            "tier": "God Tier"
+        },
+        "toad's triumph": {
+            "name": "Toad's Triumph",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Soupafi"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/fMmJT3fxafk"
+            ],
+            "tier": "Expert"
+        },
+        "bernadette": {
+            "name": "Bernadette",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "diff": "7/10",
+            "type": [
+                "Yellow Dram"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/DTIrJ_Y3uak"
+            ],
+            "tier": "Expert"
+        },
+        "haven my beloved": {
+            "name": "Haven my beloved",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "Unproven",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/QK3qHnPJ1QY"
+            ],
+            "tier": "Unproven"
+        },
+        "drunk-dazed": {
+            "name": "Drunk-Dazed",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Unproven",
+            "type": [
+                "Teleport"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/h-hFKenf4UM"
+            ],
+            "tier": "Unproven"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

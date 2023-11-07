@@ -1,0 +1,451 @@
+{
+    "name": "yuh",
+    "hash": "79d43349171c2016bc874c5e6d613aef155a055f78aafc2cc08ce7f60f82305f528b191ecb68c6864b55e8e7765e4a8ae376f27448efaa07e0f94276f28df705",
+    "created_at": "2023-07-11 07:01:02 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-11 07:14:53 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-11 07:01:02 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-11 07:02:16 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Upper Moon Masochist   Location: ['Moon Kingdom']   Diff: High Elite   Tier: High Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/QPTIIKJR_oA']"
+        ],
+        [
+            "2023-07-11 07:03:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Scarecrow Surge   Location: ['Luncheon Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Finder: ['CToad7']   Prover: ['modnob']   Server: Database   Links: ['https://youtu.be/uAPRtJwgOv0']"
+        ],
+        [
+            "2023-07-11 07:04:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Space Block Escape   Location: ['Moon Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/lVrsgRzNueg']"
+        ],
+        [
+            "2023-07-11 07:04:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Moon Moon Rock   Location: ['Moon Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/z2iEfowPLEU']"
+        ],
+        [
+            "2023-07-11 07:04:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Moon Moon Rock 2.0   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/xwEIJyqPoEM']"
+        ],
+        [
+            "2023-07-11 07:05:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Rocket Flower Longfall   Location: ['Moon Kingdom']   Diff: 9.5/10   Tier: Master   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/Hz5iFxT7KKA']"
+        ],
+        [
+            "2023-07-11 07:05:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Taxi Superbounce   Location: ['Moon Kingdom']   Diff: 10/10   Tier: Master   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/RZH68NLt7-A']"
+        ],
+        [
+            "2023-07-11 07:06:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Octovershoot   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/-BFRd_umkHI']"
+        ],
+        [
+            "2023-07-11 07:07:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Pendulums Bypass   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/ALoVyR94XSU']"
+        ],
+        [
+            "2023-07-11 07:07:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Space Communist   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/e3qwmmDi6fU']"
+        ],
+        [
+            "2023-07-11 07:07:53 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Astronaut Rabbit's Treasure   Location: ['Moon Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/3FtWi2P7_-M']"
+        ],
+        [
+            "2023-07-11 07:08:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Luigi Pad   Location: ['Moon Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/tjcWxeKoE9U']"
+        ],
+        [
+            "2023-07-11 07:09:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Intergalactic Purr   Location: ['Moon Kingdom']   Diff: High Elite   Tier: High Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Extra: ['The goal is to bonk and land on the paw after bonking!']   Links: ['https://youtu.be/t2Z7rxpwOJU']"
+        ],
+        [
+            "2023-07-11 07:10:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Longjump Speed True Moon Masochist   Location: ['Moon Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Finder: ['AwesomeAggron']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/8GY3bRAI7L0']"
+        ],
+        [
+            "2023-07-11 07:11:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Longjump Speed Moon Masochist   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['AwesomeAggron']   Prover: ['Cyber']   Server: Database   Links: ['https://youtu.be/byzi-2v63ZE']"
+        ],
+        [
+            "2023-07-11 07:11:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Space Bully   Location: ['Moon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://youtu.be/MtX1rbriBVc']"
+        ],
+        [
+            "2023-07-11 07:12:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Shingle Manuver   Location: [\"Bowser's Kingdom\"]   Diff: Insanity Elite   Tier: Insanity Elite   Finder: ['IdentXd']   Prover: ['modnob']   Server: Database   Links: ['https://youtu.be/ld6ChPlWAsA']"
+        ],
+        [
+            "2023-07-11 07:13:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Em Kay Why   Location: ['Luncheon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/3HjBFraEjXM']"
+        ],
+        [
+            "2023-07-11 07:13:26 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: add   Name: em kay why"
+        ],
+        [
+            "2023-07-11 07:13:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Em Kay Why   Location: ['Lost Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/3HjBFraEjXM']"
+        ],
+        [
+            "2023-07-11 07:13:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Corny Bonk   Location: ['Luncheon Kingdom']   Diff: Low Elite   Tier: Low Elite   Finder: ['construcable']   Prover: ['construcable']   Server: Database   Links: ['https://youtu.be/C2i7qFtWv4I']"
+        ],
+        [
+            "2023-07-11 07:14:47 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "upper moon masochist": {
+            "name": "Upper Moon Masochist",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "High Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/QPTIIKJR_oA"
+            ],
+            "tier": "High Elite"
+        },
+        "scarecrow surge": {
+            "name": "Scarecrow Surge",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "modnob"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/uAPRtJwgOv0"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "space block escape": {
+            "name": "Space Block Escape",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/lVrsgRzNueg"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "moon moon rock": {
+            "name": "Moon Moon Rock",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/z2iEfowPLEU"
+            ],
+            "tier": "Mid Elite"
+        },
+        "moon moon rock 2.0": {
+            "name": "Moon Moon Rock 2.0",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/xwEIJyqPoEM"
+            ],
+            "tier": "Low Elite"
+        },
+        "rocket flower longfall": {
+            "name": "Rocket Flower Longfall",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "9.5/10",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/Hz5iFxT7KKA"
+            ],
+            "tier": "Master"
+        },
+        "taxi superbounce": {
+            "name": "Taxi Superbounce",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "10/10",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/RZH68NLt7-A"
+            ],
+            "tier": "Master"
+        },
+        "octovershoot": {
+            "name": "Octovershoot",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/-BFRd_umkHI"
+            ],
+            "tier": "Low Elite"
+        },
+        "pendulums bypass": {
+            "name": "Pendulums Bypass",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/ALoVyR94XSU"
+            ],
+            "tier": "Low Elite"
+        },
+        "space communist": {
+            "name": "Space Communist",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/e3qwmmDi6fU"
+            ],
+            "tier": "Low Elite"
+        },
+        "astronaut rabbit's treasure": {
+            "name": "Astronaut Rabbit's Treasure",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/3FtWi2P7_-M"
+            ],
+            "tier": "Mid Elite"
+        },
+        "luigi pad": {
+            "name": "Luigi Pad",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/tjcWxeKoE9U"
+            ],
+            "tier": "Mid Elite"
+        },
+        "intergalactic purr": {
+            "name": "Intergalactic Purr",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "High Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "extra": [
+                "The goal is to bonk and land on the paw after bonking!"
+            ],
+            "links": [
+                "https://youtu.be/t2Z7rxpwOJU"
+            ],
+            "tier": "High Elite"
+        },
+        "longjump speed true moon masochist": {
+            "name": "Longjump Speed True Moon Masochist",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "finder": [
+                "AwesomeAggron"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/8GY3bRAI7L0"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "longjump speed moon masochist": {
+            "name": "Longjump Speed Moon Masochist",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "AwesomeAggron"
+            ],
+            "prover": [
+                "Cyber"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/byzi-2v63ZE"
+            ],
+            "tier": "Low Elite"
+        },
+        "space bully": {
+            "name": "Space Bully",
+            "location": [
+                "Moon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/MtX1rbriBVc"
+            ],
+            "tier": "Low Elite"
+        },
+        "shingle manuver": {
+            "name": "Shingle Manuver",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "diff": "Insanity Elite",
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "modnob"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/ld6ChPlWAsA"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "em kay why": {
+            "name": "Em Kay Why",
+            "location": [
+                "Lost Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/3HjBFraEjXM"
+            ],
+            "tier": "Low Elite"
+        },
+        "corny bonk": {
+            "name": "Corny Bonk",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "Low Elite",
+            "finder": [
+                "construcable"
+            ],
+            "prover": [
+                "construcable"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/C2i7qFtWv4I"
+            ],
+            "tier": "Low Elite"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

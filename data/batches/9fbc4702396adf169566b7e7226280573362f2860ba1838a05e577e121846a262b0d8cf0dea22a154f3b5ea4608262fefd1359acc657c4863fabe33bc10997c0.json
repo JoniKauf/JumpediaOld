@@ -1,0 +1,48 @@
+{
+    "name": "f",
+    "hash": "9fbc4702396adf169566b7e7226280573362f2860ba1838a05e577e121846a262b0d8cf0dea22a154f3b5ea4608262fefd1359acc657c4863fabe33bc10997c0",
+    "created_at": "2023-08-09 21:25:15 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-09 21:25:42 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-09 21:25:15 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-09 21:25:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Robot Vacuum Cleaner   Location: ['Dark Side']   Diff: 6.5/10   Tier: Advanced   Type: ['Groundpound Jump', 'zg']   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://twitter.com/enlvieo/status/1486778534508974080?s=46']"
+        ],
+        [
+            "2023-08-09 21:25:38 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "robot vacuum cleaner": {
+            "name": "Robot Vacuum Cleaner",
+            "location": [
+                "Dark Side"
+            ],
+            "diff": "6.5/10",
+            "type": [
+                "Groundpound Jump",
+                "zg"
+            ],
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://twitter.com/enlvieo/status/1486778534508974080?s=46"
+            ],
+            "tier": "Advanced"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

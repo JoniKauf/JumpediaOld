@@ -6,7 +6,7 @@ different folder on the server. These secrets contain tokens and other sensitive
 import json
 from os import path
 
-FILE_PATH = "D:\Jumpedia\secret.json"
+FILE_PATH = "J:\Temp\secret.json"
 
 def load() -> str | dict | list:
     if not path.isfile(FILE_PATH) or not FILE_PATH.endswith(".json"):

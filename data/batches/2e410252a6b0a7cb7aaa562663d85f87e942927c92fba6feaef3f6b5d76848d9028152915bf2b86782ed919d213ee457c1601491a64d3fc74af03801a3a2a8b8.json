@@ -1,0 +1,32 @@
+{
+    "name": "o",
+    "hash": "2e410252a6b0a7cb7aaa562663d85f87e942927c92fba6feaef3f6b5d76848d9028152915bf2b86782ed919d213ee457c1601491a64d3fc74af03801a3a2a8b8",
+    "created_at": "2023-07-19 18:18:18 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-19 18:18:41 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-19 18:18:18 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-19 18:18:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lakeside Staff   Finder: ['Enlvie']"
+        ],
+        [
+            "2023-07-19 18:18:37 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lakeside staff": {
+            "name": "Lakeside Staff",
+            "finder": [
+                "Enlvie"
+            ]
+        }
+    },
+    "rem": []
+}

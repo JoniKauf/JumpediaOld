@@ -1,0 +1,53 @@
+{
+    "name": "zamn",
+    "hash": "b455dcf3dad58d4c16028a6c1bd18a40cc09fa8a4a51d3ba5e97a502e74b0bb4b861aa532d561cd47c4c884bf8647fabcbf66fff1dece26cb4cb7677b5f15613",
+    "created_at": "2023-09-06 20:44:41 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-06 20:45:11 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-06 20:44:41 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-06 20:44:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Luminous Conduction   Location: ['Metro Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Triple']   Finder: ['Mango']   Prover: ['Mango']   Server: Database   Links: ['https://youtu.be/Vjg9p9v24Ts?si=RzzyZWIyTGRBglCF']"
+        ],
+        [
+            "2023-09-06 20:45:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: luminous comduction"
+        ],
+        [
+            "2023-09-06 20:45:06 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "luminous conduction": {
+            "name": "Luminous Conduction",
+            "diff": "Low Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Mango"
+            ],
+            "prover": [
+                "Mango"
+            ],
+            "links": [
+                "https://youtu.be/Vjg9p9v24Ts?si=RzzyZWIyTGRBglCF"
+            ],
+            "tier": "Low Elite"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "luminous comduction"
+    ]
+}

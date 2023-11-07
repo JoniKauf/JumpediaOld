@@ -1,0 +1,32 @@
+{
+    "name": "link",
+    "hash": "e9f93359912c93d22c0fdd413dee301a2b047e3170565c4782235ae37b90b956caebacc2b104660f4fa4d1d1be9627b4fc94eede558a0771a144fad7a26e8176",
+    "created_at": "2023-07-04 03:17:06 (UTC)",
+    "created_by": "'CVZen' (753400252010332251)",
+    "implemented_at": "2023-07-04 03:26:53 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-04 03:17:06 (UTC)",
+            "'CVZen' (753400252010332251) creates batch"
+        ],
+        [
+            "2023-07-04 03:17:52 (UTC)",
+            "'CVZen' (753400252010332251) adds jump under batch's edits -> Name: Toad's Trench   Links: ['https://youtu.be/ftPZtBv8UDo']"
+        ],
+        [
+            "2023-07-04 03:19:00 (UTC)",
+            "'CVZen' (753400252010332251) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "toad's trench": {
+            "name": "Toad's Trench",
+            "links": [
+                "https://youtu.be/ftPZtBv8UDo"
+            ]
+        }
+    },
+    "rem": []
+}

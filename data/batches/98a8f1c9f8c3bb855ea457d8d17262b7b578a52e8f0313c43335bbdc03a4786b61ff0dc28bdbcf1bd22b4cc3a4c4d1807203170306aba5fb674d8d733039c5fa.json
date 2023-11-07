@@ -1,0 +1,52 @@
+{
+    "name": "g",
+    "hash": "98a8f1c9f8c3bb855ea457d8d17262b7b578a52e8f0313c43335bbdc03a4786b61ff0dc28bdbcf1bd22b4cc3a4c4d1807203170306aba5fb674d8d733039c5fa",
+    "created_at": "2023-10-12 21:46:27 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-12 21:48:10 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-12 21:46:27 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-12 21:46:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Biggie Cheese 5.0   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['Zox']   Links: ['https://youtu.be/O8SjXsx3Eus']"
+        ],
+        [
+            "2023-10-12 21:48:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truest Luncheon Dram   Diff: God Tier   Tier: God Tier   Prover: ['Belle']   Links: ['https://youtu.be/BdhUq5sUJrE']"
+        ],
+        [
+            "2023-10-12 21:48:06 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "biggie cheese 5.0": {
+            "name": "Biggie Cheese 5.0",
+            "prover": [
+                "Zox"
+            ],
+            "diff": "Insanity Elite",
+            "links": [
+                "https://youtu.be/O8SjXsx3Eus"
+            ],
+            "tier": "Insanity Elite"
+        },
+        "truest luncheon dram": {
+            "name": "Truest Luncheon Dram",
+            "prover": [
+                "Belle"
+            ],
+            "diff": "God Tier",
+            "links": [
+                "https://youtu.be/BdhUq5sUJrE"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

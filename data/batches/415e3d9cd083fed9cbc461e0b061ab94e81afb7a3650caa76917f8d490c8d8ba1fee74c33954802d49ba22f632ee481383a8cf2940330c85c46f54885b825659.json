@@ -1,0 +1,42 @@
+{
+    "name": "capital",
+    "hash": "415e3d9cd083fed9cbc461e0b061ab94e81afb7a3650caa76917f8d490c8d8ba1fee74c33954802d49ba22f632ee481383a8cf2940330c85c46f54885b825659",
+    "created_at": "2023-10-14 18:29:06 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-14 18:30:10 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-14 18:29:06 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-14 18:29:51 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: 1P God   Type: ['Vertical']"
+        ],
+        [
+            "2023-10-14 18:30:00 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Koopa's Climb   Type: ['Vertical']"
+        ],
+        [
+            "2023-10-14 18:30:06 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "1p god": {
+            "name": "1P God",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "koopa's climb": {
+            "name": "Koopa's Climb",
+            "type": [
+                "Vertical"
+            ]
+        }
+    },
+    "rem": []
+}

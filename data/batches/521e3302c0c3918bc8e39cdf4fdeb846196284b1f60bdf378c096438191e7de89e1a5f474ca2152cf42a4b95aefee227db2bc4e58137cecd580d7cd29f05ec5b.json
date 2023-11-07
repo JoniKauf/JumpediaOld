@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "521e3302c0c3918bc8e39cdf4fdeb846196284b1f60bdf378c096438191e7de89e1a5f474ca2152cf42a4b95aefee227db2bc4e58137cecd580d7cd29f05ec5b",
+    "created_at": "2023-11-01 06:24:18 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-11-01 06:25:03 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-01 06:24:18 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-11-01 06:24:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot True Flying Adventure   Finder: ['Clapyoubtw']"
+        ],
+        [
+            "2023-11-01 06:24:49 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot true flying adventure": {
+            "name": "Overshoot True Flying Adventure",
+            "finder": [
+                "Clapyoubtw"
+            ]
+        }
+    },
+    "rem": []
+}

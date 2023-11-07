@@ -1,0 +1,35 @@
+{
+    "name": "peg",
+    "hash": "2a85a9c299d1b016e227bfb9d1f449ef2b149b4e4e87a2aaa4f1b8006029daf6e744e4e2cfee3efca8ba5c1c0c90b617076e23a54742b7e6c2b7616bd10d0155",
+    "created_at": "2023-07-30 16:13:05 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-30 16:13:52 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-30 16:13:05 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-30 16:13:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Peachy Peg   Finder: ['IdentXd']   Prover: ['IdentXd']"
+        ],
+        [
+            "2023-07-30 16:13:48 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "peachy peg": {
+            "name": "Peachy Peg",
+            "finder": [
+                "IdentXd"
+            ],
+            "prover": [
+                "IdentXd"
+            ]
+        }
+    },
+    "rem": []
+}

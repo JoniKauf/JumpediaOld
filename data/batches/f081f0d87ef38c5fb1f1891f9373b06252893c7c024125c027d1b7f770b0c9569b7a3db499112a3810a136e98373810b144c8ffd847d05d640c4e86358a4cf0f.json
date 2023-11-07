@@ -1,0 +1,37 @@
+{
+    "name": "g",
+    "hash": "f081f0d87ef38c5fb1f1891f9373b06252893c7c024125c027d1b7f770b0c9569b7a3db499112a3810a136e98373810b144c8ffd847d05d640c4e86358a4cf0f",
+    "created_at": "2023-10-25 22:49:21 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-25 22:50:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-25 22:49:21 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-25 22:50:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Dragon Death Dive   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['Jario']   Links: ['https://youtu.be/umB0YXpf_Rk']"
+        ],
+        [
+            "2023-10-25 22:50:17 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "dragon death dive": {
+            "name": "Dragon Death Dive",
+            "prover": [
+                "Jario"
+            ],
+            "diff": "Insanity Elite",
+            "links": [
+                "https://youtu.be/umB0YXpf_Rk"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

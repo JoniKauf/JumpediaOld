@@ -1,0 +1,42 @@
+{
+    "name": "hell",
+    "hash": "154bb166505680661b695388008831a7dbbceb3a1dad54f546592722c7709eff17cdc9f8abafd72b6def4a651cb299a8e32335e5456e2bcd049b783bb3a66de8",
+    "created_at": "2023-07-20 21:30:05 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-20 21:32:49 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-20 21:30:05 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-20 21:30:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Colorful Beans   Diff: God Tier   Tier: God Tier   Server: Database"
+        ],
+        [
+            "2023-07-20 21:30:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Attack On Pokio   Diff: God Tier   Tier: God Tier   Server: Database"
+        ],
+        [
+            "2023-07-20 21:32:44 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "colorful beans": {
+            "name": "Colorful Beans",
+            "diff": "God Tier",
+            "server": "Database",
+            "tier": "God Tier"
+        },
+        "attack on pokio": {
+            "name": "Attack On Pokio",
+            "diff": "God Tier",
+            "server": "Database",
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

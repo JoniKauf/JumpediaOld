@@ -1,0 +1,40 @@
+{
+    "name": "oopsies",
+    "hash": "6645b2c8457d07de9868eee3c3cddcaaf2b0ee26e8d6611c1c334f58fb2dca7ccc9db4fcebde5fe0c32f722bec0ee00ec7319a1b2de8a17b0bfb4f1d28e5b85a",
+    "created_at": "2023-09-14 19:03:44 (UTC)",
+    "created_by": "'shaggy' (723620632784535574)",
+    "implemented_at": "2023-09-14 19:05:55 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-14 19:03:44 (UTC)",
+            "'shaggy' (723620632784535574) creates batch"
+        ],
+        [
+            "2023-09-14 19:03:57 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Shingestalk   Type: ['Vault']"
+        ],
+        [
+            "2023-09-14 19:05:11 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: shinglestalk   Type: ['Vault']"
+        ],
+        [
+            "2023-09-14 19:05:39 (UTC)",
+            "'shaggy' (723620632784535574) lets batch information be forgotten -> Operation: edit   Name: shingestalk"
+        ],
+        [
+            "2023-09-14 19:05:48 (UTC)",
+            "'shaggy' (723620632784535574) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "shinglestalk": {
+            "name": "shinglestalk",
+            "type": [
+                "Vault"
+            ]
+        }
+    },
+    "rem": []
+}

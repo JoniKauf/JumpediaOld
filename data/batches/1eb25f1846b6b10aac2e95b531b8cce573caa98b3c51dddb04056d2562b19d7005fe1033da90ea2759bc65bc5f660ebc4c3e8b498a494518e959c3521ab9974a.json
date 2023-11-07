@@ -1,0 +1,37 @@
+{
+    "name": "g",
+    "hash": "1eb25f1846b6b10aac2e95b531b8cce573caa98b3c51dddb04056d2562b19d7005fe1033da90ea2759bc65bc5f660ebc4c3e8b498a494518e959c3521ab9974a",
+    "created_at": "2023-09-05 10:49:18 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-05 10:49:49 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-05 10:49:18 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-05 10:49:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Girder Downfall   Diff: High Elite   Tier: High Elite   Prover: ['Gummy']   Links: ['https://youtu.be/3DQJhaV33Fk']"
+        ],
+        [
+            "2023-09-05 10:49:42 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "girder downfall": {
+            "name": "Girder Downfall",
+            "diff": "High Elite",
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/3DQJhaV33Fk"
+            ],
+            "tier": "High Elite"
+        }
+    },
+    "rem": []
+}

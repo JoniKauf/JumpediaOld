@@ -1,0 +1,37 @@
+{
+    "name": "g",
+    "hash": "ccf8cd5ab7ff8af872a3ba6c896b2f973699d537adccb3afe401da0fc54f58df2c5d8ab5e8e23162e6af5abf19791d7821da04a7f3b580339211834fcadc0e3c",
+    "created_at": "2023-07-19 20:28:19 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-19 20:28:50 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-19 20:28:19 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-19 20:28:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Questioning Bench   Diff: God Tier   Tier: God Tier   Prover: ['Belle']   Links: ['https://youtu.be/p_k_KBzUPhY']"
+        ],
+        [
+            "2023-07-19 20:28:43 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "questioning bench": {
+            "name": "Questioning Bench",
+            "diff": "God Tier",
+            "prover": [
+                "Belle"
+            ],
+            "links": [
+                "https://youtu.be/p_k_KBzUPhY"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

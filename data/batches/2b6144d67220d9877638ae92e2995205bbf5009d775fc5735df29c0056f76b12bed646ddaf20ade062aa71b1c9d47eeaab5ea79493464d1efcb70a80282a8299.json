@@ -1,0 +1,228 @@
+{
+    "name": "k",
+    "hash": "2b6144d67220d9877638ae92e2995205bbf5009d775fc5735df29c0056f76b12bed646ddaf20ade062aa71b1c9d47eeaab5ea79493464d1efcb70a80282a8299",
+    "created_at": "2023-10-21 00:08:08 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-21 00:21:18 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-21 00:08:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-21 00:08:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Forgorred Fall   Finder: ['M!rza']   Prover: ['M!rza']"
+        ],
+        [
+            "2023-10-21 00:09:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ice Ring   Finder: ['M!rza']"
+        ],
+        [
+            "2023-10-21 00:10:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vault Truer Meter Madness   Finder: ['M!rza']"
+        ],
+        [
+            "2023-10-21 00:11:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Treasure Hunter   Finder: ['Revi64']   Prover: ['Revi64']"
+        ],
+        [
+            "2023-10-21 00:12:00 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Fork Room   Finder: ['Yellow']"
+        ],
+        [
+            "2023-10-21 00:12:19 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Questionable Vertical   Finder: ['Yellow']"
+        ],
+        [
+            "2023-10-21 00:12:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dirty Vertical   Finder: ['Yellow']"
+        ],
+        [
+            "2023-10-21 00:13:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Northern Winds   Finder: ['Mario Man']   Prover: ['Mario Man']"
+        ],
+        [
+            "2023-10-21 00:14:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Downwards Spirel   Finder: ['Mario Man']   Prover: ['Mario Man']"
+        ],
+        [
+            "2023-10-21 00:14:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Rotation Rising   Finder: ['Mario Man']   Prover: ['Mario Man']"
+        ],
+        [
+            "2023-10-21 00:15:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Bullet's Castle   Finder: ['Mario Man']   Prover: ['Mario Man']"
+        ],
+        [
+            "2023-10-21 00:16:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Riggle Roots   Prover: ['Kaeden']"
+        ],
+        [
+            "2023-10-21 00:17:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vine Venture   Prover: ['Kaeden']"
+        ],
+        [
+            "2023-10-21 00:17:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Poison Falls   Prover: ['Kaeden']"
+        ],
+        [
+            "2023-10-21 00:17:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Further Reverse Cheesy Triple Buffet   Prover: ['Kaeden']"
+        ],
+        [
+            "2023-10-21 00:18:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Blast Block Bash   Prover: ['Kaeden']"
+        ],
+        [
+            "2023-10-21 00:19:20 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Froggy Festival   Finder: ['JoniKauf']"
+        ],
+        [
+            "2023-10-21 00:19:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Downtown Divine   Finder: ['JoniKauf']"
+        ],
+        [
+            "2023-10-21 00:20:48 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: further reverse cheesy triple buffet"
+        ],
+        [
+            "2023-10-21 00:21:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Further Reverse Cheesey Triple Buffet   Prover: ['Kaeden']"
+        ],
+        [
+            "2023-10-21 00:21:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "forgorred fall": {
+            "name": "Forgorred Fall",
+            "finder": [
+                "M!rza"
+            ],
+            "prover": [
+                "M!rza"
+            ]
+        },
+        "ice ring": {
+            "name": "Ice Ring",
+            "finder": [
+                "M!rza"
+            ]
+        },
+        "vault truer meter madness": {
+            "name": "Vault Truer Meter Madness",
+            "finder": [
+                "M!rza"
+            ]
+        },
+        "treasure hunter": {
+            "name": "Treasure Hunter",
+            "finder": [
+                "Revi64"
+            ],
+            "prover": [
+                "Revi64"
+            ]
+        },
+        "true fork room": {
+            "name": "True Fork Room",
+            "finder": [
+                "Yellow"
+            ]
+        },
+        "questionable vertical": {
+            "name": "Questionable Vertical",
+            "finder": [
+                "Yellow"
+            ]
+        },
+        "dirty vertical": {
+            "name": "Dirty Vertical",
+            "finder": [
+                "Yellow"
+            ]
+        },
+        "true northern winds": {
+            "name": "True Northern Winds",
+            "finder": [
+                "Mario Man"
+            ],
+            "prover": [
+                "Mario Man"
+            ]
+        },
+        "downwards spirel": {
+            "name": "Downwards Spirel",
+            "finder": [
+                "Mario Man"
+            ],
+            "prover": [
+                "Mario Man"
+            ]
+        },
+        "rotation rising": {
+            "name": "Rotation Rising",
+            "finder": [
+                "Mario Man"
+            ],
+            "prover": [
+                "Mario Man"
+            ]
+        },
+        "bullet's castle": {
+            "name": "Bullet's Castle",
+            "finder": [
+                "Mario Man"
+            ],
+            "prover": [
+                "Mario Man"
+            ]
+        },
+        "riggle roots": {
+            "name": "Riggle Roots",
+            "prover": [
+                "Kaeden"
+            ]
+        },
+        "vine venture": {
+            "name": "Vine Venture",
+            "prover": [
+                "Kaeden"
+            ]
+        },
+        "poison falls": {
+            "name": "Poison Falls",
+            "prover": [
+                "Kaeden"
+            ]
+        },
+        "blast block bash": {
+            "name": "Blast Block Bash",
+            "prover": [
+                "Kaeden"
+            ]
+        },
+        "froggy festival": {
+            "name": "Froggy Festival",
+            "finder": [
+                "JoniKauf"
+            ]
+        },
+        "true downtown divine": {
+            "name": "True Downtown Divine",
+            "finder": [
+                "JoniKauf"
+            ]
+        },
+        "further reverse cheesey triple buffet": {
+            "name": "Further Reverse Cheesey Triple Buffet",
+            "prover": [
+                "Kaeden"
+            ]
+        }
+    },
+    "rem": []
+}

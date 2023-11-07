@@ -1,0 +1,35 @@
+{
+    "name": "t",
+    "hash": "51f7db33b856fb83f08fd8b3aeab6504f1b520429b523ef0a51a0d903e80894bb94abaf13d860522fa4ca6435fcb12c689cef85cd83077b4a44099a2def3bffa",
+    "created_at": "2023-11-04 18:38:30 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-11-04 18:39:32 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-04 18:38:30 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-11-04 18:39:19 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: cloud9.81   Type: ['DJTJ']   Extra: ['You have to double jump from the amiibo for it to count!']"
+        ],
+        [
+            "2023-11-04 18:39:26 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "cloud9.81": {
+            "name": "cloud9.81",
+            "extra": [
+                "You have to double jump from the amiibo for it to count!"
+            ],
+            "type": [
+                "DJTJ"
+            ]
+        }
+    },
+    "rem": []
+}

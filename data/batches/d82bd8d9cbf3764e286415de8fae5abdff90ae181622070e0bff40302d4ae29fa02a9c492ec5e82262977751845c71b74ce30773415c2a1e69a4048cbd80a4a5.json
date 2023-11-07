@@ -1,0 +1,32 @@
+{
+    "name": "s",
+    "hash": "d82bd8d9cbf3764e286415de8fae5abdff90ae181622070e0bff40302d4ae29fa02a9c492ec5e82262977751845c71b74ce30773415c2a1e69a4048cbd80a4a5",
+    "created_at": "2023-09-23 20:31:21 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-23 20:31:51 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-23 20:31:21 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-23 20:31:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Logic Lunge   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 20:31:46 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "logic lunge": {
+            "name": "Logic Lunge",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,5516 @@
+{
+    "name": "tech",
+    "hash": "fddc2bd0a1d98da5180418297cf95ba5df1d00d7639e605d6af035632eff8fd345fd7c8881522429726b7151f6c0223ffa48a0acf3d47b8e8715d748e9073b4a",
+    "created_at": "2023-08-26 16:50:57 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-26 19:31:48 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 16:50:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-26 16:52:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Flower Power   Type: ['Any']"
+        ],
+        [
+            "2023-08-26 16:52:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Meme Tree   Type: ['Any']"
+        ],
+        [
+            "2023-08-26 16:52:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Metro Impossible   Type: ['Any']"
+        ],
+        [
+            "2023-08-26 16:52:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Neighbourhood Bypass   Type: ['Any']"
+        ],
+        [
+            "2023-08-26 16:53:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Dimensional Shift   Type: ['2D']"
+        ],
+        [
+            "2023-08-26 16:54:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Snowy Umbrella   Type: ['Entity Bounce']"
+        ],
+        [
+            "2023-08-26 16:56:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Triassic Trampoline   Type: ['Longjump, Entity Bounce']"
+        ],
+        [
+            "2023-08-26 16:59:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Fruity Gap   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:00:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lake Skip   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:00:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Abysaal Leap   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:01:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Under Construction   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:01:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: FrogChamp   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:01:48 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Floral Fountain   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:02:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cafe Crusade   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:02:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Icicle Heist   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:02:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cannon Crossing   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:03:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Launching Pad   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 17:03:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Battlefield Bound   Type: ['Capless']"
+        ],
+        [
+            "2023-08-26 17:04:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Klepto's Gap   Type: ['Capless']"
+        ],
+        [
+            "2023-08-26 17:04:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Among Us   Type: ['Capless']"
+        ],
+        [
+            "2023-08-26 17:05:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Capitalism   Type: ['Capless']"
+        ],
+        [
+            "2023-08-26 17:06:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vanish Cap   Type: ['Capless']"
+        ],
+        [
+            "2023-08-26 17:06:55 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Fork Room   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:07:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sky Block   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:07:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Frogless   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:07:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Rocket Hop   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:08:19 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Salt Triple   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:09:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Shingle Summit   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:10:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Archaic Ruins   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:10:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dimensional Shift   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:11:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cliff Climber   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:11:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Crystal Climber   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:11:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Shingle Shift   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 17:13:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Flower Road Skip   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:13:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Forest Flip   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:14:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Hedge Rendezvous   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:15:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Nimble Nimbus   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:15:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Top Hat Twist   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:16:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Galactic Gorge   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:17:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Love Garden   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:17:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Moon Moon Collector   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:17:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Podaboo Domain   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:18:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Amiibo Stomper   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:18:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cosmic Canyon   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:18:56 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Hole in One   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:19:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Banzai Bounce   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:20:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Flower Flight   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:20:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Moontree   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:21:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Peachy Peg   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:21:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Seaside Mard 2.0   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:21:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Swaying Breeze   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:22:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: ZG Leap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:22:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Car Clash   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:22:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cavern of Fears   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:23:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunch Gap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:24:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mini Sherms Edge   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:25:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Shingle Leap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:25:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Shop Lifter   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:25:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Umbrella Uprising   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:32:15 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: ZG Leap   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:34:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Space Jam   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:34:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Interstellar Indication   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:35:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Galactic Gorge   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 17:35:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dimensional Divide   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:36:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vault Galactic Gorge   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 17:36:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Moon Moon Collector   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:37:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Celestial Chest   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 17:37:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vault Galactic Gorge 2.0   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 17:38:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Kenophobia   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:38:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Cavern of Fears   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:39:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cosmic Corner   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 17:39:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunar Leap   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:40:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Cosmic Canyon   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 17:40:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vertigo View 2.0   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 17:40:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Amiibo Outskirts   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:41:15 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Captureless God   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:41:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cliffside Escape   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:41:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ice Voyage   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:41:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Magma Meltdown   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:42:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Zipper Enthusiast   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:42:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ailurophobia   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:42:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Canyon Climber   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:42:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cascade Mard 2.0   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:43:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Groundless Girders   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:43:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Jaywalker   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:43:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Scarecrowless   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:44:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Cage Triple   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:44:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Water Tower   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:44:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Wooded Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:44:53 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Arena Crossing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:45:15 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Frosty Traveller   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:45:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: High Rise Hop   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:45:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mummy Evader   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:46:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Roof Hopper   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:46:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sandy Sign   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:46:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Table Hopper   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:46:56 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Toad's Trench   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:47:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Left Side   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:47:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Underground Passageway   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:48:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Brownblox   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:48:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Frosty Traveller 2.0   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:48:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Gratifying Grate   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:49:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lakescope   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:49:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Reverse Ailurophobia   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:50:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Statue Arrival   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:50:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ancient Passageway   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:50:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Babbling Brook   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:50:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Billboard Breaker   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:51:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Broken Boulders   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:51:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cloud Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:51:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Crumbling Ruins   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:51:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Garden Escape   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:52:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Goomba Garden   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:52:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Luigi's Ledge   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:52:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mesozoic Mount   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:52:58 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Metro Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:53:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mushroom God   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:53:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Robotic Forest   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:53:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Seaside Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:54:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Skyscaler   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:54:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Toxic Traverse   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:54:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Zipper Ascent   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:54:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Veggie Roll   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:55:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Zipper Ascent   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:55:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Barrel Roll   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:55:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Caveman   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:56:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Darkness Descsnt   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:56:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Grate Leap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:56:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lantern Lunge   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:56:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunch Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:57:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Spewart's Stew   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:57:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sunny Soar   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:57:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Thunderstruck Cityside   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:58:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True 2D Skip   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:58:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Shop Lifter   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:58:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Woods Escape   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 17:58:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Woodscope   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:00:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cloudtop Cruise   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:01:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Courtyard Beans   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:01:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Field Flyer   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:02:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Glittering Gold   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:02:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Reverse Natural Construction   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:02:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Backwards Buffet   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:02:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Crate Cross   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:03:15 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cushion Chasm   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:03:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Darker Magma   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:03:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: ElectroDynamics   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:04:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: GOD   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:04:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Heartbreak Hit   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:04:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Moonicotti   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:04:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: R5   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:05:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Rocket Hop   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:05:17 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Amiibo Lunch   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:05:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Construction Skip   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:06:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Fountain Fumble   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:06:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Pan Evader   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:06:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Tourist Disturber   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:07:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Tyfoo Terror   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:07:14 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Froggy Domain   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:07:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Little Sheepy Boi   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:07:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Luminous Lamode   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:09:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Fruity Gap   Type: ['Longjump, ZG']"
+        ],
+        [
+            "2023-08-26 18:09:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dark Corner   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:09:50 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Beetle Bypass   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:09:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dark Side Impossible   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:10:24 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Broken Arches   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:10:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cage Craziness   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:10:55 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Dragon Ascent   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:11:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Great Wall of Lunch   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:11:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lower Hurb Jump   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:11:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Neon Night   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:11:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Shining Skylight   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:12:16 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Luminary gardens   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:12:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sky Hedge   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:12:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Statue Stepup   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:12:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Swaying Oasis   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:13:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Toad Traversal   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:13:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Treacherous Torch   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:13:53 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Garden Heights   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:14:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Hurdle Herder   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:14:48 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Glydon't   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:15:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Icicle Freefall   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:15:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Imaginary Intersection   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:15:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Interstellar Indication   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:16:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Interstellar Indication   Type: ['Triple, ZG']"
+        ],
+        [
+            "2023-08-26 18:16:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lakitu's Ledge   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:16:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Magmagical Venture   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:16:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Moon Collector   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:17:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mushroom Rise Up   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:17:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Red Lantern   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:17:53 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Roadblock Rushdown   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:18:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Rooftop Gardener   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:18:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ruins Crossing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:19:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Rusty Railing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:19:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Shroomscope   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:19:33 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Seaside Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:19:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Top Hat   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:19:50 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Banana Collector   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:19:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Arena Crossing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:20:31 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Knucklotec's Entrance   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:20:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Danger Sign   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:20:43 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sphinx Hijinx   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:20:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Flower Power   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:21:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Uproot Beans   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:21:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Moonicotti   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:21:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Shop Smasher   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:21:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Treasure Hunter   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:21:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Winner's Gambit   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:21:50 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Makes Boiga   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:21:57 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Mini Torchlift   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:22:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truer Meter Madness   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:22:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Swaying Poison   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:22:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Festival Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:22:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truest Scarecrowless   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:22:23 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Golden Glide   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:22:34 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Upper Statue Arrival   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:22:39 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Icicle Shower   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:23:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Metallic Madness   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:23:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rocky Rumble   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:23:20 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Amphibian Aversion   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:23:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Arena Guard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:23:29 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Frantic Fog   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:23:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Burnstile   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:23:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Desert Gap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:24:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Firebro Flash   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:24:12 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Frantic Fog   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:24:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Froggy Rail   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:24:35 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Raging Vines   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:24:40 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ruined Mard   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:24:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunar Frost   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:25:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunch Sign   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:25:06 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Toad's Treehouse   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:25:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Bowser Gap\"   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:25:15 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mummified Beans   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:25:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: North Pole   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:25:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Right Side   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:25:49 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Pond Blocks   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:25:59 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rocky Shells   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:26:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Riveting Ribcage   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:26:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Roof Descent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:26:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Snow Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:26:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Soup Bath   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:26:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Gatekeeper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:26:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sand Shroud   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:26:43 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Pillar to Pillar 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:26:59 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Royal Intrusion   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:27:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Spike Driver   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:27:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cage Vault 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:27:18 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cutlery Cove   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:27:24 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dusty Cliffside   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:27:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Triassic Triple   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:27:29 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Frozen Peaks   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:27:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Grassy Gap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:27:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Kelpto's Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:27:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Metro Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:28:01 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lake Bruncheon   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:28:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truer Crate Cross   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:28:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Odyssey Oddity   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:28:16 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Roof Rising   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:29:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Stump Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:29:12 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Antarctic Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:29:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cage Vault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:29:32 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lower Klepto Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:29:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Metal Cap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:30:05 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Shepherds Shortcut   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:30:35 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cage Vaulr   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:30:57 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Cage Vault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:31:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Metallic Cut   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:31:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Perilous Pendulumns   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:31:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Prickly Piercer   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:31:49 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ruined Pillars   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:32:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Airvent Acceleration\"   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:32:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Aqua Pillar   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:32:17 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cloudy Stairs   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:32:23 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Dark Corner   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:32:49 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Dark Corner   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:33:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Amiibo Aminosity   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:33:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Eagles Lunch   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:33:29 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Goombavoid   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:33:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Aquatic Honors   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:33:39 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Heatwave Havoc   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:33:46 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Breezy Beans   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:33:49 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Icicle Gap   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:33:57 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Jaxi Friends   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:34:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Bullet Bypass   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:35:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Flying Gardener   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:35:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Gratuitous Girders   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:35:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: I5   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:36:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Icicle Upbringing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:36:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Koi Collapse   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:36:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ladies' Lunch   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:36:44 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lake Crosser   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 18:36:59 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Lake Crosser   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:36:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunaire Pipe   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:37:12 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Jaxi Friends   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:37:24 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Heatwave Havoc   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:37:44 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Goombavoid   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:38:01 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Eagles Lunch   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:38:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Magmato Masquerade   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:38:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mind Break   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:39:00 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Neon Heights   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:39:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Precipitating Park   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:39:31 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Propaganda Bypass   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:40:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lava Overpass   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:40:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Pyrospike   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:40:17 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Nutty Ascent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:40:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Quicksand Conquest   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:40:39 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sunny Scarecrow   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:40:40 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sandy Moon Collector   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:40:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Toad Interspace   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:40:55 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Safari Scan   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:40:55 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Antique Ashes   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:41:01 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Bowser Mard   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:41:08 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lower Sinking Step   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:41:16 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Mountain Scaler   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:42:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Slippery Slope   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:42:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Snail Attack!   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:42:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Stairway Downfall   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:43:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Table Turmoil   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:43:16 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Tidefool   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:43:28 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Top Step 2.0   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:43:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Lunch Gap   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:43:55 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Magma Crossing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:44:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Triassic Triple   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:44:32 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truest Cascade Mard   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:44:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: 1P Abyss   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:45:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Water Tower Terror   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:45:13 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Volcanic Volition   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:45:16 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault City Reacher   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:45:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cavern Falls   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:45:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lower Cholesterol Crossing   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:46:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Resplendent Rainfall   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:46:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Mushroom Tree Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:46:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Reverse Aqua Pillar   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:46:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Passing Picture   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:46:32 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Pillar to Pillar   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:46:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Reverse Poison Pass   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:46:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Reptile Rendezvous   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:46:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Truest Crate Cross   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:46:52 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rocket Launch   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:46:57 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ruined Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:47:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ship to Ship 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:47:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: WJ-Less True Shop Lifter   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:47:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Shiverburn   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:47:18 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Stairway Freefall   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:47:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Rooftop Roundabout   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 18:47:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: True Frogless   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:48:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Ancient Passageway   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:48:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truest Lake Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:48:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Streatlight Sailing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:48:37 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: True Frogless   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:49:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: True Greyscale Twist   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:49:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Weddinf Rising   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:49:20 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: 1p abyss"
+        ],
+        [
+            "2023-08-26 18:49:31 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Wedding Rising   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:49:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Streetlight Sailing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:49:57 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Wishing Well   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:49:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Reverse Tree Climber   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:50:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Zipline Junction   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:50:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: 1P Abyss   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:50:34 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: streatlight sailing"
+        ],
+        [
+            "2023-08-26 18:50:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Necrophobia   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:51:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Man-Made Marvel   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:51:03 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: wedding rising"
+        ],
+        [
+            "2023-08-26 18:51:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Magma Climb   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:51:16 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lava Lagoon   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:51:35 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: weddinf rising"
+        ],
+        [
+            "2023-08-26 18:51:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Firebro Steps   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:51:53 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Botanic Balance   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Attack On Pokio   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Veggie Roll   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Wedding Rising   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Toxic Traverse   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Lakescope   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Tree Hopper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:52:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Tree Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Fossil Hopper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:00 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cacti Canyon   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:05 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cascade Beans   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Top Step   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Swallowed Staircase   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:15 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Frozen Moon Collector   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:21 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Gourmet Rise   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sandy Table Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Rock Smasher   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:32 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Jetstream Jolt   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Reverse Cage Cross   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Rampageous Winds   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:46 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Poison FRS   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:55 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Seaside Wall Wrap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:53:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Podoboo Punishment   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ship to Ship   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Mix Moon Collector   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:10 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Silent Stream   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:17 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Tree Ascent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:23 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Volley Reacher   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Jizo's Domain   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:36 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Billboard Cross   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Ice Field   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Bone Narrow   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:47 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Castle Siege   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:48 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Egyptian Pole   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:54 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cooking Cross   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:54:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Dromophobia   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:01 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Floral Flourish   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:07 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Gordon Dramsay   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bowser Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:15 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Hammer Escape   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:20 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lost Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Acrobatic A.C   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Magles Lost   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Mini Pan Evader   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:55:54 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Moe Eye Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:56:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: PegPoggies   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:56:12 (UTC)",
+            "'Gummy' (503581251198779392) overwrites jump under batch's edits -> Name: Vault Galactic Gorge 2.0   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-08-26 18:56:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Arena Guard   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:56:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Upper PegPog   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:56:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Tree Hopper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:57:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Rolling Stones   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:57:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Forest Threshold   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:57:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Permafrost Procedure   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:57:48 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sombrero Seeker   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:57:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Snowy Scarecrow   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:58:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Robotic Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:58:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Pharaohphobia   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:58:24 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Prickly Prayers   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:58:31 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rocky Ravine   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:58:36 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ruined Mard 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:59:16 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Pyramid Peril   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:59:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poisonous Plunge   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:59:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Natural Construction   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 18:59:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Maggrons Lost   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hedge Hopper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Spike Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: 1P AbyGoomba Gateway   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:18 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Stair Skipper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Trapeetle Treepass   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Frozen Lake Crosser   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Veggietales   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Fossil Fall   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:45 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Bonkaroni   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:00:56 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: 1p abygoomba gateway"
+        ],
+        [
+            "2023-08-26 19:00:56 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cadaver Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:02 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cascade Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: City Skylines   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Goomba Gateway   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:38 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Eternal Evening   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Eel Evader   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Downtown Divine   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:01:54 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cloud Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cold Cross   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:08 (UTC)",
+            "'Gummy' (503581251198779392) overwrites jump under batch's edits -> Name: Cosmic Corner   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-08-26 19:02:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Empire State Escalate   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:19 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Charged Core   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:23 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Flushed Rush   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:28 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Icicle Iceland   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Castle Catastrophe   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:33 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Life Up Founder   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Metallic Descent 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cascade Lake Crosser   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:53 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Neighbourhood Impasse   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:02:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Burning Bonker   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:00 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Pokio Ascent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:05 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Stump to Stump   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Burial Grounds   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Blue Burns   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Uptown Funk   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Advertisement Accident   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Archaic Ambition   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Wiggler Vault Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Castle Siege 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vine Venture   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:54 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Coconut Mall   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:03:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Table Hopper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:02 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: True Cooking Cross   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:08 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ancient Debris   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:12 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Beetle Block   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:12 (UTC)",
+            "'Gummy' (503581251198779392) overwrites jump under batch's edits -> Name: Vault Galactic Gorge   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-08-26 19:04:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Lake Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:20 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cascade Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Vault Cascade Mard   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Lake Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:55 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Faraway Forest   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Cloudy Stairs   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:04:58 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Frostbite   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Frozen Descent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Glacial Gust   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Cannon Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:16 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Jurassic Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Cadaver Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Magma Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Soup Surge   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:31 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Night Sky   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:35 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Oasis Uprise   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Silver Snow   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ogre Overpass   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Rooftop Ascent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rail Crosser   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:52 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ricotta Cliffs   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Purple Pleasure   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:05:57 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ring of fire   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:08 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Upper Ruins Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Paragoomba Uprising   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:15 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ancient Step   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Necrosis   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:21 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Avalanche   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Mummy Massacre   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:28 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cloud Overlook   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Mummy Masochist   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Industrial Revolution   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:39 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lava Bypass   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:47 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Misty Riches   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:49 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sedimentary staff   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:55 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Car Insurance   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Luminous Lights   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:06:59 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Celestial Chest   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lucky Lunge   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lettuce Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Gushen Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:16 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Labyrinth Legacy   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lethal Launch   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:20 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sinking step   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lake Visitor   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Table Dram   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Jizo Jaunt   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Great Canal Of Lunch   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:07:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Grassy Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Diamond Dancer   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Construction Evader   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Chuck Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cage Cross   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:42 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Wall Whacker   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:48 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Virtuous Vines   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:08:56 (UTC)",
+            "'Gummy' (503581251198779392) overwrites jump under batch's edits -> Name: Vertigo View 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:09:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Lost Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:09:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Gothic Suburbia   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:09:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Treetop Tumble   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:09:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Tree Hugger   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:09:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Tree Hopper   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:09:45 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: cage vaulr"
+        ],
+        [
+            "2023-08-26 19:09:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Toxic Incision   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:10:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Torchlift   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:10:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Stone Strider   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:10:35 (UTC)",
+            "'Gummy' (503581251198779392) overwrites jump under batch's edits -> Name: Vertigo View 2.0   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-08-26 19:10:44 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Stairway Evader   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:10:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Speedway Split   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:11:00 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Satan's Sign   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:11:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Queso Catastrophe   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:11:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: PegPog   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:11:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overgrown Overture   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:11:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Makes Bacho   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:11:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Luncheon Legend   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:12:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Losers Gambit   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:12:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lava Launch 2.0   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:12:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lake Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:12:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Island Return   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:12:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cryo Plunge   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:13:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Canyon Crossing   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:13:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cannon Leap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:13:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Black Magic   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:13:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Airborne Assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:15:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: raging vines"
+        ],
+        [
+            "2023-08-26 19:16:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ravaging Vines   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 19:16:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: sky block"
+        ],
+        [
+            "2023-08-26 19:17:04 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Sky Blocks   Type: ['Vertical']"
+        ],
+        [
+            "2023-08-26 19:20:12 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: airvent acceleration\""
+        ],
+        [
+            "2023-08-26 19:20:38 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: bowser gap\""
+        ],
+        [
+            "2023-08-26 19:20:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Airvent Acceleration   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:21:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: amiibo aminosity"
+        ],
+        [
+            "2023-08-26 19:21:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Amiibo Animosity   Type: ['Triple']"
+        ],
+        [
+            "2023-08-26 19:22:42 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: perilous pendulumns"
+        ],
+        [
+            "2023-08-26 19:23:19 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Perilous Pendulums   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:23:49 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Bowser Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:23:50 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Bowser Gap   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:24:08 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: darkness descsnt"
+        ],
+        [
+            "2023-08-26 19:24:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Darkness Descent   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:25:23 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Perilous Pendulums   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:27:55 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: trapeetle treepass"
+        ],
+        [
+            "2023-08-26 19:27:59 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Trapeetle Trespass   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:28:18 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: rocky shells"
+        ],
+        [
+            "2023-08-26 19:28:26 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rocky Shell   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:29:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: abysaal leap"
+        ],
+        [
+            "2023-08-26 19:29:27 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: kelpto's vault assault"
+        ],
+        [
+            "2023-08-26 19:30:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Klepto's vault assault   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:31:37 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Abyssal Leap   Type: ['Longjump']"
+        ],
+        [
+            "2023-08-26 19:31:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "flower power": {
+            "name": "Flower Power",
+            "type": [
+                "Any"
+            ]
+        },
+        "meme tree": {
+            "name": "Meme Tree",
+            "type": [
+                "Any"
+            ]
+        },
+        "metro impossible": {
+            "name": "Metro Impossible",
+            "type": [
+                "Any"
+            ]
+        },
+        "neighbourhood bypass": {
+            "name": "Neighbourhood Bypass",
+            "type": [
+                "Any"
+            ]
+        },
+        "true dimensional shift": {
+            "name": "True Dimensional Shift",
+            "type": [
+                "2D"
+            ]
+        },
+        "snowy umbrella": {
+            "name": "Snowy Umbrella",
+            "type": [
+                "Entity Bounce"
+            ]
+        },
+        "triassic trampoline": {
+            "name": "Triassic Trampoline",
+            "type": [
+                "Longjump, Entity Bounce"
+            ]
+        },
+        "fruity gap": {
+            "name": "Fruity Gap",
+            "type": [
+                "Longjump, ZG"
+            ]
+        },
+        "lake skip": {
+            "name": "Lake Skip",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "under construction": {
+            "name": "Under Construction",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "frogchamp": {
+            "name": "FrogChamp",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "floral fountain": {
+            "name": "Floral Fountain",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "cafe crusade": {
+            "name": "Cafe Crusade",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "icicle heist": {
+            "name": "Icicle Heist",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "cannon crossing": {
+            "name": "Cannon Crossing",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "launching pad": {
+            "name": "Launching Pad",
+            "type": [
+                "Longjump"
+            ]
+        },
+        "battlefield bound": {
+            "name": "Battlefield Bound",
+            "type": [
+                "Capless"
+            ]
+        },
+        "klepto's gap": {
+            "name": "Klepto's Gap",
+            "type": [
+                "Capless"
+            ]
+        },
+        "among us": {
+            "name": "Among Us",
+            "type": [
+                "Capless"
+            ]
+        },
+        "capitalism": {
+            "name": "Capitalism",
+            "type": [
+                "Capless"
+            ]
+        },
+        "vanish cap": {
+            "name": "Vanish Cap",
+            "type": [
+                "Capless"
+            ]
+        },
+        "fork room": {
+            "name": "Fork Room",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "frogless": {
+            "name": "Frogless",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "rocket hop": {
+            "name": "Rocket Hop",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "salt triple": {
+            "name": "Salt Triple",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "shingle summit": {
+            "name": "Shingle Summit",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "archaic ruins": {
+            "name": "Archaic Ruins",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "dimensional shift": {
+            "name": "Dimensional Shift",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "cliff climber": {
+            "name": "Cliff Climber",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "crystal climber": {
+            "name": "Crystal Climber",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "shingle shift": {
+            "name": "Shingle Shift",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "flower road skip": {
+            "name": "Flower Road Skip",
+            "type": [
+                "Triple"
+            ]
+        },
+        "forest flip": {
+            "name": "Forest Flip",
+            "type": [
+                "Triple"
+            ]
+        },
+        "hedge rendezvous": {
+            "name": "Hedge Rendezvous",
+            "type": [
+                "Triple"
+            ]
+        },
+        "nimble nimbus": {
+            "name": "Nimble Nimbus",
+            "type": [
+                "Triple"
+            ]
+        },
+        "top hat twist": {
+            "name": "Top Hat Twist",
+            "type": [
+                "Triple"
+            ]
+        },
+        "galactic gorge": {
+            "name": "Galactic Gorge",
+            "type": [
+                "Vault, ZG"
+            ]
+        },
+        "love garden": {
+            "name": "Love Garden",
+            "type": [
+                "Triple"
+            ]
+        },
+        "moon moon collector": {
+            "name": "Moon Moon Collector",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "podaboo domain": {
+            "name": "Podaboo Domain",
+            "type": [
+                "Triple"
+            ]
+        },
+        "amiibo stomper": {
+            "name": "Amiibo Stomper",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cosmic canyon": {
+            "name": "Cosmic Canyon",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "hole in one": {
+            "name": "Hole in One",
+            "type": [
+                "Triple"
+            ]
+        },
+        "banzai bounce": {
+            "name": "Banzai Bounce",
+            "type": [
+                "Triple"
+            ]
+        },
+        "flower flight": {
+            "name": "Flower Flight",
+            "type": [
+                "Triple"
+            ]
+        },
+        "moontree": {
+            "name": "Moontree",
+            "type": [
+                "Triple"
+            ]
+        },
+        "peachy peg": {
+            "name": "Peachy Peg",
+            "type": [
+                "Triple"
+            ]
+        },
+        "seaside mard 2.0": {
+            "name": "Seaside Mard 2.0",
+            "type": [
+                "Triple"
+            ]
+        },
+        "swaying breeze": {
+            "name": "Swaying Breeze",
+            "type": [
+                "Triple"
+            ]
+        },
+        "zg leap": {
+            "name": "ZG Leap",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "car clash": {
+            "name": "Car Clash",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cavern of fears": {
+            "name": "Cavern of Fears",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "lunch gap": {
+            "name": "Lunch Gap",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mini sherms edge": {
+            "name": "Mini Sherms Edge",
+            "type": [
+                "Triple"
+            ]
+        },
+        "shingle leap": {
+            "name": "Shingle Leap",
+            "type": [
+                "Triple"
+            ]
+        },
+        "shop lifter": {
+            "name": "Shop Lifter",
+            "type": [
+                "Triple"
+            ]
+        },
+        "umbrella uprising": {
+            "name": "Umbrella Uprising",
+            "type": [
+                "Triple"
+            ]
+        },
+        "space jam": {
+            "name": "Space Jam",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "interstellar indication": {
+            "name": "Interstellar Indication",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "dimensional divide": {
+            "name": "Dimensional Divide",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "vault galactic gorge": {
+            "name": "Vault Galactic Gorge",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "celestial chest": {
+            "name": "Celestial Chest",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault galactic gorge 2.0": {
+            "name": "Vault Galactic Gorge 2.0",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "kenophobia": {
+            "name": "Kenophobia",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "cosmic corner": {
+            "name": "Cosmic Corner",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "lunar leap": {
+            "name": "Lunar Leap",
+            "type": [
+                "Triple, ZG"
+            ]
+        },
+        "vertigo view 2.0": {
+            "name": "Vertigo View 2.0",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "amiibo outskirts": {
+            "name": "Amiibo Outskirts",
+            "type": [
+                "Triple"
+            ]
+        },
+        "captureless god": {
+            "name": "Captureless God",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cliffside escape": {
+            "name": "Cliffside Escape",
+            "type": [
+                "Triple"
+            ]
+        },
+        "ice voyage": {
+            "name": "Ice Voyage",
+            "type": [
+                "Triple"
+            ]
+        },
+        "magma meltdown": {
+            "name": "Magma Meltdown",
+            "type": [
+                "Triple"
+            ]
+        },
+        "zipper enthusiast": {
+            "name": "Zipper Enthusiast",
+            "type": [
+                "Triple"
+            ]
+        },
+        "ailurophobia": {
+            "name": "Ailurophobia",
+            "type": [
+                "Triple"
+            ]
+        },
+        "canyon climber": {
+            "name": "Canyon Climber",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cascade mard 2.0": {
+            "name": "Cascade Mard 2.0",
+            "type": [
+                "Triple"
+            ]
+        },
+        "groundless girders": {
+            "name": "Groundless Girders",
+            "type": [
+                "Triple"
+            ]
+        },
+        "jaywalker": {
+            "name": "Jaywalker",
+            "type": [
+                "Triple"
+            ]
+        },
+        "scarecrowless": {
+            "name": "Scarecrowless",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true cage triple": {
+            "name": "True Cage Triple",
+            "type": [
+                "Triple"
+            ]
+        },
+        "water tower": {
+            "name": "Water Tower",
+            "type": [
+                "Triple"
+            ]
+        },
+        "wooded mard": {
+            "name": "Wooded Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "arena crossing": {
+            "name": "Arena Crossing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "frosty traveller": {
+            "name": "Frosty Traveller",
+            "type": [
+                "Triple"
+            ]
+        },
+        "high rise hop": {
+            "name": "High Rise Hop",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mummy evader": {
+            "name": "Mummy Evader",
+            "type": [
+                "Triple"
+            ]
+        },
+        "roof hopper": {
+            "name": "Roof Hopper",
+            "type": [
+                "Triple"
+            ]
+        },
+        "sandy sign": {
+            "name": "Sandy Sign",
+            "type": [
+                "Triple"
+            ]
+        },
+        "table hopper": {
+            "name": "Table Hopper",
+            "type": [
+                "Triple"
+            ]
+        },
+        "toad's trench": {
+            "name": "Toad's Trench",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true left side": {
+            "name": "True Left Side",
+            "type": [
+                "Triple"
+            ]
+        },
+        "underground passageway": {
+            "name": "Underground Passageway",
+            "type": [
+                "Triple"
+            ]
+        },
+        "brownblox": {
+            "name": "Brownblox",
+            "type": [
+                "Triple"
+            ]
+        },
+        "frosty traveller 2.0": {
+            "name": "Frosty Traveller 2.0",
+            "type": [
+                "Triple"
+            ]
+        },
+        "gratifying grate": {
+            "name": "Gratifying Grate",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lakescope": {
+            "name": "Lakescope",
+            "type": [
+                "Triple"
+            ]
+        },
+        "reverse ailurophobia": {
+            "name": "Reverse Ailurophobia",
+            "type": [
+                "Triple"
+            ]
+        },
+        "statue arrival": {
+            "name": "Statue Arrival",
+            "type": [
+                "Triple"
+            ]
+        },
+        "ancient passageway": {
+            "name": "Ancient Passageway",
+            "type": [
+                "Triple"
+            ]
+        },
+        "babbling brook": {
+            "name": "Babbling Brook",
+            "type": [
+                "Triple"
+            ]
+        },
+        "billboard breaker": {
+            "name": "Billboard Breaker",
+            "type": [
+                "Triple"
+            ]
+        },
+        "broken boulders": {
+            "name": "Broken Boulders",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cloud mard": {
+            "name": "Cloud Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "crumbling ruins": {
+            "name": "Crumbling Ruins",
+            "type": [
+                "Triple"
+            ]
+        },
+        "garden escape": {
+            "name": "Garden Escape",
+            "type": [
+                "Triple"
+            ]
+        },
+        "goomba garden": {
+            "name": "Goomba Garden",
+            "type": [
+                "Triple"
+            ]
+        },
+        "luigi's ledge": {
+            "name": "Luigi's Ledge",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mesozoic mount": {
+            "name": "Mesozoic Mount",
+            "type": [
+                "Triple"
+            ]
+        },
+        "metro mard": {
+            "name": "Metro Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mushroom god": {
+            "name": "Mushroom God",
+            "type": [
+                "Triple"
+            ]
+        },
+        "robotic forest": {
+            "name": "Robotic Forest",
+            "type": [
+                "Triple"
+            ]
+        },
+        "seaside mard": {
+            "name": "Seaside Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "skyscaler": {
+            "name": "Skyscaler",
+            "type": [
+                "Triple"
+            ]
+        },
+        "toxic traverse": {
+            "name": "Toxic Traverse",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true zipper ascent": {
+            "name": "True Zipper Ascent",
+            "type": [
+                "Triple"
+            ]
+        },
+        "veggie roll": {
+            "name": "Veggie Roll",
+            "type": [
+                "Triple"
+            ]
+        },
+        "zipper ascent": {
+            "name": "Zipper Ascent",
+            "type": [
+                "Triple"
+            ]
+        },
+        "barrel roll": {
+            "name": "Barrel Roll",
+            "type": [
+                "Triple"
+            ]
+        },
+        "caveman": {
+            "name": "Caveman",
+            "type": [
+                "Triple"
+            ]
+        },
+        "grate leap": {
+            "name": "Grate Leap",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lantern lunge": {
+            "name": "Lantern Lunge",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lunch mard": {
+            "name": "Lunch Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "spewart's stew": {
+            "name": "Spewart's Stew",
+            "type": [
+                "Triple"
+            ]
+        },
+        "sunny soar": {
+            "name": "Sunny Soar",
+            "type": [
+                "Triple"
+            ]
+        },
+        "thunderstruck cityside": {
+            "name": "Thunderstruck Cityside",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true 2d skip": {
+            "name": "True 2D Skip",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true shop lifter": {
+            "name": "True Shop Lifter",
+            "type": [
+                "Triple"
+            ]
+        },
+        "woods escape": {
+            "name": "Woods Escape",
+            "type": [
+                "Triple"
+            ]
+        },
+        "woodscope": {
+            "name": "Woodscope",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cloudtop cruise": {
+            "name": "Cloudtop Cruise",
+            "type": [
+                "Triple"
+            ]
+        },
+        "courtyard beans": {
+            "name": "Courtyard Beans",
+            "type": [
+                "Triple"
+            ]
+        },
+        "field flyer": {
+            "name": "Field Flyer",
+            "type": [
+                "Triple"
+            ]
+        },
+        "glittering gold": {
+            "name": "Glittering Gold",
+            "type": [
+                "Triple"
+            ]
+        },
+        "reverse natural construction": {
+            "name": "Reverse Natural Construction",
+            "type": [
+                "Triple"
+            ]
+        },
+        "backwards buffet": {
+            "name": "Backwards Buffet",
+            "type": [
+                "Triple"
+            ]
+        },
+        "crate cross": {
+            "name": "Crate Cross",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cushion chasm": {
+            "name": "Cushion Chasm",
+            "type": [
+                "Triple"
+            ]
+        },
+        "darker magma": {
+            "name": "Darker Magma",
+            "type": [
+                "Triple"
+            ]
+        },
+        "electrodynamics": {
+            "name": "ElectroDynamics",
+            "type": [
+                "Triple"
+            ]
+        },
+        "god": {
+            "name": "GOD",
+            "type": [
+                "Triple"
+            ]
+        },
+        "heartbreak hit": {
+            "name": "Heartbreak Hit",
+            "type": [
+                "Triple"
+            ]
+        },
+        "moonicotti": {
+            "name": "Moonicotti",
+            "type": [
+                "Triple"
+            ]
+        },
+        "r5": {
+            "name": "R5",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true rocket hop": {
+            "name": "True Rocket Hop",
+            "type": [
+                "Triple"
+            ]
+        },
+        "amiibo lunch": {
+            "name": "Amiibo Lunch",
+            "type": [
+                "Triple"
+            ]
+        },
+        "construction skip": {
+            "name": "Construction Skip",
+            "type": [
+                "Triple"
+            ]
+        },
+        "fountain fumble": {
+            "name": "Fountain Fumble",
+            "type": [
+                "Triple"
+            ]
+        },
+        "pan evader": {
+            "name": "Pan Evader",
+            "type": [
+                "Triple"
+            ]
+        },
+        "tourist disturber": {
+            "name": "Tourist Disturber",
+            "type": [
+                "Triple"
+            ]
+        },
+        "tyfoo terror": {
+            "name": "Tyfoo Terror",
+            "type": [
+                "Triple"
+            ]
+        },
+        "froggy domain": {
+            "name": "Froggy Domain",
+            "type": [
+                "Triple"
+            ]
+        },
+        "little sheepy boi": {
+            "name": "Little Sheepy Boi",
+            "type": [
+                "Triple"
+            ]
+        },
+        "luminous lamode": {
+            "name": "Luminous Lamode",
+            "type": [
+                "Triple"
+            ]
+        },
+        "dark corner": {
+            "name": "Dark Corner",
+            "type": [
+                "Vault, ZG"
+            ]
+        },
+        "beetle bypass": {
+            "name": "Beetle Bypass",
+            "type": [
+                "Vault"
+            ]
+        },
+        "dark side impossible": {
+            "name": "Dark Side Impossible",
+            "type": [
+                "Vault, ZG"
+            ]
+        },
+        "broken arches": {
+            "name": "Broken Arches",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cage craziness": {
+            "name": "Cage Craziness",
+            "type": [
+                "Triple"
+            ]
+        },
+        "dragon ascent": {
+            "name": "Dragon Ascent",
+            "type": [
+                "Triple"
+            ]
+        },
+        "great wall of lunch": {
+            "name": "Great Wall of Lunch",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lower hurb jump": {
+            "name": "Lower Hurb Jump",
+            "type": [
+                "Triple"
+            ]
+        },
+        "neon night": {
+            "name": "Neon Night",
+            "type": [
+                "Triple"
+            ]
+        },
+        "shining skylight": {
+            "name": "Shining Skylight",
+            "type": [
+                "Triple"
+            ]
+        },
+        "luminary gardens": {
+            "name": "Luminary gardens",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sky hedge": {
+            "name": "Sky Hedge",
+            "type": [
+                "Triple"
+            ]
+        },
+        "statue stepup": {
+            "name": "Statue Stepup",
+            "type": [
+                "Triple"
+            ]
+        },
+        "swaying oasis": {
+            "name": "Swaying Oasis",
+            "type": [
+                "Triple"
+            ]
+        },
+        "toad traversal": {
+            "name": "Toad Traversal",
+            "type": [
+                "Triple"
+            ]
+        },
+        "treacherous torch": {
+            "name": "Treacherous Torch",
+            "type": [
+                "Triple"
+            ]
+        },
+        "garden heights": {
+            "name": "Garden Heights",
+            "type": [
+                "Triple"
+            ]
+        },
+        "hurdle herder": {
+            "name": "Hurdle Herder",
+            "type": [
+                "Triple"
+            ]
+        },
+        "glydon't": {
+            "name": "Glydon't",
+            "type": [
+                "Vault"
+            ]
+        },
+        "icicle freefall": {
+            "name": "Icicle Freefall",
+            "type": [
+                "Triple"
+            ]
+        },
+        "imaginary intersection": {
+            "name": "Imaginary Intersection",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lakitu's ledge": {
+            "name": "Lakitu's Ledge",
+            "type": [
+                "Triple"
+            ]
+        },
+        "magmagical venture": {
+            "name": "Magmagical Venture",
+            "type": [
+                "Triple"
+            ]
+        },
+        "moon collector": {
+            "name": "Moon Collector",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mushroom rise up": {
+            "name": "Mushroom Rise Up",
+            "type": [
+                "Triple"
+            ]
+        },
+        "red lantern": {
+            "name": "Red Lantern",
+            "type": [
+                "Triple"
+            ]
+        },
+        "roadblock rushdown": {
+            "name": "Roadblock Rushdown",
+            "type": [
+                "Triple"
+            ]
+        },
+        "rooftop gardener": {
+            "name": "Rooftop Gardener",
+            "type": [
+                "Triple"
+            ]
+        },
+        "ruins crossing": {
+            "name": "Ruins Crossing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "rusty railing": {
+            "name": "Rusty Railing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "shroomscope": {
+            "name": "Shroomscope",
+            "type": [
+                "Triple"
+            ]
+        },
+        "seaside dram": {
+            "name": "Seaside Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "top hat": {
+            "name": "Top Hat",
+            "type": [
+                "Triple"
+            ]
+        },
+        "banana collector": {
+            "name": "Banana Collector",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true arena crossing": {
+            "name": "True Arena Crossing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "knucklotec's entrance": {
+            "name": "Knucklotec's Entrance",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true danger sign": {
+            "name": "True Danger Sign",
+            "type": [
+                "Triple"
+            ]
+        },
+        "sphinx hijinx": {
+            "name": "Sphinx Hijinx",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true flower power": {
+            "name": "True Flower Power",
+            "type": [
+                "Triple"
+            ]
+        },
+        "uproot beans": {
+            "name": "Uproot Beans",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true moonicotti": {
+            "name": "True Moonicotti",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true shop smasher": {
+            "name": "True Shop Smasher",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true treasure hunter": {
+            "name": "True Treasure Hunter",
+            "type": [
+                "Triple"
+            ]
+        },
+        "winner's gambit": {
+            "name": "Winner's Gambit",
+            "type": [
+                "Vault"
+            ]
+        },
+        "makes boiga": {
+            "name": "Makes Boiga",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mini torchlift": {
+            "name": "Mini Torchlift",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truer meter madness": {
+            "name": "Truer Meter Madness",
+            "type": [
+                "Triple"
+            ]
+        },
+        "swaying poison": {
+            "name": "Swaying Poison",
+            "type": [
+                "Vault"
+            ]
+        },
+        "festival dram": {
+            "name": "Festival Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truest scarecrowless": {
+            "name": "Truest Scarecrowless",
+            "type": [
+                "Triple"
+            ]
+        },
+        "golden glide": {
+            "name": "Golden Glide",
+            "type": [
+                "Vault"
+            ]
+        },
+        "upper statue arrival": {
+            "name": "Upper Statue Arrival",
+            "type": [
+                "Triple"
+            ]
+        },
+        "icicle shower": {
+            "name": "Icicle Shower",
+            "type": [
+                "Vault"
+            ]
+        },
+        "metallic madness": {
+            "name": "Metallic Madness",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rocky rumble": {
+            "name": "Rocky Rumble",
+            "type": [
+                "Vault"
+            ]
+        },
+        "amphibian aversion": {
+            "name": "Amphibian Aversion",
+            "type": [
+                "Vault"
+            ]
+        },
+        "arena guard": {
+            "name": "Arena Guard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "frantic fog": {
+            "name": "Frantic Fog",
+            "type": [
+                "Vault"
+            ]
+        },
+        "burnstile": {
+            "name": "Burnstile",
+            "type": [
+                "Triple"
+            ]
+        },
+        "desert gap": {
+            "name": "Desert Gap",
+            "type": [
+                "Triple"
+            ]
+        },
+        "firebro flash": {
+            "name": "Firebro Flash",
+            "type": [
+                "Triple"
+            ]
+        },
+        "froggy rail": {
+            "name": "Froggy Rail",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ruined mard": {
+            "name": "Ruined Mard",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lunar frost": {
+            "name": "Lunar Frost",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lunch sign": {
+            "name": "Lunch Sign",
+            "type": [
+                "Triple"
+            ]
+        },
+        "toad's treehouse": {
+            "name": "Toad's Treehouse",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mummified beans": {
+            "name": "Mummified Beans",
+            "type": [
+                "Triple"
+            ]
+        },
+        "north pole": {
+            "name": "North Pole",
+            "type": [
+                "Vault"
+            ]
+        },
+        "right side": {
+            "name": "Right Side",
+            "type": [
+                "Triple"
+            ]
+        },
+        "pond blocks": {
+            "name": "Pond Blocks",
+            "type": [
+                "Vault"
+            ]
+        },
+        "riveting ribcage": {
+            "name": "Riveting Ribcage",
+            "type": [
+                "Triple"
+            ]
+        },
+        "roof descent": {
+            "name": "Roof Descent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "snow dram": {
+            "name": "Snow Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "soup bath": {
+            "name": "Soup Bath",
+            "type": [
+                "Vault"
+            ]
+        },
+        "gatekeeper": {
+            "name": "Gatekeeper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sand shroud": {
+            "name": "Sand Shroud",
+            "type": [
+                "Triple"
+            ]
+        },
+        "pillar to pillar 2.0": {
+            "name": "Pillar to Pillar 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "royal intrusion": {
+            "name": "Royal Intrusion",
+            "type": [
+                "Vault"
+            ]
+        },
+        "spike driver": {
+            "name": "Spike Driver",
+            "type": [
+                "Triple"
+            ]
+        },
+        "cage vault 2.0": {
+            "name": "Cage Vault 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cutlery cove": {
+            "name": "Cutlery Cove",
+            "type": [
+                "Vault"
+            ]
+        },
+        "dusty cliffside": {
+            "name": "Dusty Cliffside",
+            "type": [
+                "Vault"
+            ]
+        },
+        "triassic triple": {
+            "name": "Triassic Triple",
+            "type": [
+                "Triple"
+            ]
+        },
+        "frozen peaks": {
+            "name": "Frozen Peaks",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true grassy gap": {
+            "name": "True Grassy Gap",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true metro mard": {
+            "name": "True Metro Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lake bruncheon": {
+            "name": "Lake Bruncheon",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truer crate cross": {
+            "name": "Truer Crate Cross",
+            "type": [
+                "Triple"
+            ]
+        },
+        "odyssey oddity": {
+            "name": "Odyssey Oddity",
+            "type": [
+                "Vault"
+            ]
+        },
+        "roof rising": {
+            "name": "Roof Rising",
+            "type": [
+                "Vault"
+            ]
+        },
+        "stump crossing": {
+            "name": "Stump Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "antarctic assault": {
+            "name": "Antarctic Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cage vault": {
+            "name": "Cage Vault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lower klepto vault assault": {
+            "name": "Lower Klepto Vault Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "metal cap": {
+            "name": "Metal Cap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "shepherds shortcut": {
+            "name": "Shepherds Shortcut",
+            "type": [
+                "Vault"
+            ]
+        },
+        "metallic cut": {
+            "name": "Metallic Cut",
+            "type": [
+                "Vault"
+            ]
+        },
+        "prickly piercer": {
+            "name": "Prickly Piercer",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ruined pillars": {
+            "name": "Ruined Pillars",
+            "type": [
+                "Vault"
+            ]
+        },
+        "aqua pillar": {
+            "name": "Aqua Pillar",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cloudy stairs": {
+            "name": "Cloudy Stairs",
+            "type": [
+                "Vault"
+            ]
+        },
+        "eagles lunch": {
+            "name": "Eagles Lunch",
+            "type": [
+                "Vault"
+            ]
+        },
+        "goombavoid": {
+            "name": "Goombavoid",
+            "type": [
+                "Vault"
+            ]
+        },
+        "aquatic honors": {
+            "name": "Aquatic Honors",
+            "type": [
+                "Triple"
+            ]
+        },
+        "heatwave havoc": {
+            "name": "Heatwave Havoc",
+            "type": [
+                "Vault"
+            ]
+        },
+        "breezy beans": {
+            "name": "Breezy Beans",
+            "type": [
+                "Triple"
+            ]
+        },
+        "icicle gap": {
+            "name": "Icicle Gap",
+            "type": [
+                "Vault, ZG"
+            ]
+        },
+        "jaxi friends": {
+            "name": "Jaxi Friends",
+            "type": [
+                "Vault"
+            ]
+        },
+        "bullet bypass": {
+            "name": "Bullet Bypass",
+            "type": [
+                "Triple"
+            ]
+        },
+        "flying gardener": {
+            "name": "Flying Gardener",
+            "type": [
+                "Triple"
+            ]
+        },
+        "gratuitous girders": {
+            "name": "Gratuitous Girders",
+            "type": [
+                "Triple"
+            ]
+        },
+        "i5": {
+            "name": "I5",
+            "type": [
+                "Triple"
+            ]
+        },
+        "icicle upbringing": {
+            "name": "Icicle Upbringing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "koi collapse": {
+            "name": "Koi Collapse",
+            "type": [
+                "Triple"
+            ]
+        },
+        "ladies' lunch": {
+            "name": "Ladies' Lunch",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lake crosser": {
+            "name": "Lake Crosser",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lunaire pipe": {
+            "name": "Lunaire Pipe",
+            "type": [
+                "Triple"
+            ]
+        },
+        "magmato masquerade": {
+            "name": "Magmato Masquerade",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mind break": {
+            "name": "Mind Break",
+            "type": [
+                "Triple"
+            ]
+        },
+        "neon heights": {
+            "name": "Neon Heights",
+            "type": [
+                "Triple"
+            ]
+        },
+        "precipitating park": {
+            "name": "Precipitating Park",
+            "type": [
+                "Triple"
+            ]
+        },
+        "propaganda bypass": {
+            "name": "Propaganda Bypass",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lava overpass": {
+            "name": "Lava Overpass",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pyrospike": {
+            "name": "Pyrospike",
+            "type": [
+                "Triple"
+            ]
+        },
+        "nutty ascent": {
+            "name": "Nutty Ascent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "quicksand conquest": {
+            "name": "Quicksand Conquest",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sunny scarecrow": {
+            "name": "Sunny Scarecrow",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sandy moon collector": {
+            "name": "Sandy Moon Collector",
+            "type": [
+                "Triple"
+            ]
+        },
+        "toad interspace": {
+            "name": "Toad Interspace",
+            "type": [
+                "Vault"
+            ]
+        },
+        "safari scan": {
+            "name": "Safari Scan",
+            "type": [
+                "Triple"
+            ]
+        },
+        "antique ashes": {
+            "name": "Antique Ashes",
+            "type": [
+                "Vault"
+            ]
+        },
+        "bowser mard": {
+            "name": "Bowser Mard",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lower sinking step": {
+            "name": "Lower Sinking Step",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mountain scaler": {
+            "name": "Mountain Scaler",
+            "type": [
+                "Vault"
+            ]
+        },
+        "slippery slope": {
+            "name": "Slippery Slope",
+            "type": [
+                "Triple"
+            ]
+        },
+        "snail attack!": {
+            "name": "Snail Attack!",
+            "type": [
+                "Triple"
+            ]
+        },
+        "stairway downfall": {
+            "name": "Stairway Downfall",
+            "type": [
+                "Triple"
+            ]
+        },
+        "table turmoil": {
+            "name": "Table Turmoil",
+            "type": [
+                "Triple"
+            ]
+        },
+        "tidefool": {
+            "name": "Tidefool",
+            "type": [
+                "Triple"
+            ]
+        },
+        "top step 2.0": {
+            "name": "Top Step 2.0",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true lunch gap": {
+            "name": "True Lunch Gap",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true magma crossing": {
+            "name": "True Magma Crossing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true triassic triple": {
+            "name": "True Triassic Triple",
+            "type": [
+                "Triple"
+            ]
+        },
+        "truest cascade mard": {
+            "name": "Truest Cascade Mard",
+            "type": [
+                "Triple"
+            ]
+        },
+        "water tower terror": {
+            "name": "Water Tower Terror",
+            "type": [
+                "Vault"
+            ]
+        },
+        "volcanic volition": {
+            "name": "Volcanic Volition",
+            "type": [
+                "Triple"
+            ]
+        },
+        "vault city reacher": {
+            "name": "Vault City Reacher",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cavern falls": {
+            "name": "Cavern Falls",
+            "type": [
+                "Triple"
+            ]
+        },
+        "lower cholesterol crossing": {
+            "name": "Lower Cholesterol Crossing",
+            "type": [
+                "Triple"
+            ]
+        },
+        "resplendent rainfall": {
+            "name": "Resplendent Rainfall",
+            "type": [
+                "Triple"
+            ]
+        },
+        "mushroom tree vault assault": {
+            "name": "Mushroom Tree Vault Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "reverse aqua pillar": {
+            "name": "Reverse Aqua Pillar",
+            "type": [
+                "Triple"
+            ]
+        },
+        "passing picture": {
+            "name": "Passing Picture",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pillar to pillar": {
+            "name": "Pillar to Pillar",
+            "type": [
+                "Vault"
+            ]
+        },
+        "reverse poison pass": {
+            "name": "Reverse Poison Pass",
+            "type": [
+                "Triple"
+            ]
+        },
+        "reptile rendezvous": {
+            "name": "Reptile Rendezvous",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truest crate cross": {
+            "name": "Truest Crate Cross",
+            "type": [
+                "Triple"
+            ]
+        },
+        "rocket launch": {
+            "name": "Rocket Launch",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ruined dram": {
+            "name": "Ruined Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ship to ship 2.0": {
+            "name": "Ship to Ship 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "wj-less true shop lifter": {
+            "name": "WJ-Less True Shop Lifter",
+            "type": [
+                "Triple"
+            ]
+        },
+        "shiverburn": {
+            "name": "Shiverburn",
+            "type": [
+                "Vault"
+            ]
+        },
+        "stairway freefall": {
+            "name": "Stairway Freefall",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rooftop roundabout": {
+            "name": "Rooftop Roundabout",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true frogless": {
+            "name": "True Frogless",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault ancient passageway": {
+            "name": "Vault Ancient Passageway",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truest lake leap": {
+            "name": "Truest Lake Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true greyscale twist": {
+            "name": "True Greyscale Twist",
+            "type": [
+                "Vault"
+            ]
+        },
+        "streetlight sailing": {
+            "name": "Streetlight Sailing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "wishing well": {
+            "name": "Wishing Well",
+            "type": [
+                "Vault"
+            ]
+        },
+        "reverse tree climber": {
+            "name": "Reverse Tree Climber",
+            "type": [
+                "Vault"
+            ]
+        },
+        "zipline junction": {
+            "name": "Zipline Junction",
+            "type": [
+                "Vault"
+            ]
+        },
+        "1p abyss": {
+            "name": "1P Abyss",
+            "type": [
+                "Vault"
+            ]
+        },
+        "necrophobia": {
+            "name": "Necrophobia",
+            "type": [
+                "Vault"
+            ]
+        },
+        "man-made marvel": {
+            "name": "Man-Made Marvel",
+            "type": [
+                "Vault"
+            ]
+        },
+        "magma climb": {
+            "name": "Magma Climb",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lava lagoon": {
+            "name": "Lava Lagoon",
+            "type": [
+                "Vault"
+            ]
+        },
+        "firebro steps": {
+            "name": "Firebro Steps",
+            "type": [
+                "Vault"
+            ]
+        },
+        "botanic balance": {
+            "name": "Botanic Balance",
+            "type": [
+                "Vault"
+            ]
+        },
+        "attack on pokio": {
+            "name": "Attack On Pokio",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault veggie roll": {
+            "name": "Vault Veggie Roll",
+            "type": [
+                "Vault"
+            ]
+        },
+        "wedding rising": {
+            "name": "Wedding Rising",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault toxic traverse": {
+            "name": "Vault Toxic Traverse",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault lakescope": {
+            "name": "Vault Lakescope",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truer tree hopper": {
+            "name": "Truer Tree Hopper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true tree vault assault": {
+            "name": "True Tree Vault Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true fossil hopper": {
+            "name": "True Fossil Hopper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cacti canyon": {
+            "name": "Cacti Canyon",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cascade beans": {
+            "name": "Cascade Beans",
+            "type": [
+                "Vault"
+            ]
+        },
+        "top step": {
+            "name": "Top Step",
+            "type": [
+                "Vault"
+            ]
+        },
+        "swallowed staircase": {
+            "name": "Swallowed Staircase",
+            "type": [
+                "Vault"
+            ]
+        },
+        "frozen moon collector": {
+            "name": "Frozen Moon Collector",
+            "type": [
+                "Vault"
+            ]
+        },
+        "gourmet rise": {
+            "name": "Gourmet Rise",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sandy table dram": {
+            "name": "Sandy Table Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rock smasher": {
+            "name": "Rock Smasher",
+            "type": [
+                "Vault"
+            ]
+        },
+        "jetstream jolt": {
+            "name": "Jetstream Jolt",
+            "type": [
+                "Vault"
+            ]
+        },
+        "reverse cage cross": {
+            "name": "Reverse Cage Cross",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rampageous winds": {
+            "name": "Rampageous Winds",
+            "type": [
+                "Vault"
+            ]
+        },
+        "poison frs": {
+            "name": "Poison FRS",
+            "type": [
+                "Vault"
+            ]
+        },
+        "seaside wall wrap": {
+            "name": "Seaside Wall Wrap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "podoboo punishment": {
+            "name": "Podoboo Punishment",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ship to ship": {
+            "name": "Ship to Ship",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mix moon collector": {
+            "name": "Mix Moon Collector",
+            "type": [
+                "Vault"
+            ]
+        },
+        "silent stream": {
+            "name": "Silent Stream",
+            "type": [
+                "Vault"
+            ]
+        },
+        "tree ascent": {
+            "name": "Tree Ascent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "volley reacher": {
+            "name": "Volley Reacher",
+            "type": [
+                "Vault"
+            ]
+        },
+        "jizo's domain": {
+            "name": "Jizo's Domain",
+            "type": [
+                "Vault"
+            ]
+        },
+        "billboard cross": {
+            "name": "Billboard Cross",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ice field": {
+            "name": "Ice Field",
+            "type": [
+                "Vault"
+            ]
+        },
+        "bone narrow": {
+            "name": "Bone Narrow",
+            "type": [
+                "Vault"
+            ]
+        },
+        "castle siege": {
+            "name": "Castle Siege",
+            "type": [
+                "Vault"
+            ]
+        },
+        "egyptian pole": {
+            "name": "Egyptian Pole",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cooking cross": {
+            "name": "Cooking Cross",
+            "type": [
+                "Vault"
+            ]
+        },
+        "dromophobia": {
+            "name": "Dromophobia",
+            "type": [
+                "Vault"
+            ]
+        },
+        "floral flourish": {
+            "name": "Floral Flourish",
+            "type": [
+                "Vault"
+            ]
+        },
+        "gordon dramsay": {
+            "name": "Gordon Dramsay",
+            "type": [
+                "Vault"
+            ]
+        },
+        "bowser dram": {
+            "name": "Bowser Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "hammer escape": {
+            "name": "Hammer Escape",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lost gap": {
+            "name": "Lost Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "acrobatic a.c": {
+            "name": "Acrobatic A.C",
+            "type": [
+                "Vault"
+            ]
+        },
+        "magles lost": {
+            "name": "Magles Lost",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mini pan evader": {
+            "name": "Mini Pan Evader",
+            "type": [
+                "Vault"
+            ]
+        },
+        "moe eye gap": {
+            "name": "Moe Eye Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pegpoggies": {
+            "name": "PegPoggies",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault arena guard": {
+            "name": "Vault Arena Guard",
+            "type": [
+                "Vault"
+            ]
+        },
+        "upper pegpog": {
+            "name": "Upper PegPog",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true tree hopper": {
+            "name": "True Tree Hopper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true rolling stones": {
+            "name": "True Rolling Stones",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true forest threshold": {
+            "name": "True Forest Threshold",
+            "type": [
+                "Vault"
+            ]
+        },
+        "permafrost procedure": {
+            "name": "Permafrost Procedure",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sombrero seeker": {
+            "name": "Sombrero Seeker",
+            "type": [
+                "Vault"
+            ]
+        },
+        "snowy scarecrow": {
+            "name": "Snowy Scarecrow",
+            "type": [
+                "Vault"
+            ]
+        },
+        "robotic vault assault": {
+            "name": "Robotic Vault Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pharaohphobia": {
+            "name": "Pharaohphobia",
+            "type": [
+                "Vault"
+            ]
+        },
+        "prickly prayers": {
+            "name": "Prickly Prayers",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rocky ravine": {
+            "name": "Rocky Ravine",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ruined mard 2.0": {
+            "name": "Ruined Mard 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pyramid peril": {
+            "name": "Pyramid Peril",
+            "type": [
+                "Vault"
+            ]
+        },
+        "poisonous plunge": {
+            "name": "Poisonous Plunge",
+            "type": [
+                "Vault"
+            ]
+        },
+        "natural construction": {
+            "name": "Natural Construction",
+            "type": [
+                "Vault"
+            ]
+        },
+        "maggrons lost": {
+            "name": "Maggrons Lost",
+            "type": [
+                "Vault"
+            ]
+        },
+        "hedge hopper": {
+            "name": "Hedge Hopper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "spike vault assault": {
+            "name": "Spike Vault Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "stair skipper": {
+            "name": "Stair Skipper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "frozen lake crosser": {
+            "name": "Frozen Lake Crosser",
+            "type": [
+                "Vault"
+            ]
+        },
+        "veggietales": {
+            "name": "Veggietales",
+            "type": [
+                "Vault"
+            ]
+        },
+        "fossil fall": {
+            "name": "Fossil Fall",
+            "type": [
+                "Vault"
+            ]
+        },
+        "bonkaroni": {
+            "name": "Bonkaroni",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cadaver crossing": {
+            "name": "Cadaver Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cascade dram": {
+            "name": "Cascade Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "city skylines": {
+            "name": "City Skylines",
+            "type": [
+                "Vault"
+            ]
+        },
+        "goomba gateway": {
+            "name": "Goomba Gateway",
+            "type": [
+                "Vault"
+            ]
+        },
+        "eternal evening": {
+            "name": "Eternal Evening",
+            "type": [
+                "Vault"
+            ]
+        },
+        "eel evader": {
+            "name": "Eel Evader",
+            "type": [
+                "Vault"
+            ]
+        },
+        "downtown divine": {
+            "name": "Downtown Divine",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cloud dram": {
+            "name": "Cloud Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cold cross": {
+            "name": "Cold Cross",
+            "type": [
+                "Vault"
+            ]
+        },
+        "empire state escalate": {
+            "name": "Empire State Escalate",
+            "type": [
+                "Vault"
+            ]
+        },
+        "charged core": {
+            "name": "Charged Core",
+            "type": [
+                "Vault"
+            ]
+        },
+        "flushed rush": {
+            "name": "Flushed Rush",
+            "type": [
+                "Vault"
+            ]
+        },
+        "icicle iceland": {
+            "name": "Icicle Iceland",
+            "type": [
+                "Vault"
+            ]
+        },
+        "castle catastrophe": {
+            "name": "Castle Catastrophe",
+            "type": [
+                "Vault"
+            ]
+        },
+        "life up founder": {
+            "name": "Life Up Founder",
+            "type": [
+                "Vault"
+            ]
+        },
+        "metallic descent 2.0": {
+            "name": "Metallic Descent 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cascade lake crosser": {
+            "name": "Cascade Lake Crosser",
+            "type": [
+                "Vault"
+            ]
+        },
+        "neighbourhood impasse": {
+            "name": "Neighbourhood Impasse",
+            "type": [
+                "Vault"
+            ]
+        },
+        "burning bonker": {
+            "name": "Burning Bonker",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pokio ascent": {
+            "name": "Pokio Ascent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "stump to stump": {
+            "name": "Stump to Stump",
+            "type": [
+                "Vault"
+            ]
+        },
+        "burial grounds": {
+            "name": "Burial Grounds",
+            "type": [
+                "Vault"
+            ]
+        },
+        "blue burns": {
+            "name": "Blue Burns",
+            "type": [
+                "Vault"
+            ]
+        },
+        "uptown funk": {
+            "name": "Uptown Funk",
+            "type": [
+                "Vault"
+            ]
+        },
+        "advertisement accident": {
+            "name": "Advertisement Accident",
+            "type": [
+                "Vault"
+            ]
+        },
+        "archaic ambition": {
+            "name": "Archaic Ambition",
+            "type": [
+                "Vault"
+            ]
+        },
+        "wiggler vault assault": {
+            "name": "Wiggler Vault Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "castle siege 2.0": {
+            "name": "Castle Siege 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vine venture": {
+            "name": "Vine Venture",
+            "type": [
+                "Vault"
+            ]
+        },
+        "coconut mall": {
+            "name": "Coconut Mall",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vault table hopper": {
+            "name": "Vault Table Hopper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true cooking cross": {
+            "name": "True Cooking Cross",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ancient debris": {
+            "name": "Ancient Debris",
+            "type": [
+                "Vault"
+            ]
+        },
+        "beetle block": {
+            "name": "Beetle Block",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truer lake leap": {
+            "name": "Truer Lake Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cascade gap": {
+            "name": "Cascade Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true vault cascade mard": {
+            "name": "True Vault Cascade Mard",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true lake leap": {
+            "name": "True Lake Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "faraway forest": {
+            "name": "Faraway Forest",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true cloudy stairs": {
+            "name": "True Cloudy Stairs",
+            "type": [
+                "Vault"
+            ]
+        },
+        "frostbite": {
+            "name": "Frostbite",
+            "type": [
+                "Vault"
+            ]
+        },
+        "frozen descent": {
+            "name": "Frozen Descent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "glacial gust": {
+            "name": "Glacial Gust",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true cannon leap": {
+            "name": "True Cannon Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "jurassic leap": {
+            "name": "Jurassic Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true cadaver crossing": {
+            "name": "True Cadaver Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "magma crossing": {
+            "name": "Magma Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "soup surge": {
+            "name": "Soup Surge",
+            "type": [
+                "Vault"
+            ]
+        },
+        "night sky": {
+            "name": "Night Sky",
+            "type": [
+                "Vault"
+            ]
+        },
+        "oasis uprise": {
+            "name": "Oasis Uprise",
+            "type": [
+                "Vault"
+            ]
+        },
+        "silver snow": {
+            "name": "Silver Snow",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ogre overpass": {
+            "name": "Ogre Overpass",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rooftop ascent": {
+            "name": "Rooftop Ascent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rail crosser": {
+            "name": "Rail Crosser",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ricotta cliffs": {
+            "name": "Ricotta Cliffs",
+            "type": [
+                "Vault"
+            ]
+        },
+        "purple pleasure": {
+            "name": "Purple Pleasure",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ring of fire": {
+            "name": "Ring of fire",
+            "type": [
+                "Vault"
+            ]
+        },
+        "upper ruins crossing": {
+            "name": "Upper Ruins Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "paragoomba uprising": {
+            "name": "Paragoomba Uprising",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ancient step": {
+            "name": "Ancient Step",
+            "type": [
+                "Vault"
+            ]
+        },
+        "necrosis": {
+            "name": "Necrosis",
+            "type": [
+                "Vault"
+            ]
+        },
+        "avalanche": {
+            "name": "Avalanche",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mummy massacre": {
+            "name": "Mummy Massacre",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cloud overlook": {
+            "name": "Cloud Overlook",
+            "type": [
+                "Vault"
+            ]
+        },
+        "mummy masochist": {
+            "name": "Mummy Masochist",
+            "type": [
+                "Vault"
+            ]
+        },
+        "industrial revolution": {
+            "name": "Industrial Revolution",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lava bypass": {
+            "name": "Lava Bypass",
+            "type": [
+                "Vault"
+            ]
+        },
+        "misty riches": {
+            "name": "Misty Riches",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sedimentary staff": {
+            "name": "Sedimentary staff",
+            "type": [
+                "Vault"
+            ]
+        },
+        "car insurance": {
+            "name": "Car Insurance",
+            "type": [
+                "Vault"
+            ]
+        },
+        "luminous lights": {
+            "name": "Luminous Lights",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lucky lunge": {
+            "name": "Lucky Lunge",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lettuce leap": {
+            "name": "Lettuce Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "gushen gap": {
+            "name": "Gushen Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "labyrinth legacy": {
+            "name": "Labyrinth Legacy",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lethal launch": {
+            "name": "Lethal Launch",
+            "type": [
+                "Vault"
+            ]
+        },
+        "sinking step": {
+            "name": "Sinking step",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lake visitor": {
+            "name": "Lake Visitor",
+            "type": [
+                "Vault"
+            ]
+        },
+        "table dram": {
+            "name": "Table Dram",
+            "type": [
+                "Vault"
+            ]
+        },
+        "jizo jaunt": {
+            "name": "Jizo Jaunt",
+            "type": [
+                "Vault"
+            ]
+        },
+        "great canal of lunch": {
+            "name": "Great Canal Of Lunch",
+            "type": [
+                "Vault"
+            ]
+        },
+        "grassy gap": {
+            "name": "Grassy Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "diamond dancer": {
+            "name": "Diamond Dancer",
+            "type": [
+                "Vault"
+            ]
+        },
+        "construction evader": {
+            "name": "Construction Evader",
+            "type": [
+                "Vault"
+            ]
+        },
+        "chuck crossing": {
+            "name": "Chuck Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cage cross": {
+            "name": "Cage Cross",
+            "type": [
+                "Vault"
+            ]
+        },
+        "wall whacker": {
+            "name": "Wall Whacker",
+            "type": [
+                "Vault"
+            ]
+        },
+        "virtuous vines": {
+            "name": "Virtuous Vines",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true lost gap": {
+            "name": "True Lost Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true gothic suburbia": {
+            "name": "True Gothic Suburbia",
+            "type": [
+                "Vault"
+            ]
+        },
+        "treetop tumble": {
+            "name": "Treetop Tumble",
+            "type": [
+                "Vault"
+            ]
+        },
+        "tree hugger": {
+            "name": "Tree Hugger",
+            "type": [
+                "Vault"
+            ]
+        },
+        "tree hopper": {
+            "name": "Tree Hopper",
+            "type": [
+                "Vault"
+            ]
+        },
+        "toxic incision": {
+            "name": "Toxic Incision",
+            "type": [
+                "Vault"
+            ]
+        },
+        "torchlift": {
+            "name": "Torchlift",
+            "type": [
+                "Vault"
+            ]
+        },
+        "stone strider": {
+            "name": "Stone Strider",
+            "type": [
+                "Vault"
+            ]
+        },
+        "stairway evader": {
+            "name": "Stairway Evader",
+            "type": [
+                "Vault"
+            ]
+        },
+        "speedway split": {
+            "name": "Speedway Split",
+            "type": [
+                "Vault"
+            ]
+        },
+        "satan's sign": {
+            "name": "Satan's Sign",
+            "type": [
+                "Vault"
+            ]
+        },
+        "queso catastrophe": {
+            "name": "Queso Catastrophe",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pegpog": {
+            "name": "PegPog",
+            "type": [
+                "Vault"
+            ]
+        },
+        "overgrown overture": {
+            "name": "Overgrown Overture",
+            "type": [
+                "Vault"
+            ]
+        },
+        "makes bacho": {
+            "name": "Makes Bacho",
+            "type": [
+                "Vault"
+            ]
+        },
+        "luncheon legend": {
+            "name": "Luncheon Legend",
+            "type": [
+                "Vault"
+            ]
+        },
+        "losers gambit": {
+            "name": "Losers Gambit",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lava launch 2.0": {
+            "name": "Lava Launch 2.0",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lake leap": {
+            "name": "Lake Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "island return": {
+            "name": "Island Return",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cryo plunge": {
+            "name": "Cryo Plunge",
+            "type": [
+                "Vault"
+            ]
+        },
+        "canyon crossing": {
+            "name": "Canyon Crossing",
+            "type": [
+                "Vault"
+            ]
+        },
+        "cannon leap": {
+            "name": "Cannon Leap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "black magic": {
+            "name": "Black Magic",
+            "type": [
+                "Vault"
+            ]
+        },
+        "airborne assault": {
+            "name": "Airborne Assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ravaging vines": {
+            "name": "Ravaging Vines",
+            "type": [
+                "Triple"
+            ]
+        },
+        "sky blocks": {
+            "name": "Sky Blocks",
+            "type": [
+                "Vertical"
+            ]
+        },
+        "airvent acceleration": {
+            "name": "Airvent Acceleration",
+            "type": [
+                "Vault"
+            ]
+        },
+        "amiibo animosity": {
+            "name": "Amiibo Animosity",
+            "type": [
+                "Triple"
+            ]
+        },
+        "perilous pendulums": {
+            "name": "Perilous Pendulums",
+            "type": [
+                "Vault"
+            ]
+        },
+        "bowser gap": {
+            "name": "Bowser Gap",
+            "type": [
+                "Vault"
+            ]
+        },
+        "darkness descent": {
+            "name": "Darkness Descent",
+            "type": [
+                "Vault"
+            ]
+        },
+        "trapeetle trespass": {
+            "name": "Trapeetle Trespass",
+            "type": [
+                "Vault"
+            ]
+        },
+        "rocky shell": {
+            "name": "Rocky Shell",
+            "type": [
+                "Vault"
+            ]
+        },
+        "klepto's vault assault": {
+            "name": "Klepto's vault assault",
+            "type": [
+                "Vault"
+            ]
+        },
+        "abyssal leap": {
+            "name": "Abyssal Leap",
+            "type": [
+                "Longjump"
+            ]
+        }
+    },
+    "rem": []
+}

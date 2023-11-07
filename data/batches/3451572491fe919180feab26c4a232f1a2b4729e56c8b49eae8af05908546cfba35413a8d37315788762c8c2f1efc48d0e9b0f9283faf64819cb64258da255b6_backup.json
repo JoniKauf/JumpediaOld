@@ -1,0 +1,32 @@
+{
+    "name": "li",
+    "hash": "3451572491fe919180feab26c4a232f1a2b4729e56c8b49eae8af05908546cfba35413a8d37315788762c8c2f1efc48d0e9b0f9283faf64819cb64258da255b6",
+    "created_at": "2023-07-21 19:23:07 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-21 19:23:37 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-21 19:23:07 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-21 19:23:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lisbon Landing   Prover: ['Belle']"
+        ],
+        [
+            "2023-07-21 19:23:28 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lisbon landing": {
+            "name": "Lisbon Landing",
+            "prover": [
+                "Belle"
+            ]
+        }
+    },
+    "rem": []
+}

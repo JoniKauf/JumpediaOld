@@ -1,0 +1,32 @@
+{
+    "name": "h",
+    "hash": "82ea79b1ba299dfbfee6cf8e9fc00160818c8732028900dbea21917f6e00a948c3793a11378c7828b2c56405efe95e6a8d4d380d04acba844d628c28ed7e9252",
+    "created_at": "2023-10-18 05:21:23 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-18 05:22:09 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-18 05:21:23 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-18 05:21:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Windy Annoyance   Location: ['Cascade Kingdom']"
+        ],
+        [
+            "2023-10-18 05:22:02 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "windy annoyance": {
+            "name": "Windy Annoyance",
+            "location": [
+                "Cascade Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

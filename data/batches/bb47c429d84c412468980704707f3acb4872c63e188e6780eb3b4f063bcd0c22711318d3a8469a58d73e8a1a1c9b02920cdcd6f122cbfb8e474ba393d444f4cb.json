@@ -1,0 +1,52 @@
+{
+    "name": "a",
+    "hash": "bb47c429d84c412468980704707f3acb4872c63e188e6780eb3b4f063bcd0c22711318d3a8469a58d73e8a1a1c9b02920cdcd6f122cbfb8e474ba393d444f4cb",
+    "created_at": "2023-09-20 20:55:17 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "2023-09-20 20:57:19 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-20 20:55:17 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-09-20 20:55:28 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's additions -> Name: A   Location: ['Sand Kingdom']   Diff: 4/10   Tier: Intermediate   Finder: ['Ninjapugs']   Prover: ['Ninjapugs']   Server: Database   Links: ['https://www.youtube.com/watch?v=zzfS26AJJO4']"
+        ],
+        [
+            "2023-09-20 20:55:32 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's removals -> Name: a"
+        ],
+        [
+            "2023-09-20 20:56:56 (UTC)",
+            "'JoniKauf' (679564566769827841) lets batch information be forgotten -> Operation: rem   Name: a"
+        ],
+        [
+            "2023-09-20 20:57:13 (UTC)",
+            "'JoniKauf' (679564566769827841) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "a": {
+            "name": "A",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "4/10",
+            "finder": [
+                "Ninjapugs"
+            ],
+            "prover": [
+                "Ninjapugs"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=zzfS26AJJO4"
+            ],
+            "tier": "Intermediate"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

@@ -1,0 +1,45 @@
+{
+    "name": "q",
+    "hash": "8d4ac37bca7a41b4f24560965c0f41329fab41be30a651b6cbfb28813bda10006acba01abc09f1bb562e61723e72fe5b8b74551df409dba6ee4ad8b354100ec2",
+    "created_at": "2023-08-27 16:12:37 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-27 16:13:57 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-27 16:12:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-27 16:13:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Triassic Trampoline   Type: ['Entity Bounce']"
+        ],
+        [
+            "2023-08-27 16:13:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Stupido Line   Finder: ['Doonguin']   Prover: ['Doonguin']"
+        ],
+        [
+            "2023-08-27 16:13:49 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "triassic trampoline": {
+            "name": "Triassic Trampoline",
+            "type": [
+                "Entity Bounce"
+            ]
+        },
+        "stupido line": {
+            "name": "Stupido Line",
+            "finder": [
+                "Doonguin"
+            ],
+            "prover": [
+                "Doonguin"
+            ]
+        }
+    },
+    "rem": []
+}

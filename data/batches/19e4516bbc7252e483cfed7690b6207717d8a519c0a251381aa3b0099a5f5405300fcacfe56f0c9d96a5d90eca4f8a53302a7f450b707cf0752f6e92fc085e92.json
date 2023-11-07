@@ -1,0 +1,44 @@
+{
+    "name": "a",
+    "hash": "19e4516bbc7252e483cfed7690b6207717d8a519c0a251381aa3b0099a5f5405300fcacfe56f0c9d96a5d90eca4f8a53302a7f450b707cf0752f6e92fc085e92",
+    "created_at": "2023-09-20 20:49:14 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "2023-09-20 20:50:40 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-20 20:49:14 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-09-20 20:50:26 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's additions -> Name: a   Location: ['Sand Kingdom']   Diff: 4/10   Tier: Intermediate   Finder: ['Ninjapugs']   Prover: ['Ninjapugs']   Server: Database   Links: ['https://www.youtube.com/watch?v=zzfS26AJJO4']"
+        ],
+        [
+            "2023-09-20 20:50:34 (UTC)",
+            "'JoniKauf' (679564566769827841) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "a": {
+            "name": "a",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "diff": "4/10",
+            "finder": [
+                "Ninjapugs"
+            ],
+            "prover": [
+                "Ninjapugs"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=zzfS26AJJO4"
+            ],
+            "tier": "Intermediate"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

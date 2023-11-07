@@ -1,0 +1,32 @@
+{
+    "name": "g",
+    "hash": "3133b99dc09571f422cd1610d957cb7c63811b2b98a9810ff30479392eb383f0cdf3411ffd9dbce54cae777b28488b1ba2a49db7e3405ed1a69dc23e5c1399b4",
+    "created_at": "2023-08-02 16:44:09 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-02 16:44:35 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-02 16:44:09 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-02 16:44:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lisbon Landing   Finder: ['Kerfuffle']"
+        ],
+        [
+            "2023-08-02 16:44:29 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lisbon landing": {
+            "name": "Lisbon Landing",
+            "finder": [
+                "Kerfuffle"
+            ]
+        }
+    },
+    "rem": []
+}

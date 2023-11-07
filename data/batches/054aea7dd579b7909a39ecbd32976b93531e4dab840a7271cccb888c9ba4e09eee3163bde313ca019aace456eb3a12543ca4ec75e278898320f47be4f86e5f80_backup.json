@@ -1,0 +1,53 @@
+{
+    "name": "wahoo",
+    "hash": "054aea7dd579b7909a39ecbd32976b93531e4dab840a7271cccb888c9ba4e09eee3163bde313ca019aace456eb3a12543ca4ec75e278898320f47be4f86e5f80",
+    "created_at": "2023-08-28 14:36:31 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-28 14:36:59 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 14:36:31 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-28 14:36:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Volbono GPJaunt   Location: ['Luncheon Kingdom']   Diff: 9.5/10   Tier: Master   Type: ['Groundpound Jump']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/_jPirhwdgSw?si=K8nMQwlV5Zg-nry0']"
+        ],
+        [
+            "2023-08-28 14:36:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: volbono gbjaunt"
+        ],
+        [
+            "2023-08-28 14:36:53 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "volbono gpjaunt": {
+            "name": "Volbono GPJaunt",
+            "diff": "9.5/10",
+            "server": "Database",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "type": [
+                "Groundpound Jump"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/_jPirhwdgSw?si=K8nMQwlV5Zg-nry0"
+            ],
+            "tier": "Master"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "volbono gbjaunt"
+    ]
+}

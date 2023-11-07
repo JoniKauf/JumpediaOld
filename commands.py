@@ -1053,7 +1053,7 @@ async def top100() -> str:
             username = _id_to_username(user_id)
 
             users_scoring[username] = 0
-            
+
             for jump_name in _read_from_json_safely(_get_user_jump_data_path(str(user_id))).keys():
                 jump_data = database._get_jump_fast(jump_name)
 
@@ -1061,8 +1061,10 @@ async def top100() -> str:
                     continue
                 
                 users_scoring[username] += DIFF_TO_POINTS.get(jump_data['diff'], 0)
-    
+
     top: list[tuple[str, float]] = sorted(users_scoring.items(), key=lambda elem: elem[1], reverse=True)
+    for guy in top:
+        print(guy)
     if len(top) > 100:
         top = top[:100]
 

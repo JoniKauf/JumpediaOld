@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "e34401517114601daf3e5b19420abd98446716fc8c1645037977c1b789709a102cdb6a9908ed825b0f1338ed73ef1ca8805da2677ba3bda409587171c4357b15",
+    "created_at": "2023-08-29 13:40:58 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-29 13:41:19 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-29 13:40:58 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-29 13:41:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poison Perfection   Links: ['https://youtu.be/38TlJsCZOGo']"
+        ],
+        [
+            "2023-08-29 13:41:15 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "poison perfection": {
+            "name": "Poison Perfection",
+            "links": [
+                "https://youtu.be/38TlJsCZOGo"
+            ]
+        }
+    },
+    "rem": []
+}

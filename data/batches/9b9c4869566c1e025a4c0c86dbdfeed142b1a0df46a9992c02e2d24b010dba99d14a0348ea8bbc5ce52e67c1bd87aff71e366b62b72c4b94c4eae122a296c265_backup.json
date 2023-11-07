@@ -1,0 +1,177 @@
+{
+    "name": "t",
+    "hash": "9b9c4869566c1e025a4c0c86dbdfeed142b1a0df46a9992c02e2d24b010dba99d14a0348ea8bbc5ce52e67c1bd87aff71e366b62b72c4b94c4eae122a296c265",
+    "created_at": "2023-10-22 14:01:29 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-22 14:09:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-22 14:01:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-22 14:01:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lowest Cholesterol Crossing   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:02:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Lunar Legend   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:02:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Freezing Flyer   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:03:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Lunar Boundaries   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:03:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Top Step 3.0   Finder: ['JellyFish']   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:04:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Foggy Beans   Finder: ['JellyFish']   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:04:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Koopa's Cactus   Finder: ['JellyFish']   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:05:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cracked Fence   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:05:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Kelpto's Domain   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:06:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Cliffs of Dover   Finder: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:06:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Jizo's Domain   Finder: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:07:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Hell's Overshoot   Finder: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:07:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Stone Tower   Finder: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:08:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: kelpto's domain"
+        ],
+        [
+            "2023-10-22 14:08:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: nameKlepto's Domain   Finder: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:09:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: nameklepto's domain"
+        ],
+        [
+            "2023-10-22 14:09:39 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Klepto's Domain   Finder: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:09:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lowest cholesterol crossing": {
+            "name": "Lowest Cholesterol Crossing",
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "true lunar legend": {
+            "name": "True Lunar Legend",
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "freezing flyer": {
+            "name": "Freezing Flyer",
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "lunar boundaries": {
+            "name": "Lunar Boundaries",
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "top step 3.0": {
+            "name": "Top Step 3.0",
+            "finder": [
+                "JellyFish"
+            ],
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "foggy beans": {
+            "name": "Foggy Beans",
+            "finder": [
+                "JellyFish"
+            ],
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "koopa's cactus": {
+            "name": "Koopa's Cactus",
+            "finder": [
+                "JellyFish"
+            ],
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "cracked fence": {
+            "name": "Cracked Fence",
+            "prover": [
+                "JellyFish"
+            ]
+        },
+        "cliffs of dover": {
+            "name": "Cliffs of Dover",
+            "finder": [
+                "JellyFish"
+            ]
+        },
+        "jizo's domain": {
+            "name": "Jizo's Domain",
+            "finder": [
+                "JellyFish"
+            ]
+        },
+        "hell's overshoot": {
+            "name": "Hell's Overshoot",
+            "finder": [
+                "JellyFish"
+            ]
+        },
+        "stone tower": {
+            "name": "Stone Tower",
+            "finder": [
+                "JellyFish"
+            ]
+        },
+        "klepto's domain": {
+            "name": "Klepto's Domain",
+            "finder": [
+                "JellyFish"
+            ]
+        }
+    },
+    "rem": []
+}

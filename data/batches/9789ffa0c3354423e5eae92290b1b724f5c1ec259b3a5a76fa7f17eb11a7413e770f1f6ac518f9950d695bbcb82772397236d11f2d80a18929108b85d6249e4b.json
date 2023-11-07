@@ -1,0 +1,32 @@
+{
+    "name": "f",
+    "hash": "9789ffa0c3354423e5eae92290b1b724f5c1ec259b3a5a76fa7f17eb11a7413e770f1f6ac518f9950d695bbcb82772397236d11f2d80a18929108b85d6249e4b",
+    "created_at": "2023-08-26 15:24:13 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-26 15:24:41 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 15:24:13 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-26 15:24:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sandy Boundaries   Prover: ['Gummy']"
+        ],
+        [
+            "2023-08-26 15:24:36 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sandy boundaries": {
+            "name": "Sandy Boundaries",
+            "prover": [
+                "Gummy"
+            ]
+        }
+    },
+    "rem": []
+}

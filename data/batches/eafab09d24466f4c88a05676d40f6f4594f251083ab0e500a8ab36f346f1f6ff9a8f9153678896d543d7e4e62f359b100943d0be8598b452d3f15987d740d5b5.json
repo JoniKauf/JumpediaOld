@@ -1,0 +1,89 @@
+{
+    "name": "p",
+    "hash": "eafab09d24466f4c88a05676d40f6f4594f251083ab0e500a8ab36f346f1f6ff9a8f9153678896d543d7e4e62f359b100943d0be8598b452d3f15987d740d5b5",
+    "created_at": "2023-08-28 02:21:57 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-28 02:25:43 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 02:21:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-28 02:22:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Middle Musician   Type: ['Ledge Grab', 'zg']"
+        ],
+        [
+            "2023-08-28 02:23:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Right Musician   Type: ['Ledge Grab', 'zg']"
+        ],
+        [
+            "2023-08-28 02:23:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Left Musician   Type: ['Ledge Grab', 'zg']"
+        ],
+        [
+            "2023-08-28 02:24:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Ledge to Ledge   Type: ['Ledge Grab', 'final diveless', 'zg']"
+        ],
+        [
+            "2023-08-28 02:24:59 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Pauline Hitter   Type: ['Ledge Grab', 'zg']"
+        ],
+        [
+            "2023-08-28 02:25:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Darker Mard   Type: ['Longjump', 'zg']"
+        ],
+        [
+            "2023-08-28 02:25:33 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "middle musician": {
+            "name": "Middle Musician",
+            "type": [
+                "Ledge Grab",
+                "zg"
+            ]
+        },
+        "right musician": {
+            "name": "Right Musician",
+            "type": [
+                "Ledge Grab",
+                "zg"
+            ]
+        },
+        "left musician": {
+            "name": "Left Musician",
+            "type": [
+                "Ledge Grab",
+                "zg"
+            ]
+        },
+        "ledge to ledge": {
+            "name": "Ledge to Ledge",
+            "type": [
+                "Ledge Grab",
+                "final diveless",
+                "zg"
+            ]
+        },
+        "pauline hitter": {
+            "name": "Pauline Hitter",
+            "type": [
+                "Ledge Grab",
+                "zg"
+            ]
+        },
+        "darker mard": {
+            "name": "Darker Mard",
+            "type": [
+                "Longjump",
+                "zg"
+            ]
+        }
+    },
+    "rem": []
+}

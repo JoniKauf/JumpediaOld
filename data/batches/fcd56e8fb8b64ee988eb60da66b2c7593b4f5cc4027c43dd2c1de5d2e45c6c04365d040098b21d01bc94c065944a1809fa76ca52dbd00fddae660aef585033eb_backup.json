@@ -1,0 +1,47 @@
+{
+    "name": "n",
+    "hash": "fcd56e8fb8b64ee988eb60da66b2c7593b4f5cc4027c43dd2c1de5d2e45c6c04365d040098b21d01bc94c065944a1809fa76ca52dbd00fddae660aef585033eb",
+    "created_at": "2023-08-30 21:13:15 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-30 21:14:27 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-30 21:13:15 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-30 21:13:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: launch pad"
+        ],
+        [
+            "2023-08-30 21:14:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Neil Armstrong   Location: ['Mushroom Kingdom']   Diff: 7.5/10   Tier: Expert   Finder: ['AwesomeAggron']   Server: Database   Links: ['https://www.youtube.com/watch?v=skHl18YZKCk']"
+        ],
+        [
+            "2023-08-30 21:14:22 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "neil armstrong": {
+            "name": "Neil Armstrong",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "7.5/10",
+            "finder": [
+                "AwesomeAggron"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=skHl18YZKCk"
+            ],
+            "tier": "Expert"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "launch pad"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "jake",
+    "hash": "6382219ab559f69496fff27d291f25ce4eb88ba684a3a9a86e57a861af4b122e48d849084c84e3df459ae9db87f31d44f5d113d2ba89fd8fcf132df6fe1e7054",
+    "created_at": "2023-07-24 19:20:05 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-24 19:20:35 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-24 19:20:05 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-24 19:20:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Jake & Drosh   Finder: ['construcable']"
+        ],
+        [
+            "2023-07-24 19:20:30 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "jake & drosh": {
+            "name": "Jake & Drosh",
+            "finder": [
+                "construcable"
+            ]
+        }
+    },
+    "rem": []
+}

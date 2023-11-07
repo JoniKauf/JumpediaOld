@@ -1,0 +1,47 @@
+{
+    "name": "elitebatch",
+    "hash": "458346cfb2ee0971aec41f85830e6ff34e4c091fb527d139a65aadc9f663fae246dc114fc7acb6a8d467eef79f11a7ffa71a93b947efb4a1cba67468c5e10212",
+    "created_at": "2023-09-07 20:56:39 (UTC)",
+    "created_by": "'shaggy' (723620632784535574)",
+    "implemented_at": "TBD",
+    "status": "nuked",
+    "log": [
+        [
+            "2023-09-07 20:56:39 (UTC)",
+            "'shaggy' (723620632784535574) creates batch"
+        ],
+        [
+            "2023-09-07 21:01:20 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Truer Gothic Suburbia   Location: ['Cap Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Vault']   Finder: ['Nixisawesome']   Prover: ['Marci']   Server: SMO Trickjumping Server   Links: ['https://www.youtube.com/watch?v=GyJ-ZP4L1Dg']"
+        ],
+        [
+            "2023-09-07 21:04:48 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) NUKES BATCH!!!"
+        ]
+    ],
+    "add": {
+        "truer gothic suburbia": {
+            "name": "Truer Gothic Suburbia",
+            "type": [
+                "Vault"
+            ],
+            "diff": "Insanity Elite",
+            "location": [
+                "Cap Kingdom"
+            ],
+            "finder": [
+                "Nixisawesome"
+            ],
+            "prover": [
+                "Marci"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://www.youtube.com/watch?v=GyJ-ZP4L1Dg"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

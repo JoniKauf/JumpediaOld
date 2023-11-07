@@ -1,0 +1,40 @@
+{
+    "name": "g",
+    "hash": "e9059b2c98b259eab36e2fe2c04a1c2ca57b7311c0dd7ce1e1378648899e973e523edf9338db8733fc7e022c8a89041ab8ef76304594761a7909f15656a1496e",
+    "created_at": "2023-08-29 13:17:50 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-29 13:19:58 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-29 13:17:50 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-29 13:18:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Toad Traversal   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-08-29 13:19:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poison Perfection   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-08-29 13:19:53 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "truer toad traversal": {
+            "name": "Truer Toad Traversal",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "poison perfection": {
+            "name": "Poison Perfection",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        }
+    },
+    "rem": []
+}

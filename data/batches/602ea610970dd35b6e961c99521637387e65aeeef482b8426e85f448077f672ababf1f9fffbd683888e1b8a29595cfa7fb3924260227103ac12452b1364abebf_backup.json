@@ -1,0 +1,27 @@
+{
+    "name": "lake",
+    "hash": "602ea610970dd35b6e961c99521637387e65aeeef482b8426e85f448077f672ababf1f9fffbd683888e1b8a29595cfa7fb3924260227103ac12452b1364abebf",
+    "created_at": "2023-07-21 18:42:06 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-21 18:42:25 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-21 18:42:06 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-21 18:42:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: lake wallwrap"
+        ],
+        [
+            "2023-07-21 18:42:21 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "lake wallwrap"
+    ]
+}

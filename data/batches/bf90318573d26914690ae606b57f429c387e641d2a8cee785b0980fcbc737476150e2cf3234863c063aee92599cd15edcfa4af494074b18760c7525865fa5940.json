@@ -1,0 +1,32 @@
+{
+    "name": "a",
+    "hash": "bf90318573d26914690ae606b57f429c387e641d2a8cee785b0980fcbc737476150e2cf3234863c063aee92599cd15edcfa4af494074b18760c7525865fa5940",
+    "created_at": "2023-10-22 13:34:47 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-22 13:35:25 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-22 13:34:47 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-22 13:35:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: reverse aqua pillar   Finder: ['SMO Jake']"
+        ],
+        [
+            "2023-10-22 13:35:21 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "reverse aqua pillar": {
+            "name": "reverse aqua pillar",
+            "finder": [
+                "SMO Jake"
+            ]
+        }
+    },
+    "rem": []
+}

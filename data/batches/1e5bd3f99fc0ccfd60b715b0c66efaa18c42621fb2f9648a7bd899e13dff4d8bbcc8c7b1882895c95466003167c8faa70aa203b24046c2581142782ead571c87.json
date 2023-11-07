@@ -1,0 +1,32 @@
+{
+    "name": "blast",
+    "hash": "1e5bd3f99fc0ccfd60b715b0c66efaa18c42621fb2f9648a7bd899e13dff4d8bbcc8c7b1882895c95466003167c8faa70aa203b24046c2581142782ead571c87",
+    "created_at": "2023-07-14 21:15:39 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-14 21:16:19 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-14 21:15:39 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-14 21:16:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Beachside Blast   Links: ['https://youtu.be/y9WGLWAQXv8']"
+        ],
+        [
+            "2023-07-14 21:16:12 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true beachside blast": {
+            "name": "True Beachside Blast",
+            "links": [
+                "https://youtu.be/y9WGLWAQXv8"
+            ]
+        }
+    },
+    "rem": []
+}

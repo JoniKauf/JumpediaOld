@@ -1,0 +1,32 @@
+{
+    "name": "feet",
+    "hash": "3ec68ed0dda4886670f97ae79b83d5e43166601d3a4994aa8f227d34018e279fb577359e474f1bf798b68d259ef2af2be0d9340cc4868aadfd93d17921c06881",
+    "created_at": "2023-10-23 16:40:04 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-23 16:40:35 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-23 16:40:04 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-23 16:40:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Seaside Bruncheon   Finder: ['Eaglegamer']"
+        ],
+        [
+            "2023-10-23 16:40:31 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "seaside bruncheon": {
+            "name": "Seaside Bruncheon",
+            "finder": [
+                "Eaglegamer"
+            ]
+        }
+    },
+    "rem": []
+}

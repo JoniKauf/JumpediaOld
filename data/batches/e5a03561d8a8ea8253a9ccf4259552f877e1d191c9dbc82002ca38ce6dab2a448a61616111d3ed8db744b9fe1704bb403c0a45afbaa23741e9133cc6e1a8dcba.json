@@ -1,0 +1,362 @@
+{
+    "name": "yttd",
+    "hash": "e5a03561d8a8ea8253a9ccf4259552f877e1d191c9dbc82002ca38ce6dab2a448a61616111d3ed8db744b9fe1704bb403c0a45afbaa23741e9133cc6e1a8dcba",
+    "created_at": "2023-09-23 21:16:52 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-23 21:35:28 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-23 21:16:52 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-23 21:19:17 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sara Chidouin   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:19:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Kai Satou   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:19:44 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Shin Tsukimi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:19:59 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Gashu   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:20:08 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Naoreko   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:20:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Maple   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:22:12 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ranmaru Kageyama   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:22:20 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Joe Tazuna   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:22:35 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Alice Yabusame   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:22:44 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ryoko Hirose   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:23:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Naomichi Kurumada   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:23:21 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sue Miley   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:23:30 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Obstructor   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:23:38 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Your Time To Shine   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:24:05 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Hinako Mishuku   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:28:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Megumi Sasahara   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:28:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Kugie Kizuchi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:28:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: ransara   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:28:44 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Rio ranger   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:28:56 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: reko yabusame   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:29:05 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: tia safalin   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:29:18 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Anzu kinashi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:29:33 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: meister   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:31:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Kazumi Mishima   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:31:23 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Gin Ibushi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:31:37 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Mr. Policeman   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:31:51 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: mai tsurugi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:32:06 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: kanna kizuchi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:33:36 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Keiji Shinogi   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:34:08 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sou Hiyori   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:34:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Q-taro Burgerberg   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:34:29 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Midori   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:34:38 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Muscle Gorilla   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:34:45 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: side joe   Extra: [\"If you're reading this, go play Your Turn To Die!\"]"
+        ],
+        [
+            "2023-09-23 21:34:50 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sara chidouin": {
+            "name": "Sara Chidouin",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "kai satou": {
+            "name": "Kai Satou",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "shin tsukimi": {
+            "name": "Shin Tsukimi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "gashu": {
+            "name": "Gashu",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "naoreko": {
+            "name": "Naoreko",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "maple": {
+            "name": "Maple",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "ranmaru kageyama": {
+            "name": "Ranmaru Kageyama",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "joe tazuna": {
+            "name": "Joe Tazuna",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "alice yabusame": {
+            "name": "Alice Yabusame",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "ryoko hirose": {
+            "name": "Ryoko Hirose",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "naomichi kurumada": {
+            "name": "Naomichi Kurumada",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "sue miley": {
+            "name": "Sue Miley",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "obstructor": {
+            "name": "Obstructor",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "your time to shine": {
+            "name": "Your Time To Shine",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "hinako mishuku": {
+            "name": "Hinako Mishuku",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "megumi sasahara": {
+            "name": "Megumi Sasahara",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "kugie kizuchi": {
+            "name": "Kugie Kizuchi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "ransara": {
+            "name": "ransara",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "rio ranger": {
+            "name": "Rio ranger",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "reko yabusame": {
+            "name": "reko yabusame",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "tia safalin": {
+            "name": "tia safalin",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "anzu kinashi": {
+            "name": "Anzu kinashi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "meister": {
+            "name": "meister",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "kazumi mishima": {
+            "name": "Kazumi Mishima",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "gin ibushi": {
+            "name": "Gin Ibushi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "mr. policeman": {
+            "name": "Mr. Policeman",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "mai tsurugi": {
+            "name": "mai tsurugi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "kanna kizuchi": {
+            "name": "kanna kizuchi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "keiji shinogi": {
+            "name": "Keiji Shinogi",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "sou hiyori": {
+            "name": "Sou Hiyori",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "q-taro burgerberg": {
+            "name": "Q-taro Burgerberg",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "midori": {
+            "name": "Midori",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "muscle gorilla": {
+            "name": "Muscle Gorilla",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        },
+        "side joe": {
+            "name": "side joe",
+            "extra": [
+                "If you're reading this, go play Your Turn To Die!"
+            ]
+        }
+    },
+    "rem": []
+}

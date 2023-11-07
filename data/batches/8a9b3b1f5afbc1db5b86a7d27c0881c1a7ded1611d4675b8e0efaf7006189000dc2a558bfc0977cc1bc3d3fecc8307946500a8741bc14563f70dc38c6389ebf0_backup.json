@@ -1,0 +1,47 @@
+{
+    "name": "t",
+    "hash": "8a9b3b1f5afbc1db5b86a7d27c0881c1a7ded1611d4675b8e0efaf7006189000dc2a558bfc0977cc1bc3d3fecc8307946500a8741bc14563f70dc38c6389ebf0",
+    "created_at": "2023-08-28 03:05:07 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-28 03:08:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 03:05:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-28 03:08:36 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's additions -> Name: Truest Cacti Cap   Location: ['Sand Kingdom']   Diff: Insanity Elite   Tier: Insanity Elite   Type: ['Entity Bounce']   Finder: ['Soupafi']   Prover: ['Zox']   Server: Database   Links: ['https://youtu.be/1998g1DgHZA?si=rPh94rBY1xErNQ3v']"
+        ],
+        [
+            "2023-08-28 03:08:41 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "truest cacti cap": {
+            "name": "Truest Cacti Cap",
+            "diff": "Insanity Elite",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "type": [
+                "Entity Bounce"
+            ],
+            "finder": [
+                "Soupafi"
+            ],
+            "prover": [
+                "Zox"
+            ],
+            "links": [
+                "https://youtu.be/1998g1DgHZA?si=rPh94rBY1xErNQ3v"
+            ],
+            "server": "Database",
+            "tier": "Insanity Elite"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

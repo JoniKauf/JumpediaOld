@@ -1,0 +1,56 @@
+{
+    "name": "l",
+    "hash": "0160b612595cd1f3e8c445e8dfa8d6f2d19c1f5f053963361c6df765bfc1dfa63d3aaaadfcfd8fe4faf0758e863c5a5088cacc8eb66fe1a3ca4788803a8ceb71",
+    "created_at": "2023-09-07 20:40:07 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-07 20:42:08 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-07 20:40:07 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-07 20:40:22 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Luminous Lights   Server: Database"
+        ],
+        [
+            "2023-09-07 20:41:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Luminous Billboard   Location: ['Metro Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['Xdxboxjaja']   Server: Database   Extra: ['You need to be in night metro for the coin blocks to be there.']   Links: ['https://youtu.be/kq3zsiB8K9Q']"
+        ],
+        [
+            "2023-09-07 20:42:03 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "luminous billboard": {
+            "name": "Luminous Billboard",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "Low Elite",
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Xdxboxjaja"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/kq3zsiB8K9Q"
+            ],
+            "extra": [
+                "You need to be in night metro for the coin blocks to be there."
+            ],
+            "tier": "Low Elite"
+        }
+    },
+    "edit": {
+        "luminous lights": {
+            "name": "Luminous Lights",
+            "server": "Database"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,27 @@
+{
+    "name": "g",
+    "hash": "6fb40a4da6fbdc19088a8736940dd2c201af6c8372e91dc45dbdea67a1cc554e893d7ebac14241ceec22c1a5fe2ca7f1cbd7d6d7ba046072b11a5a26563757c8",
+    "created_at": "2023-07-29 01:30:06 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-29 01:30:42 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-29 01:30:06 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-29 01:30:27 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: mighty migraine"
+        ],
+        [
+            "2023-07-29 01:30:37 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "mighty migraine"
+    ]
+}

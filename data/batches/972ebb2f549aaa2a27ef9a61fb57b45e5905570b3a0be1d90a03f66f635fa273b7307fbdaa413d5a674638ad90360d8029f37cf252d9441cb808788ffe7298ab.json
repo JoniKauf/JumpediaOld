@@ -1,0 +1,31 @@
+{
+    "name": "t",
+    "hash": "972ebb2f549aaa2a27ef9a61fb57b45e5905570b3a0be1d90a03f66f635fa273b7307fbdaa413d5a674638ad90360d8029f37cf252d9441cb808788ffe7298ab",
+    "created_at": "2023-10-02 16:33:55 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-02 16:34:14 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-02 16:33:55 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-02 16:34:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Painful Pokio   Diff: Hell Tier   Tier: Hell Tier"
+        ],
+        [
+            "2023-10-02 16:34:07 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "painful pokio": {
+            "name": "Painful Pokio",
+            "diff": "Hell Tier",
+            "tier": "Hell Tier"
+        }
+    },
+    "rem": []
+}

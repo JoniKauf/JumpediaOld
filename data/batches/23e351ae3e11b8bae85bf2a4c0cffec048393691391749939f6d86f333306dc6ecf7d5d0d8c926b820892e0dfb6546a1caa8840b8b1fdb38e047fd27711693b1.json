@@ -1,0 +1,44 @@
+{
+    "name": "preggers",
+    "hash": "23e351ae3e11b8bae85bf2a4c0cffec048393691391749939f6d86f333306dc6ecf7d5d0d8c926b820892e0dfb6546a1caa8840b8b1fdb38e047fd27711693b1",
+    "created_at": "2023-07-02 18:57:36 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-02 18:58:33 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-02 18:57:36 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-02 18:57:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Truer Pregnant   Location: ['Luncheon Kingdom']   Diff: 7.5/10   Tier: Expert   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://twitter.com/Enlviealt/status/1675562873467326464']"
+        ],
+        [
+            "2023-07-02 18:58:25 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "truer pregnant": {
+            "name": "Truer Pregnant",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "7.5/10",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://twitter.com/Enlviealt/status/1675562873467326464"
+            ],
+            "tier": "Expert"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

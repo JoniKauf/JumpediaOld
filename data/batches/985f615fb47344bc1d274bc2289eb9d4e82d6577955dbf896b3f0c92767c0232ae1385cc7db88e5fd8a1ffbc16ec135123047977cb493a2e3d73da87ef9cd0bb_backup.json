@@ -1,0 +1,27 @@
+{
+    "name": "florb",
+    "hash": "985f615fb47344bc1d274bc2289eb9d4e82d6577955dbf896b3f0c92767c0232ae1385cc7db88e5fd8a1ffbc16ec135123047977cb493a2e3d73da87ef9cd0bb",
+    "created_at": "2023-11-02 15:02:40 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-11-02 15:03:06 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-02 15:02:40 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-11-02 15:02:53 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: phony"
+        ],
+        [
+            "2023-11-02 15:03:00 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "phony"
+    ]
+}

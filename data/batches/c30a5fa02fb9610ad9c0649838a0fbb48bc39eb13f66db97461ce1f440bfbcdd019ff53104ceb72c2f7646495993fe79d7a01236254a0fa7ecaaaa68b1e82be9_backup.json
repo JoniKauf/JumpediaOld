@@ -1,0 +1,37 @@
+{
+    "name": "frog",
+    "hash": "c30a5fa02fb9610ad9c0649838a0fbb48bc39eb13f66db97461ce1f440bfbcdd019ff53104ceb72c2f7646495993fe79d7a01236254a0fa7ecaaaa68b1e82be9",
+    "created_at": "2023-07-09 16:57:17 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-09 16:58:08 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-09 16:57:17 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-09 16:57:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Fantastic Frogs   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['Enlvie']   Links: ['https://youtu.be/QFNRIJPA_aQ']"
+        ],
+        [
+            "2023-07-09 16:58:03 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "fantastic frogs": {
+            "name": "Fantastic Frogs",
+            "diff": "Insanity Elite",
+            "prover": [
+                "Enlvie"
+            ],
+            "links": [
+                "https://youtu.be/QFNRIJPA_aQ"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

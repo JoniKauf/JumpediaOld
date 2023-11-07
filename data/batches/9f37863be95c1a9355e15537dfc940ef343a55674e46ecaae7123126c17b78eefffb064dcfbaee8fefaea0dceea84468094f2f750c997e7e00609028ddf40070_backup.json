@@ -1,0 +1,52 @@
+{
+    "name": "s",
+    "hash": "9f37863be95c1a9355e15537dfc940ef343a55674e46ecaae7123126c17b78eefffb064dcfbaee8fefaea0dceea84468094f2f750c997e7e00609028ddf40070",
+    "created_at": "2023-09-23 20:25:11 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-23 20:29:22 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-23 20:25:11 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-23 20:26:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Void Evader   Diff: God Tier   Tier: God Tier   Prover: ['modnob']   Links: ['https://youtu.be/VQjQVSYwygo']"
+        ],
+        [
+            "2023-09-23 20:28:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Logic Lunge   Diff: God Tier   Tier: God Tier   Prover: ['modnob']   Links: ['https://youtu.be/JWlg3VaK700']"
+        ],
+        [
+            "2023-09-23 20:29:17 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot void evader": {
+            "name": "Overshoot Void Evader",
+            "prover": [
+                "modnob"
+            ],
+            "diff": "God Tier",
+            "links": [
+                "https://youtu.be/VQjQVSYwygo"
+            ],
+            "tier": "God Tier"
+        },
+        "logic lunge": {
+            "name": "Logic Lunge",
+            "prover": [
+                "modnob"
+            ],
+            "diff": "God Tier",
+            "links": [
+                "https://youtu.be/JWlg3VaK700"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

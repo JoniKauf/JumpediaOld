@@ -1,0 +1,45 @@
+{
+    "name": "x",
+    "hash": "05157077d249a240acd8dc67f4abb34986148f6b3ab60e9c7b13579645f39bc9ea4e4a9b16e1050fd2559617b684e46d7b626e78a84916e47265ca5bd59a822f",
+    "created_at": "2023-09-24 09:50:50 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-24 09:58:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-24 09:50:50 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-24 09:55:08 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Chuck's Chimney   Finder: ['Xdxboxjaja']   Prover: ['Xdxboxjaja']"
+        ],
+        [
+            "2023-09-24 09:56:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Breezy Beans   Finder: ['Xdxboxjaja']"
+        ],
+        [
+            "2023-09-24 09:56:32 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "chuck's chimney": {
+            "name": "Chuck's Chimney",
+            "finder": [
+                "Xdxboxjaja"
+            ],
+            "prover": [
+                "Xdxboxjaja"
+            ]
+        },
+        "breezy beans": {
+            "name": "Breezy Beans",
+            "finder": [
+                "Xdxboxjaja"
+            ]
+        }
+    },
+    "rem": []
+}

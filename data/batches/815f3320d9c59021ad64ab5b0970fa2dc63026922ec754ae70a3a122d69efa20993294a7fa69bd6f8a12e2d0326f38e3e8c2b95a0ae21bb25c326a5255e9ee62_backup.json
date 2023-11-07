@@ -1,0 +1,32 @@
+{
+    "name": "f",
+    "hash": "815f3320d9c59021ad64ab5b0970fa2dc63026922ec754ae70a3a122d69efa20993294a7fa69bd6f8a12e2d0326f38e3e8c2b95a0ae21bb25c326a5255e9ee62",
+    "created_at": "2023-11-05 21:55:51 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-11-05 21:56:34 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 21:55:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-11-05 21:56:21 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Roof   Finder: ['Mario Man']"
+        ],
+        [
+            "2023-11-05 21:56:30 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "roof": {
+            "name": "Roof",
+            "finder": [
+                "Mario Man"
+            ]
+        }
+    },
+    "rem": []
+}

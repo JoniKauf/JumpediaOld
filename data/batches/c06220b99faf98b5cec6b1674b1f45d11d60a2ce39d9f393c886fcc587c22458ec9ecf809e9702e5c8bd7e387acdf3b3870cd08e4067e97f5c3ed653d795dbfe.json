@@ -1,0 +1,37 @@
+{
+    "name": "g",
+    "hash": "c06220b99faf98b5cec6b1674b1f45d11d60a2ce39d9f393c886fcc587c22458ec9ecf809e9702e5c8bd7e387acdf3b3870cd08e4067e97f5c3ed653d795dbfe",
+    "created_at": "2023-09-02 12:51:40 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-02 12:52:37 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-02 12:51:40 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-02 12:52:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Me A Girlfriend   Diff: God Tier   Tier: God Tier   Prover: ['Zox']   Links: ['https://youtu.be/AP37ZGtxDpI']"
+        ],
+        [
+            "2023-09-02 12:52:31 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "me a girlfriend": {
+            "name": "Me A Girlfriend",
+            "diff": "God Tier",
+            "prover": [
+                "Zox"
+            ],
+            "links": [
+                "https://youtu.be/AP37ZGtxDpI"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

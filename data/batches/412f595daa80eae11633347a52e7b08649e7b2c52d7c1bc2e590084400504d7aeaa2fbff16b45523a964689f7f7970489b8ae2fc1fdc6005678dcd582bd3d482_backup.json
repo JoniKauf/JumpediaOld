@@ -1,0 +1,32 @@
+{
+    "name": "b",
+    "hash": "412f595daa80eae11633347a52e7b08649e7b2c52d7c1bc2e590084400504d7aeaa2fbff16b45523a964689f7f7970489b8ae2fc1fdc6005678dcd582bd3d482",
+    "created_at": "2023-10-06 21:43:27 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-06 21:43:55 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-06 21:43:27 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-06 21:43:45 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: shiverian soar   Prover: ['marci']"
+        ],
+        [
+            "2023-10-06 21:43:50 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "shiverian soar": {
+            "name": "shiverian soar",
+            "prover": [
+                "marci"
+            ]
+        }
+    },
+    "rem": []
+}

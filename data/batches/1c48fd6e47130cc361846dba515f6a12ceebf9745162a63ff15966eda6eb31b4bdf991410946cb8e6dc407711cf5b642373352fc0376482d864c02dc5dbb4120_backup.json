@@ -1,0 +1,52 @@
+{
+    "name": "e",
+    "hash": "1c48fd6e47130cc361846dba515f6a12ceebf9745162a63ff15966eda6eb31b4bdf991410946cb8e6dc407711cf5b642373352fc0376482d864c02dc5dbb4120",
+    "created_at": "2023-09-03 15:04:42 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-03 15:06:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-03 15:04:42 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-03 15:05:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Village Hopper   Diff: High Elite   Tier: High Elite   Prover: ['Gummy']   Links: ['https://youtu.be/fDOL2LtJfuE']"
+        ],
+        [
+            "2023-09-03 15:06:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Ring Of Fire   Diff: God Tier   Tier: God Tier   Prover: ['Zox']   Links: ['https://youtu.be/rAWv5FWGqEU']"
+        ],
+        [
+            "2023-09-03 15:06:15 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "village hopper": {
+            "name": "Village Hopper",
+            "diff": "High Elite",
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/fDOL2LtJfuE"
+            ],
+            "tier": "High Elite"
+        },
+        "truer ring of fire": {
+            "name": "Truer Ring Of Fire",
+            "diff": "God Tier",
+            "prover": [
+                "Zox"
+            ],
+            "links": [
+                "https://youtu.be/rAWv5FWGqEU"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

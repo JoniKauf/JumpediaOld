@@ -1,0 +1,32 @@
+{
+    "name": "f",
+    "hash": "56f00f3f219ab6cf90faec20c64336b752e07b3a3c20d1823455a72f83a382d61d7b25d0b3262219e364470d6cdd6e0db26df16076e295269247057bd41f4044",
+    "created_at": "2023-08-16 14:15:25 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-16 14:15:57 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-16 14:15:25 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-16 14:15:41 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cushion   Links: ['https://youtu.be/3rzMQj-Nnsc']"
+        ],
+        [
+            "2023-08-16 14:15:50 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "cushion": {
+            "name": "Cushion",
+            "links": [
+                "https://youtu.be/3rzMQj-Nnsc"
+            ]
+        }
+    },
+    "rem": []
+}

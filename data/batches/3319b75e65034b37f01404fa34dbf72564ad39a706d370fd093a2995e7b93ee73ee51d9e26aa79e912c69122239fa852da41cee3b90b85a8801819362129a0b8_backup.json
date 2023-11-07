@@ -1,0 +1,32 @@
+{
+    "name": "r",
+    "hash": "3319b75e65034b37f01404fa34dbf72564ad39a706d370fd093a2995e7b93ee73ee51d9e26aa79e912c69122239fa852da41cee3b90b85a8801819362129a0b8",
+    "created_at": "2023-10-22 13:58:01 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-22 13:59:04 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-22 13:58:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-22 13:58:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Castle Catastrophe   Prover: ['Spirel']"
+        ],
+        [
+            "2023-10-22 13:59:00 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "castle catastrophe": {
+            "name": "Castle Catastrophe",
+            "prover": [
+                "Spirel"
+            ]
+        }
+    },
+    "rem": []
+}

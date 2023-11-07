@@ -1,0 +1,33 @@
+{
+    "name": "v",
+    "hash": "6e6167f39355b73197e74617e1cb20ebeb0c4c550c101dbb768341bb6beb1c25d6307ec57202afede492a798738bc03a1b3c9f23d617c01c5933857e10e00547",
+    "created_at": "2023-07-21 19:57:16 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-21 19:57:48 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-21 19:57:16 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-21 19:57:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Wedding Longfall   Type: ['Vault']"
+        ],
+        [
+            "2023-07-21 19:57:44 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true wedding longfall": {
+            "name": "True Wedding Longfall",
+            "type": [
+                "Vault"
+            ],
+            "extra": []
+        }
+    },
+    "rem": []
+}

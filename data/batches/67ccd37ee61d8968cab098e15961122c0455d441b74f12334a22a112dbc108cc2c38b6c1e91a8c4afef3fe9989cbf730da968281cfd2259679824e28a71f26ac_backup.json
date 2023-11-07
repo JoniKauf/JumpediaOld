@@ -1,0 +1,32 @@
+{
+    "name": "shingle",
+    "hash": "67ccd37ee61d8968cab098e15961122c0455d441b74f12334a22a112dbc108cc2c38b6c1e91a8c4afef3fe9989cbf730da968281cfd2259679824e28a71f26ac",
+    "created_at": "2023-10-14 18:30:59 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-14 18:31:23 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-14 18:30:59 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-14 18:31:12 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Shingle Climb   Type: ['Vertical']"
+        ],
+        [
+            "2023-10-14 18:31:19 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "shingle climb": {
+            "name": "Shingle Climb",
+            "type": [
+                "Vertical"
+            ]
+        }
+    },
+    "rem": []
+}

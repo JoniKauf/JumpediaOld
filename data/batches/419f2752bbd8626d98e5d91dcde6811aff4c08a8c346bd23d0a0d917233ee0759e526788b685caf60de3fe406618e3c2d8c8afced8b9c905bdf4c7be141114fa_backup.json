@@ -1,0 +1,32 @@
+{
+    "name": "a",
+    "hash": "419f2752bbd8626d98e5d91dcde6811aff4c08a8c346bd23d0a0d917233ee0759e526788b685caf60de3fe406618e3c2d8c8afced8b9c905bdf4c7be141114fa",
+    "created_at": "2023-11-05 21:28:23 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-05 21:29:04 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 21:28:23 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-05 21:28:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: woods escape   Finder: ['Ethan2428']"
+        ],
+        [
+            "2023-11-05 21:29:01 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "woods escape": {
+            "name": "woods escape",
+            "finder": [
+                "Ethan2428"
+            ]
+        }
+    },
+    "rem": []
+}

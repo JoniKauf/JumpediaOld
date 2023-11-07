@@ -1,0 +1,76 @@
+{
+    "name": "Ethan",
+    "hash": "210b34fef1d2cee0513904a0c9c4502db43fc294ae4819d44f91f0661de9257a3ced1bc18f9ed3d0bbde8ebddd45b72db57945883021bc3de9c6ff44f9b1d201",
+    "created_at": "2023-09-24 11:54:15 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-24 12:04:35 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-24 11:54:15 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-24 11:56:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: seaside bruncheon   Finder: ['eaglegamer']   Prover: ['ethan2428']"
+        ],
+        [
+            "2023-09-24 11:57:02 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Luncheon Mard   Prover: ['ethan2428']"
+        ],
+        [
+            "2023-09-24 12:00:19 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: luncheon mard"
+        ],
+        [
+            "2023-09-24 12:00:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lunch Mard   Prover: ['ethan2428']"
+        ],
+        [
+            "2023-09-24 12:01:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: True Flower Power   Finder: ['ethan2428']"
+        ],
+        [
+            "2023-09-24 12:03:07 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Woods Escape   Finder: ['ethan2428']   Prover: ['ethan2428']"
+        ],
+        [
+            "2023-09-24 12:04:06 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "seaside bruncheon": {
+            "name": "seaside bruncheon",
+            "finder": [
+                "eaglegamer"
+            ],
+            "prover": [
+                "ethan2428"
+            ]
+        },
+        "lunch mard": {
+            "name": "Lunch Mard",
+            "prover": [
+                "ethan2428"
+            ]
+        },
+        "true flower power": {
+            "name": "True Flower Power",
+            "finder": [
+                "ethan2428"
+            ]
+        },
+        "woods escape": {
+            "name": "Woods Escape",
+            "finder": [
+                "ethan2428"
+            ],
+            "prover": [
+                "ethan2428"
+            ]
+        }
+    },
+    "rem": []
+}

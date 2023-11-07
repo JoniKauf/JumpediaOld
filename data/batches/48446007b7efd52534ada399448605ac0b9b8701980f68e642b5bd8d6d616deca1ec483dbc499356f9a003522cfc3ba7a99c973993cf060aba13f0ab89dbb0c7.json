@@ -1,0 +1,32 @@
+{
+    "name": "h",
+    "hash": "48446007b7efd52534ada399448605ac0b9b8701980f68e642b5bd8d6d616deca1ec483dbc499356f9a003522cfc3ba7a99c973993cf060aba13f0ab89dbb0c7",
+    "created_at": "2023-07-11 09:38:08 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-11 09:38:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-11 09:38:08 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-11 09:38:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lower Sandy Skip   Links: ['https://youtu.be/BYE0OyoLcbE']"
+        ],
+        [
+            "2023-07-11 09:38:43 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lower sandy skip": {
+            "name": "Lower Sandy Skip",
+            "links": [
+                "https://youtu.be/BYE0OyoLcbE"
+            ]
+        }
+    },
+    "rem": []
+}

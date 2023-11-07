@@ -1,0 +1,32 @@
+{
+    "name": "s",
+    "hash": "c7ec73580298b46ca38385f420bc203eed2ae6ec21ba371644c3ca1a80f0b5a00fa3b81bd0d9160a3f3d4fa94dca6e8a31f7a4412ba94449003e6811f743e0f8",
+    "created_at": "2023-09-04 08:14:12 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-04 08:14:37 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-04 08:14:12 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-04 08:14:24 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Grave Grounds   Location: ['Ruined Kingdom']"
+        ],
+        [
+            "2023-09-04 08:14:32 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "grave grounds": {
+            "name": "Grave Grounds",
+            "location": [
+                "Ruined Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

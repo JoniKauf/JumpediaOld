@@ -1,0 +1,32 @@
+{
+    "name": "a",
+    "hash": "c12d2c043727b8abcaad098efdba116a7ef6ffc1b37979cf4d82152af215ca6f5d904f33cc05a726afbb2ec55c353afd0cd4664fb88ac6a95354972d6772ebe7",
+    "created_at": "2023-10-01 10:31:39 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-01 10:32:41 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-01 10:31:39 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-01 10:32:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: athletic's god   Taser: ['Qflame']"
+        ],
+        [
+            "2023-10-01 10:32:34 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "athletic's god": {
+            "name": "athletic's god",
+            "taser": [
+                "Qflame"
+            ]
+        }
+    },
+    "rem": []
+}

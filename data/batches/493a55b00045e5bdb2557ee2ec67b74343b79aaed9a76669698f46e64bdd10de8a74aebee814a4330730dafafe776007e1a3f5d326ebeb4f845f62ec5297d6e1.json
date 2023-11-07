@@ -1,0 +1,32 @@
+{
+    "name": "pond",
+    "hash": "493a55b00045e5bdb2557ee2ec67b74343b79aaed9a76669698f46e64bdd10de8a74aebee814a4330730dafafe776007e1a3f5d326ebeb4f845f62ec5297d6e1",
+    "created_at": "2023-07-10 21:29:40 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-10 21:30:05 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-10 21:29:40 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-10 21:29:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Spinless Pond Crossing   Links: ['https://youtu.be/macVUsh8_80']"
+        ],
+        [
+            "2023-07-10 21:30:01 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "spinless pond crossing": {
+            "name": "Spinless Pond Crossing",
+            "links": [
+                "https://youtu.be/macVUsh8_80"
+            ]
+        }
+    },
+    "rem": []
+}

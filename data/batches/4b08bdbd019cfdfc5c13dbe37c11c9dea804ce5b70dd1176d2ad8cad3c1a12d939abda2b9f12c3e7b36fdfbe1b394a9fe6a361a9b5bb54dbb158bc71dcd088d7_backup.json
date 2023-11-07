@@ -1,0 +1,30 @@
+{
+    "name": "e",
+    "hash": "4b08bdbd019cfdfc5c13dbe37c11c9dea804ce5b70dd1176d2ad8cad3c1a12d939abda2b9f12c3e7b36fdfbe1b394a9fe6a361a9b5bb54dbb158bc71dcd088d7",
+    "created_at": "2023-09-08 20:05:12 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-08 20:05:57 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-08 20:05:12 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-08 20:05:47 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Amphibian Abyss   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-08 20:05:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "amphibian abyss": {
+            "name": "Amphibian Abyss",
+            "server": "SMO Trickjumping Server"
+        }
+    },
+    "rem": []
+}

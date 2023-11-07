@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "e3323b35c276dddc9c54cfe918e95ef7cb7c9c0d734c9944f72e47885018be2d7ee49b3a387b8abf4d993fc0efed5045e5bba6f087399c77d136ee3f20725907",
+    "created_at": "2023-10-17 19:53:07 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-17 19:53:26 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-17 19:53:07 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-17 19:53:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Long Cage   Type: ['Longjump']"
+        ],
+        [
+            "2023-10-17 19:53:22 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "long cage": {
+            "name": "Long Cage",
+            "type": [
+                "Longjump"
+            ]
+        }
+    },
+    "rem": []
+}

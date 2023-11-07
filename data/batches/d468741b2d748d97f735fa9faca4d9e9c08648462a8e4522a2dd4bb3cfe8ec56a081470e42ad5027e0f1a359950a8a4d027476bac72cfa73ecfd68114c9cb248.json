@@ -1,0 +1,52 @@
+{
+    "name": "t",
+    "hash": "d468741b2d748d97f735fa9faca4d9e9c08648462a8e4522a2dd4bb3cfe8ec56a081470e42ad5027e0f1a359950a8a4d027476bac72cfa73ecfd68114c9cb248",
+    "created_at": "2023-10-20 16:05:50 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-20 16:07:52 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-20 16:05:50 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-20 16:06:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: 2 Shop Stop   Diff: Mid Elite   Tier: Mid Elite   Prover: ['Grey']   Links: ['https://youtu.be/39-G4bTwdzQ']"
+        ],
+        [
+            "2023-10-20 16:07:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: S-Class   Diff: Insanity Elite   Tier: Insanity Elite   Prover: ['CorDar']   Links: ['https://youtu.be/TuOowXBvj-Y']"
+        ],
+        [
+            "2023-10-20 16:07:49 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "2 shop stop": {
+            "name": "2 Shop Stop",
+            "diff": "Mid Elite",
+            "prover": [
+                "Grey"
+            ],
+            "links": [
+                "https://youtu.be/39-G4bTwdzQ"
+            ],
+            "tier": "Mid Elite"
+        },
+        "s-class": {
+            "name": "S-Class",
+            "diff": "Insanity Elite",
+            "prover": [
+                "CorDar"
+            ],
+            "links": [
+                "https://youtu.be/TuOowXBvj-Y"
+            ],
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

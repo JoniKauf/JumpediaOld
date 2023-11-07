@@ -1,0 +1,33 @@
+{
+    "name": "t",
+    "hash": "99f3db47468bc5eea37cb4d75b8cec122109bf20384b0dd3d7e52fe17231dc927e146edd6869719ab653112ae60dc7557a2d127b04eefe6c07b7ddfd152653c2",
+    "created_at": "2023-09-25 18:34:36 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-25 18:34:51 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-25 18:34:36 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-25 18:34:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: overshoot zg leap   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-09-25 18:34:48 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot zg leap": {
+            "name": "overshoot zg leap",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        }
+    },
+    "rem": []
+}

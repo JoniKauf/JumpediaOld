@@ -1,0 +1,30 @@
+{
+    "name": "n",
+    "hash": "1e6a7c4a661353e3819ae784f07a4877f97283e4dd6bc88473bdfeb668a6ae386fe90011cd38d6f1498ee651549a2df3a9b4808d218df5ff61398d4c72beb9c7",
+    "created_at": "2023-07-23 17:26:28 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-23 17:26:48 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-23 17:26:28 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-23 17:26:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hundred Sky Goombas"
+        ],
+        [
+            "2023-07-23 17:26:43 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "hundred sky goombas": {
+            "name": "Hundred Sky Goombas",
+            "extra": []
+        }
+    },
+    "rem": []
+}

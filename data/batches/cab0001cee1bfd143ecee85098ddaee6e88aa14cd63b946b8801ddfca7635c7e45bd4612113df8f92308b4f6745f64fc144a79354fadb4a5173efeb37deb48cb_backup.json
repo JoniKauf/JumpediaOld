@@ -1,0 +1,97 @@
+{
+    "name": "aggron",
+    "hash": "cab0001cee1bfd143ecee85098ddaee6e88aa14cd63b946b8801ddfca7635c7e45bd4612113df8f92308b4f6745f64fc144a79354fadb4a5173efeb37deb48cb",
+    "created_at": "2023-09-24 12:06:46 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-24 12:15:04 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-24 12:06:46 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-24 12:07:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: lethal launch 2.0   Finder: ['awesomeaggron']"
+        ],
+        [
+            "2023-09-24 12:07:54 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: true moon mard   Prover: ['awesomeaggron']"
+        ],
+        [
+            "2023-09-24 12:08:01 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ],
+        [
+            "2023-09-24 12:09:02 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'unfinished'"
+        ],
+        [
+            "2023-09-24 12:11:29 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: eggle   Finder: ['eaglegamer']"
+        ],
+        [
+            "2023-09-24 12:11:47 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Vault Amiibo Stomper   Finder: ['eaglegamer']"
+        ],
+        [
+            "2023-09-24 12:12:16 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Labyrinth Legacy   Finder: ['eaglegamer']"
+        ],
+        [
+            "2023-09-24 12:12:32 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Impact Event   Finder: ['eaglegamer']"
+        ],
+        [
+            "2023-09-24 12:12:53 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: Labyrinth Legacy   Finder: ['eaglegamer']   Prover: ['eaglegamer']"
+        ],
+        [
+            "2023-09-24 12:13:12 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lethal launch 2.0": {
+            "name": "lethal launch 2.0",
+            "finder": [
+                "awesomeaggron"
+            ]
+        },
+        "true moon mard": {
+            "name": "true moon mard",
+            "prover": [
+                "awesomeaggron"
+            ]
+        },
+        "eggle": {
+            "name": "eggle",
+            "finder": [
+                "eaglegamer"
+            ]
+        },
+        "vault amiibo stomper": {
+            "name": "Vault Amiibo Stomper",
+            "finder": [
+                "eaglegamer"
+            ]
+        },
+        "labyrinth legacy": {
+            "name": "Labyrinth Legacy",
+            "finder": [
+                "eaglegamer"
+            ],
+            "prover": [
+                "eaglegamer"
+            ]
+        },
+        "impact event": {
+            "name": "Impact Event",
+            "finder": [
+                "eaglegamer"
+            ]
+        }
+    },
+    "rem": []
+}

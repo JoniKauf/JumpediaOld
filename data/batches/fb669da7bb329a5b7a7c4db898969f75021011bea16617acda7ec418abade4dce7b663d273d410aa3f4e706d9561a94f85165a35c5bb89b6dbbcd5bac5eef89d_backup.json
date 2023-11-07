@@ -1,0 +1,213 @@
+{
+    "name": "t",
+    "hash": "fb669da7bb329a5b7a7c4db898969f75021011bea16617acda7ec418abade4dce7b663d273d410aa3f4e706d9561a94f85165a35c5bb89b6dbbcd5bac5eef89d",
+    "created_at": "2023-08-26 14:59:55 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-26 15:18:33 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 14:59:55 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-26 15:00:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot True Dimensional Shift   Type: ['2D']"
+        ],
+        [
+            "2023-08-26 15:00:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Teleporting Toad   Type: ['Teleport']"
+        ],
+        [
+            "2023-08-26 15:03:04 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Treehouse Trickshot   Type: ['Pole Jump']"
+        ],
+        [
+            "2023-08-26 15:07:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sandy Boundaries   Diff: High Elite   Tier: High Elite   Type: ['Single Jump', 'simple tech']   Prover: ['gummy']   Links: ['https://youtu.be/rk1dw91R5kY']"
+        ],
+        [
+            "2023-08-26 15:08:04 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Tree Traversal   Type: ['Pole Jump']"
+        ],
+        [
+            "2023-08-26 15:08:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Starskiff   Type: ['Triple', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:09:26 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Killing Harmony   Type: ['Vault', 'simple tech', 'final diveless']"
+        ],
+        [
+            "2023-08-26 15:09:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Say Gex   Type: ['Triple', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:10:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Gay Marriage   Type: ['Double Jump', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:11:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Pipey Wipey   Type: ['Vault', 'spinless', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:12:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bouncy Mexican Tower   Type: ['Entity Bounce', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:12:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Atua   Type: ['Triple', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:13:39 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Ultimate Hope   Type: ['Slow Triple', 'cb-less', 'final diveless']"
+        ],
+        [
+            "2023-08-26 15:14:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Luncheon Pael   Type: ['Triple', 'final diveless']"
+        ],
+        [
+            "2023-08-26 15:16:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Uhh Yeah   Type: ['Cap Returnjump', 'cb-less']"
+        ],
+        [
+            "2023-08-26 15:16:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Poley Power   Type: ['Pole Jump']"
+        ],
+        [
+            "2023-08-26 15:18:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Slippery Spikes   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-08-26 15:18:29 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot true dimensional shift": {
+            "name": "Overshoot True Dimensional Shift",
+            "type": [
+                "2D"
+            ]
+        },
+        "teleporting toad": {
+            "name": "Teleporting Toad",
+            "type": [
+                "Teleport"
+            ]
+        },
+        "treehouse trickshot": {
+            "name": "Treehouse Trickshot",
+            "type": [
+                "Pole Jump"
+            ]
+        },
+        "sandy boundaries": {
+            "name": "Sandy Boundaries",
+            "diff": "High Elite",
+            "type": [
+                "Single Jump",
+                "simple tech"
+            ],
+            "prover": [
+                "gummy"
+            ],
+            "links": [
+                "https://youtu.be/rk1dw91R5kY"
+            ],
+            "tier": "High Elite"
+        },
+        "tree traversal": {
+            "name": "Tree Traversal",
+            "type": [
+                "Pole Jump"
+            ]
+        },
+        "starskiff": {
+            "name": "Starskiff",
+            "type": [
+                "Triple",
+                "cb-less"
+            ]
+        },
+        "killing harmony": {
+            "name": "Killing Harmony",
+            "type": [
+                "Vault",
+                "simple tech",
+                "final diveless"
+            ]
+        },
+        "say gex": {
+            "name": "Say Gex",
+            "type": [
+                "Triple",
+                "cb-less"
+            ]
+        },
+        "gay marriage": {
+            "name": "Gay Marriage",
+            "type": [
+                "Double Jump",
+                "cb-less"
+            ]
+        },
+        "pipey wipey": {
+            "name": "Pipey Wipey",
+            "type": [
+                "Vault",
+                "spinless",
+                "cb-less"
+            ]
+        },
+        "bouncy mexican tower": {
+            "name": "Bouncy Mexican Tower",
+            "type": [
+                "Entity Bounce",
+                "cb-less"
+            ]
+        },
+        "atua": {
+            "name": "Atua",
+            "type": [
+                "Triple",
+                "cb-less"
+            ]
+        },
+        "ultimate hope": {
+            "name": "Ultimate Hope",
+            "type": [
+                "Slow Triple",
+                "cb-less",
+                "final diveless"
+            ]
+        },
+        "luncheon pael": {
+            "name": "Luncheon Pael",
+            "type": [
+                "Triple",
+                "final diveless"
+            ]
+        },
+        "uhh yeah": {
+            "name": "Uhh Yeah",
+            "type": [
+                "Cap Returnjump",
+                "cb-less"
+            ]
+        },
+        "poley power": {
+            "name": "Poley Power",
+            "type": [
+                "Pole Jump"
+            ]
+        },
+        "slippery spikes": {
+            "name": "Slippery Spikes",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

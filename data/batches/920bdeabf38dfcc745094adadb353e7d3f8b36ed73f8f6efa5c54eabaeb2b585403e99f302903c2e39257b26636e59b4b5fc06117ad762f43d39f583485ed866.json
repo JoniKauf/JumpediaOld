@@ -1,0 +1,32 @@
+{
+    "name": "f",
+    "hash": "920bdeabf38dfcc745094adadb353e7d3f8b36ed73f8f6efa5c54eabaeb2b585403e99f302903c2e39257b26636e59b4b5fc06117ad762f43d39f583485ed866",
+    "created_at": "2023-08-03 15:21:59 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-03 15:24:04 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-03 15:21:59 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-03 15:23:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Toad's Path   Extra: [\"Landing particles have to be above the path for the try to count! Example of a try that doesn't count: https://youtu.be/zd3WSKzVNVY\"]"
+        ],
+        [
+            "2023-08-03 15:23:59 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "toad's path": {
+            "name": "Toad's Path",
+            "extra": [
+                "Landing particles have to be above the path for the try to count! Example of a try that doesn't count: https://youtu.be/zd3WSKzVNVY"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "sanders",
+    "hash": "cc0115c2409a1d6b654446e30d3932c13cde95240817e0e08a4f977f6983d553c25769227a0e9e2e2e48af1da6a73baaa0d983f808c1760e9ae90ca9413dedb9",
+    "created_at": "2023-07-04 19:03:54 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-04 19:04:24 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-04 19:03:54 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-04 19:04:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sandy Table Ascent   Links: ['https://youtu.be/eINtvLUtTCc']"
+        ],
+        [
+            "2023-07-04 19:04:18 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sandy table ascent": {
+            "name": "Sandy Table Ascent",
+            "links": [
+                "https://youtu.be/eINtvLUtTCc"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,38 @@
+{
+    "name": "m",
+    "hash": "5b07aff5ee2ba70d9ff21d4aac2904ea3e2873f55bd426fec70fdf4da5481a18ae14af7bcf04cb26c48ad14516734d93e4b22dc6a6acabebc31e64011d7f8235",
+    "created_at": "2023-10-02 20:21:54 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-02 20:22:38 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-02 20:21:54 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-02 20:22:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Makes Boiga   Diff: God Tier   Tier: God Tier   Prover: ['Gummy']   Links: ['https://youtu.be/ddLkwSKVwoE']"
+        ],
+        [
+            "2023-10-02 20:22:32 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true makes boiga": {
+            "name": "True Makes Boiga",
+            "diff": "God Tier",
+            "prover": [
+                "Gummy"
+            ],
+            "extra": [],
+            "links": [
+                "https://youtu.be/ddLkwSKVwoE"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

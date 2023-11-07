@@ -1,0 +1,53 @@
+{
+    "name": "raptor dumb",
+    "hash": "3f3abdc9bc9cd84f1c9df1a722a364599bbbb878e7e309c4d040d24fb662cf875becd3a0ee5411bdcba79e44ae086f360659c8f0448c219075100dde51cb9b2c",
+    "created_at": "2023-08-28 14:55:00 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-28 14:55:54 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-28 14:55:00 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-28 14:55:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True Vexatious Vegetation   Location: ['Metro Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Triple']   Finder: ['CToad7']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/quHZwgLm1Tw?si=0Nd-ZbrJ_95tATv2']"
+        ],
+        [
+            "2023-08-28 14:55:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: true vexatious vegeation"
+        ],
+        [
+            "2023-08-28 14:55:46 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "true vexatious vegetation": {
+            "name": "True Vexatious Vegetation",
+            "diff": "High Elite",
+            "server": "Database",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "CToad7"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/quHZwgLm1Tw?si=0Nd-ZbrJ_95tATv2"
+            ],
+            "tier": "High Elite"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "true vexatious vegeation"
+    ]
+}

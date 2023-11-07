@@ -1,0 +1,32 @@
+{
+    "name": "tech",
+    "hash": "7598fe45aaf28a3467455481ef236805228b1a6e61edab04193f6009e2a0beee9875bd949a90006b56f6e1180f78eb0d6a01508e89b1615b0bc19e0b2f0132fc",
+    "created_at": "2023-09-08 07:01:28 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-08 09:36:22 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-08 07:01:28 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-08 07:01:56 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Ravaging Vines   Type: ['Vault']"
+        ],
+        [
+            "2023-09-08 07:02:15 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "ravaging vines": {
+            "name": "Ravaging Vines",
+            "type": [
+                "Vault"
+            ]
+        }
+    },
+    "rem": []
+}

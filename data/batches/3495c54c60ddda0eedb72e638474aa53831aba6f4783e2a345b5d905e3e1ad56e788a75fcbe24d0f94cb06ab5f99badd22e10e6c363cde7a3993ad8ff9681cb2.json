@@ -1,0 +1,31 @@
+{
+    "name": "smc",
+    "hash": "3495c54c60ddda0eedb72e638474aa53831aba6f4783e2a345b5d905e3e1ad56e788a75fcbe24d0f94cb06ab5f99badd22e10e6c363cde7a3993ad8ff9681cb2",
+    "created_at": "2023-08-03 00:30:25 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-03 00:30:53 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-03 00:30:25 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-03 00:30:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sandy Moon Collector   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-08-03 00:30:48 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "sandy moon collector": {
+            "name": "Sandy Moon Collector",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

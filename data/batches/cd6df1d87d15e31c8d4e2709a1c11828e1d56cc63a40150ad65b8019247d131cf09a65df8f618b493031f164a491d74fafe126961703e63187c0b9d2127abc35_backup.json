@@ -1,0 +1,52 @@
+{
+    "name": "g",
+    "hash": "cd6df1d87d15e31c8d4e2709a1c11828e1d56cc63a40150ad65b8019247d131cf09a65df8f618b493031f164a491d74fafe126961703e63187c0b9d2127abc35",
+    "created_at": "2023-08-26 19:34:05 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-08-26 19:37:03 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-26 19:34:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-08-26 19:35:24 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Mini Construction Skip   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:36:00 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Palm Paradise   Type: ['Vault']"
+        ],
+        [
+            "2023-08-26 19:36:38 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Galactic Leap   Type: ['Vault, ZG']"
+        ],
+        [
+            "2023-08-26 19:36:52 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "mini construction skip": {
+            "name": "Mini Construction Skip",
+            "type": [
+                "Vault"
+            ]
+        },
+        "palm paradise": {
+            "name": "Palm Paradise",
+            "type": [
+                "Vault"
+            ]
+        },
+        "galactic leap": {
+            "name": "Galactic Leap",
+            "type": [
+                "Vault, ZG"
+            ]
+        }
+    },
+    "rem": []
+}

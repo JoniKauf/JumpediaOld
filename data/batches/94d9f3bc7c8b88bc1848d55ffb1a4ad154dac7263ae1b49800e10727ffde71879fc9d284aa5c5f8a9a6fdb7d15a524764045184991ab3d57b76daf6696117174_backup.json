@@ -1,0 +1,354 @@
+{
+    "name": "emi",
+    "hash": "94d9f3bc7c8b88bc1848d55ffb1a4ad154dac7263ae1b49800e10727ffde71879fc9d284aa5c5f8a9a6fdb7d15a524764045184991ab3d57b76daf6696117174",
+    "created_at": "2023-11-05 16:02:50 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-05 16:21:51 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-05 16:02:50 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-05 16:05:01 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: w rizz   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:05:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: true w rizz   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:05:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: poetic rizz   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:05:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: botanical bounce   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:05:30 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: majestic rizz   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:05:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: lamp lander   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:06:27 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: lamp lander"
+        ],
+        [
+            "2023-11-05 16:06:42 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: lamp lander   Finder: ['Emi']   Prover: ['Soup']"
+        ],
+        [
+            "2023-11-05 16:07:14 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: silly courtyard captain   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:07:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: cacti cap   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:07:26 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: cat noises   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:07:35 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: tumbling rock   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:08:01 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: overshoot amphibian aversion   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:08:07 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: silly cactus   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:08:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: cheddar stretch   Finder: ['Intral - Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:09:02 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: lower cheddar stretch   Finder: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:09:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: true table turmoil   Finder: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:09:32 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: upper cheddar stretch   Finder: ['Emi']   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:10:02 (UTC)",
+            "'Rashed' (596684000148586497) overwrites jump under batch's edits -> Name: upper cheddar stretch   Finder: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:17:54 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: kyoku's lunch   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:18:44 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: spinless boundaries   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:18:57 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: electric ledge   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:19:11 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: tourist trauma   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:19:23 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: truer pan step   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:19:28 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: sandshroom   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:19:34 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: taxi driver   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:19:38 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: pointy beans   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:19:46 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: barrier overshoot   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:20:01 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: true soup loves rocks   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:20:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: bouncy metro mard   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:20:22 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: vault true barrier beans   Prover: ['Emi']"
+        ],
+        [
+            "2023-11-05 16:21:47 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "w rizz": {
+            "name": "w rizz",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "true w rizz": {
+            "name": "true w rizz",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "poetic rizz": {
+            "name": "poetic rizz",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "botanical bounce": {
+            "name": "botanical bounce",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "majestic rizz": {
+            "name": "majestic rizz",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "lamp lander": {
+            "name": "lamp lander",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Soup"
+            ]
+        },
+        "silly courtyard captain": {
+            "name": "silly courtyard captain",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "cacti cap": {
+            "name": "cacti cap",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "cat noises": {
+            "name": "cat noises",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "tumbling rock": {
+            "name": "tumbling rock",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "overshoot amphibian aversion": {
+            "name": "overshoot amphibian aversion",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "silly cactus": {
+            "name": "silly cactus",
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "cheddar stretch": {
+            "name": "cheddar stretch",
+            "finder": [
+                "Intral - Emi"
+            ],
+            "prover": [
+                "Emi"
+            ]
+        },
+        "lower cheddar stretch": {
+            "name": "lower cheddar stretch",
+            "finder": [
+                "Emi"
+            ]
+        },
+        "true table turmoil": {
+            "name": "true table turmoil",
+            "finder": [
+                "Emi"
+            ]
+        },
+        "upper cheddar stretch": {
+            "name": "upper cheddar stretch",
+            "finder": [
+                "Emi"
+            ],
+            "prover": []
+        },
+        "kyoku's lunch": {
+            "name": "kyoku's lunch",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "spinless boundaries": {
+            "name": "spinless boundaries",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "electric ledge": {
+            "name": "electric ledge",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "tourist trauma": {
+            "name": "tourist trauma",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "truer pan step": {
+            "name": "truer pan step",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "sandshroom": {
+            "name": "sandshroom",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "taxi driver": {
+            "name": "taxi driver",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "pointy beans": {
+            "name": "pointy beans",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "barrier overshoot": {
+            "name": "barrier overshoot",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "true soup loves rocks": {
+            "name": "true soup loves rocks",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "bouncy metro mard": {
+            "name": "bouncy metro mard",
+            "prover": [
+                "Emi"
+            ]
+        },
+        "vault true barrier beans": {
+            "name": "vault true barrier beans",
+            "prover": [
+                "Emi"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "9502bc7099572cd0f0d9f6dac9afe9eac58f3232f7137f377af634cf82e830a3b88c50dd6638c3130d5b54e6e279c8f578caf44e24e364b9a3702a750e031ae5",
+    "created_at": "2023-08-31 17:57:02 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-31 17:57:50 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-31 17:57:02 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-31 17:57:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Ancient Overshoot   Extra: ['You have to overshoot both steps for it to count!']"
+        ],
+        [
+            "2023-08-31 17:57:45 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "ancient overshoot": {
+            "name": "Ancient Overshoot",
+            "extra": [
+                "You have to overshoot both steps for it to count!"
+            ]
+        }
+    },
+    "rem": []
+}

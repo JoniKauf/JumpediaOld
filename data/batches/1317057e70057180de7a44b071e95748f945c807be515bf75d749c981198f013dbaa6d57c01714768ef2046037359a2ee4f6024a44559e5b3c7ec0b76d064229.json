@@ -1,0 +1,32 @@
+{
+    "name": "b",
+    "hash": "1317057e70057180de7a44b071e95748f945c807be515bf75d749c981198f013dbaa6d57c01714768ef2046037359a2ee4f6024a44559e5b3c7ec0b76d064229",
+    "created_at": "2023-07-17 11:36:28 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-17 11:37:17 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-17 11:36:28 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-17 11:37:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: B Ring   Links: ['https://youtu.be/OkzyLmajRMY']"
+        ],
+        [
+            "2023-07-17 11:37:12 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "b ring": {
+            "name": "B Ring",
+            "links": [
+                "https://youtu.be/OkzyLmajRMY"
+            ]
+        }
+    },
+    "rem": []
+}

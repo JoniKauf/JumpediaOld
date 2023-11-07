@@ -1,0 +1,52 @@
+{
+    "name": "t",
+    "hash": "b1282314e99236aa955541fbeb5a3076d77e081d289c5b48762fa255068fc48333b6d73f00ff3684c67830a4264fcf8129261db11b10b73bf2740f2046d76503",
+    "created_at": "2023-10-18 13:36:03 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-18 13:37:21 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-18 13:36:03 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-18 13:36:36 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hatrickjump   Location: ['Metro Kingdom']"
+        ],
+        [
+            "2023-10-18 13:36:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: High Flying Flower   Location: ['Lake Kingdom']"
+        ],
+        [
+            "2023-10-18 13:37:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Fountain Flick   Location: ['Mushroom Kingdom']"
+        ],
+        [
+            "2023-10-18 13:37:19 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "hatrickjump": {
+            "name": "Hatrickjump",
+            "location": [
+                "Metro Kingdom"
+            ]
+        },
+        "high flying flower": {
+            "name": "High Flying Flower",
+            "location": [
+                "Lake Kingdom"
+            ]
+        },
+        "fountain flick": {
+            "name": "Fountain Flick",
+            "location": [
+                "Mushroom Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,74 @@
+{
+    "name": "pregnant",
+    "hash": "48bb151aefd39019ffe1f59d5b211841c9616aeab70d15000d72b8290a22e338de6442e482216ae338bc0f76e88585013d19fed8e1def97aeb2c0575b94c6f60",
+    "created_at": "2023-07-02 18:01:04 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-02 18:08:27 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-02 18:01:04 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-02 18:01:48 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: true pregnant   Diff: 0.5/10"
+        ],
+        [
+            "2023-07-02 18:02:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: pregnant   Diff: 0.5/10"
+        ],
+        [
+            "2023-07-02 18:05:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Truer Pregnant   Location: ['Luncheon Kingdom']   Diff: 7.5/10   Finder: ['Enlvie']   Prover: ['Enlvie']   Server: Database   Links: ['https://twitter.com/Enlviealt/status/1675562873467326464']"
+        ],
+        [
+            "2023-07-02 18:07:20 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: true pregnant"
+        ],
+        [
+            "2023-07-02 18:07:42 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: true pregnant   Diff: 0.5/10   Finder: ['Gummy']   Prover: ['Shaggy']"
+        ],
+        [
+            "2023-07-02 18:08:19 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "truer pregnant": {
+            "name": "Truer Pregnant",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "7.5/10",
+            "finder": [
+                "Enlvie"
+            ],
+            "prover": [
+                "Enlvie"
+            ],
+            "server": "Database",
+            "links": [
+                "https://twitter.com/Enlviealt/status/1675562873467326464"
+            ]
+        }
+    },
+    "edit": {
+        "pregnant": {
+            "name": "pregnant",
+            "diff": "0.5/10"
+        },
+        "true pregnant": {
+            "name": "true pregnant",
+            "diff": "0.5/10",
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Shaggy"
+            ]
+        }
+    },
+    "rem": []
+}

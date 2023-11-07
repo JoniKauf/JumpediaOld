@@ -1,0 +1,44 @@
+{
+    "name": "top",
+    "hash": "dde3f0ba8f82e8cd600e762772a622cdfa025f91978e51b269562dfc52824d355d7b8d7c4850fdc7062a33e9f6cb5057b9ee14020cd9c82e4ed0ecb6f19f0b9c",
+    "created_at": "2023-07-20 21:33:53 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-20 21:43:31 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-20 21:33:53 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-20 21:34:44 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Towertop Turnaround   Location: ['Mushroom Kingdom']   Diff: Hell Tier   Tier: Hell Tier   Finder: [\"K'os\"]   Prover: ['Belle']   Server: Database   Links: ['https://twitter.com/Snoob___/status/1682136919562657792?s=20']"
+        ],
+        [
+            "2023-07-20 21:43:27 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "towertop turnaround": {
+            "name": "Towertop Turnaround",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "diff": "Hell Tier",
+            "finder": [
+                "K'os"
+            ],
+            "prover": [
+                "Belle"
+            ],
+            "server": "Database",
+            "links": [
+                "https://twitter.com/Snoob___/status/1682136919562657792?s=20"
+            ],
+            "tier": "Hell Tier"
+        }
+    },
+    "edit": {},
+    "rem": []
+}

@@ -1,0 +1,40 @@
+{
+    "name": "t",
+    "hash": "624cb8e610fc002bc2a935a95922de35507348c6a913c44d6a75cc21ee470f92b407c8d4a8b7eaf3f28b1ee86a41a37e0be892ec2d65facbfe5ceb346f155ef2",
+    "created_at": "2023-10-10 14:59:00 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-10 14:59:42 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-10 14:59:00 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-10 14:59:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Platform Peaks   Location: ['Lost Kingdom']"
+        ],
+        [
+            "2023-10-10 14:59:25 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: platform peaks"
+        ],
+        [
+            "2023-10-10 14:59:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Platform Peak   Location: ['Lost Kingdom']"
+        ],
+        [
+            "2023-10-10 14:59:37 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "platform peak": {
+            "name": "Platform Peak",
+            "location": [
+                "Lost Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

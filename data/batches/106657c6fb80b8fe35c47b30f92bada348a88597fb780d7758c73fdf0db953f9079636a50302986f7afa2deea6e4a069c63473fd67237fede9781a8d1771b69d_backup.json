@@ -1,0 +1,206 @@
+{
+    "name": "capital",
+    "hash": "106657c6fb80b8fe35c47b30f92bada348a88597fb780d7758c73fdf0db953f9079636a50302986f7afa2deea6e4a069c63473fd67237fede9781a8d1771b69d",
+    "created_at": "2023-10-01 10:44:03 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-01 11:08:11 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-01 10:44:03 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-01 10:45:13 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dark Corner   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-10-01 10:47:25 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Galactic Leap   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-10-01 10:47:33 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Celestial Chest   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-10-01 10:47:40 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cosmic Corner   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-10-01 10:47:58 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dark Side Impossible   Type: ['Vault', 'zg']"
+        ],
+        [
+            "2023-10-01 10:48:17 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Space Jam   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 10:48:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Interstellar Indication   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 10:48:38 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Galactic Gorge   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 10:48:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dimensuonal Divide   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 10:50:10 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: dimensuonal divide"
+        ],
+        [
+            "2023-10-01 11:05:31 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Dimensional Divide   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:05:59 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Moon Moon Collector   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:06:27 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: ZG Leap   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:06:53 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Kenophobia   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:07:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cavern of Fears   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:07:09 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lunar Leap   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:07:17 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Cosmic Canyon   Type: ['Triple', 'zg']"
+        ],
+        [
+            "2023-10-01 11:07:49 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Fruity Gap   Type: ['Longjump', 'zg']"
+        ],
+        [
+            "2023-10-01 11:07:55 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "dark corner": {
+            "name": "Dark Corner",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "galactic leap": {
+            "name": "Galactic Leap",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "celestial chest": {
+            "name": "Celestial Chest",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "cosmic corner": {
+            "name": "Cosmic Corner",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "dark side impossible": {
+            "name": "Dark Side Impossible",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "space jam": {
+            "name": "Space Jam",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "interstellar indication": {
+            "name": "Interstellar Indication",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "galactic gorge": {
+            "name": "Galactic Gorge",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "dimensional divide": {
+            "name": "Dimensional Divide",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "moon moon collector": {
+            "name": "Moon Moon Collector",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "zg leap": {
+            "name": "ZG Leap",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "kenophobia": {
+            "name": "Kenophobia",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "cavern of fears": {
+            "name": "Cavern of Fears",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "lunar leap": {
+            "name": "Lunar Leap",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "cosmic canyon": {
+            "name": "Cosmic Canyon",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "fruity gap": {
+            "name": "Fruity Gap",
+            "type": [
+                "Longjump",
+                "zg"
+            ]
+        }
+    },
+    "rem": []
+}

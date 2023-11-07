@@ -1,0 +1,88 @@
+{
+    "name": "a",
+    "hash": "b20a9706c740c4bfa4293b406b9eeffd4719ae92410864d22f94ce53987565810b43053e428020a146fb8600596379e4bca00be866b9a9d9bd41d5f3e825ec38",
+    "created_at": "2023-10-14 18:21:30 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-14 18:27:39 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-14 18:21:30 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-14 18:22:18 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: koopa's climb   Type: ['vertical']"
+        ],
+        [
+            "2023-10-14 18:22:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Scarecrowless   Prover: ['Hyrule']"
+        ],
+        [
+            "2023-10-14 18:23:19 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: 1P God   Type: ['vertical']"
+        ],
+        [
+            "2023-10-14 18:23:41 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lava Bypass   Prover: ['AwesomeAggron']"
+        ],
+        [
+            "2023-10-14 18:23:55 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Skyblocks   Prover: ['AwesomeAggron']"
+        ],
+        [
+            "2023-10-14 18:25:10 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sky blocks   Prover: ['AwesomeAggron']"
+        ],
+        [
+            "2023-10-14 18:26:03 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: sky blocks"
+        ],
+        [
+            "2023-10-14 18:27:21 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Sky blocks   Prover: ['AwesomeAggron']"
+        ],
+        [
+            "2023-10-14 18:27:29 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: skyblocks"
+        ],
+        [
+            "2023-10-14 18:27:34 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "koopa's climb": {
+            "name": "koopa's climb",
+            "type": [
+                "vertical"
+            ]
+        },
+        "scarecrowless": {
+            "name": "Scarecrowless",
+            "prover": [
+                "Hyrule"
+            ]
+        },
+        "1p god": {
+            "name": "1P God",
+            "type": [
+                "vertical"
+            ]
+        },
+        "lava bypass": {
+            "name": "Lava Bypass",
+            "prover": [
+                "AwesomeAggron"
+            ]
+        },
+        "sky blocks": {
+            "name": "Sky blocks",
+            "prover": [
+                "AwesomeAggron"
+            ]
+        }
+    },
+    "rem": []
+}

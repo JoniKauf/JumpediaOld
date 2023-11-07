@@ -1,0 +1,32 @@
+{
+    "name": "bah",
+    "hash": "f4e671e75650da48d16c87de1fb267eac74c42a3e75b88c33c85f257d8a53b080830a55f85682685bd436f1e6779aa19250070531fa06f2b6992ab7db2de35e0",
+    "created_at": "2023-10-15 12:00:30 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-15 12:00:59 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-15 12:00:30 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-15 12:00:48 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: streetlight epidemic   Prover: ['Autumn']"
+        ],
+        [
+            "2023-10-15 12:00:54 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "streetlight epidemic": {
+            "name": "streetlight epidemic",
+            "prover": [
+                "Autumn"
+            ]
+        }
+    },
+    "rem": []
+}

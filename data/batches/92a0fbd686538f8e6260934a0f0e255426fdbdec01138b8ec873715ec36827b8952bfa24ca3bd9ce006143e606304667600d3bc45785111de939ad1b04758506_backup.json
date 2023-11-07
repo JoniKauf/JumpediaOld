@@ -1,0 +1,21 @@
+{
+    "name": "test",
+    "hash": "92a0fbd686538f8e6260934a0f0e255426fdbdec01138b8ec873715ec36827b8952bfa24ca3bd9ce006143e606304667600d3bc45785111de939ad1b04758506",
+    "created_at": "2023-11-05 16:58:19 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "TBD",
+    "status": "nuked",
+    "log": [
+        [
+            "2023-11-05 16:58:19 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-05 16:58:36 (UTC)",
+            "'Rashed' (596684000148586497) NUKES BATCH!!!"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Waza",
+    "hash": "f234f07179d27240f8df17c89447fba7383a3d2b26e26b8de4a650caa9422fc99254625651b7560addcde712de3aee5f065d18eaa33dcc89d5089e13f3377bd8",
+    "created_at": "2023-07-29 21:53:07 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-07-29 21:55:43 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-29 21:53:07 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-07-29 21:54:03 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Hellfall   Finder: ['TheAmazingRaptor']"
+        ],
+        [
+            "2023-07-29 21:55:35 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "hellfall": {
+            "name": "Hellfall",
+            "finder": [
+                "TheAmazingRaptor"
+            ]
+        }
+    },
+    "rem": []
+}

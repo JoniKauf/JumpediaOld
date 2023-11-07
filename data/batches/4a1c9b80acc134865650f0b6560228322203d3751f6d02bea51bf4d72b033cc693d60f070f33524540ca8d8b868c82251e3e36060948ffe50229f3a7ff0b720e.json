@@ -1,0 +1,32 @@
+{
+    "name": "d",
+    "hash": "4a1c9b80acc134865650f0b6560228322203d3751f6d02bea51bf4d72b033cc693d60f070f33524540ca8d8b868c82251e3e36060948ffe50229f3a7ff0b720e",
+    "created_at": "2023-08-12 13:16:04 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-08-12 13:16:32 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-12 13:16:04 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-08-12 13:16:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Darker Dram 2.0   Location: ['Moon Kingdom']"
+        ],
+        [
+            "2023-08-12 13:16:23 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "darker dram 2.0": {
+            "name": "Darker Dram 2.0",
+            "location": [
+                "Moon Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

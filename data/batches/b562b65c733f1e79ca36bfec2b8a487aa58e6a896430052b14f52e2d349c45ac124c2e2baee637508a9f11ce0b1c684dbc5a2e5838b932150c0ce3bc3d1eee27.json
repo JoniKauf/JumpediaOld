@@ -1,0 +1,32 @@
+{
+    "name": "g",
+    "hash": "b562b65c733f1e79ca36bfec2b8a487aa58e6a896430052b14f52e2d349c45ac124c2e2baee637508a9f11ce0b1c684dbc5a2e5838b932150c0ce3bc3d1eee27",
+    "created_at": "2023-10-02 18:52:04 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-02 18:52:22 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-02 18:52:04 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-02 18:52:11 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: wiggling contraption   Finder: ['Kern']"
+        ],
+        [
+            "2023-10-02 18:52:18 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "wiggling contraption": {
+            "name": "wiggling contraption",
+            "finder": [
+                "Kern"
+            ]
+        }
+    },
+    "rem": []
+}

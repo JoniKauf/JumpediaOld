@@ -1,0 +1,27 @@
+{
+    "name": "b",
+    "hash": "2d8fa0e6fbab0e38db6a62f8d56f4cfa9aafd1d4250a761b698e4f2010d9531ecac2656d3348c441460b529cc877e4f9601bd35a7b5620e03f395c7e3dfce2cf",
+    "created_at": "2023-09-20 20:56:09 (UTC)",
+    "created_by": "'JoniKauf' (679564566769827841)",
+    "implemented_at": "2023-09-20 20:56:27 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-20 20:56:09 (UTC)",
+            "'JoniKauf' (679564566769827841) creates batch"
+        ],
+        [
+            "2023-09-20 20:56:14 (UTC)",
+            "'JoniKauf' (679564566769827841) adds jump under batch's removals -> Name: a"
+        ],
+        [
+            "2023-09-20 20:56:22 (UTC)",
+            "'JoniKauf' (679564566769827841) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "a"
+    ]
+}

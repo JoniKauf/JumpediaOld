@@ -1,0 +1,38 @@
+{
+    "name": "d",
+    "hash": "3b1500ba9d53c5f11f60ce1e171ade542638f0fe4a492f9d6d855f668a3cf92477fb87d72d7bf1178a0cc559aad464924feb9464cc377358490ba820c19abfff",
+    "created_at": "2023-09-11 03:13:01 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-11 03:14:50 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-11 03:13:01 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-11 03:14:00 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: True Tilted Towers   Diff: Low Elite   Tier: Low Elite   Type: ['Triple']   Server: SMO Trickjumping Server   Extra: ['Make sure you remove the poster nearby the lamp to avoid cappy homing into it!']"
+        ],
+        [
+            "2023-09-11 03:14:45 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true tilted towers": {
+            "name": "True Tilted Towers",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ],
+            "diff": "Low Elite",
+            "extra": [
+                "Make sure you remove the poster nearby the lamp to avoid cappy homing into it!"
+            ],
+            "tier": "Low Elite"
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "aggron",
+    "hash": "abfb546e76a54245bcecba6a03ae74673867e8cae84ee0c8a1cb99ae73d8e0ace2b3daa460cc2dbe534a2b94d28524d5d6b8fcebcdb4ab8798fc6ba82fbc8664",
+    "created_at": "2023-09-03 15:29:56 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-09-03 15:33:54 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-03 15:29:56 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-09-03 15:30:03 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: PegPog   Finder: ['AwesomeAggron']"
+        ],
+        [
+            "2023-09-03 15:30:31 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "pegpog": {
+            "name": "PegPog",
+            "finder": [
+                "AwesomeAggron"
+            ]
+        }
+    },
+    "rem": []
+}

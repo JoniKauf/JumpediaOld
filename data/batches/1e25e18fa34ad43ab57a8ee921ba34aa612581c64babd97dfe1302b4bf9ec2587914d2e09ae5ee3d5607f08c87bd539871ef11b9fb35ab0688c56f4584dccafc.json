@@ -1,0 +1,30 @@
+{
+    "name": "pillar",
+    "hash": "1e25e18fa34ad43ab57a8ee921ba34aa612581c64babd97dfe1302b4bf9ec2587914d2e09ae5ee3d5607f08c87bd539871ef11b9fb35ab0688c56f4584dccafc",
+    "created_at": "2023-07-04 09:25:30 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-04 09:25:59 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-04 09:25:30 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-04 09:25:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: 2P Pillar Leap"
+        ],
+        [
+            "2023-07-04 09:25:54 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "2p pillar leap": {
+            "name": "2P Pillar Leap",
+            "extra": []
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,35 @@
+{
+    "name": "shag",
+    "hash": "78daa52d617e468a54dcc5bc7c1e8c7c5a6123a30f7b4969a0ce952339f47c0b4a0a8953dea7c419aeb56b6f269aeb0f3fbd2e8b04f1c0c94c0dc79a504e5ef5",
+    "created_at": "2023-08-17 12:02:21 (UTC)",
+    "created_by": "'shaggy' (723620632784535574)",
+    "implemented_at": "2023-08-17 12:05:48 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-08-17 12:02:21 (UTC)",
+            "'shaggy' (723620632784535574) creates batch"
+        ],
+        [
+            "2023-08-17 12:05:31 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Ice Climber   Taser: ['MadeForMario']   Links: ['https://youtu.be/anBepghyrcI']"
+        ],
+        [
+            "2023-08-17 12:05:39 (UTC)",
+            "'shaggy' (723620632784535574) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "ice climber": {
+            "name": "Ice Climber",
+            "links": [
+                "https://youtu.be/anBepghyrcI"
+            ],
+            "taser": [
+                "MadeForMario"
+            ]
+        }
+    },
+    "rem": []
+}

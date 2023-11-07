@@ -1,0 +1,52 @@
+{
+    "name": "a",
+    "hash": "22575ed2e2ecc031345cb3745c4c6eb020d7399db305768bd2461023f8238ee2e5f4be84a76bff1ea6afddaa4974ebacc1e1e5d0b774f6051ad916a12680ab6c",
+    "created_at": "2023-10-22 13:30:25 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-10-22 13:33:24 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-22 13:30:25 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-10-22 13:30:59 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: Lake Visitor   Finder: ['eaglegamer']"
+        ],
+        [
+            "2023-10-22 13:31:32 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: reverse aqua pillar   Finder: ['smo jake']"
+        ],
+        [
+            "2023-10-22 13:33:07 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: downtown divine   Finder: ['Spirel']"
+        ],
+        [
+            "2023-10-22 13:33:20 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lake visitor": {
+            "name": "Lake Visitor",
+            "finder": [
+                "eaglegamer"
+            ]
+        },
+        "reverse aqua pillar": {
+            "name": "reverse aqua pillar",
+            "finder": [
+                "smo jake"
+            ]
+        },
+        "downtown divine": {
+            "name": "downtown divine",
+            "finder": [
+                "Spirel"
+            ]
+        }
+    },
+    "rem": []
+}

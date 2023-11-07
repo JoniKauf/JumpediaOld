@@ -1,0 +1,32 @@
+{
+    "name": "f",
+    "hash": "e70426197aea91f3d24738bad0380467e631023f789ced8e03c28cef33b5c4dd75475aa36002b2fa12acc56f81170dab46d548bf7ccdec523845df63f3f54005",
+    "created_at": "2023-07-29 23:13:48 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-29 23:14:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-29 23:13:48 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-29 23:14:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: frozen air beans   Location: ['Sand Kingdom']"
+        ],
+        [
+            "2023-07-29 23:14:16 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "frozen air beans": {
+            "name": "frozen air beans",
+            "location": [
+                "Sand Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

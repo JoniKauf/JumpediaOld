@@ -1,0 +1,37 @@
+{
+    "name": "e",
+    "hash": "3cd376b11e67060c6ada046abf0832dba9470f649bf130b9b9cb53726c16a276bf2bc8d5d43ac8b856af3cb1cd3727860720e71192f023706c75187faebc200e",
+    "created_at": "2023-10-23 21:56:18 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-23 21:57:03 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-23 21:56:18 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-23 21:56:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Water Tower Wall Wrap   Diff: 8.5/10   Tier: Master   Prover: ['Jario']   Links: ['https://youtu.be/CYnJGrX72dQ']"
+        ],
+        [
+            "2023-10-23 21:56:59 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "water tower wall wrap": {
+            "name": "Water Tower Wall Wrap",
+            "diff": "8.5/10",
+            "prover": [
+                "Jario"
+            ],
+            "links": [
+                "https://youtu.be/CYnJGrX72dQ"
+            ],
+            "tier": "Master"
+        }
+    },
+    "rem": []
+}

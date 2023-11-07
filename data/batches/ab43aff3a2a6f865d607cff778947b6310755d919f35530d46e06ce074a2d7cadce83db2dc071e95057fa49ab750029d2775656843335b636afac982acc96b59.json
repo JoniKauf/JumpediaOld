@@ -1,0 +1,37 @@
+{
+    "name": "wode",
+    "hash": "ab43aff3a2a6f865d607cff778947b6310755d919f35530d46e06ce074a2d7cadce83db2dc071e95057fa49ab750029d2775656843335b636afac982acc96b59",
+    "created_at": "2023-07-24 18:54:05 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-24 18:54:44 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-24 18:54:05 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-24 18:54:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Wooded Mard   Diff: God Tier   Tier: God Tier   Prover: ['Ninjapugs']   Links: ['https://youtu.be/D9GCFTPJuiQ']"
+        ],
+        [
+            "2023-07-24 18:54:38 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "truer wooded mard": {
+            "name": "Truer Wooded Mard",
+            "diff": "God Tier",
+            "prover": [
+                "Ninjapugs"
+            ],
+            "links": [
+                "https://youtu.be/D9GCFTPJuiQ"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

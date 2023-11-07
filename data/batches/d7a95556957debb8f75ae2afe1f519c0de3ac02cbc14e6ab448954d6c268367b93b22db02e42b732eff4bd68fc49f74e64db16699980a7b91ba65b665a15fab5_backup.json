@@ -1,0 +1,31 @@
+{
+    "name": "lamp",
+    "hash": "d7a95556957debb8f75ae2afe1f519c0de3ac02cbc14e6ab448954d6c268367b93b22db02e42b732eff4bd68fc49f74e64db16699980a7b91ba65b665a15fab5",
+    "created_at": "2023-07-03 19:09:12 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-03 19:09:40 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-03 19:09:12 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-03 19:09:26 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lamppost Beans   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-03 19:09:32 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "lamppost beans": {
+            "name": "Lamppost Beans",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": []
+}

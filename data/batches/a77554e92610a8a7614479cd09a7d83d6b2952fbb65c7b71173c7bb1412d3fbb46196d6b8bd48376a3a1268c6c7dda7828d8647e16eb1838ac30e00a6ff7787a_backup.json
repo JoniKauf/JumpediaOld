@@ -1,0 +1,33 @@
+{
+    "name": "t",
+    "hash": "a77554e92610a8a7614479cd09a7d83d6b2952fbb65c7b71173c7bb1412d3fbb46196d6b8bd48376a3a1268c6c7dda7828d8647e16eb1838ac30e00a6ff7787a",
+    "created_at": "2023-09-01 18:03:36 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-01 18:03:58 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-01 18:03:36 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-01 18:03:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Uhh Yeah   Type: ['Cap Return jump', 'cb-less']"
+        ],
+        [
+            "2023-09-01 18:03:49 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "uhh yeah": {
+            "name": "Uhh Yeah",
+            "type": [
+                "Cap Return jump",
+                "cb-less"
+            ]
+        }
+    },
+    "rem": []
+}

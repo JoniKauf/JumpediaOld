@@ -1,0 +1,53 @@
+{
+    "name": "g",
+    "hash": "3c537c9871143e6a2984b4f406315e8c5a44fab2886b615d53f8f036812b06266932c0a7378a9a38452b5d9111d1d11711d30cb6b8a4e911f5a2a39a9b6e9b26",
+    "created_at": "2023-09-19 06:44:15 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-19 06:44:54 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-19 06:44:15 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-19 06:44:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: burrbo bells"
+        ],
+        [
+            "2023-09-19 06:44:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Burrbo Balls   Location: ['Cascade Kingdom']   Diff: 9.5/10   Tier: Master   Type: ['Vault']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/EkUcpMBQzuY']"
+        ],
+        [
+            "2023-09-19 06:44:50 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "burrbo balls": {
+            "name": "Burrbo Balls",
+            "diff": "9.5/10",
+            "server": "Database",
+            "location": [
+                "Cascade Kingdom"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "links": [
+                "https://youtu.be/EkUcpMBQzuY"
+            ],
+            "tier": "Master"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "burrbo bells"
+    ]
+}

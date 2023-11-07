@@ -1,0 +1,37 @@
+{
+    "name": "chez",
+    "hash": "734520b29f5c1fe3a2e03d36faef0d638063000afb16fa454adf070635281cc843e3c12dd4086ce214fa580dc1ca0ad7d2a07c055a40ddd3c0d7f88bf95dec44",
+    "created_at": "2023-07-20 12:13:37 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-20 12:14:15 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-20 12:13:37 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-20 12:14:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Biggie Cheese 4.0   Diff: God Tier   Tier: God Tier   Prover: ['Belle']   Links: ['https://youtu.be/tS8tZfQ-pek']"
+        ],
+        [
+            "2023-07-20 12:14:08 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "biggie cheese 4.0": {
+            "name": "Biggie Cheese 4.0",
+            "diff": "God Tier",
+            "prover": [
+                "Belle"
+            ],
+            "links": [
+                "https://youtu.be/tS8tZfQ-pek"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "rem": []
+}

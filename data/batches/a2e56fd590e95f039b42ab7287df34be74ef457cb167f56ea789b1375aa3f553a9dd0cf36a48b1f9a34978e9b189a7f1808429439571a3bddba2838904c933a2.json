@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "a2e56fd590e95f039b42ab7287df34be74ef457cb167f56ea789b1375aa3f553a9dd0cf36a48b1f9a34978e9b189a7f1808429439571a3bddba2838904c933a2",
+    "created_at": "2023-11-04 15:59:52 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-11-04 16:00:40 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-04 15:59:52 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-11-04 16:00:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Blocky Pole   Extra: ['You have to land on top of the pole itself for it to count, landing on the sloped part does not count.']"
+        ],
+        [
+            "2023-11-04 16:00:35 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "blocky pole": {
+            "name": "Blocky Pole",
+            "extra": [
+                "You have to land on top of the pole itself for it to count, landing on the sloped part does not count."
+            ]
+        }
+    },
+    "rem": []
+}

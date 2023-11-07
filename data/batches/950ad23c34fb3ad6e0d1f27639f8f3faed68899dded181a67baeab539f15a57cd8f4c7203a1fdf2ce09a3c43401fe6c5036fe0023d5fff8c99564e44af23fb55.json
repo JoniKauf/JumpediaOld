@@ -1,0 +1,32 @@
+{
+    "name": "cap",
+    "hash": "950ad23c34fb3ad6e0d1f27639f8f3faed68899dded181a67baeab539f15a57cd8f4c7203a1fdf2ce09a3c43401fe6c5036fe0023d5fff8c99564e44af23fb55",
+    "created_at": "2023-07-21 22:21:59 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-21 22:22:31 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-21 22:21:59 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-21 22:22:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Capless Poison Room   Type: ['Capless']"
+        ],
+        [
+            "2023-07-21 22:22:26 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "true capless poison room": {
+            "name": "True Capless Poison Room",
+            "type": [
+                "Capless"
+            ]
+        }
+    },
+    "rem": []
+}

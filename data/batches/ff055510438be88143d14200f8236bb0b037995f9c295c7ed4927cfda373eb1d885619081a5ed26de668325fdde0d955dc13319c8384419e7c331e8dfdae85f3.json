@@ -1,0 +1,35 @@
+{
+    "name": "w",
+    "hash": "ff055510438be88143d14200f8236bb0b037995f9c295c7ed4927cfda373eb1d885619081a5ed26de668325fdde0d955dc13319c8384419e7c331e8dfdae85f3",
+    "created_at": "2023-09-01 15:55:25 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-01 15:56:07 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-01 15:55:25 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-01 15:55:54 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Exploshi Twist   Finder: ['Speedy']   Prover: ['Speedy']"
+        ],
+        [
+            "2023-09-01 15:56:02 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "exploshi twist": {
+            "name": "Exploshi Twist",
+            "finder": [
+                "Speedy"
+            ],
+            "prover": [
+                "Speedy"
+            ]
+        }
+    },
+    "rem": []
+}

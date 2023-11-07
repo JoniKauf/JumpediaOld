@@ -1,0 +1,50 @@
+{
+    "name": "z",
+    "hash": "ccd813dd6ee9d184647555604dbb94f7938e754f7c32f97406aee6b4642b6f71b388d07a32fbb9618aa5fe8ed141b098aa212d3ebd51b41cc3ffe346644a9415",
+    "created_at": "2023-10-23 02:59:19 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-23 03:02:35 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-23 02:59:19 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-23 02:59:44 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: WJ-Less True Shop Lifted   Finder: ['Aqua']"
+        ],
+        [
+            "2023-10-23 03:00:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Vault Lakescope   Finder: ['AwesomeAggron']"
+        ],
+        [
+            "2023-10-23 03:01:51 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: wj-less true shop lifted"
+        ],
+        [
+            "2023-10-23 03:02:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: WJ-Less True Shop Lifter   Finder: ['Aqua']"
+        ],
+        [
+            "2023-10-23 03:02:29 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "vault lakescope": {
+            "name": "Vault Lakescope",
+            "finder": [
+                "AwesomeAggron"
+            ]
+        },
+        "wj-less true shop lifter": {
+            "name": "WJ-Less True Shop Lifter",
+            "finder": [
+                "Aqua"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,53 @@
+{
+    "name": "mki",
+    "hash": "0b2a5d8e67ea99e762462b060e7bc9ee739c8548e86b1cd9d0cea37f05653e503114c529f88aa9b75b2aeb067e459e7d4f04aab34ecb7af327b4f8c8623f4102",
+    "created_at": "2023-10-01 16:12:59 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-01 16:13:32 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-01 16:12:59 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-01 16:13:04 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Polluted Plantation   Location: ['Seaside Kingdom']   Diff: 9/10   Tier: Master   Type: ['Backflip']   Finder: ['Gummy']   Prover: ['Gummy']   Server: Database   Links: ['https://youtu.be/7jhXZpS6T0c']"
+        ],
+        [
+            "2023-10-01 16:13:16 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: poluted plantation"
+        ],
+        [
+            "2023-10-01 16:13:27 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "polluted plantation": {
+            "name": "Polluted Plantation",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "9/10",
+            "type": [
+                "Backflip"
+            ],
+            "finder": [
+                "Gummy"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "server": "Database",
+            "links": [
+                "https://youtu.be/7jhXZpS6T0c"
+            ],
+            "tier": "Master"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "poluted plantation"
+    ]
+}

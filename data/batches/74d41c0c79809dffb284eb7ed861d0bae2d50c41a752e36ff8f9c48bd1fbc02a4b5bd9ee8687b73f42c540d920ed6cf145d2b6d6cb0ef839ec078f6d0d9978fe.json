@@ -1,0 +1,899 @@
+{
+    "name": "elitebatch",
+    "hash": "74d41c0c79809dffb284eb7ed861d0bae2d50c41a752e36ff8f9c48bd1fbc02a4b5bd9ee8687b73f42c540d920ed6cf145d2b6d6cb0ef839ec078f6d0d9978fe",
+    "created_at": "2023-09-07 21:04:57 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-09-08 19:53:20 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-07 21:04:57 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-09-07 21:06:36 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Truer Gothic Suburbia   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:08:10 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Lower Colorful Cactus   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:09:16 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Granite Growth   Location: ['Darker Side']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Finder: ['SmoHD']   Prover: ['Gummy']   Server: SMO Trickjumping Server   Links: ['https://www.youtube.com/watch?v=gQPSkgLh12U']"
+        ],
+        [
+            "2023-09-07 21:10:12 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Vegetable Cross   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:10:45 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Little Sheepy Bonk   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:11:11 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Cheddar Champion   Location: ['Luncheon Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Finder: ['Leo_smo']   Prover: ['Leo_smo']   Server: SMO Trickjumping Server   Links: ['https://www.youtube.com/watch?v=UhN1Eqar_K8']"
+        ],
+        [
+            "2023-09-07 21:11:27 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Streetlight Epidemic   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:12:05 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's removals -> Name: pscuber dram"
+        ],
+        [
+            "2023-09-07 21:12:31 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: SeedShell   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:12:37 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's removals -> Name: nicole watterson"
+        ],
+        [
+            "2023-09-07 21:13:50 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Shard Sidestep   Location: [\"Bowser's Kingdom\"]   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Server: SMO Trickjumping Server   Links: ['https://www.youtube.com/watch?v=VaCooML-gWQ']"
+        ],
+        [
+            "2023-09-07 21:14:01 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's removals -> Name: rooftop hop"
+        ],
+        [
+            "2023-09-07 21:14:22 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Rhythmic Ascent   Type: ['Triple', 'zg']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:15:16 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Verdant Valley   Location: ['Mushroom Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['JoniKauf']   Prover: ['JoniKauf']   Server: SMO Trickjumping Server   Links: ['https://www.youtube.com/watch?v=RPyJewF1hBw']"
+        ],
+        [
+            "2023-09-07 21:15:21 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Overshoot ZG Leap   Type: ['Triple', 'zg']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:15:25 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's removals -> Name: hedge hopper 2.0"
+        ],
+        [
+            "2023-09-07 21:15:51 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Cloud Overlook   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:16:14 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Taxi Beans   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:16:26 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Tower Triumph   Location: ['Sand Kingdom']   Diff: Low Elite   Tier: Low Elite   Type: ['Vault']   Finder: ['Tom']   Prover: ['Tom']   Server: SMO Trickjumping Server   Links: ['https://www.youtube.com/watch?v=mLRkAYgBd9g']"
+        ],
+        [
+            "2023-09-07 21:16:36 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's removals -> Name: pyramid peril 2.0"
+        ],
+        [
+            "2023-09-07 21:16:51 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: ShingleStalk   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:18:21 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Ladies' Breakfast   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:19:12 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's additions -> Name: Cafe Catapult   Location: ['Metro Kingdom']   Diff: High Elite   Tier: High Elite   Type: ['Triple']   Finder: ['Emi']   Prover: ['Emi']   Server: SMO Trickjumping Server   Links: ['https://youtu.be/qmXjUBm0yms?si=f_wgB8P3YbfP9dDc']"
+        ],
+        [
+            "2023-09-07 21:19:27 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Mini Metallica Descent   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:19:34 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Soup Surge   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-09-07 21:19:57 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Podoboo Punishment   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-09-07 21:20:06 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: True Moonicotti   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-09-07 21:20:17 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: True Metro Mard   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-09-07 21:20:25 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Lunar Frost   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-09-07 21:20:34 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Lakitu's Ledge   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-09-07 21:21:34 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Moon Collector   Server: Database"
+        ],
+        [
+            "2023-09-07 21:22:11 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Neon Heights   Server: Database"
+        ],
+        [
+            "2023-09-07 21:22:20 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Overgrown Overture   Server: Database"
+        ],
+        [
+            "2023-09-07 21:22:28 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Rooftop Gardener   Server: Database"
+        ],
+        [
+            "2023-09-07 21:22:44 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Stone Strider   Server: Database"
+        ],
+        [
+            "2023-09-07 21:23:01 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Vine Venture   Server: Database"
+        ],
+        [
+            "2023-09-07 21:23:10 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Truer Meter Madness   Server: Database"
+        ],
+        [
+            "2023-09-07 21:23:21 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Swallowed Staircase   Server: Database"
+        ],
+        [
+            "2023-09-07 21:23:32 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's edits -> Name: Truest Cascade Mard   Server: Database"
+        ],
+        [
+            "2023-09-07 21:26:53 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's removals -> Name: mini metallica descent"
+        ],
+        [
+            "2023-09-07 21:28:45 (UTC)",
+            "'shaggy' (723620632784535574) adds jump under batch's removals -> Name: ajsdasdaksjdajskd"
+        ],
+        [
+            "2023-09-07 21:31:59 (UTC)",
+            "'shaggy' (723620632784535574) lets batch information be forgotten -> Operation: rem   Name: mini metallica descent"
+        ],
+        [
+            "2023-09-07 21:34:01 (UTC)",
+            "'katie / marble' (643986253997408257) lets batch information be forgotten -> Operation: rem   Name: ajsdasdaksjdajskd"
+        ],
+        [
+            "2023-09-07 21:35:06 (UTC)",
+            "'katie / marble' (643986253997408257) lets batch information be forgotten -> Operation: edit   Name: mini metallica descent"
+        ],
+        [
+            "2023-09-07 21:36:54 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Mini Metallic Descent   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:37:48 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Cheesy Climb   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:38:22 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Construction Catwalk   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:39:33 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Amphibian Abyss   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:40:20 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Bonking Tops   Type: ['Vault', 'zg']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:40:38 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Tranquil Treetops   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:41:00 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Reverse True Cheese Cut   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:42:32 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Prehistoric Pole   Diff: Mid Elite   Tier: Mid Elite   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:42:54 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Lefter Bottom Step   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:43:25 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Truer Cascade Dram   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:44:07 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Ultra Silly Gamer Lost Triple   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:45:02 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Spring Party   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:45:36 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Pole Prowess   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:46:06 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Final Fossil   Diff: High Elite   Tier: High Elite   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:46:26 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Night Sky   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:47:12 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Legend's Lunch   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:47:43 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Heated Headache   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:48:26 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Canine Cruiser   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:48:52 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Vault Lost Legend   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:49:30 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Fencing Flyer   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:49:47 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Overshoot Bottom Step   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:50:02 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Wood Vault Assault   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:50:21 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Steel Storm   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:50:46 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Hot Cheetos   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:51:13 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Prehistoric Pipe   Type: ['Triple']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:53:01 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Neighbourhood Impass   Type: ['Vault']   Server: SMO Trickjumping Server"
+        ],
+        [
+            "2023-09-07 21:54:42 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Riveting Ribcage   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-09-07 21:55:11 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Interstellar Indication   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-09-07 21:55:36 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Mummified Beans   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-09-07 21:55:51 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Arena Guard   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-09-07 21:56:13 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Robotic Vault Assault   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-09-07 21:56:30 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Spike Driver   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-09-07 21:57:06 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Arena Crossing   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-09-07 21:57:58 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: True Vault Cascade Mard   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-09-07 21:59:30 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Toad Traversal   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-09-07 21:59:42 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Dimensional Divide   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-09-07 22:00:17 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Statue Stepup   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-09-07 22:00:39 (UTC)",
+            "'katie / marble' (643986253997408257) adds jump under batch's edits -> Name: Lower Hurb Jump   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-09-07 23:03:27 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Canine Cruiser   Links: ['https://youtu.be/0tQMum-vuxk?si=Tmg7TdgZBHxAE6rW']"
+        ],
+        [
+            "2023-09-07 23:05:06 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Granite Growth   Extra: ['Throw Cappy onto the scarecrow to get up!']"
+        ],
+        [
+            "2023-09-07 23:06:23 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Overshoot ZG Leap   Extra: ['If you collect the Rocket Flower after diving it still counts!']"
+        ],
+        [
+            "2023-09-07 23:24:11 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Granite Growth   Extra: ['Get on top of the coin block with an Uproot, get max height with the Uproot by shaking, uncapture at the peak, walljump and dive!']"
+        ],
+        [
+            "2023-09-07 23:27:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Granite Growth   Extra: ['Jump from the top of the Yoshi area to get up there!']"
+        ],
+        [
+            "2023-09-08 03:15:26 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) overwrites jump under batch's edits -> Name: Amphibian Abyss   Extra: ['You can remove the frogs by throwing them into the Abyss!']"
+        ],
+        [
+            "2023-09-08 19:52:10 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: granite growth"
+        ],
+        [
+            "2023-09-08 19:52:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) lets batch information be forgotten -> Operation: edit   Name: true neighbourhood impass"
+        ],
+        [
+            "2023-09-08 19:53:09 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "granite growth": {
+            "name": "Granite Growth",
+            "location": [
+                "Darker Side"
+            ],
+            "diff": "Mid Elite",
+            "finder": [
+                "SmoHD"
+            ],
+            "prover": [
+                "Gummy"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://www.youtube.com/watch?v=gQPSkgLh12U"
+            ],
+            "tier": "Mid Elite"
+        },
+        "cheddar champion": {
+            "name": "Cheddar Champion",
+            "location": [
+                "Luncheon Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "finder": [
+                "Leo_smo"
+            ],
+            "prover": [
+                "Leo_smo"
+            ],
+            "type": [
+                "Vault"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://www.youtube.com/watch?v=UhN1Eqar_K8"
+            ],
+            "tier": "Mid Elite"
+        },
+        "shard sidestep": {
+            "name": "Shard Sidestep",
+            "type": [
+                "Vault"
+            ],
+            "diff": "Low Elite",
+            "location": [
+                "Bowser's Kingdom"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://www.youtube.com/watch?v=VaCooML-gWQ"
+            ],
+            "tier": "Low Elite"
+        },
+        "verdant valley": {
+            "name": "Verdant Valley",
+            "type": [
+                "Vault"
+            ],
+            "diff": "Low Elite",
+            "location": [
+                "Mushroom Kingdom"
+            ],
+            "finder": [
+                "JoniKauf"
+            ],
+            "prover": [
+                "JoniKauf"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://www.youtube.com/watch?v=RPyJewF1hBw"
+            ],
+            "tier": "Low Elite"
+        },
+        "tower triumph": {
+            "name": "Tower Triumph",
+            "type": [
+                "Vault"
+            ],
+            "diff": "Low Elite",
+            "location": [
+                "Sand Kingdom"
+            ],
+            "finder": [
+                "Tom"
+            ],
+            "prover": [
+                "Tom"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://www.youtube.com/watch?v=mLRkAYgBd9g"
+            ],
+            "tier": "Low Elite"
+        },
+        "cafe catapult": {
+            "name": "Cafe Catapult",
+            "type": [
+                "Triple"
+            ],
+            "diff": "High Elite",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "finder": [
+                "Emi"
+            ],
+            "prover": [
+                "Emi"
+            ],
+            "server": "SMO Trickjumping Server",
+            "links": [
+                "https://youtu.be/qmXjUBm0yms?si=f_wgB8P3YbfP9dDc"
+            ],
+            "tier": "High Elite"
+        }
+    },
+    "edit": {
+        "truer gothic suburbia": {
+            "name": "Truer Gothic Suburbia",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "lower colorful cactus": {
+            "name": "Lower Colorful Cactus",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "vegetable cross": {
+            "name": "Vegetable Cross",
+            "diff": "Mid Elite",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ],
+            "tier": "Mid Elite"
+        },
+        "little sheepy bonk": {
+            "name": "Little Sheepy Bonk",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "streetlight epidemic": {
+            "name": "Streetlight Epidemic",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "seedshell": {
+            "name": "SeedShell",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "rhythmic ascent": {
+            "name": "Rhythmic Ascent",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple",
+                "zg"
+            ]
+        },
+        "overshoot zg leap": {
+            "name": "Overshoot ZG Leap",
+            "extra": [
+                "If you collect the Rocket Flower after diving it still counts!"
+            ]
+        },
+        "true cloud overlook": {
+            "name": "True Cloud Overlook",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "taxi beans": {
+            "name": "Taxi Beans",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "shinglestalk": {
+            "name": "ShingleStalk",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "ladies' breakfast": {
+            "name": "Ladies' Breakfast",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "soup surge": {
+            "name": "Soup Surge",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "podoboo punishment": {
+            "name": "Podoboo Punishment",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "true moonicotti": {
+            "name": "True Moonicotti",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "true metro mard": {
+            "name": "True Metro Mard",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "lunar frost": {
+            "name": "Lunar Frost",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "lakitu's ledge": {
+            "name": "Lakitu's Ledge",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "moon collector": {
+            "name": "Moon Collector",
+            "server": "Database"
+        },
+        "neon heights": {
+            "name": "Neon Heights",
+            "server": "Database"
+        },
+        "overgrown overture": {
+            "name": "Overgrown Overture",
+            "server": "Database"
+        },
+        "rooftop gardener": {
+            "name": "Rooftop Gardener",
+            "server": "Database"
+        },
+        "stone strider": {
+            "name": "Stone Strider",
+            "server": "Database"
+        },
+        "vine venture": {
+            "name": "Vine Venture",
+            "server": "Database"
+        },
+        "truer meter madness": {
+            "name": "Truer Meter Madness",
+            "server": "Database"
+        },
+        "swallowed staircase": {
+            "name": "Swallowed Staircase",
+            "server": "Database"
+        },
+        "truest cascade mard": {
+            "name": "Truest Cascade Mard",
+            "server": "Database"
+        },
+        "mini metallic descent": {
+            "name": "Mini Metallic Descent",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true cheesy climb": {
+            "name": "True Cheesy Climb",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "construction catwalk": {
+            "name": "Construction Catwalk",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "amphibian abyss": {
+            "name": "Amphibian Abyss",
+            "extra": [
+                "You can remove the frogs by throwing them into the Abyss!"
+            ]
+        },
+        "bonking tops": {
+            "name": "Bonking Tops",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault",
+                "zg"
+            ]
+        },
+        "tranquil treetops": {
+            "name": "Tranquil Treetops",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "reverse true cheese cut": {
+            "name": "Reverse True Cheese Cut",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "true prehistoric pole": {
+            "name": "True Prehistoric Pole",
+            "diff": "Mid Elite",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ],
+            "tier": "Mid Elite"
+        },
+        "lefter bottom step": {
+            "name": "Lefter Bottom Step",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "truer cascade dram": {
+            "name": "Truer Cascade Dram",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "ultra silly gamer lost triple": {
+            "name": "Ultra Silly Gamer Lost Triple",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "spring party": {
+            "name": "Spring Party",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "pole prowess": {
+            "name": "Pole Prowess",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "final fossil": {
+            "name": "Final Fossil",
+            "diff": "High Elite",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ],
+            "tier": "High Elite"
+        },
+        "true night sky": {
+            "name": "True Night Sky",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "legend's lunch": {
+            "name": "Legend's Lunch",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "heated headache": {
+            "name": "Heated Headache",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "canine cruiser": {
+            "name": "Canine Cruiser",
+            "links": [
+                "https://youtu.be/0tQMum-vuxk?si=Tmg7TdgZBHxAE6rW"
+            ]
+        },
+        "vault lost legend": {
+            "name": "Vault Lost Legend",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true fencing flyer": {
+            "name": "True Fencing Flyer",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "overshoot bottom step": {
+            "name": "Overshoot Bottom Step",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "true wood vault assault": {
+            "name": "True Wood Vault Assault",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "steel storm": {
+            "name": "Steel Storm",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "hot cheetos": {
+            "name": "Hot Cheetos",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Vault"
+            ]
+        },
+        "prehistoric pipe": {
+            "name": "Prehistoric Pipe",
+            "server": "SMO Trickjumping Server",
+            "type": [
+                "Triple"
+            ]
+        },
+        "riveting ribcage": {
+            "name": "Riveting Ribcage",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "interstellar indication": {
+            "name": "Interstellar Indication",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "mummified beans": {
+            "name": "Mummified Beans",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "arena guard": {
+            "name": "Arena Guard",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "robotic vault assault": {
+            "name": "Robotic Vault Assault",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "spike driver": {
+            "name": "Spike Driver",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "true arena crossing": {
+            "name": "True Arena Crossing",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "true vault cascade mard": {
+            "name": "True Vault Cascade Mard",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "toad traversal": {
+            "name": "Toad Traversal",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "dimensional divide": {
+            "name": "Dimensional Divide",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "statue stepup": {
+            "name": "Statue Stepup",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "lower hurb jump": {
+            "name": "Lower Hurb Jump",
+            "diff": "9/10",
+            "tier": "Master"
+        }
+    },
+    "rem": [
+        "pscuber dram",
+        "nicole watterson",
+        "rooftop hop",
+        "hedge hopper 2.0",
+        "pyramid peril 2.0"
+    ]
+}

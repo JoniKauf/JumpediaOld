@@ -1,0 +1,27 @@
+{
+    "name": "t",
+    "hash": "5f2a54d1639f81b4358238f596fe626ac9a3d4a6015ca8c083550dae636706a736427e5846217c09d93392cc1b9b3c9f6755ea1168306c3b36079474511de8b9",
+    "created_at": "2023-09-14 16:17:27 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-14 16:17:44 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-14 16:17:27 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-14 16:17:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: truer bowser mard"
+        ],
+        [
+            "2023-09-14 16:17:39 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {},
+    "rem": [
+        "truer bowser mard"
+    ]
+}

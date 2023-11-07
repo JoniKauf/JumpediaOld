@@ -1,0 +1,46 @@
+{
+    "name": "a",
+    "hash": "5d39204574a7f2df05dadc0eb822cc96cff0dc813f2662ab25db96e4841703854e7566543ea99556d9ed8b8105e975b331417f71c7a35b4ffd7134f9e32ca6c5",
+    "created_at": "2023-11-03 06:54:52 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-03 06:57:13 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-03 06:54:52 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-03 06:55:21 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's removals -> Name: frosty thorns"
+        ],
+        [
+            "2023-11-03 06:55:45 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: icicle downbrining   Finder: ['Aqua']"
+        ],
+        [
+            "2023-11-03 06:56:52 (UTC)",
+            "'Rashed' (596684000148586497) lets batch information be forgotten -> Operation: edit   Name: icicle downbrining"
+        ],
+        [
+            "2023-11-03 06:57:04 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: icicle downbringing   Finder: ['Aqua']"
+        ],
+        [
+            "2023-11-03 06:57:08 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "icicle downbringing": {
+            "name": "icicle downbringing",
+            "finder": [
+                "Aqua"
+            ]
+        }
+    },
+    "rem": [
+        "frosty thorns"
+    ]
+}

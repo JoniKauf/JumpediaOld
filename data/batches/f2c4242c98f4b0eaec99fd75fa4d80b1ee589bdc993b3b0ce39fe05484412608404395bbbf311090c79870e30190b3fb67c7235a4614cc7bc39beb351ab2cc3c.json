@@ -1,0 +1,53 @@
+{
+    "name": "g",
+    "hash": "f2c4242c98f4b0eaec99fd75fa4d80b1ee589bdc993b3b0ce39fe05484412608404395bbbf311090c79870e30190b3fb67c7235a4614cc7bc39beb351ab2cc3c",
+    "created_at": "2023-09-14 16:53:38 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-14 16:54:27 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-14 16:53:38 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-14 16:54:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: I Don't Want Buy   Location: ['Wooded Kingdom']   Diff: 6.5/10   Tier: Advanced   Type: ['Triple']   Finder: ['Dmz']   Prover: ['Dmz']   Server: Database   Links: ['https://youtu.be/G-uV8-1lbQ8?si=HcUU4nyeQiJLI_hi']"
+        ],
+        [
+            "2023-09-14 16:54:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: idon't want buy"
+        ],
+        [
+            "2023-09-14 16:54:22 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "i don't want buy": {
+            "name": "I Don't Want Buy",
+            "diff": "6.5/10",
+            "server": "Database",
+            "location": [
+                "Wooded Kingdom"
+            ],
+            "type": [
+                "Triple"
+            ],
+            "finder": [
+                "Dmz"
+            ],
+            "prover": [
+                "Dmz"
+            ],
+            "links": [
+                "https://youtu.be/G-uV8-1lbQ8?si=HcUU4nyeQiJLI_hi"
+            ],
+            "tier": "Advanced"
+        }
+    },
+    "edit": {},
+    "rem": [
+        "idon't want buy"
+    ]
+}

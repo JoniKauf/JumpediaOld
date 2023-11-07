@@ -1,0 +1,32 @@
+{
+    "name": "thund",
+    "hash": "0793661b8e85077f788f2f5d121c29aaed9084158f34025250d2dae64ca550f287ddb70c9d56c4b263beb125771360c2a2c423844bf270b38ca18b3fbd79cd7b",
+    "created_at": "2023-07-09 20:23:35 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-09 20:24:08 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-09 20:23:35 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-09 20:23:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Thunderstruck Cityside   Links: ['https://www.youtube.com/watch?v=KXaG_SQ41w0']"
+        ],
+        [
+            "2023-07-09 20:24:02 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "thunderstruck cityside": {
+            "name": "Thunderstruck Cityside",
+            "links": [
+                "https://www.youtube.com/watch?v=KXaG_SQ41w0"
+            ]
+        }
+    },
+    "rem": []
+}

@@ -1,0 +1,32 @@
+{
+    "name": "y",
+    "hash": "053630e70d7fd03cf23be5d470656a49e3b76244bfa1e0461bc5434123e3ce86a6fe6e891985885e8aab3a821d474116f1c0066b1bcfdab960070c53756bc3e8",
+    "created_at": "2023-10-22 14:10:22 (UTC)",
+    "created_by": "'TheAmazingRaptor' (781772215380475914)",
+    "implemented_at": "2023-10-22 14:10:47 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-22 14:10:22 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) creates batch"
+        ],
+        [
+            "2023-10-22 14:10:37 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) adds jump under batch's edits -> Name: Klepto's Domain   Prover: ['JellyFish']"
+        ],
+        [
+            "2023-10-22 14:10:43 (UTC)",
+            "'TheAmazingRaptor' (781772215380475914) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "klepto's domain": {
+            "name": "Klepto's Domain",
+            "prover": [
+                "JellyFish"
+            ]
+        }
+    },
+    "rem": []
+}

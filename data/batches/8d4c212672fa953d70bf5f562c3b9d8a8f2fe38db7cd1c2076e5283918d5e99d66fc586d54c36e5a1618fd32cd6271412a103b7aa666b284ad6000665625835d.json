@@ -1,0 +1,35 @@
+{
+    "name": "a",
+    "hash": "8d4c212672fa953d70bf5f562c3b9d8a8f2fe38db7cd1c2076e5283918d5e99d66fc586d54c36e5a1618fd32cd6271412a103b7aa666b284ad6000665625835d",
+    "created_at": "2023-11-06 14:31:09 (UTC)",
+    "created_by": "'Rashed' (596684000148586497)",
+    "implemented_at": "2023-11-06 14:31:56 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-11-06 14:31:09 (UTC)",
+            "'Rashed' (596684000148586497) creates batch"
+        ],
+        [
+            "2023-11-06 14:31:31 (UTC)",
+            "'Rashed' (596684000148586497) adds jump under batch's edits -> Name: gatekeeper   Finder: ['Jario']   Prover: ['Jario']"
+        ],
+        [
+            "2023-11-06 14:31:51 (UTC)",
+            "'Rashed' (596684000148586497) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "gatekeeper": {
+            "name": "gatekeeper",
+            "finder": [
+                "Jario"
+            ],
+            "prover": [
+                "Jario"
+            ]
+        }
+    },
+    "rem": []
+}

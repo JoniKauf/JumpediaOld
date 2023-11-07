@@ -1,0 +1,37 @@
+{
+    "name": "swallow",
+    "hash": "9302a88cc56542ebeafa7da40e4aa27c35ecad9e79ee423c4efe3e6efbf6b94b18722aa6e20117378c5bedb059c18db73bb59a374b8b86e585c352f0b768a6a8",
+    "created_at": "2023-07-03 13:11:41 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-03 13:14:32 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-03 13:11:41 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-03 13:13:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: true swallowed staircase"
+        ],
+        [
+            "2023-07-03 13:14:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Panburger Partner   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-03 13:14:27 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "panburger partner": {
+            "name": "Panburger Partner",
+            "diff": "9/10",
+            "tier": "Master"
+        }
+    },
+    "rem": [
+        "true swallowed staircase"
+    ]
+}

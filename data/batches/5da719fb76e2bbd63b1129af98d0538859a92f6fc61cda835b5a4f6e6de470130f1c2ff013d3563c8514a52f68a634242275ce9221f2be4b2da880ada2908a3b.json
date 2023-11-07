@@ -1,0 +1,62 @@
+{
+    "name": "t",
+    "hash": "5da719fb76e2bbd63b1129af98d0538859a92f6fc61cda835b5a4f6e6de470130f1c2ff013d3563c8514a52f68a634242275ce9221f2be4b2da880ada2908a3b",
+    "created_at": "2023-10-31 16:11:30 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-10-31 16:17:04 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-10-31 16:11:30 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-10-31 16:15:40 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Toad Interspace   Finder: ['Eaglegamer']"
+        ],
+        [
+            "2023-10-31 16:15:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Spike Driver   Finder: ['Xeter']"
+        ],
+        [
+            "2023-10-31 16:16:19 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Gratifying Grate   Finder: ['Francis']"
+        ],
+        [
+            "2023-10-31 16:16:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Pepper Pillar   Type: ['Vault']"
+        ],
+        [
+            "2023-10-31 16:16:57 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "overshoot toad interspace": {
+            "name": "Overshoot Toad Interspace",
+            "finder": [
+                "Eaglegamer"
+            ]
+        },
+        "true spike driver": {
+            "name": "True Spike Driver",
+            "finder": [
+                "Xeter"
+            ]
+        },
+        "overshoot gratifying grate": {
+            "name": "Overshoot Gratifying Grate",
+            "finder": [
+                "Francis"
+            ]
+        },
+        "true pepper pillar": {
+            "name": "True Pepper Pillar",
+            "type": [
+                "Vault"
+            ]
+        }
+    },
+    "rem": []
+}

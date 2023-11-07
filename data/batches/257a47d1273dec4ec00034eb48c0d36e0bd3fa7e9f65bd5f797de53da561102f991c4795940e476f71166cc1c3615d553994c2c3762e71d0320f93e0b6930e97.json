@@ -1,0 +1,32 @@
+{
+    "name": "t",
+    "hash": "257a47d1273dec4ec00034eb48c0d36e0bd3fa7e9f65bd5f797de53da561102f991c4795940e476f71166cc1c3615d553994c2c3762e71d0320f93e0b6930e97",
+    "created_at": "2023-09-27 19:27:22 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-09-27 19:27:38 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-09-27 19:27:22 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-09-27 19:27:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Backflip Burden   Location: ['Ruined Kingdom']"
+        ],
+        [
+            "2023-09-27 19:27:33 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {},
+    "edit": {
+        "backflip burden": {
+            "name": "Backflip Burden",
+            "location": [
+                "Ruined Kingdom"
+            ]
+        }
+    },
+    "rem": []
+}

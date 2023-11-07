@@ -1,0 +1,866 @@
+{
+    "name": "edit",
+    "hash": "3e62da1b6dbd4b53df855ed66d9dc66e1f19b55d207ebe36f973b78269ed1f8e91d1e18104bf4b29dfeae51660f43fd56891af49c23be07eb35ed0cf694a6328",
+    "created_at": "2023-07-08 22:13:55 (UTC)",
+    "created_by": "'Gummy' (503581251198779392)",
+    "implemented_at": "2023-07-08 22:58:16 (UTC)",
+    "status": "implemented",
+    "log": [
+        [
+            "2023-07-08 22:13:55 (UTC)",
+            "'Gummy' (503581251198779392) creates batch"
+        ],
+        [
+            "2023-07-08 22:14:22 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sheepy Overpass   Diff: 7/10   Tier: Expert"
+        ],
+        [
+            "2023-07-08 22:14:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bowser's Big Bean Burrito   Diff: 0/10   Tier: Practice Tier"
+        ],
+        [
+            "2023-07-08 22:15:22 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: lever elevator   Diff: 0/10   Tier: Practice Tier"
+        ],
+        [
+            "2023-07-08 22:15:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Rocket Ledge   Diff: 0/10   Tier: Practice Tier"
+        ],
+        [
+            "2023-07-08 22:16:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Over the Hedge   Diff: 2/10   Tier: Beginner"
+        ],
+        [
+            "2023-07-08 22:17:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Galactic Momentum   Diff: 3.5/10   Tier: Intermediate"
+        ],
+        [
+            "2023-07-08 22:17:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Solar Flakes   Diff: 4/10   Tier: Intermediate"
+        ],
+        [
+            "2023-07-08 22:17:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Heated Hatred   Diff: 7/10   Tier: Expert"
+        ],
+        [
+            "2023-07-08 22:17:47 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Grey Beenz   Diff: 7/10   Tier: Expert"
+        ],
+        [
+            "2023-07-08 22:18:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Tilted Pegs   Diff: 8/10   Tier: Expert"
+        ],
+        [
+            "2023-07-08 22:18:14 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: S   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:18:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Seaside Mard 2.0   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:18:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Moon Masochist   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:19:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Mario the Rizzler   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:19:53 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lantern's Banner   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:20:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Water Evader   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:20:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bubble Bounce   Diff: 9/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:20:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Boswer Mard   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:20:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Street Swiper   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:22:06 (UTC)",
+            "'Gummy' (503581251198779392) lets batch information be forgotten -> Operation: edit   Name: true boswer mard"
+        ],
+        [
+            "2023-07-08 22:22:22 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Bowser Mard   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:24:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Yippee   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:25:01 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Cascade Dram   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:25:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hot Step   Diff: 9.5/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:25:19 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Master Lamp   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:25:32 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hot Spring Evader   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:25:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Blue Winds   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:25:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Diagonal Dashing   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:26:15 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Water Tower Smasher   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:28:28 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Fencing Flyer   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:28:40 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: YOINK!   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:28:52 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lava Pegs   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:29:03 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Metro Barrel Roll   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:29:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Many Bobux   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:29:55 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bottom Step   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:30:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bridge Skipper   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:30:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Golden Spikes   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:30:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Bush Shaker   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:30:47 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vexatious Vegetation   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:31:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Arena Arrival   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:32:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Diagonal Dashing 2.0   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:32:26 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Reverse Construction Skip   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:32:42 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Lady Evader   Diff: 10/10   Tier: Master"
+        ],
+        [
+            "2023-07-08 22:32:54 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Hat Beans   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:33:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Spike Evader   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:33:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: It's Called VCR For A Reason   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:33:30 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Ethnic Climb   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:33:40 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Blocky Beenz   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:33:48 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Ruined Ruins   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:34:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Sombrero Sojourn   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:34:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Storage Stacker   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:34:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Conical Mind   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:34:37 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Bottom Step   Diff: Low Elite   Tier: Low Elite"
+        ],
+        [
+            "2023-07-08 22:36:45 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: RCrossing   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:37:06 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Diagonal Descent   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:37:13 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Dragonborn   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:37:43 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Scope Hunter   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:37:50 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Final Fossil   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:38:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Eyeball Exasperation   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:38:34 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: 2D Canyon   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:38:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Zombie Cage   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:39:05 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cage Crevasse   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:39:23 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cliffs and Cheese   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:40:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Talkatunes   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:40:25 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Metro Actually Impossible   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:41:02 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Traffic Evader   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:41:08 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Shady Dealer   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:41:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault 64 Beans   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:41:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Cheese Islands   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:41:59 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Vacation Seeker   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:42:10 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Spinless Boundaries   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:42:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vault Arena Crossing   Diff: Mid Elite   Tier: Mid Elite"
+        ],
+        [
+            "2023-07-08 22:43:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: B Ring   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:46:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hedgehog   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:46:31 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Bubble Chaser   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:47:21 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Vegetable Cross   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:47:33 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Overshoot Arena Detour   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:47:49 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Top Step 3.0   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:48:20 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: True Dragon Ascent   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:48:29 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Infinity Pillars   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:48:47 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Little Lunar Luigi   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:48:58 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Shrubland gardens   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:49:07 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Metal Climber   Diff: High Elite   Tier: High Elite"
+        ],
+        [
+            "2023-07-08 22:49:18 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Hammer Swing   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-08 22:49:35 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: Truer Treasure Hunter   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-08 22:49:46 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's edits -> Name: DAWG jump 2.0   Diff: Insanity Elite   Tier: Insanity Elite"
+        ],
+        [
+            "2023-07-08 22:51:09 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: heart collector"
+        ],
+        [
+            "2023-07-08 22:52:17 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Loraiok My Pet   Location: ['Lake Kingdom']   Diff: 6/10   Tier: Advanced   Finder: ['JoniKauf']   Prover: ['JoniKauf']   Server: Database   Links: ['https://www.youtube.com/watch?v=ZjC2HyohWHY']"
+        ],
+        [
+            "2023-07-08 22:52:56 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: volley smasher"
+        ],
+        [
+            "2023-07-08 22:53:51 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: Volley Splasher   Location: ['Seaside Kingdom']   Diff: Mid Elite   Tier: Mid Elite   Prover: ['MaxThePro545']   Server: Database   Links: ['https://www.youtube.com/watch?v=wXjam1NVID0']"
+        ],
+        [
+            "2023-07-08 22:54:57 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's removals -> Name: billboard lights 2.0"
+        ],
+        [
+            "2023-07-08 22:56:12 (UTC)",
+            "'Gummy' (503581251198779392) adds jump under batch's additions -> Name: True War Lights   Location: ['Metro Kingdom']   Diff: God Tier   Tier: God Tier   Finder: ['JoniKauf']   Prover: ['JoniKauf']   Server: Database   Links: ['https://www.youtube.com/watch?v=TK9RYANYBLU']"
+        ],
+        [
+            "2023-07-08 22:58:08 (UTC)",
+            "'Gummy' (503581251198779392) sets status to 'finished'"
+        ]
+    ],
+    "add": {
+        "loraiok my pet": {
+            "name": "Loraiok My Pet",
+            "location": [
+                "Lake Kingdom"
+            ],
+            "diff": "6/10",
+            "finder": [
+                "JoniKauf"
+            ],
+            "prover": [
+                "JoniKauf"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=ZjC2HyohWHY"
+            ],
+            "tier": "Advanced"
+        },
+        "volley splasher": {
+            "name": "Volley Splasher",
+            "location": [
+                "Seaside Kingdom"
+            ],
+            "diff": "Mid Elite",
+            "prover": [
+                "MaxThePro545"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=wXjam1NVID0"
+            ],
+            "tier": "Mid Elite"
+        },
+        "true war lights": {
+            "name": "True War Lights",
+            "location": [
+                "Metro Kingdom"
+            ],
+            "diff": "God Tier",
+            "finder": [
+                "JoniKauf"
+            ],
+            "prover": [
+                "JoniKauf"
+            ],
+            "server": "Database",
+            "links": [
+                "https://www.youtube.com/watch?v=TK9RYANYBLU"
+            ],
+            "tier": "God Tier"
+        }
+    },
+    "edit": {
+        "sheepy overpass": {
+            "name": "Sheepy Overpass",
+            "diff": "7/10",
+            "tier": "Expert"
+        },
+        "bowser's big bean burrito": {
+            "name": "Bowser's Big Bean Burrito",
+            "diff": "0/10",
+            "tier": "Practice Tier"
+        },
+        "lever elevator": {
+            "name": "lever elevator",
+            "diff": "0/10",
+            "tier": "Practice Tier"
+        },
+        "rocket ledge": {
+            "name": "Rocket Ledge",
+            "diff": "0/10",
+            "tier": "Practice Tier"
+        },
+        "over the hedge": {
+            "name": "Over the Hedge",
+            "diff": "2/10",
+            "tier": "Beginner"
+        },
+        "galactic momentum": {
+            "name": "Galactic Momentum",
+            "diff": "3.5/10",
+            "tier": "Intermediate"
+        },
+        "solar flakes": {
+            "name": "Solar Flakes",
+            "diff": "4/10",
+            "tier": "Intermediate"
+        },
+        "heated hatred": {
+            "name": "Heated Hatred",
+            "diff": "7/10",
+            "tier": "Expert"
+        },
+        "grey beenz": {
+            "name": "Grey Beenz",
+            "diff": "7/10",
+            "tier": "Expert"
+        },
+        "tilted pegs": {
+            "name": "Tilted Pegs",
+            "diff": "8/10",
+            "tier": "Expert"
+        },
+        "s": {
+            "name": "S",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "vault seaside mard 2.0": {
+            "name": "Vault Seaside Mard 2.0",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "moon masochist": {
+            "name": "Moon Masochist",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "mario the rizzler": {
+            "name": "Mario the Rizzler",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "lantern's banner": {
+            "name": "Lantern's Banner",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "water evader": {
+            "name": "Water Evader",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "bubble bounce": {
+            "name": "Bubble Bounce",
+            "diff": "9/10",
+            "tier": "Master"
+        },
+        "street swiper": {
+            "name": "Street Swiper",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "true bowser mard": {
+            "name": "True Bowser Mard",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "yippee": {
+            "name": "Yippee",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "true cascade dram": {
+            "name": "True Cascade Dram",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "hot step": {
+            "name": "Hot Step",
+            "diff": "9.5/10",
+            "tier": "Master"
+        },
+        "master lamp": {
+            "name": "Master Lamp",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "hot spring evader": {
+            "name": "Hot Spring Evader",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "blue winds": {
+            "name": "Blue Winds",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "diagonal dashing": {
+            "name": "Diagonal Dashing",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "water tower smasher": {
+            "name": "Water Tower Smasher",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "fencing flyer": {
+            "name": "Fencing Flyer",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "yoink!": {
+            "name": "YOINK!",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "lava pegs": {
+            "name": "Lava Pegs",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "metro barrel roll": {
+            "name": "Metro Barrel Roll",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "many bobux": {
+            "name": "Many Bobux",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "bottom step": {
+            "name": "Bottom Step",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "bridge skipper": {
+            "name": "Bridge Skipper",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "golden spikes": {
+            "name": "Golden Spikes",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "bush shaker": {
+            "name": "Bush Shaker",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "vexatious vegetation": {
+            "name": "Vexatious Vegetation",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "arena arrival": {
+            "name": "Arena Arrival",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "diagonal dashing 2.0": {
+            "name": "Diagonal Dashing 2.0",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "reverse construction skip": {
+            "name": "Reverse Construction Skip",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "lady evader": {
+            "name": "Lady Evader",
+            "diff": "10/10",
+            "tier": "Master"
+        },
+        "overshoot hat beans": {
+            "name": "Overshoot Hat Beans",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "spike evader": {
+            "name": "Spike Evader",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "it's called vcr for a reason": {
+            "name": "It's Called VCR For A Reason",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "ethnic climb": {
+            "name": "Ethnic Climb",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "blocky beenz": {
+            "name": "Blocky Beenz",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "ruined ruins": {
+            "name": "Ruined Ruins",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "sombrero sojourn": {
+            "name": "Sombrero Sojourn",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "storage stacker": {
+            "name": "Storage Stacker",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "conical mind": {
+            "name": "Conical Mind",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "true bottom step": {
+            "name": "True Bottom Step",
+            "diff": "Low Elite",
+            "tier": "Low Elite"
+        },
+        "rcrossing": {
+            "name": "RCrossing",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "diagonal descent": {
+            "name": "Diagonal Descent",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "dragonborn": {
+            "name": "Dragonborn",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "scope hunter": {
+            "name": "Scope Hunter",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "final fossil": {
+            "name": "Final Fossil",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "truer eyeball exasperation": {
+            "name": "Truer Eyeball Exasperation",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "2d canyon": {
+            "name": "2D Canyon",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "true zombie cage": {
+            "name": "True Zombie Cage",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "cage crevasse": {
+            "name": "Cage Crevasse",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "cliffs and cheese": {
+            "name": "Cliffs and Cheese",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "talkatunes": {
+            "name": "Talkatunes",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "metro actually impossible": {
+            "name": "Metro Actually Impossible",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "traffic evader": {
+            "name": "Traffic Evader",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "shady dealer": {
+            "name": "Shady Dealer",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "vault 64 beans": {
+            "name": "Vault 64 Beans",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "cheese islands": {
+            "name": "Cheese Islands",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "true vacation seeker": {
+            "name": "True Vacation Seeker",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "spinless boundaries": {
+            "name": "Spinless Boundaries",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "vault arena crossing": {
+            "name": "Vault Arena Crossing",
+            "diff": "Mid Elite",
+            "tier": "Mid Elite"
+        },
+        "b ring": {
+            "name": "B Ring",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "hedgehog": {
+            "name": "Hedgehog",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "true bubble chaser": {
+            "name": "True Bubble Chaser",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "vegetable cross": {
+            "name": "Vegetable Cross",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "overshoot arena detour": {
+            "name": "Overshoot Arena Detour",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "top step 3.0": {
+            "name": "Top Step 3.0",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "true dragon ascent": {
+            "name": "True Dragon Ascent",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "infinity pillars": {
+            "name": "Infinity Pillars",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "little lunar luigi": {
+            "name": "Little Lunar Luigi",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "shrubland gardens": {
+            "name": "Shrubland gardens",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "metal climber": {
+            "name": "Metal Climber",
+            "diff": "High Elite",
+            "tier": "High Elite"
+        },
+        "hammer swing": {
+            "name": "Hammer Swing",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "truer treasure hunter": {
+            "name": "Truer Treasure Hunter",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        },
+        "dawg jump 2.0": {
+            "name": "DAWG jump 2.0",
+            "diff": "Insanity Elite",
+            "tier": "Insanity Elite"
+        }
+    },
+    "rem": [
+        "heart collector",
+        "volley smasher",
+        "billboard lights 2.0"
+    ]
+}
