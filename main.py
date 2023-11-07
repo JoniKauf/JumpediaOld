@@ -10,7 +10,7 @@ from discord import app_commands
 from io import TextIOWrapper
 import logging
 
-DEVELOPMENT_MODE = True
+DEVELOPMENT_MODE = False
 DEVELOPMENT_CHANNEL_IDS = 1063371102547607552, 1161991190779011102
 
 TOKEN = secret.get_key("DISCORD_TOKEN")
