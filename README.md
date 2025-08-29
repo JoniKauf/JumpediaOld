@@ -1,5 +1,5 @@
 # About Jumpedia 2.0
-Jumpedia 2.0 (or however it will be called afterwards) is currently in development and will hopefully release before the end of 2026.
+Jumpedia 2.0 (or however it will be called afterwards) is currently in development and will hopefully release before the end of 2025.
 This version of Jumpedia (JumpediaOld) is the one currently active.
 I first really started learning Python by writing the code for this bot, therefore the quality is very poor. Please don't use JumpediaOld as an example of writing good Python code!
 
