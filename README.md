@@ -2,7 +2,7 @@
 Jumpedia 2.0 is out since February 1st 2026!
 This project is therefore finished and discontinued.
 
-To Jumpedia 2.0: https://github.com/Jumpedia
+To Jumpedia 2.0: https://docs.jumpedia.dev
 
 # Jumpedia
 Jumpedia is a discord bot developed for the Super Mario Odyssey Trickjumping Community. It allows you, the user, to get any information about any trickjumps in its database, select jumps you have completed and set proof for them, rate jumps based on their quality & difficulty and much more. 
